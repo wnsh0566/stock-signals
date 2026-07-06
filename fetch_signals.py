@@ -4,11 +4,14 @@
 우리 풀 전 종목의 종가·5/20/50/200일선을 야후 파이낸스에서 계산해 signals_data.md 생성.
 판정(🟢🟡🔴)은 참고용 1차 계산 — 최종 판정은 체크리스트 2절/8절 로직으로 사람이 확정.
 """
+import json
+import os
 import yfinance as yf
 from datetime import datetime, timezone, timedelta
 
-# ── 우리 풀 (체크리스트 7절 기준 · 2026-07 현재) ──────────────────
-TICKERS = {
+# ── 우리 풀 — tickers.json이 있으면 그걸 사용(권장), 없으면 아래 내장 목록 ──
+# 풀 변경(체크리스트 7절 개정) 시 tickers.json만 수정하면 됨. 코드는 안 건드림.
+FALLBACK_TICKERS = {
     "지수": {
         "^KS11": "KOSPI", "^GSPC": "S&P500", "^IXIC": "나스닥", "^SOX": "SOX반도체",
     },
@@ -34,6 +37,19 @@ TICKERS = {
         "BWXT": "BWXT", "VST": "Vistra", "CCJ": "Cameco", "CEG": "Constellation",
     },
 }
+
+def load_tickers():
+    """tickers.json 우선, 없거나 깨졌으면 내장 목록으로 폴백(파이프라인 사망 방지)."""
+    if os.path.exists("tickers.json"):
+        try:
+            with open("tickers.json", encoding="utf-8") as f:
+                return json.load(f), "tickers.json"
+        except Exception as e:
+            print(f"tickers.json 파싱 실패({e}) → 내장 목록 사용")
+    return FALLBACK_TICKERS, "내장 목록(폴백)"
+
+
+TICKERS, TICKER_SOURCE = load_tickers()
 
 KST = timezone(timedelta(hours=9))
 
@@ -77,7 +93,7 @@ def main():
     lines = [
         f"# 📡 신호 데이터 (자동 수집)",
         f"",
-        f"> 생성: {now} · 소스: Yahoo Finance 확정 종가(auto-adjust) · 이평: 단순 SMA",
+        f"> 생성: {now} · 소스: Yahoo Finance 확정 종가(auto-adjust) · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
         f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 데이터 날짜가 오늘이 아니면 휴장/지연.",
         f"",
     ]
