@@ -1,0 +1,36 @@
+# GitHub Actions 워크플로 — repo에서는 .github/workflows/signals.yml 경로에 저장할 것
+name: fetch-signals
+
+on:
+  schedule:
+    # UTC 기준. KST = UTC+9
+    - cron: "30 21 * * 1-5"   # UTC 21:30 = KST 06:30 (화~토 아침 → 미국 전일 종가 확정 후)
+    - cron: "40 7 * * 1-5"    # UTC 07:40 = KST 16:40 (월~금 → 한국 15:30 마감 확정 후)
+  workflow_dispatch: {}        # 수동 실행 버튼 (테스트용)
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install yfinance
+
+      - name: Fetch signals
+        run: python fetch_signals.py
+
+      - name: Commit result
+        run: |
+          git config user.name "signals-bot"
+          git config user.email "actions@github.com"
+          git add signals_data.md
+          git diff --cached --quiet || git commit -m "signals: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
