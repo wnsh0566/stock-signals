@@ -1,12 +1,16 @@
 # GitHub Actions 워크플로 — repo에서는 .github/workflows/signals.yml 경로에 저장할 것
+# 미국 서머타임(DST) 자동 분기: 아침 수집용 cron을 2개 걸고, 잡 안에서 뉴욕이 EDT/EST인지
+# 판별해 맞는 쪽만 실행. (미장 마감 16:00 ET = 여름 20:00 UTC / 겨울 21:00 UTC)
 name: fetch-signals
 
 on:
   schedule:
-    # UTC 기준. KST = UTC+9
-    - cron: "30 21 * * 1-5"   # UTC 21:30 = KST 06:30 (화~토 아침 → 미국 전일 종가 확정 후)
-    - cron: "40 7 * * 1-5"    # UTC 07:40 = KST 16:40 (월~금 → 한국 15:30 마감 확정 후)
-  workflow_dispatch: {}        # 수동 실행 버튼 (테스트용)
+    # ── 아침(미국 확정 종가) — 마감 +90분 버퍼 ──
+    - cron: "30 21 * * 1-5"   # 여름(EDT)용: UTC 21:30 = KST 06:30
+    - cron: "30 22 * * 1-5"   # 겨울(EST)용: UTC 22:30 = KST 07:30
+    # ── 저녁(한국 확정 종가) — 한국은 서머타임 없음, 고정 ──
+    - cron: "40 7 * * 1-5"    # UTC 07:40 = KST 16:40
+  workflow_dispatch: {}        # 수동 실행(테스트) — 항상 실행됨
 
 permissions:
   contents: write
@@ -15,19 +19,40 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
+      - name: DST gate (미국 서머타임 자동 분기)
+        id: gate
+        run: |
+          # 뉴욕 현재 시간대 약어: 여름=EDT, 겨울=EST
+          NY_TZ=$(TZ=America/New_York date +%Z)
+          SCHED="${{ github.event.schedule }}"
+          echo "NY=$NY_TZ / trigger=[$SCHED]"
+          RUN=false
+          if [ -z "$SCHED" ]; then                       RUN=true   # 수동 실행
+          elif [ "$SCHED" = "40 7 * * 1-5" ]; then       RUN=true   # 한국 저녁(고정)
+          elif [ "$SCHED" = "30 21 * * 1-5" ] && [ "$NY_TZ" = "EDT" ]; then RUN=true  # 여름 아침
+          elif [ "$SCHED" = "30 22 * * 1-5" ] && [ "$NY_TZ" = "EST" ]; then RUN=true  # 겨울 아침
+          fi
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
+          [ "$RUN" = "false" ] && echo "→ 계절에 안 맞는 트리거, 스킵" || true
+
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
 
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
 
       - name: Install deps
+        if: steps.gate.outputs.run == 'true'
         run: pip install yfinance
 
       - name: Fetch signals
+        if: steps.gate.outputs.run == 'true'
         run: python fetch_signals.py
 
       - name: Commit result
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "signals-bot"
           git config user.email "actions@github.com"
