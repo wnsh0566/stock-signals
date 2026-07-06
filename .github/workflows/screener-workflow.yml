@@ -1,0 +1,34 @@
+# 주간 후보 스캐너 — repo에서는 .github/workflows/screener.yml 경로에 저장할 것
+name: weekly-screener
+
+on:
+  schedule:
+    - cron: "0 22 * * 6"   # UTC 토 22:00 = KST 일요일 07:00 (일요일 저녁 재스크리닝용 데이터 준비)
+  workflow_dispatch: {}     # 수동 실행 버튼 (테스트용)
+
+permissions:
+  contents: write
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install yfinance pandas lxml
+
+      - name: Run screener
+        run: python screen_candidates.py
+
+      - name: Commit result
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "actions@github.com"
+          git add candidates.md
+          git diff --cached --quiet || git commit -m "candidates: $(date -u +'%Y-%m-%d')"
+          git push
