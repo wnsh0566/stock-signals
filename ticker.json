@@ -1,0 +1,54 @@
+{
+  "지수": {
+    "^KS11": "KOSPI",
+    "^GSPC": "S&P500",
+    "^IXIC": "나스닥",
+    "^SOX": "SOX반도체"
+  },
+  "🇰🇷 코어 금융": {
+    "003690.KS": "코리안리",
+    "055550.KS": "신한지주",
+    "086790.KS": "하나금융",
+    "105560.KS": "KB금융",
+    "138930.KS": "BNK금융",
+    "005830.KS": "DB손해보험"
+  },
+  "🇰🇷 위성": {
+    "005930.KS": "삼성전자",
+    "000660.KS": "SK하이닉스",
+    "329180.KS": "HD현대중공업",
+    "009540.KS": "HD한국조선해양",
+    "298040.KS": "효성중공업",
+    "010120.KS": "LS ELECTRIC",
+    "034020.KS": "두산에너빌리티",
+    "064350.KS": "현대로템",
+    "079550.KS": "LIG넥스원"
+  },
+  "🇺🇸 코어": {
+    "V": "Visa",
+    "JNJ": "J&J",
+    "TXN": "TI",
+    "NXPI": "NXP",
+    "GOOGL": "Alphabet",
+    "CSCO": "Cisco"
+  },
+  "🇺🇸 위성": {
+    "NVDA": "Nvidia",
+    "AVGO": "Broadcom",
+    "QCOM": "Qualcomm",
+    "KLAC": "KLA",
+    "AMAT": "AppliedMat",
+    "GEV": "GE Vernova",
+    "GE": "GE Aero",
+    "HWM": "Howmet",
+    "VRT": "Vertiv",
+    "ETN": "Eaton",
+    "PWR": "Quanta",
+    "TLN": "Talen",
+    "POWL": "Powell",
+    "BWXT": "BWXT",
+    "VST": "Vistra",
+    "CCJ": "Cameco",
+    "CEG": "Constellation"
+  }
+}
