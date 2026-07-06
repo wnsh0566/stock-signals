@@ -28,7 +28,7 @@ TICKERS = {
     },
     "🇺🇸 위성": {
         "NVDA": "Nvidia", "AVGO": "Broadcom", "QCOM": "Qualcomm",
-        "KLA": "KLA", "AMAT": "AppliedMat",
+        "KLAC": "KLAC", "AMAT": "AppliedMat",
         "GEV": "GE Vernova", "GE": "GE Aero", "HWM": "Howmet", "VRT": "Vertiv",
         "ETN": "Eaton", "PWR": "Quanta", "TLN": "Talen", "POWL": "Powell",
         "BWXT": "BWXT", "VST": "Vistra", "CCJ": "Cameco", "CEG": "Constellation",
