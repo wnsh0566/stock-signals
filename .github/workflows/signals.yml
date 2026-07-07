@@ -9,7 +9,10 @@ on:
     - cron: "30 21 * * 1-5"   # 여름(EDT)용: UTC 21:30 = KST 06:30
     - cron: "30 22 * * 1-5"   # 겨울(EST)용: UTC 22:30 = KST 07:30
     # ── 저녁(한국 확정 종가) — 한국은 서머타임 없음, 고정 ──
-    - cron: "40 7 * * 1-5"    # UTC 07:40 = KST 16:40
+    # GitHub 스케줄은 지연/드롭이 잦아서 백업 크론을 하나 더 걸어둠.
+    # 1차가 정상 커밋됐으면 2차는 diff 없음 → 커밋 없이 종료되므로 중복 무해.
+    - cron: "40 7 * * 1-5"    # UTC 07:40 = KST 16:40 (1차)
+    - cron: "40 8 * * 1-5"    # UTC 08:40 = KST 17:40 (백업)
   workflow_dispatch: {}        # 수동 실행(테스트) — 항상 실행됨
 
 permissions:
@@ -27,11 +30,12 @@ jobs:
           SCHED="${{ github.event.schedule }}"
           echo "NY=$NY_TZ / trigger=[$SCHED]"
           RUN=false
-          if [ -z "$SCHED" ]; then                       RUN=true   # 수동 실행
-          elif [ "$SCHED" = "40 7 * * 1-5" ]; then       RUN=true   # 한국 저녁(고정)
-          elif [ "$SCHED" = "30 21 * * 1-5" ] && [ "$NY_TZ" = "EDT" ]; then RUN=true  # 여름 아침
-          elif [ "$SCHED" = "30 22 * * 1-5" ] && [ "$NY_TZ" = "EST" ]; then RUN=true  # 겨울 아침
-          fi
+          case "$SCHED" in
+            "")                RUN=true ;;                              # 수동 실행
+            "40 7 "*|"40 8 "*) RUN=true ;;                              # 한국 저녁(1차+백업)
+            "30 21 "*)         [ "$NY_TZ" = "EDT" ] && RUN=true || true ;;  # 여름 아침
+            "30 22 "*)         [ "$NY_TZ" = "EST" ] && RUN=true || true ;;  # 겨울 아침
+          esac
           echo "run=$RUN" >> "$GITHUB_OUTPUT"
           [ "$RUN" = "false" ] && echo "→ 계절에 안 맞는 트리거, 스킵" || true
 
