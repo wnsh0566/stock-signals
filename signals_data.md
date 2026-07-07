@@ -1,6 +1,6 @@
 # 📡 신호 데이터 (자동 수집)
 
-> 생성: 2026-07-07 19:40 KST · 소스: Yahoo Finance 확정 종가(auto-adjust) · 이평: 단순 SMA · 종목목록: tickers.json
+> 생성: 2026-07-07 20:29 KST · 소스: Yahoo Finance 확정 종가(auto-adjust) · 이평: 단순 SMA · 종목목록: tickers.json
 > ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 데이터 날짜가 오늘이 아니면 휴장/지연.
 
 ## 지수
