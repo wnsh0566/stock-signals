@@ -78,6 +78,7 @@ def analyze(ticker: str):
             "date": h.index[-1].strftime("%m-%d"),
             "close": last, "chg": (last / prev - 1) * 100,
             "above50": above50, "above200": (last / ma200 - 1) * 100,
+            "drawdown": (last / c.max() - 1) * 100,  # 1년 고점(종가) 대비
             "cross": cross, "sig": sig,
         }
     except Exception:
@@ -90,27 +91,59 @@ def fmt_price(v: float) -> str:
 
 def main():
     now = datetime.now(KST).strftime("%Y-%m-%d %H:%M KST")
+
+    # 전 종목 선계산 (breadth 집계 위해)
+    groups = []
+    for group, tickers in TICKERS.items():
+        rows = [(name, tk, analyze(tk)) for tk, name in tickers.items()]
+        groups.append((group, rows))
+
+    # breadth 집계 — 개별 종목만(지수 그룹 제외)
+    def breadth(rows):
+        ok = [r for _, _, r in rows if r]
+        n = len(ok)
+        if n == 0:
+            return None
+        a50 = sum(1 for r in ok if r["above50"] > 0)
+        up = sum(1 for r in ok if r["cross"] == "5>20")
+        return n, a50, up
+
+    stock_rows = [row for g, rows in groups if "지수" not in g for row in rows]
+    total = breadth(stock_rows)
+
     lines = [
         f"# 📡 신호 데이터 (자동 수집)",
         f"",
         f"> 생성: {now} · 소스: Yahoo Finance 확정 종가(auto-adjust) · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
         f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 데이터 날짜가 오늘이 아니면 휴장/지연.",
-        f"",
     ]
-    for group, tickers in TICKERS.items():
+    if total:
+        n, a50, up = total
+        lines.append(
+            f"> 📊 **전체 breadth(지수 제외):** 50선 위 {a50}/{n}({a50 / n * 100:.0f}%) "
+            f"· 5>20 {up}/{n}({up / n * 100:.0f}%) — 바닥 감시: 20%↓ 투매권, 50%↑ 회복(thrust)"
+        )
+    lines.append("")
+
+    for group, rows in groups:
         lines.append(f"## {group}")
-        lines.append("| 종목 | 날짜 | 종가 | 등락 | vs50선 | vs200선 | 5/20 | 참고판정 |")
-        lines.append("|------|:--:|--:|--:|--:|--:|:--:|:--:|")
-        for tk, name in tickers.items():
-            r = analyze(tk)
+        lines.append("| 종목 | 날짜 | 종가 | 등락 | vs50선 | vs200선 | 고점대비 | 5/20 | 참고판정 |")
+        lines.append("|------|:--:|--:|--:|--:|--:|--:|:--:|:--:|")
+        for name, tk, r in rows:
             if r is None:
-                lines.append(f"| {name} ({tk}) | — | 데이터 실패 | | | | | ⚠️ |")
+                lines.append(f"| {name} ({tk}) | — | 데이터 실패 | | | | | | ⚠️ |")
                 continue
             lines.append(
                 f"| {name} | {r['date']} | {fmt_price(r['close'])} | {r['chg']:+.2f}% "
-                f"| {r['above50']:+.1f}% | {r['above200']:+.1f}% | {r['cross']} | {r['sig']} |"
+                f"| {r['above50']:+.1f}% | {r['above200']:+.1f}% | {r['drawdown']:+.1f}% "
+                f"| {r['cross']} | {r['sig']} |"
             )
+        b = breadth(rows)
+        if b and "지수" not in group:
+            n, a50, up = b
+            lines.append(f"> breadth: 50선 위 {a50}/{n} · 5>20 {up}/{n}")
         lines.append("")
+
     with open("signals_data.md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     print("signals_data.md written.")
