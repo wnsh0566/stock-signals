@@ -76,6 +76,7 @@ def analyze(ticker: str):
             sig = "🔴"
         return {
             "date": h.index[-1].strftime("%m-%d"),
+            "iso": h.index[-1].strftime("%Y-%m-%d"),  # stale 판정용(표시 안 함)
             "close": last, "chg": (last / prev - 1) * 100,
             "above50": above50, "above200": (last / ma200 - 1) * 100,
             "drawdown": (last / c.max() - 1) * 100,  # 1년 고점(종가) 대비
@@ -111,11 +112,32 @@ def main():
     stock_rows = [row for g, rows in groups if "지수" not in g for row in rows]
     total = breadth(stock_rows)
 
+    # stale 감지 — 같은 시장(KR/US)의 최신 종가일보다 오래된 행에 ⚠️ (KOSPI 아침 지연 실증 대응)
+    def market(tk):
+        if tk.endswith(".KS") or tk == "^KS11":
+            return "KR"
+        if tk == "KRW=X":
+            return None  # FX는 24시간 시장 — 제외
+        return "US"
+
+    latest = {}
+    for _, rows in groups:
+        for _, tk, r in rows:
+            m = market(tk)
+            if r and m:
+                latest[m] = max(latest.get(m, ""), r["iso"])
+
+    def date_label(tk, r):
+        m = market(tk)
+        if m and r["iso"] < latest.get(m, r["iso"]):
+            return f"{r['date']}⚠️"
+        return r["date"]
+
     lines = [
         f"# 📡 신호 데이터 (자동 수집)",
         f"",
         f"> 생성: {now} · 소스: Yahoo Finance 확정 종가(auto-adjust) · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
-        f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 데이터 날짜가 오늘이 아니면 휴장/지연.",
+        f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 날짜 옆 ⚠️ = 같은 시장 최신 종가보다 오래된 데이터(수집 지연·stale) — 직전 수집분과 교차 확인할 것.",
     ]
     if total:
         n, a50, up = total
@@ -134,7 +156,7 @@ def main():
                 lines.append(f"| {name} ({tk}) | — | 데이터 실패 | | | | | | ⚠️ |")
                 continue
             lines.append(
-                f"| {name} | {r['date']} | {fmt_price(r['close'])} | {r['chg']:+.2f}% "
+                f"| {name} | {date_label(tk, r)} | {fmt_price(r['close'])} | {r['chg']:+.2f}% "
                 f"| {r['above50']:+.1f}% | {r['above200']:+.1f}% | {r['drawdown']:+.1f}% "
                 f"| {r['cross']} | {r['sig']} |"
             )
