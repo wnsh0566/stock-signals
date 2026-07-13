@@ -58,9 +58,9 @@ def analyze(ticker: str):
     """종가 기준 이평 계산. 반환: dict or None"""
     try:
         h = yf.Ticker(ticker).history(period="1y", auto_adjust=True)
-        if len(h) < 200:
+        c = h["Close"].dropna()  # nan 행 방어 (2026-07-11 KOSPI nan 출력 실증)
+        if len(c) < 200:
             return None
-        c = h["Close"]
         last, prev = c.iloc[-1], c.iloc[-2]
         ma5, ma20 = c.rolling(5).mean().iloc[-1], c.rolling(20).mean().iloc[-1]
         ma50, ma200 = c.rolling(50).mean().iloc[-1], c.rolling(200).mean().iloc[-1]
@@ -75,8 +75,8 @@ def analyze(ticker: str):
         else:
             sig = "🔴"
         return {
-            "date": h.index[-1].strftime("%m-%d"),
-            "iso": h.index[-1].strftime("%Y-%m-%d"),  # stale 판정용(표시 안 함)
+            "date": c.index[-1].strftime("%m-%d"),
+            "iso": c.index[-1].strftime("%Y-%m-%d"),  # stale 판정용(표시 안 함)
             "close": last, "chg": (last / prev - 1) * 100,
             "above50": above50, "above200": (last / ma200 - 1) * 100,
             "drawdown": (last / c.max() - 1) * 100,  # 1년 고점(종가) 대비
@@ -116,8 +116,8 @@ def main():
     def market(tk):
         if tk.endswith(".KS") or tk == "^KS11":
             return "KR"
-        if tk == "KRW=X":
-            return None  # FX는 24시간 시장 — 제외
+        if tk in ("KRW=X", "CL=F"):
+            return None  # FX·선물은 24시간 시장 — stale 판정 제외
         return "US"
 
     latest = {}
