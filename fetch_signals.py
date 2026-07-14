@@ -7,6 +7,7 @@
 import json
 import os
 import yfinance as yf
+import FinanceDataReader as fdr
 from datetime import datetime, timezone, timedelta
 
 # ── 우리 풀 — tickers.json이 있으면 그걸 사용(권장), 없으면 아래 내장 목록 ──
@@ -54,11 +55,28 @@ TICKERS, TICKER_SOURCE = load_tickers()
 KST = timezone(timedelta(hours=9))
 
 
+def _close_series(ticker: str):
+    """종가 시계열. 한국물(.KS·^KS11)=FinanceDataReader(Naver 백엔드, 마감 직후 당일 종가 반영),
+    그 외=yfinance. FDR 실패 시 yfinance로 폴백(파이프라인 사망 방지).
+    → yfinance의 KRX 당일 종가 지연(2026-07-14 16:57 수동실행도 stale 실증) 해소가 목적."""
+    if ticker.endswith(".KS") or ticker == "^KS11":
+        code = "KS11" if ticker == "^KS11" else ticker[:-3]
+        start = (datetime.now(KST) - timedelta(days=420)).strftime("%Y-%m-%d")  # 200일선+버퍼
+        try:
+            s = fdr.DataReader(code, start)["Close"].dropna()
+            if len(s) >= 200:
+                return s
+        except Exception as e:
+            print(f"FDR 실패({ticker}: {e}) → yfinance 폴백")
+    h = yf.Ticker(ticker).history(period="1y", auto_adjust=True)
+    return h["Close"].dropna()
+
+
 def analyze(ticker: str):
     """종가 기준 이평 계산. 반환: dict or None"""
     try:
-        h = yf.Ticker(ticker).history(period="1y", auto_adjust=True)
-        c = h["Close"].dropna()  # nan 행 방어 (2026-07-11 KOSPI nan 출력 실증)
+        c = _close_series(ticker)  # 한국=FDR(당일 종가) / 미국=yfinance
+        c = c.dropna()  # nan 행 방어 (2026-07-11 KOSPI nan 출력 실증)
         if len(c) < 200:
             return None
         last, prev = c.iloc[-1], c.iloc[-2]
@@ -136,7 +154,7 @@ def main():
     lines = [
         f"# 📡 신호 데이터 (자동 수집)",
         f"",
-        f"> 생성: {now} · 소스: Yahoo Finance 확정 종가(auto-adjust) · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
+        f"> 생성: {now} · 소스: 한국=FinanceDataReader(Naver, 당일 종가) · 미국=Yahoo Finance · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
         f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 날짜 옆 ⚠️ = 같은 시장 최신 종가보다 오래된 데이터(수집 지연·stale) — 직전 수집분과 교차 확인할 것.",
     ]
     if total:
