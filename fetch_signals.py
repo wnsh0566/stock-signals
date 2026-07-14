@@ -10,6 +10,15 @@ import yfinance as yf
 import FinanceDataReader as fdr
 from datetime import datetime, timezone, timedelta
 
+# pykrx = KRX 투자자별 수급(외국인·기관 순매수) 조회 — FDR 가격피드에 없는 §14-3 트리거 입력.
+# 임포트 실패해도 가격 파이프라인은 살아있게 격리(수급 섹션만 생략).
+try:
+    from pykrx import stock as krx
+    HAS_KRX = True
+except Exception as e:  # noqa
+    HAS_KRX = False
+    print(f"pykrx 임포트 실패({e}) → 수급 섹션 생략(가격 파이프라인은 정상)")
+
 # ── 우리 풀 — tickers.json이 있으면 그걸 사용(권장), 없으면 아래 내장 목록 ──
 # 풀 변경(체크리스트 7절 개정) 시 tickers.json만 수정하면 됨. 코드는 안 건드림.
 FALLBACK_TICKERS = {
@@ -108,6 +117,57 @@ def fmt_price(v: float) -> str:
     return f"{v:,.0f}" if v > 1000 else f"{v:,.2f}"
 
 
+def foreign_flow():
+    """최근 거래일별 KOSPI 외국인·기관 순매수(억원). §14-3 트리거 입력.
+    KRX(pykrx) 직접 조회 — FDR 가격피드에 없는 수급 보강(2026-07-15 신설,
+    07-14 "외인 수급 수기 확인" 한계 해소). 당일 확정치가 늦으면 최신일 누락/잠정 가능."""
+    now = datetime.now(KST)
+    frm = (now - timedelta(days=16)).strftime("%Y%m%d")
+    to = now.strftime("%Y%m%d")
+    try:
+        bdays = krx.get_previous_business_days(fromdate=frm, todate=to)
+    except Exception as e:
+        print(f"거래일 조회 실패({e})")
+        return []
+    dates = [d.strftime("%Y%m%d") for d in bdays][-6:]
+    out = []
+    for d in dates:
+        try:
+            df = krx.get_market_trading_value_by_investor(d, d, "KOSPI")
+            col = "순매수" if "순매수" in df.columns else df.columns[-1]
+
+            def val(*keys):
+                s, hit = 0.0, False
+                for k in keys:
+                    if k in df.index:
+                        s += float(df.loc[k, col]); hit = True
+                return s / 1e8 if hit else None  # 원 → 억원
+
+            foreign = val("외국인", "기타외국인")   # 외국인 합산(순수+기타)
+            if foreign is None:
+                foreign = val("외국인합계")
+            inst = val("기관합계")
+            if foreign is not None or inst is not None:
+                out.append((f"{d[4:6]}-{d[6:8]}", foreign, inst))
+        except Exception as e:
+            print(f"수급({d}) 조회 실패: {e}")
+    return out
+
+
+def trigger_flag(flow):
+    """§14-3 외국인 트리거 1차 자동 판정(사람 확정 전 참고용)."""
+    f = [x[1] for x in flow if x[1] is not None]
+    if len(f) < 2:
+        return "데이터 부족 — 확정치 수기 확인"
+    a, b = f[-2], f[-1]
+    cum5 = sum(f[-5:])
+    if a > 0 and b > 0:
+        return f"🟢 점등 후보 — 외인 순매수 2일 연속(5일 누계 {cum5:+,.0f}억)"
+    if a < 0 and b < 0:
+        return f"🔕 소등 — 외인 순매도 2일 연속(5일 누계 {cum5:+,.0f}억)"
+    return f"⚪ 중립 — 방향 혼재(5일 누계 {cum5:+,.0f}억)"
+
+
 def main():
     now = datetime.now(KST).strftime("%Y-%m-%d %H:%M KST")
 
@@ -154,7 +214,7 @@ def main():
     lines = [
         f"# 📡 신호 데이터 (자동 수집)",
         f"",
-        f"> 생성: {now} · 소스: 한국=FinanceDataReader(Naver, 당일 종가) · 미국=Yahoo Finance · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
+        f"> 생성: {now} · 소스: 한국=FinanceDataReader(Naver, 당일 종가) · 미국=Yahoo Finance · 수급=pykrx(KRX) · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
         f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 날짜 옆 ⚠️ = 같은 시장 최신 종가보다 오래된 데이터(수집 지연·stale) — 직전 수집분과 교차 확인할 것.",
     ]
     if total:
@@ -183,6 +243,23 @@ def main():
             n, a50, up = b
             lines.append(f"> breadth: 50선 위 {a50}/{n} · 5>20 {up}/{n}")
         lines.append("")
+
+    # ── 🌊 수급 섹션 (외국인·기관 순매수 — §14-3 트리거 입력) ──
+    if HAS_KRX:
+        flow = foreign_flow()
+        if flow:
+            lines.append("## 🌊 수급 — 외국인·기관 순매수 (억원, KOSPI 유가증권)")
+            lines.append("| 날짜 | 외국인 | 기관 |")
+            lines.append("|------|--:|--:|")
+            for disp, fval, ival in flow:
+                fs = f"{fval:+,.0f}" if fval is not None else "—"
+                is_ = f"{ival:+,.0f}" if ival is not None else "—"
+                lines.append(f"| {disp} | {fs} | {is_} |")
+            lines.append(
+                f"> 🔎 §14-3 트리거(1차 참고): {trigger_flag(flow)} "
+                f"· ⚠️ 최신일은 KRX 확정 지연 시 잠정 — 확정치 재확인 후 트리거 확정"
+            )
+            lines.append("")
 
     with open("signals_data.md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
