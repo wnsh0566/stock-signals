@@ -125,25 +125,42 @@ def foreign_flow():
     now = datetime.now(KST)
     frm = (now - timedelta(days=18)).strftime("%Y%m%d")
     to = now.strftime("%Y%m%d")
+
+    def parse(df):
+        cols = list(df.columns)
+        fcol = next((c for c in ("외국인합계", "외국인") if c in cols), None)
+        icol = "기관합계" if "기관합계" in cols else None
+        if fcol is None:
+            return None, f"외국인 컬럼 없음 · 실제={cols}"
+        rows = []
+        for idx, row in df.tail(6).iterrows():
+            disp = idx.strftime("%m-%d") if hasattr(idx, "strftime") else str(idx)[5:10]
+            ival = float(row[icol]) / 1e8 if icol else None
+            rows.append((disp, float(row[fcol]) / 1e8, ival))  # 원 → 억원
+        return rows, None
+
+    # 1차: 일별 시계열(index=날짜 · columns=투자자별 순매수 원)
     try:
-        # 일별 시계열 · index=날짜 · columns=투자자별 순매수(원). detail=False → 외국인합계/기관합계 포함.
         df = krx.get_market_trading_value_by_date(frm, to, "KOSPI")
+        if df is not None and len(df) > 0:
+            rows, perr = parse(df)
+            if rows:
+                return rows, None
+            prim = perr or "파싱 실패"
+        else:
+            prim = "빈 DF"
     except Exception as e:
-        return [], f"조회 예외: {type(e).__name__}: {e}"
-    if df is None or len(df) == 0:
-        return [], "빈 데이터(거래일/시장코드 확인)"
-    cols = list(df.columns)
-    fcol = next((c for c in ("외국인합계", "외국인") if c in cols), None)
-    icol = "기관합계" if "기관합계" in cols else None
-    if fcol is None:
-        return [], f"외국인 컬럼 없음 · 실제 컬럼={cols}"
-    out = []
-    for idx, row in df.tail(6).iterrows():
-        disp = idx.strftime("%m-%d") if hasattr(idx, "strftime") else str(idx)[5:10]
-        fval = float(row[fcol]) / 1e8
-        ival = float(row[icol]) / 1e8 if icol else None
-        out.append((disp, fval, ival))
-    return out, None
+        prim = f"{type(e).__name__}: {e}"
+
+    # 2차: KRX 도달성 프로브 — pykrx가 클라우드(Actions)에서 KRX에 닿는지 판별.
+    # 삼성 OHLCV도 비면 = KRX가 데이터센터 IP 차단(pykrx-on-CI 고질병) → 소스 교체 필요.
+    try:
+        p = krx.get_market_ohlcv_by_date(frm, to, "005930")
+        probe = f"삼성OHLCV행수={0 if p is None else len(p)}"
+    except Exception as e:
+        probe = f"삼성OHLCV예외={type(e).__name__}"
+
+    return [], f"by_date[{prim}] · 도달성:{probe}"
 
 
 def trigger_flag(flow):
