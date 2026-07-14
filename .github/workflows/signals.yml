@@ -52,7 +52,7 @@ jobs:
 
       - name: Install deps
         if: steps.gate.outputs.run == 'true'
-        run: pip install yfinance finance-datareader
+        run: pip install yfinance finance-datareader pykrx
 
       - name: Fetch signals
         if: steps.gate.outputs.run == 'true'
