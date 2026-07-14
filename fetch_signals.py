@@ -120,38 +120,30 @@ def fmt_price(v: float) -> str:
 def foreign_flow():
     """최근 거래일별 KOSPI 외국인·기관 순매수(억원). §14-3 트리거 입력.
     KRX(pykrx) 직접 조회 — FDR 가격피드에 없는 수급 보강(2026-07-15 신설,
-    07-14 "외인 수급 수기 확인" 한계 해소). 당일 확정치가 늦으면 최신일 누락/잠정 가능."""
+    07-14 "외인 수급 수기 확인" 한계 해소). 당일 확정치가 늦으면 최신일 누락/잠정 가능.
+    반환: (rows, err) — rows=[(MM-DD, 외국인억, 기관억)...] / err=실패사유(정상 시 None)."""
     now = datetime.now(KST)
-    frm = (now - timedelta(days=16)).strftime("%Y%m%d")
+    frm = (now - timedelta(days=18)).strftime("%Y%m%d")
     to = now.strftime("%Y%m%d")
     try:
-        bdays = krx.get_previous_business_days(fromdate=frm, todate=to)
+        # 일별 시계열 · index=날짜 · columns=투자자별 순매수(원). detail=False → 외국인합계/기관합계 포함.
+        df = krx.get_market_trading_value_by_date(frm, to, "KOSPI")
     except Exception as e:
-        print(f"거래일 조회 실패({e})")
-        return []
-    dates = [d.strftime("%Y%m%d") for d in bdays][-6:]
+        return [], f"조회 예외: {type(e).__name__}: {e}"
+    if df is None or len(df) == 0:
+        return [], "빈 데이터(거래일/시장코드 확인)"
+    cols = list(df.columns)
+    fcol = next((c for c in ("외국인합계", "외국인") if c in cols), None)
+    icol = "기관합계" if "기관합계" in cols else None
+    if fcol is None:
+        return [], f"외국인 컬럼 없음 · 실제 컬럼={cols}"
     out = []
-    for d in dates:
-        try:
-            df = krx.get_market_trading_value_by_investor(d, d, "KOSPI")
-            col = "순매수" if "순매수" in df.columns else df.columns[-1]
-
-            def val(*keys):
-                s, hit = 0.0, False
-                for k in keys:
-                    if k in df.index:
-                        s += float(df.loc[k, col]); hit = True
-                return s / 1e8 if hit else None  # 원 → 억원
-
-            foreign = val("외국인", "기타외국인")   # 외국인 합산(순수+기타)
-            if foreign is None:
-                foreign = val("외국인합계")
-            inst = val("기관합계")
-            if foreign is not None or inst is not None:
-                out.append((f"{d[4:6]}-{d[6:8]}", foreign, inst))
-        except Exception as e:
-            print(f"수급({d}) 조회 실패: {e}")
-    return out
+    for idx, row in df.tail(6).iterrows():
+        disp = idx.strftime("%m-%d") if hasattr(idx, "strftime") else str(idx)[5:10]
+        fval = float(row[fcol]) / 1e8
+        ival = float(row[icol]) / 1e8 if icol else None
+        out.append((disp, fval, ival))
+    return out, None
 
 
 def trigger_flag(flow):
@@ -245,10 +237,15 @@ def main():
         lines.append("")
 
     # ── 🌊 수급 섹션 (외국인·기관 순매수 — §14-3 트리거 입력) ──
-    if HAS_KRX:
-        flow = foreign_flow()
-        if flow:
-            lines.append("## 🌊 수급 — 외국인·기관 순매수 (억원, KOSPI 유가증권)")
+    # 섹션은 항상 렌더 — 실패 시 사유를 파일에 찍어 로그 없이 진단 가능하게.
+    lines.append("## 🌊 수급 — 외국인·기관 순매수 (억원, KOSPI 유가증권)")
+    if not HAS_KRX:
+        lines.append("> ⚠️ pykrx 임포트 실패 — 수급 수집 불가(가격 파이프라인은 정상). 확정치 수기 확인.")
+    else:
+        flow, err = foreign_flow()
+        if err:
+            lines.append(f"> ⚠️ 수급 수집 실패 — {err} · 확정치 수기 확인 필요.")
+        else:
             lines.append("| 날짜 | 외국인 | 기관 |")
             lines.append("|------|--:|--:|")
             for disp, fval, ival in flow:
@@ -259,7 +256,7 @@ def main():
                 f"> 🔎 §14-3 트리거(1차 참고): {trigger_flag(flow)} "
                 f"· ⚠️ 최신일은 KRX 확정 지연 시 잠정 — 확정치 재확인 후 트리거 확정"
             )
-            lines.append("")
+    lines.append("")
 
     with open("signals_data.md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
