@@ -9,10 +9,13 @@ on:
     - cron: "30 21 * * 1-5"   # 여름(EDT)용: UTC 21:30 = KST 06:30
     - cron: "30 22 * * 1-5"   # 겨울(EST)용: UTC 22:30 = KST 07:30
     # ── 저녁(한국 확정 종가) — 한국은 서머타임 없음, 고정 ──
-    # GitHub 스케줄은 지연/드롭이 잦아서 백업 크론을 하나 더 걸어둠.
-    # 1차가 정상 커밋됐으면 2차는 diff 없음 → 커밋 없이 종료되므로 중복 무해.
-    - cron: "30 7 * * 1-5"    # UTC 07:30 = KST 16:30 (1차)
-    - cron: "30 8 * * 1-5"    # UTC 08:30 = KST 17:30 (백업)
+    # 요구: 16:20~30 KST까지 종가 확보(17:00 퇴근 전 30분 검토). 마감 15:30·Naver 종가 ~15:40 확정.
+    # GitHub 스케줄러는 정각/30분 등 혼잡시각에 지연·드롭이 극심 → 혼잡시각 회피 + 산탄식 4발로
+    # "먼저 붙는 놈이 커밋". 헤더 타임스탬프가 매 실행 바뀌어 diff는 항상 발생(중복 커밋은 무해).
+    - cron: "50 6 * * 1-5"    # UTC 06:50 = KST 15:50 (1차·지연 흡수용 최이른 시각)
+    - cron: "5 7 * * 1-5"     # UTC 07:05 = KST 16:05
+    - cron: "20 7 * * 1-5"    # UTC 07:20 = KST 16:20 (요구 창 하단)
+    - cron: "35 7 * * 1-5"    # UTC 07:35 = KST 16:35 (안전망)
   workflow_dispatch: {}        # 수동 실행(테스트) — 항상 실행됨
 
 permissions:
@@ -31,8 +34,8 @@ jobs:
           echo "NY=$NY_TZ / trigger=[$SCHED]"
           RUN=false
           case "$SCHED" in
-            "")                RUN=true ;;                              # 수동 실행
-            "30 7 "*|"30 8 "*) RUN=true ;;                              # 한국 저녁(1차+백업) ★크론 시각 바꾸면 이 패턴도 같이!
+            "")                                    RUN=true ;;         # 수동 실행
+            "50 6 "*|"5 7 "*|"20 7 "*|"35 7 "*)    RUN=true ;;         # 한국 저녁(산탄식 4발)
             "30 21 "*)         [ "$NY_TZ" = "EDT" ] && RUN=true || true ;;  # 여름 아침
             "30 22 "*)         [ "$NY_TZ" = "EST" ] && RUN=true || true ;;  # 겨울 아침
           esac
@@ -49,7 +52,7 @@ jobs:
 
       - name: Install deps
         if: steps.gate.outputs.run == 'true'
-        run: pip install yfinance
+        run: pip install yfinance finance-datareader
 
       - name: Fetch signals
         if: steps.gate.outputs.run == 'true'
