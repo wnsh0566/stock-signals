@@ -52,8 +52,8 @@ jobs:
 
       - name: Install deps
         if: steps.gate.outputs.run == 'true'
-        # pykrx는 KRX 수급 엔드포인트 구조변경을 자주 겪어 PyPI 버전이 뒤처짐 → 최신 git 마스터로 설치.
-        run: pip install yfinance finance-datareader "pykrx @ git+https://github.com/sharebook-kr/pykrx.git"
+        # 수급은 네이버 스크래핑(requests+pandas+lxml). pykrx는 KRX 수급 엔드포인트 파손으로 제외.
+        run: pip install yfinance finance-datareader requests lxml
 
       - name: Fetch signals
         if: steps.gate.outputs.run == 'true'
