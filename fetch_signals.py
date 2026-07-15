@@ -98,6 +98,7 @@ def analyze(ticker: str):
         last, prev = c.iloc[-1], c.iloc[-2]
         ma5, ma20 = c.rolling(5).mean().iloc[-1], c.rolling(20).mean().iloc[-1]
         ma50, ma200 = c.rolling(50).mean().iloc[-1], c.rolling(200).mean().iloc[-1]
+        vol20 = c.pct_change().dropna().iloc[-20:].std() * (252 ** 0.5) * 100  # 20일 연율화 변동성 (§3-②)
 
         above50 = (last / ma50 - 1) * 100
         cross = "5>20" if ma5 > ma20 else "5<20"
@@ -115,6 +116,7 @@ def analyze(ticker: str):
             "above50": above50, "above200": (last / ma200 - 1) * 100,
             "drawdown": (last / c.max() - 1) * 100,  # 1년 고점(종가) 대비
             "ret60": (last / c.iloc[-61] - 1) * 100,  # 60일 수익률 (§14-9 섹터 RS)
+            "vol": vol20,  # 20일 연율화 변동성 (§3-② vol-target 사이징)
             "cross": cross, "sig": sig,
         }
     except Exception:
@@ -310,16 +312,16 @@ def main():
 
     for group, rows in groups:
         lines.append(f"## {group}")
-        lines.append("| 종목 | 날짜 | 종가 | 등락 | vs50선 | vs200선 | 고점대비 | 5/20 | 참고판정 |")
-        lines.append("|------|:--:|--:|--:|--:|--:|--:|:--:|:--:|")
+        lines.append("| 종목 | 날짜 | 종가 | 등락 | vs50선 | vs200선 | 고점대비 | 변동성 | 5/20 | 참고판정 |")
+        lines.append("|------|:--:|--:|--:|--:|--:|--:|--:|:--:|:--:|")
         for name, tk, r in rows:
             if r is None:
-                lines.append(f"| {name} ({tk}) | — | 데이터 실패 | | | | | | ⚠️ |")
+                lines.append(f"| {name} ({tk}) | — | 데이터 실패 | | | | | | | ⚠️ |")
                 continue
             lines.append(
                 f"| {name} | {date_label(tk, r)} | {fmt_price(r['close'])} | {r['chg']:+.2f}% "
                 f"| {r['above50']:+.1f}% | {r['above200']:+.1f}% | {r['drawdown']:+.1f}% "
-                f"| {r['cross']} | {r['sig']} |"
+                f"| {r['vol']:.0f}% | {r['cross']} | {r['sig']} |"
             )
         b = breadth(rows)
         if b and "지수" not in group:
