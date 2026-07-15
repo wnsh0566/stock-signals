@@ -123,44 +123,53 @@ def foreign_flow():
     07-14 "외인 수급 수기 확인" 한계 해소). 당일 확정치가 늦으면 최신일 누락/잠정 가능.
     반환: (rows, err) — rows=[(MM-DD, 외국인억, 기관억)...] / err=실패사유(정상 시 None)."""
     now = datetime.now(KST)
-    frm = (now - timedelta(days=18)).strftime("%Y%m%d")
+    frm = (now - timedelta(days=25)).strftime("%Y%m%d")
     to = now.strftime("%Y%m%d")
 
-    def parse(df):
+    def parse_bydate(df):
+        """index=날짜 · columns=투자자별 순매수(원) 형태를 rows로."""
         cols = list(df.columns)
         fcol = next((c for c in ("외국인합계", "외국인") if c in cols), None)
         icol = "기관합계" if "기관합계" in cols else None
         if fcol is None:
-            return None, f"외국인 컬럼 없음 · 실제={cols}"
+            return None
         rows = []
         for idx, row in df.tail(6).iterrows():
             disp = idx.strftime("%m-%d") if hasattr(idx, "strftime") else str(idx)[5:10]
             ival = float(row[icol]) / 1e8 if icol else None
             rows.append((disp, float(row[fcol]) / 1e8, ival))  # 원 → 억원
-        return rows, None
+        return rows
 
-    # 1차: 일별 시계열(index=날짜 · columns=투자자별 순매수 원)
+    # 되는 호출을 찾는 다중 변형 프로브(버전차 흡수). 첫 성공분을 채택.
+    attempts = [
+        ("by_date/KOSPI", lambda: krx.get_market_trading_value_by_date(frm, to, "KOSPI")),
+        ("by_date/1001", lambda: krx.get_market_trading_value_by_date(frm, to, "1001")),
+        ("by_date/KOSPI+detail", lambda: krx.get_market_trading_value_by_date(frm, to, "KOSPI", detail=True)),
+    ]
+    diag = []
+    for name, fn in attempts:
+        try:
+            df = fn()
+            n = 0 if df is None else len(df)
+            if n > 0:
+                rows = parse_bydate(df)
+                if rows:
+                    return rows, None
+                diag.append(f"{name}:행{n}·컬럼{list(df.columns)[:6]}")  # 컬럼명 노출(파서 교정용)
+            else:
+                diag.append(f"{name}:빈")
+        except Exception as e:
+            diag.append(f"{name}:{type(e).__name__}")
+
+    # by_investor(투자자-index·범위합계)도 찔러 대체 경로 판별
     try:
-        df = krx.get_market_trading_value_by_date(frm, to, "KOSPI")
-        if df is not None and len(df) > 0:
-            rows, perr = parse(df)
-            if rows:
-                return rows, None
-            prim = perr or "파싱 실패"
-        else:
-            prim = "빈 DF"
+        di = krx.get_market_trading_value_by_investor(frm, to, "KOSPI")
+        idx = list(di.index)[:5] if di is not None and len(di) > 0 else "—"
+        diag.append(f"by_investor/KOSPI:행{0 if di is None else len(di)}·idx{idx}")
     except Exception as e:
-        prim = f"{type(e).__name__}: {e}"
+        diag.append(f"by_investor/KOSPI:{type(e).__name__}")
 
-    # 2차: KRX 도달성 프로브 — pykrx가 클라우드(Actions)에서 KRX에 닿는지 판별.
-    # 삼성 OHLCV도 비면 = KRX가 데이터센터 IP 차단(pykrx-on-CI 고질병) → 소스 교체 필요.
-    try:
-        p = krx.get_market_ohlcv_by_date(frm, to, "005930")
-        probe = f"삼성OHLCV행수={0 if p is None else len(p)}"
-    except Exception as e:
-        probe = f"삼성OHLCV예외={type(e).__name__}"
-
-    return [], f"by_date[{prim}] · 도달성:{probe}"
+    return [], " / ".join(diag)
 
 
 def trigger_flag(flow):
