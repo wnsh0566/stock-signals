@@ -6,18 +6,25 @@
 """
 import json
 import os
+import re
 import yfinance as yf
 import FinanceDataReader as fdr
+import requests
+from io import StringIO
 from datetime import datetime, timezone, timedelta
 
-# pykrx = KRX 투자자별 수급(외국인·기관 순매수) 조회 — FDR 가격피드에 없는 §14-3 트리거 입력.
-# 임포트 실패해도 가격 파이프라인은 살아있게 격리(수급 섹션만 생략).
+# 수급(외국인·기관 순매수) = 네이버 금융 투자자별 매매동향 스크래핑.
+# pykrx의 KRX 수급 엔드포인트가 2026-07-15 파손 확인(PyPI·git master 모두 빈DF/KeyError, OHLCV는 정상)
+# → 네이버로 전환. 임포트 실패해도 가격 파이프라인은 살아있게 격리(수급 섹션만 생략).
 try:
-    from pykrx import stock as krx
-    HAS_KRX = True
+    import pandas as pd
+    HAS_FLOW = True
 except Exception as e:  # noqa
-    HAS_KRX = False
-    print(f"pykrx 임포트 실패({e}) → 수급 섹션 생략(가격 파이프라인은 정상)")
+    HAS_FLOW = False
+    print(f"pandas 임포트 실패({e}) → 수급 섹션 생략")
+
+NAVER_UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
 
 # ── 우리 풀 — tickers.json이 있으면 그걸 사용(권장), 없으면 아래 내장 목록 ──
 # 풀 변경(체크리스트 7절 개정) 시 tickers.json만 수정하면 됨. 코드는 안 건드림.
@@ -118,58 +125,62 @@ def fmt_price(v: float) -> str:
 
 
 def foreign_flow():
-    """최근 거래일별 KOSPI 외국인·기관 순매수(억원). §14-3 트리거 입력.
-    KRX(pykrx) 직접 조회 — FDR 가격피드에 없는 수급 보강(2026-07-15 신설,
-    07-14 "외인 수급 수기 확인" 한계 해소). 당일 확정치가 늦으면 최신일 누락/잠정 가능.
-    반환: (rows, err) — rows=[(MM-DD, 외국인억, 기관억)...] / err=실패사유(정상 시 None)."""
+    """네이버 금융 투자자별 매매동향(일별) → KOSPI 외국인·기관 순매수(억원). §14-3 입력.
+    pykrx의 KRX 수급 엔드포인트 파손(2026-07-15) 대체. 반환 (rows, err).
+    rows=[(MM-DD, 외국인억, 기관억)...] 오름차순 / err=실패사유(정상 시 None).
+    ⚠️ 단위=네이버 원자료 백만원 가정(÷100→억원) — 07-13 외인 ≈ −17,080억 대조로 검증할 것."""
     now = datetime.now(KST)
-    frm = (now - timedelta(days=25)).strftime("%Y%m%d")
-    to = now.strftime("%Y%m%d")
-
-    def parse_bydate(df):
-        """index=날짜 · columns=투자자별 순매수(원) 형태를 rows로."""
-        cols = list(df.columns)
-        fcol = next((c for c in ("외국인합계", "외국인") if c in cols), None)
-        icol = "기관합계" if "기관합계" in cols else None
-        if fcol is None:
-            return None
-        rows = []
-        for idx, row in df.tail(6).iterrows():
-            disp = idx.strftime("%m-%d") if hasattr(idx, "strftime") else str(idx)[5:10]
-            ival = float(row[icol]) / 1e8 if icol else None
-            rows.append((disp, float(row[fcol]) / 1e8, ival))  # 원 → 억원
-        return rows
-
-    # 되는 호출을 찾는 다중 변형 프로브(버전차 흡수). 첫 성공분을 채택.
-    attempts = [
-        ("by_date/KOSPI", lambda: krx.get_market_trading_value_by_date(frm, to, "KOSPI")),
-        ("by_date/1001", lambda: krx.get_market_trading_value_by_date(frm, to, "1001")),
-        ("by_date/KOSPI+detail", lambda: krx.get_market_trading_value_by_date(frm, to, "KOSPI", detail=True)),
-    ]
-    diag = []
-    for name, fn in attempts:
-        try:
-            df = fn()
-            n = 0 if df is None else len(df)
-            if n > 0:
-                rows = parse_bydate(df)
-                if rows:
-                    return rows, None
-                diag.append(f"{name}:행{n}·컬럼{list(df.columns)[:6]}")  # 컬럼명 노출(파서 교정용)
-            else:
-                diag.append(f"{name}:빈")
-        except Exception as e:
-            diag.append(f"{name}:{type(e).__name__}")
-
-    # by_investor(투자자-index·범위합계)도 찔러 대체 경로 판별
+    url = ("https://finance.naver.com/sise/investorDealTrendDay.naver"
+           f"?bizdate={now.strftime('%Y%m%d')}&sosok=01&page=1")  # sosok=01 = 코스피
     try:
-        di = krx.get_market_trading_value_by_investor(frm, to, "KOSPI")
-        idx = list(di.index)[:5] if di is not None and len(di) > 0 else "—"
-        diag.append(f"by_investor/KOSPI:행{0 if di is None else len(di)}·idx{idx}")
+        r = requests.get(url, headers=NAVER_UA, timeout=20)
+        r.encoding = "euc-kr"
+        tables = pd.read_html(StringIO(r.text))
     except Exception as e:
-        diag.append(f"by_investor/KOSPI:{type(e).__name__}")
+        return [], f"요청/파싱 예외: {type(e).__name__}: {e}"
 
-    return [], " / ".join(diag)
+    # '외국인'을 포함한 테이블 선택(테이블 인덱스 변동에 견고)
+    target = None
+    for t in tables:
+        blob = " ".join(map(str, list(t.columns))) + " " + " ".join(map(str, t.head(2).to_numpy().flatten()))
+        if "외국인" in blob:
+            target = t
+            break
+    if target is None:
+        summary = [list(map(str, t.columns))[:5] for t in tables[:4]]
+        return [], f"외국인 테이블 없음(테이블 {len(tables)}개·컬럼샘플 {summary})"
+
+    df = target.copy()
+    df.columns = [" ".join(map(str, c)).strip() if isinstance(c, tuple) else str(c) for c in df.columns]
+    cols = list(df.columns)
+    dcol = cols[0]
+    fcol = next((c for c in cols if "외국인" in c), None)
+    icol = next((c for c in cols if "기관" in c), None)
+    if fcol is None:
+        return [], f"외국인 컬럼 못찾음 · 컬럼={cols}"
+
+    def num(x):
+        try:
+            return float(str(x).replace(",", "").replace("+", ""))
+        except Exception:
+            return None
+
+    rows = []
+    for _, row in df.iterrows():
+        m = re.search(r"(\d{2,4})[.\-/](\d{1,2})[.\-/](\d{1,2})", str(row[dcol]))
+        if not m:
+            continue
+        fv = num(row[fcol])
+        iv = num(row[icol]) if icol else None
+        if fv is None:
+            continue
+        # 네이버 단위=백만원 가정 → 억원(÷100). 07-13 −17,080억 대조로 검증.
+        rows.append((f"{int(m.group(2)):02d}-{int(m.group(3)):02d}", fv / 100.0,
+                     (iv / 100.0) if iv is not None else None))
+    if not rows:
+        return [], f"데이터 행 파싱 0 · 컬럼={cols}"
+    rows = sorted(rows, key=lambda x: x[0])[-6:]  # 네이버 최신일 상단 → 오름차순 후 최근 6일
+    return rows, None
 
 
 def trigger_flag(flow):
@@ -232,7 +243,7 @@ def main():
     lines = [
         f"# 📡 신호 데이터 (자동 수집)",
         f"",
-        f"> 생성: {now} · 소스: 한국=FinanceDataReader(Naver, 당일 종가) · 미국=Yahoo Finance · 수급=pykrx(KRX) · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
+        f"> 생성: {now} · 소스: 한국=FinanceDataReader(Naver, 당일 종가) · 미국=Yahoo Finance · 수급=네이버 투자자매매동향 · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
         f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 날짜 옆 ⚠️ = 같은 시장 최신 종가보다 오래된 데이터(수집 지연·stale) — 직전 수집분과 교차 확인할 것.",
     ]
     if total:
@@ -264,9 +275,9 @@ def main():
 
     # ── 🌊 수급 섹션 (외국인·기관 순매수 — §14-3 트리거 입력) ──
     # 섹션은 항상 렌더 — 실패 시 사유를 파일에 찍어 로그 없이 진단 가능하게.
-    lines.append("## 🌊 수급 — 외국인·기관 순매수 (억원, KOSPI 유가증권)")
-    if not HAS_KRX:
-        lines.append("> ⚠️ pykrx 임포트 실패 — 수급 수집 불가(가격 파이프라인은 정상). 확정치 수기 확인.")
+    lines.append("## 🌊 수급 — 외국인·기관 순매수 (억원, KOSPI·네이버)")
+    if not HAS_FLOW:
+        lines.append("> ⚠️ pandas 임포트 실패 — 수급 수집 불가(가격 파이프라인은 정상). 확정치 수기 확인.")
     else:
         flow, err = foreign_flow()
         if err:
@@ -280,7 +291,7 @@ def main():
                 lines.append(f"| {disp} | {fs} | {is_} |")
             lines.append(
                 f"> 🔎 §14-3 트리거(1차 참고): {trigger_flag(flow)} "
-                f"· ⚠️ 최신일은 KRX 확정 지연 시 잠정 — 확정치 재확인 후 트리거 확정"
+                f"· ⚠️ 단위검증: 07-13 외인이 ≈ −17,080억이면 정상(아니면 단위 보정) · 당일분은 잠정"
             )
     lines.append("")
 
