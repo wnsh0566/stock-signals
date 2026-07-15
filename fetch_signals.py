@@ -128,7 +128,7 @@ def foreign_flow():
     """네이버 금융 투자자별 매매동향(일별) → KOSPI 외국인·기관 순매수(억원). §14-3 입력.
     pykrx의 KRX 수급 엔드포인트 파손(2026-07-15) 대체. 반환 (rows, err).
     rows=[(MM-DD, 외국인억, 기관억)...] 오름차순 / err=실패사유(정상 시 None).
-    ⚠️ 단위=네이버 원자료 백만원 가정(÷100→억원) — 07-13 외인 ≈ −17,080억 대조로 검증할 것."""
+    단위=억원(네이버 원자료가 이미 억원 — 2026-07-15 확정치 대조로 검증). 당일분은 장중 잠정."""
     now = datetime.now(KST)
     url = ("https://finance.naver.com/sise/investorDealTrendDay.naver"
            f"?bizdate={now.strftime('%Y%m%d')}&sosok=01&page=1")  # sosok=01 = 코스피
@@ -174,9 +174,9 @@ def foreign_flow():
         iv = num(row[icol]) if icol else None
         if fv is None:
             continue
-        # 네이버 단위=백만원 가정 → 억원(÷100). 07-13 −17,080억 대조로 검증.
-        rows.append((f"{int(m.group(2)):02d}-{int(m.group(3)):02d}", fv / 100.0,
-                     (iv / 100.0) if iv is not None else None))
+        # 네이버 값 = 이미 억원 단위(2026-07-15 검증: 07-10 −3,226·07-13 −16,700 확정치 일치). 변환 불필요.
+        rows.append((f"{int(m.group(2)):02d}-{int(m.group(3)):02d}", fv,
+                     iv if iv is not None else None))
     if not rows:
         return [], f"데이터 행 파싱 0 · 컬럼={cols}"
     rows = sorted(rows, key=lambda x: x[0])[-6:]  # 네이버 최신일 상단 → 오름차순 후 최근 6일
@@ -291,7 +291,7 @@ def main():
                 lines.append(f"| {disp} | {fs} | {is_} |")
             lines.append(
                 f"> 🔎 §14-3 트리거(1차 참고): {trigger_flag(flow)} "
-                f"· ⚠️ 단위검증: 07-13 외인이 ≈ −17,080억이면 정상(아니면 단위 보정) · 당일분은 잠정"
+                f"· 단위=억원(확정치 대조 검증됨) · ⚠️ 당일분은 장중 잠정 — 저녁 확정 종가로 재확인"
             )
     lines.append("")
 
