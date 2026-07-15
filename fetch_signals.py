@@ -114,6 +114,7 @@ def analyze(ticker: str):
             "close": last, "chg": (last / prev - 1) * 100,
             "above50": above50, "above200": (last / ma200 - 1) * 100,
             "drawdown": (last / c.max() - 1) * 100,  # 1년 고점(종가) 대비
+            "ret60": (last / c.iloc[-61] - 1) * 100,  # 60일 수익률 (§14-9 섹터 RS)
             "cross": cross, "sig": sig,
         }
     except Exception:
@@ -200,6 +201,54 @@ def trigger_flag(flow, prov=False):
     if a < 0 and b < 0:
         return f"🔕 소등 — 외인 순매도 2일 연속(5일 누계 {cum5:+,.0f}억){tail}"
     return f"⚪ 중립 — 방향 혼재(5일 누계 {cum5:+,.0f}억){tail}"
+
+
+# ── §14-9 섹터 RS 로테이션 — 로테이션 테제(금융 선봉→반도체 본대)의 객관 신호 ──
+KR_SECTORS = {
+    "금융": ["003690.KS", "055550.KS", "086790.KS", "105560.KS", "138930.KS", "005830.KS", "000810.KS", "001450.KS"],
+    "반도체": ["005930.KS", "000660.KS"],
+    "조선": ["329180.KS", "009540.KS"],
+    "방산": ["064350.KS", "079550.KS"],
+    "전력": ["298040.KS", "010120.KS", "034020.KS"],
+}
+
+
+def _median(xs):
+    xs = sorted(xs)
+    n = len(xs)
+    if n == 0:
+        return None
+    return xs[n // 2] if n % 2 else (xs[n // 2 - 1] + xs[n // 2]) / 2
+
+
+def sector_rotation(results_by_tk):
+    """섹터별 RS(60일 수익률 중앙값) + 추세게이트(멤버 과반 50선 위 & 5>20). §14-9.
+    반환 (rows, note) — rows=[(섹터, RS, gate통과수, 유효수)...] RS 내림차순 / note=로테이션 판정."""
+    rows = []
+    for sec, tks in KR_SECTORS.items():
+        rets = [results_by_tk[t]["ret60"] for t in tks if results_by_tk.get(t)]
+        if not rets:
+            continue
+        gate = sum(1 for t in tks if results_by_tk.get(t)
+                   and results_by_tk[t]["above50"] > 0 and results_by_tk[t]["cross"] == "5>20")
+        total = sum(1 for t in tks if results_by_tk.get(t))
+        rows.append((sec, _median(rets), gate, total))
+    if not rows:
+        return [], "섹터 데이터 없음"
+    rows.sort(key=lambda x: x[1], reverse=True)
+    order = [r[0] for r in rows]
+    d = {r[0]: r for r in rows}
+    note = f"리더={order[0]}"
+    if "반도체" in d and "금융" in d:
+        semi, fin = d["반도체"], d["금융"]
+        semi_gate_ok = semi[3] > 0 and semi[2] * 2 >= semi[3]  # 반도체 추세게이트 과반
+        if semi[1] > fin[1] and semi_gate_ok:
+            note += " · 🟢 본대 교차확인 켜짐(반도체 RS>금융 + 추세게이트) — 양일·심판A·하이닉스 3종과 교차"
+        elif semi[1] > fin[1]:
+            note += " · 🟡 반도체 RS>금융이나 추세게이트 미통과(롤오버 방어)"
+        else:
+            note += f" · ⚪ 금융 우위 — 반도체 RS {order.index('반도체') + 1}위(금융 아래)"
+    return rows, note
 
 
 def main():
@@ -299,6 +348,23 @@ def main():
                 f"> 🔎 §14-3 트리거(1차 참고): {trigger_flag(flow, prov)} "
                 f"· 단위=억원(확정치 대조 검증됨) · ⚠️ 당일분(잠정)은 저녁 확정 종가로 재확인"
             )
+    lines.append("")
+
+    # ── 📊 섹터 RS 로테이션 (§14-9) — 격리(실패해도 가격 파이프라인 무사) ──
+    lines.append("## 📊 섹터 RS 로테이션 (60일 수익률 중앙값 · §14-9)")
+    try:
+        results_by_tk = {tk: r for _, rws in groups for _, tk, r in rws if r}
+        srows, snote = sector_rotation(results_by_tk)
+        if srows:
+            lines.append("| 섹터 | RS(60일) | 추세게이트 |")
+            lines.append("|------|--:|:--:|")
+            for sec, rs, gate, total in srows:
+                lines.append(f"| {sec} | {rs:+.1f}% | {gate}/{total} {'✅' if total and gate * 2 >= total else '❌'} |")
+            lines.append(f"> 🔎 로테이션(1차 참고): {snote} · ⚠️ 양일 유지·본대 판정은 §14(심판A+하이닉스 3종)와 교차확인")
+        else:
+            lines.append(f"> ⚠️ 섹터 RS 실패 — {snote}")
+    except Exception as e:
+        lines.append(f"> ⚠️ 섹터 RS 예외 — {type(e).__name__}: {e}")
     lines.append("")
 
     with open("signals_data.md", "w", encoding="utf-8") as f:
