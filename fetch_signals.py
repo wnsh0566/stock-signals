@@ -137,7 +137,7 @@ def foreign_flow():
         r.encoding = "euc-kr"
         tables = pd.read_html(StringIO(r.text))
     except Exception as e:
-        return [], f"요청/파싱 예외: {type(e).__name__}: {e}"
+        return [], f"요청/파싱 예외: {type(e).__name__}: {e}", False
 
     # '외국인'을 포함한 테이블 선택(테이블 인덱스 변동에 견고)
     target = None
@@ -148,7 +148,7 @@ def foreign_flow():
             break
     if target is None:
         summary = [list(map(str, t.columns))[:5] for t in tables[:4]]
-        return [], f"외국인 테이블 없음(테이블 {len(tables)}개·컬럼샘플 {summary})"
+        return [], f"외국인 테이블 없음(테이블 {len(tables)}개·컬럼샘플 {summary})", False
 
     df = target.copy()
     df.columns = [" ".join(map(str, c)).strip() if isinstance(c, tuple) else str(c) for c in df.columns]
@@ -157,7 +157,7 @@ def foreign_flow():
     fcol = next((c for c in cols if "외국인" in c), None)
     icol = next((c for c in cols if "기관" in c), None)
     if fcol is None:
-        return [], f"외국인 컬럼 못찾음 · 컬럼={cols}"
+        return [], f"외국인 컬럼 못찾음 · 컬럼={cols}", False
 
     def num(x):
         try:
@@ -178,23 +178,28 @@ def foreign_flow():
         rows.append((f"{int(m.group(2)):02d}-{int(m.group(3)):02d}", fv,
                      iv if iv is not None else None))
     if not rows:
-        return [], f"데이터 행 파싱 0 · 컬럼={cols}"
+        return [], f"데이터 행 파싱 0 · 컬럼={cols}", False
     rows = sorted(rows, key=lambda x: x[0])[-6:]  # 네이버 최신일 상단 → 오름차순 후 최근 6일
-    return rows, None
+    # 최신 행이 '오늘'이고 장 마감(15:30) 전이면 장중 잠정 → 자동 트리거 카운트에서 제외.
+    prov = bool(rows) and rows[-1][0] == now.strftime("%m-%d") and (now.hour, now.minute) < (15, 30)
+    return rows, None, prov
 
 
-def trigger_flag(flow):
-    """§14-3 외국인 트리거 1차 자동 판정(사람 확정 전 참고용)."""
-    f = [x[1] for x in flow if x[1] is not None]
+def trigger_flag(flow, prov=False):
+    """§14-3 외국인 트리거 1차 자동 판정(사람 확정 전 참고용).
+    prov=True면 최신 행이 장중 잠정 → 2일 연속 카운트에서 제외(확정일만으로 판정)."""
+    rows = flow[:-1] if (prov and len(flow) > 1) else flow
+    f = [x[1] for x in rows if x[1] is not None]
     if len(f) < 2:
         return "데이터 부족 — 확정치 수기 확인"
     a, b = f[-2], f[-1]
     cum5 = sum(f[-5:])
+    tail = " · 당일 잠정 제외" if prov else ""
     if a > 0 and b > 0:
-        return f"🟢 점등 후보 — 외인 순매수 2일 연속(5일 누계 {cum5:+,.0f}억)"
+        return f"🟢 점등 후보 — 외인 순매수 2일 연속(5일 누계 {cum5:+,.0f}억){tail}"
     if a < 0 and b < 0:
-        return f"🔕 소등 — 외인 순매도 2일 연속(5일 누계 {cum5:+,.0f}억)"
-    return f"⚪ 중립 — 방향 혼재(5일 누계 {cum5:+,.0f}억)"
+        return f"🔕 소등 — 외인 순매도 2일 연속(5일 누계 {cum5:+,.0f}억){tail}"
+    return f"⚪ 중립 — 방향 혼재(5일 누계 {cum5:+,.0f}억){tail}"
 
 
 def main():
@@ -279,19 +284,20 @@ def main():
     if not HAS_FLOW:
         lines.append("> ⚠️ pandas 임포트 실패 — 수급 수집 불가(가격 파이프라인은 정상). 확정치 수기 확인.")
     else:
-        flow, err = foreign_flow()
+        flow, err, prov = foreign_flow()
         if err:
             lines.append(f"> ⚠️ 수급 수집 실패 — {err} · 확정치 수기 확인 필요.")
         else:
             lines.append("| 날짜 | 외국인 | 기관 |")
             lines.append("|------|--:|--:|")
-            for disp, fval, ival in flow:
+            for i, (disp, fval, ival) in enumerate(flow):
+                label = f"{disp}(잠정)" if (prov and i == len(flow) - 1) else disp
                 fs = f"{fval:+,.0f}" if fval is not None else "—"
                 is_ = f"{ival:+,.0f}" if ival is not None else "—"
-                lines.append(f"| {disp} | {fs} | {is_} |")
+                lines.append(f"| {label} | {fs} | {is_} |")
             lines.append(
-                f"> 🔎 §14-3 트리거(1차 참고): {trigger_flag(flow)} "
-                f"· 단위=억원(확정치 대조 검증됨) · ⚠️ 당일분은 장중 잠정 — 저녁 확정 종가로 재확인"
+                f"> 🔎 §14-3 트리거(1차 참고): {trigger_flag(flow, prov)} "
+                f"· 단위=억원(확정치 대조 검증됨) · ⚠️ 당일분(잠정)은 저녁 확정 종가로 재확인"
             )
     lines.append("")
 
