@@ -71,34 +71,49 @@ TICKERS, TICKER_SOURCE = load_tickers()
 KST = timezone(timedelta(hours=9))
 
 
-def _close_series(ticker: str):
-    """종가 시계열. 한국물(.KS·^KS11)=FinanceDataReader(Naver 백엔드, 마감 직후 당일 종가 반영),
-    그 외=yfinance. FDR 실패 시 yfinance로 폴백(파이프라인 사망 방지).
-    → yfinance의 KRX 당일 종가 지연(2026-07-14 16:57 수동실행도 stale 실증) 해소가 목적."""
+def _px_frame(ticker: str):
+    """가격 프레임(Close 필수, High/Low는 있으면). 한국물(.KS·^KS11)=FinanceDataReader
+    (Naver 백엔드, 마감 직후 당일 종가 반영), 그 외=yfinance. FDR 실패 시 yfinance 폴백.
+    High/Low는 🕯️샹들리에(§9-B) ATR 계산용 — 없으면 Close로 대체(근사)."""
     if ticker.endswith(".KS") or ticker == "^KS11":
         code = "KS11" if ticker == "^KS11" else ticker[:-3]
         start = (datetime.now(KST) - timedelta(days=420)).strftime("%Y-%m-%d")  # 200일선+버퍼
         try:
-            s = fdr.DataReader(code, start)["Close"].dropna()
-            if len(s) >= 200:
-                return s
+            df = fdr.DataReader(code, start)
+            if df is not None and len(df["Close"].dropna()) >= 200:
+                return df
         except Exception as e:
             print(f"FDR 실패({ticker}: {e}) → yfinance 폴백")
-    h = yf.Ticker(ticker).history(period="1y", auto_adjust=True)
-    return h["Close"].dropna()
+    return yf.Ticker(ticker).history(period="1y", auto_adjust=True)
+
+
+def _close_series(ticker: str):
+    return _px_frame(ticker)["Close"].dropna()
 
 
 def analyze(ticker: str):
     """종가 기준 이평 계산. 반환: dict or None"""
     try:
-        c = _close_series(ticker)  # 한국=FDR(당일 종가) / 미국=yfinance
-        c = c.dropna()  # nan 행 방어 (2026-07-11 KOSPI nan 출력 실증)
+        px = _px_frame(ticker)  # 한국=FDR(당일 종가) / 미국=yfinance
+        c = px["Close"].dropna()  # nan 행 방어 (2026-07-11 KOSPI nan 출력 실증)
         if len(c) < 200:
             return None
         last, prev = c.iloc[-1], c.iloc[-2]
         ma5, ma20 = c.rolling(5).mean().iloc[-1], c.rolling(20).mean().iloc[-1]
         ma50, ma200 = c.rolling(50).mean().iloc[-1], c.rolling(200).mean().iloc[-1]
         vol20 = c.pct_change().dropna().iloc[-20:].std() * (252 ** 0.5) * 100  # 20일 연율화 변동성 (§3-②)
+
+        # 🕯️ 샹들리에 청산선 (§9-B, 2026-07-22): 22일 최고종가 − 3×ATR22. 종가 기준.
+        # High/Low 결측 시 Close로 대체(근사) — 이 칸 실패는 행 전체를 죽이지 않음.
+        try:
+            hi = px["High"].reindex(c.index).fillna(c) if "High" in px else c
+            lo = px["Low"].reindex(c.index).fillna(c) if "Low" in px else c
+            pc = c.shift(1)
+            tr = (hi - lo).combine((hi - pc).abs(), max).combine((lo - pc).abs(), max)
+            atr22 = tr.rolling(22).mean().iloc[-1]
+            chand = c.rolling(22).max().iloc[-1] - 3 * atr22
+        except Exception:
+            chand = None
 
         above50 = (last / ma50 - 1) * 100
         cross = "5>20" if ma5 > ma20 else "5<20"
@@ -117,6 +132,7 @@ def analyze(ticker: str):
             "drawdown": (last / c.max() - 1) * 100,  # 1년 고점(종가) 대비
             "ret60": (last / c.iloc[-61] - 1) * 100,  # 60일 수익률 (§14-9 섹터 RS)
             "vol": vol20,  # 20일 연율화 변동성 (§3-② vol-target 사이징)
+            "chand": chand,  # 🕯️ 샹들리에 청산선 (§9-B)
             "cross": cross, "sig": sig,
         }
     except Exception:
@@ -300,6 +316,7 @@ def main():
         f"# 📡 신호 데이터 (자동 수집)",
         f"",
         f"> 생성: {now} · 소스: 한국=FinanceDataReader(Naver, 당일 종가) · 미국=Yahoo Finance · 수급=네이버 투자자매매동향 · 이평: 단순 SMA · 종목목록: {TICKER_SOURCE}",
+        f"> 🕯️청산선 = 22일 최고종가 − 3×ATR22 (샹들리에·§9-B 2026-07-22): **위성 청산 기준 / 코어는 그림자 병기**(§9+2R본전이 실제 청산). 종가가 이 선 아래 마감 = 청산 신호.",
         f"> ⚠️ 1차 참고 판정 — 최종 판정(양일유지·트리거)은 signals.md에서 사람이 확정. 날짜 옆 ⚠️ = 같은 시장 최신 종가보다 오래된 데이터(수집 지연·stale) — 직전 수집분과 교차 확인할 것.",
     ]
     if total:
@@ -312,16 +329,17 @@ def main():
 
     for group, rows in groups:
         lines.append(f"## {group}")
-        lines.append("| 종목 | 날짜 | 종가 | 등락 | vs50선 | vs200선 | 고점대비 | 변동성 | 5/20 | 참고판정 |")
-        lines.append("|------|:--:|--:|--:|--:|--:|--:|--:|:--:|:--:|")
+        lines.append("| 종목 | 날짜 | 종가 | 등락 | vs50선 | vs200선 | 고점대비 | 변동성 | 🕯️청산선 | 5/20 | 참고판정 |")
+        lines.append("|------|:--:|--:|--:|--:|--:|--:|--:|--:|:--:|:--:|")
         for name, tk, r in rows:
             if r is None:
-                lines.append(f"| {name} ({tk}) | — | 데이터 실패 | | | | | | | ⚠️ |")
+                lines.append(f"| {name} ({tk}) | — | 데이터 실패 | | | | | | | | ⚠️ |")
                 continue
+            ch = fmt_price(r["chand"]) if r.get("chand") is not None else "—"
             lines.append(
                 f"| {name} | {date_label(tk, r)} | {fmt_price(r['close'])} | {r['chg']:+.2f}% "
                 f"| {r['above50']:+.1f}% | {r['above200']:+.1f}% | {r['drawdown']:+.1f}% "
-                f"| {r['vol']:.0f}% | {r['cross']} | {r['sig']} |"
+                f"| {r['vol']:.0f}% | {ch} | {r['cross']} | {r['sig']} |"
             )
         b = breadth(rows)
         if b and "지수" not in group:
