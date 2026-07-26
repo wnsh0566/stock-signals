@@ -116,7 +116,10 @@ def scan(universe: dict, bench: str, pool: set):
     b = yf.download(bench, period="6mo", auto_adjust=True, progress=False)["Close"]
     if hasattr(b, "columns"):
         b = b.iloc[:, 0]
-    bench_3m = (b.iloc[-1] / b.iloc[-63] - 1) * 100 if len(b) >= 63 else 0.0
+    b = b.dropna()  # yfinance가 최신 행에 NaN을 끼우면 bench_3m이 NaN → 전 종목 RS 오염(2026-07-26 실증)
+    bench_3m = (float(b.iloc[-1]) / float(b.iloc[-63]) - 1) * 100 if len(b) >= 63 else 0.0
+    if bench_3m != bench_3m:  # NaN 최종 방어 — RS를 절대수익률로라도 남긴다
+        bench_3m = 0.0
 
     rows = []
     tickers = list(universe.keys())
