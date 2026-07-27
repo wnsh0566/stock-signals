@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-07-27 19:50 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-07-27 19:56 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 🇰🇷 증시·코스피
@@ -19,9 +19,9 @@
 - `07-27 19:09` [단독]서울 한복판에 거점 세운다... SK하이닉스, 강남 르메르디앙 호텔 자리에 사옥 건립 추진 - 아시아경제 — *아시아경제*
 - `07-27 19:00` SK하이닉스 2분기도 최대 기록 깨나…매출 84조·영업익 64조 예상 - 한겨레 — *한겨레*
 - `07-27 18:59` AI로 제조업 지도 변화...한국 반도체 수출서 대만 비중 급증 - 한겨레 — *한겨레*
+- `07-27 18:56` 대동금속, 반도체·발전·선박 부품 키운다…고부가 매출 37% 성장 전망 - 전자신문 — *전자신문*
 - `07-27 18:44` 한국, '반도체 강국'에서 'AI 허브'로…글로벌 빅테크의 실험무대 된다 - 재외동포신문 — *재외동포신문*
 - `07-27 18:28` '中 반도체첨병' CXMT 첫날 466% 급등…시총 712조, 美인텔 넘어(종합2보) - v.daum.net — *v.daum.net*
-- `07-27 18:26` 구미, AI 반도체 핵심소재 육성 박차…전자유리·그래핀 산업 생태계 강화 - kyongbuk.co.kr — *kyongbuk.co.kr*
 
 ## 🇰🇷 금융주
 - `07-27 19:24` iM금융그룹, 상반기 순이익 2956억…총영업이익 4.4% 증가 - 경상매일신문 — *경상매일신문*
@@ -44,6 +44,7 @@
 - `07-27 17:44` 부동산 토론회 마무리한 정부, 시장 안정 종합대책 내용은? - MTN 머니투데이방송 — *MTN 머니투데이방송*
 
 ## 🌍 AI·빅테크
+- `07-27 19:50` Nvidia in Talks for $250B Guarantee to OpenAI for Largest AI Data Center Build - Bitcoin Foundation — *Bitcoin Foundation*
 - `07-27 19:33` Jim Chanos Says Nvidia Is Effectively Financing Its Own AI Chip Sales in Reported OpenAI Deal - Benzinga — *Benzinga*
 - `07-27 19:20` Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing - Bloomberg.com — *Bloomberg.com*
 - `07-27 19:03` What is circular financing in AI infrastructure, and should telecoms and data centre operators be worried? - capacityglobal.com — *capacityglobal.com*
@@ -51,7 +52,6 @@
 - `07-27 17:41` SK Group, Nvidia sign $500bn deal for AI infrastructure - Yahoo Finance — *Yahoo Finance*
 - `07-27 17:36` NVIDIA weighs financing support for OpenAI’s $500 billion AI data center project - Nepalnews.com — *Nepalnews.com*
 - `07-27 17:35` The AI data center behind ChatGPT could cost more than $500 billion - The Independent — *The Independent*
-- `07-27 17:26` Nvidia in talks to back $250 billion financing for OpenAI’s mega data centre project: Report - Fortune India — *Fortune India*
 
 ## 🌍 연준·금리
 - `07-27 19:47` Fed funds futures show 65.8% chance of no rate hike this week; a 25 bp hike expected by Sept 2026. - Pluang — *Pluang*
@@ -61,17 +61,17 @@
 - `07-27 19:02` Mortgage rates hit 6.58%, highest of 2026, as Fed meets this week - eciks.org — *eciks.org*
 - `07-27 19:00` Why Kevin Warsh should think twice about hiking interest rates — even as anxiety over the Iran war grows - New York Post — *New York Post*
 - `07-27 18:47` Crypto Week Ahead - CoinDesk — *CoinDesk*
-- `07-27 18:11` Bond Traders on Edge as Middle East Conflict Clouds Fed Outlook - Bloomberg.com — *Bloomberg.com*
+- `07-27 18:13` Fed Chair Kevin Warsh Confronts Explosive Interest Rate Dilemma - streamlinefeed.co.ke — *streamlinefeed.co.ke*
 
 ## 🌍 유가·지정학
+- `07-27 19:49` Bitcoin (BTC) news: Prices retake $65,000 as oil slides, ETH outperforms - CoinDesk — *CoinDesk*
+- `07-27 19:45` Irish Energy Distributor Agrees to $7.7 Billion Takeover by KKR-Led Consortium - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `07-27 19:43` Oil price dives as US and Iran pause attacks - BBC — *BBC*
 - `07-27 19:42` Bitcoin Bounces as Iran War Pause Pressures Oil: Can BTC Price Reach $70K? - FXEmpire — *FXEmpire*
 - `07-27 19:37` Bitcoin holds firm as Hormuz hostilities pause, Fed prepares interest-rate decision: Crypto Markets Today - CoinDesk — *CoinDesk*
 - `07-27 19:35` Current price of oil as of July 27, 2026 - Fortune — *Fortune*
 - `07-27 19:28` Oil prices dip over 6% after US, Iran pause fighting over weekend - Yahoo Finance UK — *Yahoo Finance UK*
 - `07-27 19:09` Exxon, Chevron Stocks Drop Alongside Oil Prices as Trump Delays Iran Operation - Barron's — *Barron's*
-- `07-27 19:01` Stocks gain as oil slides after U.S., Iran pause strikes; FX mixed - TradingView — *TradingView*
-- `07-27 18:59` Exxon, Chevron Stocks Drop Alongside Oil Prices as Trump Delays Iran Operation - Barron's — *Barron's*
-- `07-27 18:53` Oil slump drags energy stocks lower amid U.S.-Iran strike pause (CL1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
 
 ## 🌍 시장 전반
 - `07-27 19:42` Last Friday, chip stocks experienced another broad sell-off. Can the $950 billion order save the market this week? - odaily.news — *odaily.news*
