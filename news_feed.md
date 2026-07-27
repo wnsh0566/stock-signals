@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-07-27 19:06 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-07-27 19:28 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 🇰🇷 증시·코스피
@@ -14,16 +14,17 @@
 - `07-27 17:41` 코스피, 장중 2% 하락 딛고 반등…6700선 회복했지만 외국인 2.9조 순매도 - 인더스트리뉴스 — *인더스트리뉴스*
 
 ## 🇰🇷 반도체·HBM
+- `07-27 19:15` AI가 바꾼 반도체 지형…국내 생산액 82% 수도권 몰렸다 - 국제신문 — *국제신문*
+- `07-27 19:09` [단독]서울 한복판에 거점 세운다... SK하이닉스, 강남 르메르디앙 호텔 자리에 사옥 건립 추진 - 아시아경제 — *아시아경제*
+- `07-27 18:59` AI로 제조업 지도 변화...한국 반도체 수출서 대만 비중 급증 - 한겨레 — *한겨레*
+- `07-27 18:44` 한국, '반도체 강국'에서 'AI 허브'로…글로벌 빅테크의 실험무대 된다 - 재외동포신문 — *재외동포신문*
 - `07-27 18:30` SK하이닉스, 엔비디아와 5000억 달러 AI 메모리 파트너십 체결 - 매일경제 마켓 — *매일경제 마켓*
+- `07-27 18:28` '中 반도체첨병' CXMT 첫날 466% 급등…시총 712조, 美인텔 넘어(종합2보) - v.daum.net — *v.daum.net*
 - `07-27 18:26` 구미, AI 반도체 핵심소재 육성 박차…전자유리·그래핀 산업 생태계 강화 - kyongbuk.co.kr — *kyongbuk.co.kr*
-- `07-27 18:18` AI 등장으로 재편된 韓반도체 공급망 구조… "中 수출 줄고 대만 늘어" - v.daum.net — *v.daum.net*
 - `07-27 18:16` 中반도체 첨병 CXMT, 삼전닉스 위협 'D램 굴기'로 떠오르다 [中 반도체 도전장] - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `07-27 18:09` [오늘의증시] AI 동맹에 반도체·코스닥 ‘활짝’…코스피 6755선 회복 - 경인방송 뉴스 — *경인방송 뉴스*
-- `07-27 18:08` 전남광주 시민단체 "호남 반도체, 환경·상생 대책 병행해야" - 연합뉴스 — *연합뉴스*
-- `07-27 18:05` '꿈의 현미경' 방사광가속기 오창에서 착공…반도체·신약 등 초격차 신기술 연구 - v.daum.net — *v.daum.net*
-- `07-27 18:03` [르포] 강풍 맞고 웨이퍼에 회로 '쓱쓱'...어린이 반도체 연구원이 된 30분 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
+- `07-27 19:24` iM금융그룹, 상반기 순이익 2956억…총영업이익 4.4% 증가 - 경상매일신문 — *경상매일신문*
 - `07-27 18:31` ‘회복력’ 확인한 임종룡 2기...하반기 수익성 ‘한 단계 더’ - 에너지경제신문 — *에너지경제신문*
 - `07-27 18:15` '주주환원' 하나금융 목표가 줄상향 - 한국경제 — *한국경제*
 - `07-27 18:08` BNK금융지주, 실적 둔화 전망 속 ‘합병 이슈’ 주목 - 부산일보 — *부산일보*
@@ -31,7 +32,6 @@
 - `07-27 18:00` [단독] '금융지주 회장 3연임' 법으로 막는다…'셀프 연임' 차단 - 한국경제 — *한국경제*
 - `07-27 18:00` [보험 인수전 치열] 금융그룹, 매물 보험사 4곳 자산 32조 '눈독'… 3% 운용시 年 1조 수익 - 글로벌이코노믹 — *글로벌이코노믹*
 - `07-27 18:00` [보험 인수전 치열] 금융그룹 공략 가속… 신한, 롯데손보·OK, 예별손보 새 주인 '성큼' - 글로벌이코노믹 — *글로벌이코노믹*
-- `07-27 17:57` ‘상반기 순익 13조’ 웃은 5대 금융지주...은행 부실 20% 상승에도 충당금은 1% ‘엇박자’ - 파이낸셜투데이 — *파이낸셜투데이*
 
 ## 🇰🇷 정책·거시
 - `07-27 18:45` 그린벨트 풀고 비거주 주택 세금 손질…정부, 부동산 대책 윤곽 [종합] - 이투데이 — *이투데이*
@@ -54,26 +54,27 @@
 - `07-27 15:16` Investor cash flow and financing test Korea chip rally and AI spend - CHOSUNBIZ - Chosunbiz — *Chosunbiz*
 
 ## 🌍 연준·금리
+- `07-27 19:04` Is Kevin Warsh Quietly Building a Case for Rate Cuts? Markets May Be Underestimating the Odds. - 24/7 Wall St. — *24/7 Wall St.*
 - `07-27 19:00` Why Kevin Warsh should think twice about hiking interest rates — even as anxiety over the Iran war grows - New York Post — *New York Post*
 - `07-27 18:47` Crypto Week Ahead - CoinDesk — *CoinDesk*
+- `07-27 18:11` Bond Traders on Edge as Middle East Conflict Clouds Fed Outlook - Bloomberg.com — *Bloomberg.com*
 - `07-27 18:00` Warsh’s Twist Could Be Higher Fed Rates and Lower Mortgage Rates - Bloomberg.com — *Bloomberg.com*
 - `07-27 18:00` Fed expected to hold rates steady — but an interest rate hike isn't off the table - Yahoo Finance — *Yahoo Finance*
 - `07-27 17:26` There's Now an 82% Chance of a Fed Rate Hike by mid-September -- Here's Why - Yahoo Finance — *Yahoo Finance*
 - `07-27 17:13` Ethereum Surges Toward $2,000 Mark, Hits Two-Month High - TradingKey — *TradingKey*
-- `07-27 17:13` Gold stands firm on US-Iran diplomacy hopes, reduced Fed hike bets; bulls lack conviction - FXStreet — *FXStreet*
-- `07-27 17:10` Fed Rate Decision June 2026: Divided Outlook and Investor Implications - News and Statistics - IndexBox — *IndexBox*
 
 ## 🌍 유가·지정학
+- `07-27 19:09` Exxon, Chevron Stocks Drop Alongside Oil Prices as Trump Delays Iran Operation - Barron's — *Barron's*
 - `07-27 18:59` Exxon, Chevron Stocks Drop Alongside Oil Prices as Trump Delays Iran Operation - Barron's — *Barron's*
 - `07-27 18:53` Oil slump drags energy stocks lower amid U.S.-Iran strike pause (CL1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
 - `07-27 18:52` Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy - NBC News — *NBC News*
+- `07-27 18:43` Oil price drops below $90 as US and Iran pause strikes - The Times — *The Times*
 - `07-27 18:40` Red Sea Tanker Traffic Falls to Multi-Month Low After Houthi Threats - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `07-27 18:19` Oil prices drop over 5% after U.S., Iran pause fighting over weekend - The Globe and Mail — *The Globe and Mail*
-- `07-27 18:16` Oil plunges as US halts bombing campaign against Iran - engine.online — *engine.online*
-- `07-27 18:02` Between Hormuz and Bab al-Mandab: Where are oil markets headed? - The New Arab — *The New Arab*
-- `07-27 17:59` India's MRPL seeks crude via tender avoiding Red Sea and Hormuz, document shows - Reuters — *Reuters*
+- `07-27 18:39` Deutsche Börse News: Oil Price Falls, DAX Rises (Week Ahead) - marketscreener.com — *marketscreener.com*
+- `07-27 18:39` Oil prices sink, shares gain as US, Iran pause fighting | Daily Sabah - Daily Sabah — *Daily Sabah*
 
 ## 🌍 시장 전반
+- `07-27 19:10` Stock market rally explained: What lifted Sensex by 776 points today? - CNBC TV18 - LinkedIn — *LinkedIn*
 - `07-27 18:11` Sensex Surges Over 800 Points, Nifty Reclaims 24,000 — Three Reasons Why Stock Market Is Rallying - NDTV Profit — *NDTV Profit*
 - `07-27 17:12` Consumer confidence weakens on stock market crash - Focus Taiwan — *Focus Taiwan*
 - `07-27 15:04` Korean Stock Market Extends Losses as Samsung, SK Hynix Lead Selloff - Coinpedia — *Coinpedia*
@@ -81,4 +82,3 @@
 - `07-27 13:27` US Stock Market: Rising oil prices and bond yields threaten Wall Street rally as Middle East tensions unse - The Economic Times — *The Economic Times*
 - `07-27 13:23` US Stock Market: Equity funds see second week of outflows as big tech earnings, oil rally dampen sentiment - The Economic Times — *The Economic Times*
 - `07-27 13:14` CXMT Can Rally More Than 1,200% on Market Share Win, Nomura Says - Bloomberg.com — *Bloomberg.com*
-- `07-27 12:02` Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week - MarketWatch — *MarketWatch*
