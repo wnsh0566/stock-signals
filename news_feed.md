@@ -1,84 +1,84 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-07-27 15:50 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-07-27 19:06 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 🇰🇷 증시·코스피
-- `07-27 15:39` 코스피, 0.97% 오른 6,755.75 마감 - 연합인포맥스 — *연합인포맥스*
-- `07-27 15:39` 코스피, 장중 등락 거듭하다 0.97% 오른 6755.75 마감 - 한국경제 — *한국경제*
-- `07-27 15:39` 코스피, 0.97% 상승한 6755.75 마감…코스닥 2.22%↑(2보) - 뉴스1 — *뉴스1*
-- `07-27 15:38` "'28% 급락' 코스피, 코로나 때 같은 V자 반등 어렵다"...'레버리지 후유증' 꼬집어 - v.daum.net — *v.daum.net*
-- `07-27 15:33` 코스피, 0.97% 오른 6755.75 마감…코스닥은 764.86 - 마켓인 — *마켓인*
-- `07-27 15:33` 코스피 65.13P 오른 6755.75 마감(0.97%↑) - 아시아경제 — *아시아경제*
-- `07-27 15:13` AI는 숨 고르고, 정책은 전면으로…글로벌 증시 셈법 바뀌나 [글로벌 레이더] - 에너지경제신문 — *에너지경제신문*
-- `07-27 15:11` ‘D램 굴기’ CXMT, 화려한 데뷔…中 증시 1위 직행 - 중앙일보 — *중앙일보*
+- `07-27 18:40` [증시 이야기] 상처는 눈을 가릴 뿐, 가치를 바꾸지 않는다 - v.daum.net — *v.daum.net*
+- `07-27 18:14` “코스피 상승? 이 시점에 끝”…34억 파이어족이 쟁인 3가지 - 중앙일보 — *중앙일보*
+- `07-27 18:09` [오늘의증시] AI 동맹에 반도체·코스닥 ‘활짝’…코스피 6755선 회복 - 경인방송 뉴스 — *경인방송 뉴스*
+- `07-27 18:07` 증시 흔들려도 금융주는 버텼다…호실적 타고 배당 기대 '쑥' - 인더스트리뉴스 — *인더스트리뉴스*
+- `07-27 18:03` 중국 반도체 상장에 코스피 오락가락...강보합 마감 - YTN — *YTN*
+- `07-27 17:44` [도쿄증시-마감] 중동 긴장 완화에 상승…반도체주는 약세 - 연합인포맥스 — *연합인포맥스*
+- `07-27 17:42` 개인·기관 쌍끌이에 코스피 급락공포 탈출…6700대로 반등 - 머니투데이 - 머니투데이 — *머니투데이*
+- `07-27 17:41` 코스피, 장중 2% 하락 딛고 반등…6700선 회복했지만 외국인 2.9조 순매도 - 인더스트리뉴스 — *인더스트리뉴스*
 
 ## 🇰🇷 반도체·HBM
-- `07-27 15:47` SK하이닉스 ADR, 韓보다 비싸게 거래…“발생해서는 안 될 현상” - 뉴스톱 — *뉴스톱*
-- `07-27 15:45` [가보니] 새빛가속기, 반도체·신약 개발의 '눈' 된다 - v.daum.net — *v.daum.net*
-- `07-27 15:37` [단독]반도체·AI 전력공급 핵심인데…345kV 송전망 70% 아직 미착공 - 머니투데이 - 머니투데이 — *머니투데이*
-- `07-27 15:35` “150℃에서 반도체를 쌓았다”... KAIST, AI 반도체 판 바꿀 ‘저온 적층’ 원천기술 세계 최초 구현 - 특허뉴스 — *특허뉴스*
-- `07-27 15:32` 과기정통부·AMD, 국산 AI반도체 키운다…공동 연구·인프라 구축 - 서울경제TV — *서울경제TV*
-- `07-27 15:18` [실리콘밸리 K-AI] 'HBM 패권' SK하이닉스, 엔비디아·MS 연쇄 동맹…글로벌 AI 메모리 질주 - 위키리크스한국 — *위키리크스한국*
-- `07-27 15:17` SK하이닉스, 2분기 역대 최대 실적 전망… D램·낸드·HBM 전방위 호황 - Chosunbiz — *Chosunbiz*
-- `07-27 15:15` 반도체 실적보다 중요한 건 AI 투자 지속성… 고점론 가를 ‘돈줄’ 본다 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `07-27 18:30` SK하이닉스, 엔비디아와 5000억 달러 AI 메모리 파트너십 체결 - 매일경제 마켓 — *매일경제 마켓*
+- `07-27 18:26` 구미, AI 반도체 핵심소재 육성 박차…전자유리·그래핀 산업 생태계 강화 - kyongbuk.co.kr — *kyongbuk.co.kr*
+- `07-27 18:18` AI 등장으로 재편된 韓반도체 공급망 구조… "中 수출 줄고 대만 늘어" - v.daum.net — *v.daum.net*
+- `07-27 18:16` 中반도체 첨병 CXMT, 삼전닉스 위협 'D램 굴기'로 떠오르다 [中 반도체 도전장] - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `07-27 18:09` [오늘의증시] AI 동맹에 반도체·코스닥 ‘활짝’…코스피 6755선 회복 - 경인방송 뉴스 — *경인방송 뉴스*
+- `07-27 18:08` 전남광주 시민단체 "호남 반도체, 환경·상생 대책 병행해야" - 연합뉴스 — *연합뉴스*
+- `07-27 18:05` '꿈의 현미경' 방사광가속기 오창에서 착공…반도체·신약 등 초격차 신기술 연구 - v.daum.net — *v.daum.net*
+- `07-27 18:03` [르포] 강풍 맞고 웨이퍼에 회로 '쓱쓱'...어린이 반도체 연구원이 된 30분 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
-- `07-27 15:33` ‘은행’보다 ‘증권·보험’...금융지주, 비은행이 키운 11조 실적 - 에너지경제신문 — *에너지경제신문*
-- `07-27 15:06` [기획] 금융지주 증권사, 거래대금 증가 수혜 ‘톡톡’ - 소년한국일보 — *소년한국일보*
-- `07-27 14:56` 밸류업 앞세운 정부, 금융지주 회장 임기 제한…엇갈린 정책 시그널 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `07-27 14:36` KB금융, 1500억원 유니콘 펀드 만든다…AI·반도체에 투자 - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
-- `07-27 14:25` [특징주] 우리금융지주, 자사주 추가 매입·소각 소식에 '강세' - 컨슈머타임스 — *컨슈머타임스*
-- `07-27 14:17` 보험 손익이 발목…금융지주 보험계열 실적 '희비' - 네이트 — *네이트*
-- `07-27 13:51` 금융지주 생보사 줄줄이 넘어졌는데…동양생명만 '나홀로 성장', 왜? - v.daum.net — *v.daum.net*
-- `07-27 13:40` [특징주] 우리금융지주, 자사주 매입·소각 및 현금배당 소식에 8%↑ - 뉴스웍스 — *뉴스웍스*
+- `07-27 18:31` ‘회복력’ 확인한 임종룡 2기...하반기 수익성 ‘한 단계 더’ - 에너지경제신문 — *에너지경제신문*
+- `07-27 18:15` '주주환원' 하나금융 목표가 줄상향 - 한국경제 — *한국경제*
+- `07-27 18:08` BNK금융지주, 실적 둔화 전망 속 ‘합병 이슈’ 주목 - 부산일보 — *부산일보*
+- `07-27 18:02` 얼라인發 JB·BNK 합병론, 전북 금융산업 ‘중대 기로’ - 전북도민일보 — *전북도민일보*
+- `07-27 18:00` [단독] '금융지주 회장 3연임' 법으로 막는다…'셀프 연임' 차단 - 한국경제 — *한국경제*
+- `07-27 18:00` [보험 인수전 치열] 금융그룹, 매물 보험사 4곳 자산 32조 '눈독'… 3% 운용시 年 1조 수익 - 글로벌이코노믹 — *글로벌이코노믹*
+- `07-27 18:00` [보험 인수전 치열] 금융그룹 공략 가속… 신한, 롯데손보·OK, 예별손보 새 주인 '성큼' - 글로벌이코노믹 — *글로벌이코노믹*
+- `07-27 17:57` ‘상반기 순익 13조’ 웃은 5대 금융지주...은행 부실 20% 상승에도 충당금은 1% ‘엇박자’ - 파이낸셜투데이 — *파이낸셜투데이*
 
 ## 🇰🇷 정책·거시
-- `07-27 13:53` 김용범 "레버리지 ETF 보완 대책 상당한 효과 기대…필요시 추가 조치" - KBC광주방송 — *KBC광주방송*
-- `07-27 13:32` 김용범 "보유세 강화 시 다주택자 퇴로 등 부동산 후속 대책 검토" - 알파경제 — *알파경제*
-- `07-27 13:32` 김용범 정책실장 "부동산 대책 구체화"…보유세·공급 확대·대출 보완 검토 - 일간투데이 — *일간투데이*
-- `07-27 11:31` 부동산공약 180도 바꾼 李대통령..후보시절엔 "부동산 세금 확 줄이고,대출 규제 완화" - 땅집고 — *땅집고*
-- `07-27 11:18` 靑 "부동산 대토론회 의견 정책 반영 검토…공급·세제 대책 구체화" - 대전일보 — *대전일보*
-- `07-27 10:37` 김용범 “장특공제 한도·다주택자 퇴로 등 부동산 대책에 반영 고민” - 뉴스톱 — *뉴스톱*
-- `07-27 10:33` 정부, 부동산 대책 구체화…보유세·초고가주택 기준 손질 검토 - 전국매일신문 — *전국매일신문*
-- `07-27 10:10` 국힘 "부동산 독재의 종말은 부동산 '지옥'…똘똘한 한 채 또 악마화" - 뉴시스 — *뉴시스*
+- `07-27 18:45` 그린벨트 풀고 비거주 주택 세금 손질…정부, 부동산 대책 윤곽 [종합] - 이투데이 — *이투데이*
+- `07-27 18:24` [숏폼] 장동혁 "이 대통령 부동산 대책없다. 자백" - kyongbuk.co.kr — *kyongbuk.co.kr*
+- `07-27 18:21` CJ공장부지 ‘50% 룰’ 풀면 2000가구 짓는다 [부동산 대책 임박] - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `07-27 18:19` 1주택 양도세 감면 ‘횟수 제한’ 빠져… 초고가는 종부세 강화 [부동산 대책 임박] - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `07-27 18:19` 김용범 "장특공제 한도·다주택자 퇴로 방안 고민" [부동산 대책 임박] - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `07-27 18:18` "비거주 1주택자 양도세 정상화 보유 아닌 거주기간으로 공제를" [부동산 대책 임박] - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `07-27 18:10` [사설]부동산 과세 강화하되 매물 잠김 대책도 빈틈없어야 - 경향신문 — *경향신문*
+- `07-27 17:44` 부동산 토론회 마무리한 정부, 시장 안정 종합대책 내용은? - MTN 머니투데이방송 — *MTN 머니투데이방송*
 
 ## 🌍 AI·빅테크
+- `07-27 19:03` What is circular financing in AI infrastructure, and should telecoms and data centre operators be worried? - capacityglobal.com — *capacityglobal.com*
+- `07-27 17:42` Nvidia Plans $250 Billion Financing Backing For OpenAI AI Data Centre: Report - Sarkaritel.com — *Sarkaritel.com*
+- `07-27 17:41` SK Group, Nvidia sign $500bn deal for AI infrastructure - Yahoo Finance — *Yahoo Finance*
+- `07-27 17:36` NVIDIA weighs financing support for OpenAI’s $500 billion AI data center project - Nepalnews.com — *Nepalnews.com*
+- `07-27 17:35` The AI data center behind ChatGPT could cost more than $500 billion - The Independent — *The Independent*
+- `07-27 17:26` Nvidia in talks to back $250 billion financing for OpenAI’s mega data centre project: Report - Fortune India — *Fortune India*
+- `07-27 15:48` Nvidia in Talks to Provide $250 Billion Guarantee for OpenAI Data Center Project - TradingKey — *TradingKey*
 - `07-27 15:16` Investor cash flow and financing test Korea chip rally and AI spend - CHOSUNBIZ - Chosunbiz — *Chosunbiz*
-- `07-27 15:00` Nvidia Deepens South Korea AI Push With $1 Billion NAVER Investment - AOL.com — *AOL.com*
-- `07-27 14:26` NVIDIA in Talks to Back $250 Bn OpenAI Data Centre Deal: Report - analyticsindiamag.com — *analyticsindiamag.com*
-- `07-27 14:23` Nvidia Eyes $250-Billion Financial Backing for OpenAI's AI Data Centre Plan - outlookbusiness.com — *outlookbusiness.com*
-- `07-27 13:23` Naver secures Nvidia’s $1b backing for AI factory push - The Korea Herald — *The Korea Herald*
-- `07-27 13:00` Nvidia, OpenAI In Talks For $250 Billion AI Data Centre Deal - StratNews Global — *StratNews Global*
-- `07-27 12:58` 'Big Short' Burry Increases Nvidia and Micron Shorts in Continued AI Bubble Bet - TradingKey — *TradingKey*
-- `07-27 12:46` Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 연준·금리
-- `07-27 15:32` Rates Spark: Either way, the Fed will surprise - ING Think — *ING Think*
-- `07-27 14:05` ME situation, Fed rate decision to drive D-St - Ahmedabad Mirror — *Ahmedabad Mirror*
-- `07-27 14:04` 4 Things That May Move Crypto Markets This Week as Fed Rate Hike Odds Increase - CryptoPotato — *CryptoPotato*
-- `07-27 14:00` Investors May Pay a Price for the Fed’s Zipped Lip - Barron's — *Barron's*
-- `07-27 13:00` Will he or won’t he? Fed chief Warsh could spring big surprise by raising rates this week - The Business Times — *The Business Times*
-- `07-27 11:11` Tension mounts ahead of the Federal Reserve's meeting this week: odds of a rate hike approach 40%, raising fears of a contentious vote with dissenting opinions - 富途牛牛 — *富途牛牛*
-- `07-27 11:05` Analysis of Federal Reserve Rate Hike Outlook - Intellectia AI — *Intellectia AI*
-- `07-27 10:49` Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount - Bloomberg.com — *Bloomberg.com*
+- `07-27 19:00` Why Kevin Warsh should think twice about hiking interest rates — even as anxiety over the Iran war grows - New York Post — *New York Post*
+- `07-27 18:47` Crypto Week Ahead - CoinDesk — *CoinDesk*
+- `07-27 18:00` Warsh’s Twist Could Be Higher Fed Rates and Lower Mortgage Rates - Bloomberg.com — *Bloomberg.com*
+- `07-27 18:00` Fed expected to hold rates steady — but an interest rate hike isn't off the table - Yahoo Finance — *Yahoo Finance*
+- `07-27 17:26` There's Now an 82% Chance of a Fed Rate Hike by mid-September -- Here's Why - Yahoo Finance — *Yahoo Finance*
+- `07-27 17:13` Ethereum Surges Toward $2,000 Mark, Hits Two-Month High - TradingKey — *TradingKey*
+- `07-27 17:13` Gold stands firm on US-Iran diplomacy hopes, reduced Fed hike bets; bulls lack conviction - FXStreet — *FXStreet*
+- `07-27 17:10` Fed Rate Decision June 2026: Divided Outlook and Investor Implications - News and Statistics - IndexBox — *IndexBox*
 
 ## 🌍 유가·지정학
-- `07-27 15:45` China's Crude Oil Imports Surge - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `07-27 15:37` Oil prices sink as US-Iran pause fuels fresh Hormuz hopes - The Times of Israel — *The Times of Israel*
-- `07-27 15:28` Oil: Mounting supply risks and price pressures – Commerzbank - FXStreet — *FXStreet*
-- `07-27 15:00` Euro Rises as Oil Drops, Iran Truce Weighs on Dollar - TradingPedia — *TradingPedia*
-- `07-27 14:58` Iran de-escalation sees big drop in Oil and short-Bond yields - FXStreet — *FXStreet*
-- `07-27 14:52` Indian Rupee recovers further as US-Iran war pause hits oil prices - FXStreet — *FXStreet*
-- `07-27 14:36` Thomas Massie Says Iran War Has 'Weakened' US, Points to Depleted Oil Reserves, Missile Defenses—Araghchi - Benzinga — *Benzinga*
-- `07-27 14:30` Oil prices plunge over 6 pct as US-Iran hostilities pause - 巴士的報 — *巴士的報*
+- `07-27 18:59` Exxon, Chevron Stocks Drop Alongside Oil Prices as Trump Delays Iran Operation - Barron's — *Barron's*
+- `07-27 18:53` Oil slump drags energy stocks lower amid U.S.-Iran strike pause (CL1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
+- `07-27 18:52` Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy - NBC News — *NBC News*
+- `07-27 18:40` Red Sea Tanker Traffic Falls to Multi-Month Low After Houthi Threats - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `07-27 18:19` Oil prices drop over 5% after U.S., Iran pause fighting over weekend - The Globe and Mail — *The Globe and Mail*
+- `07-27 18:16` Oil plunges as US halts bombing campaign against Iran - engine.online — *engine.online*
+- `07-27 18:02` Between Hormuz and Bab al-Mandab: Where are oil markets headed? - The New Arab — *The New Arab*
+- `07-27 17:59` India's MRPL seeks crude via tender avoiding Red Sea and Hormuz, document shows - Reuters — *Reuters*
 
 ## 🌍 시장 전반
+- `07-27 18:11` Sensex Surges Over 800 Points, Nifty Reclaims 24,000 — Three Reasons Why Stock Market Is Rallying - NDTV Profit — *NDTV Profit*
+- `07-27 17:12` Consumer confidence weakens on stock market crash - Focus Taiwan — *Focus Taiwan*
 - `07-27 15:04` Korean Stock Market Extends Losses as Samsung, SK Hynix Lead Selloff - Coinpedia — *Coinpedia*
-- `07-27 14:38` Global Market: China stocks rise as CXMT's blockbuster debut lifts market sentiment - The Economic Times — *The Economic Times*
-- `07-27 14:21` CXMT stock soars 535% on debut, and Nomura sees a 1,239% rally from its IPO price - Moneycontrol.com — *Moneycontrol.com*
-- `07-27 13:57` Chipmaker CXMT vaults to top of China’s valuation with 530% surge in Shanghai debut - WTVB — *WTVB*
+- `07-27 14:00` Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead - Investor's Business Daily — *Investor's Business Daily*
 - `07-27 13:27` US Stock Market: Rising oil prices and bond yields threaten Wall Street rally as Middle East tensions unse - The Economic Times — *The Economic Times*
 - `07-27 13:23` US Stock Market: Equity funds see second week of outflows as big tech earnings, oil rally dampen sentiment - The Economic Times — *The Economic Times*
 - `07-27 13:14` CXMT Can Rally More Than 1,200% on Market Share Win, Nomura Says - Bloomberg.com — *Bloomberg.com*
-- `07-27 13:09` Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead - Investor's Business Daily — *Investor's Business Daily*
+- `07-27 12:02` Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week - MarketWatch — *MarketWatch*
