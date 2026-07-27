@@ -90,3 +90,18 @@ jobs:
           git add signals_data.md
           git diff --cached --quiet || git commit -m "signals: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
+
+      # ── 뉴스 헤드라인 피드 (2026-07-27 신설) — 시세와 분리, 실패해도 시세 수집 무영향 ──
+      - name: Fetch news feed
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        run: python fetch_news.py
+
+      - name: Commit news feed
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        run: |
+          git add news_feed.md
+          git diff --cached --quiet || git commit -m "news: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main || true
+          git push || true
