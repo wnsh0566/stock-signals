@@ -12,12 +12,15 @@ on:
     - cron: "30 22 * * 0-5"   # 겨울(EST)용: UTC 22:30 = KST 07:30
     # ── 저녁(한국 확정 종가) — 한국은 서머타임 없음, 고정 ──
     # 요구: 16:20~30 KST까지 종가 확보(17:00 퇴근 전 30분 검토). 마감 15:30·Naver 종가 ~15:40 확정.
-    # GitHub 스케줄러는 정각/30분 등 혼잡시각에 지연·드롭이 극심 → 혼잡시각 회피 + 산탄식 4발로
-    # "먼저 붙는 놈이 커밋". 헤더 타임스탬프가 매 실행 바뀌어 diff는 항상 발생(중복 커밋은 무해).
-    - cron: "50 6 * * 1-5"    # UTC 06:50 = KST 15:50 (1차·지연 흡수용 최이른 시각)
-    - cron: "5 7 * * 1-5"     # UTC 07:05 = KST 16:05
-    - cron: "20 7 * * 1-5"    # UTC 07:20 = KST 16:20 (요구 창 하단)
-    - cron: "35 7 * * 1-5"    # UTC 07:35 = KST 16:35 (안전망)
+    # ★2026-07-27 개편: UTC 06:50~07:35 크론이 매일 균일 +2h20m 지연 실측(07-22~24, 실착지 18:12~19:02 KST).
+    #  크론은 늦기만 하고 이르게는 절대 발화 안 함 → "일찍 걸고, 이르면 잡 안에서 15:42 KST까지 대기" 방식으로 전환.
+    #  나열 6발 = 명목 KST 14:07~16:37. 지연 0이면 앞발들이 15:42까지 슬립 후 수집, 지연 2h면 뒷발들이 안전망.
+    - cron: "7 5 * * 1-5"     # UTC 05:07 = KST 14:07 (+2h20 지연 시 ~16:27 착지)
+    - cron: "37 5 * * 1-5"    # UTC 05:37 = KST 14:37
+    - cron: "7 6 * * 1-5"     # UTC 06:07 = KST 15:07
+    - cron: "37 6 * * 1-5"    # UTC 06:37 = KST 15:37
+    - cron: "7 7 * * 1-5"     # UTC 07:07 = KST 16:07
+    - cron: "37 7 * * 1-5"    # UTC 07:37 = KST 16:37 (최후 안전망)
   workflow_dispatch: {}        # 수동 실행(테스트) — 항상 실행됨
 
 permissions:
@@ -35,14 +38,32 @@ jobs:
           SCHED="${{ github.event.schedule }}"
           echo "NY=$NY_TZ / trigger=[$SCHED]"
           RUN=false
+          EVENING=false
           case "$SCHED" in
-            "")                                    RUN=true ;;         # 수동 실행
-            "50 6 "*|"5 7 "*|"20 7 "*|"35 7 "*)    RUN=true ;;         # 한국 저녁(산탄식 4발)
-            "30 21 "*)         [ "$NY_TZ" = "EDT" ] && RUN=true || true ;;  # 여름 아침
-            "30 22 "*)         [ "$NY_TZ" = "EST" ] && RUN=true || true ;;  # 겨울 아침
+            "")                RUN=true ;;                                   # 수동 실행 — 대기 없이 즉시
+            "30 21 "*)         [ "$NY_TZ" = "EDT" ] && RUN=true || true ;;   # 여름 아침
+            "30 22 "*)         [ "$NY_TZ" = "EST" ] && RUN=true || true ;;   # 겨울 아침
+            *)                 RUN=true; EVENING=true ;;                     # 그 외 스케줄 = 전부 한국 저녁 산탄
           esac
           echo "run=$RUN" >> "$GITHUB_OUTPUT"
+          echo "evening=$EVENING" >> "$GITHUB_OUTPUT"
           [ "$RUN" = "false" ] && echo "→ 계절에 안 맞는 트리거, 스킵" || true
+
+      - name: Wait until 15:42 KST (저녁 산탄이 장 마감 전에 착지한 경우만)
+        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.evening == 'true'
+        run: |
+          # 크론 지연이 없어 15:42 KST 이전에 시작됐다면 장 마감(15:30)+Naver 확정(~15:40)까지 대기.
+          # 지연 지각(평소 +2h대)이면 diff가 음수라 즉시 통과. 상한 100분(명목 14:07발 커버).
+          NOW=$(TZ=Asia/Seoul date +%s)
+          TARGET=$(TZ=Asia/Seoul date -d "$(TZ=Asia/Seoul date +%F) 15:42" +%s)
+          DIFF=$(( TARGET - NOW ))
+          if [ "$DIFF" -gt 0 ]; then
+            [ "$DIFF" -gt 6000 ] && DIFF=6000
+            echo "장 마감 전 착지 — ${DIFF}s 대기 후 수집"
+            sleep "$DIFF"
+          else
+            echo "이미 15:42 KST 이후 — 즉시 수집"
+          fi
 
       - uses: actions/checkout@v4
         if: steps.gate.outputs.run == 'true'
