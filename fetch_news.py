@@ -48,13 +48,39 @@ def fetch(query, lang):
     items.sort(key=lambda x: (x[0] is None, x[0] and -x[0].timestamp()))
     return items[:8]
 
+def calendar_section():
+    """calendar.json → D-day 카운트다운. 지난 이벤트는 7일 후 숨김. 실패해도 뉴스 수집 무영향."""
+    try:
+        import json
+        ev = json.load(open("calendar.json", encoding="utf-8"))["events"]
+    except Exception as e:
+        return [f"## 📅 이벤트 캘린더", f"- ⚠️ calendar.json 읽기 실패: {type(e).__name__}", ""]
+    out = ["## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)"]
+    today = NOW.date()
+    rows = []
+    for e in ev:
+        try:
+            d = datetime.strptime(e["date"], "%Y-%m-%d").date()
+        except Exception:
+            continue
+        dd = (d - today).days
+        if dd < -7:
+            continue
+        tag = {3: "⭐⭐⭐", 2: "⭐⭐", 1: "⭐"}.get(e.get("grade"), "")
+        tent = "~" if e.get("tent") else ""
+        dstr = "D-DAY" if dd == 0 else (f"D-{dd}" if dd > 0 else f"D+{-dd}")
+        rows.append((dd, f"- **{dstr}** ({tent}{d:%m/%d}) {tag} {e['label']}"))
+    rows.sort(key=lambda x: x[0])
+    out += [r for _, r in rows] + [""]
+    return out
+
 lines = [
     "# 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)",
     "",
     f"> 생성: {NOW:%Y-%m-%d %H:%M} KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건",
     "> ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.",
     "",
-]
+] + calendar_section()
 for name, q, lang in TOPICS:
     lines.append(f"## {name}")
     try:
