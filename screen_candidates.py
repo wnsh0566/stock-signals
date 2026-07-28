@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """
-주간 후보 스캐너 (v1.1 — 상대강도) · 매주 일요일 아침 자동 실행
+주간 후보 스캐너 (v1.2 — 상대강도 + 가치 참고 열) · 매주 일요일 아침 자동 실행
 S&P500 전체 + KOSPI 주요 ~105종목에서 "추세 살아있는 리더"(RS 상위 100)를 기계적으로 추출.
 
 ⚠️ 후보 소싱 전용 — 여기 나온 종목을 바로 사지 않는다.
    편입은 반드시: 1절 가치기준 → 밸류트랩 필터 → 8절 검증 → 7절 등재 → 신호 3종+양일유지.
 필터: 50선 위 AND 200선 위 (정배열 리더만) / 랭킹: 3개월 수익률 − 벤치마크(RS)
+가치 열(PER·fPER·EPS성장): 참고 표기 전용 — 필터·랭킹에 미사용(2026-07-28 운용자 승인:
+   "스캐너는 좋은 종목들을 많이 가져오고, 우리의 필터로 우리가 거른다" — 1절 가치 판단은 수동 영역 유지)
 """
 import io
 import json
 import os
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 
 import pandas as pd
@@ -158,20 +161,42 @@ def scan(universe: dict, bench: str, pool: set):
     return rows[:TOP_N], bench_3m
 
 
+def add_fundamentals(rows):
+    """TOP_N 확정 후에만 Yahoo 펀더멘털 조회(호출 최소화). 실패 종목은 '—'.
+    가치 열은 참고 전용 — 랭킹·필터에 절대 미사용."""
+    def one(tk):
+        try:
+            info = yf.Ticker(tk).info
+            return tk, (info.get("trailingPE"), info.get("forwardPE"),
+                        info.get("earningsGrowth"))
+        except Exception:
+            return tk, (None, None, None)
+
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        fund = dict(ex.map(one, [r["tk"] for r in rows]))
+    for r in rows:
+        pt, pf, eg = fund.get(r["tk"], (None, None, None))
+        r["per_t"] = f"{pt:.1f}" if isinstance(pt, (int, float)) and 0 < pt < 1000 else "—"
+        r["per_f"] = f"{pf:.1f}" if isinstance(pf, (int, float)) and 0 < pf < 1000 else "—"
+        r["eps_g"] = f"{eg * 100:+.0f}%" if isinstance(eg, (int, float)) else "—"
+    return rows
+
+
 def table(rows, bench_3m, bench_name):
     lines = [
         f"벤치마크({bench_name}) 3개월: {bench_3m:+.1f}%",
         "",
-        "| # | 종목 | 티커 | RS(3M초과) | 3M | 1M | vs50선 | vs200선 | 5/20 | 풀 |",
-        "|--:|------|------|--:|--:|--:|--:|--:|:--:|:--:|",
+        "| # | 종목 | 티커 | RS(3M초과) | 3M | 1M | vs50선 | vs200선 | 5/20 | PER | fPER | EPS성장 | 풀 |",
+        "|--:|------|------|--:|--:|--:|--:|--:|:--:|--:|--:|--:|:--:|",
     ]
     for i, r in enumerate(rows, 1):
         lines.append(
             f"| {i} | {r['name']} | {r['tk']} | **{r['rs']:+.1f}%p** | {r['r3m']:+.1f}% "
-            f"| {r['r1m']:+.1f}% | {r['a50']:+.1f}% | {r['a200']:+.1f}% | {r['cross']} | {r['inpool']} |"
+            f"| {r['r1m']:+.1f}% | {r['a50']:+.1f}% | {r['a200']:+.1f}% | {r['cross']} "
+            f"| {r.get('per_t', '—')} | {r.get('per_f', '—')} | {r.get('eps_g', '—')} | {r['inpool']} |"
         )
     if not rows:
-        lines.append("| — | (유니버스 로드 실패 또는 정배열 종목 없음) | | | | | | | | |")
+        lines.append("| — | (유니버스 로드 실패 또는 정배열 종목 없음) | | | | | | | | | | | |")
     return lines
 
 
@@ -179,19 +204,20 @@ def main():
     now = datetime.now(KST).strftime("%Y-%m-%d %H:%M KST")
     pool = load_pool()
     out = [
-        "# 🔎 주간 후보 스캔 (v1.1 — 상대강도 리더 TOP 100)",
+        "# 🔎 주간 후보 스캔 (v1.2 — 상대강도 리더 TOP 100 + 가치 참고 열)",
         "",
         f"> 생성: {now} · 필터: 50선 위 AND 200선 위(정배열) · 랭킹: 3개월 수익률 − 벤치마크",
         "> ⚠️ **후보 소싱 전용.** 편입은 1절 가치기준 → 밸류트랩 필터 → 8절 검증 필수. 바로 매수 금지.",
+        "> 💰 **PER(과거)·fPER(선행)·EPS성장(YoY)은 참고 표기 전용 — 필터·랭킹에 미사용.** 가치 판단(1절)은 수동 영역. 출처 Yahoo(— = 미제공/음수이익).",
         "> ✔풀 = 이미 감시 풀에 있는 종목(발굴 아님, 순위 확인용).",
         "",
         f"## 🇺🇸 S&P500 리더 TOP {TOP_N}",
     ]
     us, us_b = scan(sp500_universe(), "^GSPC", pool)
-    out += table(us, us_b, "S&P500")
+    out += table(add_fundamentals(us), us_b, "S&P500")
     out += ["", f"## 🇰🇷 KOSPI 주요종목 리더 TOP {TOP_N}"]
     kr, kr_b = scan(KR_UNIVERSE, "^KS11", pool)
-    out += table(kr, kr_b, "KOSPI")
+    out += table(add_fundamentals(kr), kr_b, "KOSPI")
     with open("candidates.md", "w", encoding="utf-8") as f:
         f.write("\n".join(out) + "\n")
     print(f"candidates.md written. US {len(us)} / KR {len(kr)}")
