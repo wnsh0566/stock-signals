@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-주간 후보 스캐너 (v1.2 — 상대강도 + 가치 참고 열) · 매주 일요일 아침 자동 실행
-S&P500 전체 + KOSPI 주요 ~105종목에서 "추세 살아있는 리더"(RS 상위 100)를 기계적으로 추출.
+주간 후보 스캐너 (v1.3 — 동적 유니버스 + 상대강도 + 가치 참고 열) · 매주 일요일 아침 자동 실행
+미국 S&P500+S&P400(~900) + 한국 KRX 시총 상위 300(코스닥 포함)에서 리더(RS 상위 100)를 기계적으로 추출.
 
 ⚠️ 후보 소싱 전용 — 여기 나온 종목을 바로 사지 않는다.
    편입은 반드시: 1절 가치기준 → 밸류트랩 필터 → 8절 검증 → 7절 등재 → 신호 3종+양일유지.
 필터: 50선 위 AND 200선 위 (정배열 리더만) / 랭킹: 3개월 수익률 − 벤치마크(RS)
-가치 열(PER·fPER·EPS성장): 참고 표기 전용 — 필터·랭킹에 미사용(2026-07-28 운용자 승인:
+가치 열(PER·fPER·EPS성장·PBR·ROE·배당): 참고 표기 전용 — 필터·랭킹에 미사용(2026-07-28 운용자 승인:
    "스캐너는 좋은 종목들을 많이 가져오고, 우리의 필터로 우리가 거른다" — 1절 가치 판단은 수동 영역 유지)
+v1.3(P5·P6, 2026-07-28): 유니버스 동적화 — 고정 105종목 리스트는 KRX 조회 실패 시 폴백으로만 유지.
+   200선 아래 회복 리더 섹션은 검토 후 기각(W2 — 기존 3겹 장치 신뢰·충동 접점 최소화).
 """
 import io
 import json
@@ -23,8 +25,8 @@ KST = timezone(timedelta(hours=9))
 TOP_N = 100
 CHUNK = 50
 
-# ── KOSPI 주요 종목 유니버스 (시총·유동성 상위 ~105, 필요시 수정) ──
-KR_UNIVERSE = {
+# ── 한국 폴백 유니버스 (KRX 동적 조회 실패 시에만 사용 — v1.3부터 기본은 kr_universe()) ──
+KR_FALLBACK = {
     # 반도체·IT
     "005930.KS": "삼성전자", "000660.KS": "SK하이닉스", "009150.KS": "삼성전기",
     "011070.KS": "LG이노텍", "018260.KS": "삼성에스디에스", "042700.KS": "한미반도체",
@@ -81,11 +83,11 @@ KR_UNIVERSE = {
 }
 
 
-def sp500_universe():
-    """위키피디아에서 S&P500 구성종목. 봇 차단 회피 위해 브라우저 UA로 요청."""
+def _wiki_sp(page: str, label: str):
+    """위키피디아 S&P 구성종목 표. 봇 차단 회피 위해 브라우저 UA로 요청."""
     try:
         resp = requests.get(
-            "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+            f"https://en.wikipedia.org/wiki/{page}",
             headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                                    "AppleWebKit/537.36 (KHTML, like Gecko) "
                                    "Chrome/126.0 Safari/537.36"},
@@ -95,11 +97,35 @@ def sp500_universe():
         df = pd.read_html(io.StringIO(resp.text))[0]
         uni = {str(r["Symbol"]).replace(".", "-"): str(r["Security"])
                for _, r in df.iterrows()}
-        print(f"S&P500 목록 {len(uni)}종목 로드")
+        print(f"{label} 목록 {len(uni)}종목 로드")
         return uni
     except Exception as e:
-        print(f"S&P500 목록 실패: {e}")
+        print(f"{label} 목록 실패: {e}")
         return {}
+
+
+def us_universe():
+    """S&P500 + S&P400 미드캡 (P5 — Powell·Vertiv급 미드캡 리더 발굴 사각 해소)."""
+    uni = _wiki_sp("List_of_S%26P_500_companies", "S&P500")
+    uni.update(_wiki_sp("List_of_S%26P_400_companies", "S&P400"))
+    return uni
+
+
+def kr_universe():
+    """KRX 시총 상위 300 (코스피+코스닥·보통주) — FinanceDataReader. 실패 시 고정 리스트 폴백."""
+    try:
+        import FinanceDataReader as fdr
+        df = fdr.StockListing("KRX")
+        df = df[df["Market"].isin(["KOSPI", "KOSDAQ"])]
+        df = df[df["Code"].str.endswith("0")]  # 우선주 제외(보통주 단축코드 끝자리 0)
+        df = df.sort_values("Marcap", ascending=False).head(300)
+        uni = {r["Code"] + (".KS" if r["Market"] == "KOSPI" else ".KQ"): str(r["Name"])
+               for _, r in df.iterrows()}
+        print(f"KRX 시총 상위 {len(uni)}종목 로드(코스닥 포함)")
+        return uni
+    except Exception as e:
+        print(f"KRX 동적 목록 실패({e}) — 고정 105종목 폴백")
+        return KR_FALLBACK
 
 
 def load_pool():
@@ -167,18 +193,28 @@ def add_fundamentals(rows):
     def one(tk):
         try:
             info = yf.Ticker(tk).info
+            # 배당수익률: dividendYield는 yfinance 버전에 따라 소수/퍼센트가 섞임 → rate/price로 직접 계산
+            dy = None
+            rate = info.get("trailingAnnualDividendRate")
+            px = info.get("regularMarketPrice") or info.get("currentPrice")
+            if isinstance(rate, (int, float)) and isinstance(px, (int, float)) and px > 0:
+                dy = rate / px * 100
             return tk, (info.get("trailingPE"), info.get("forwardPE"),
-                        info.get("earningsGrowth"))
+                        info.get("earningsGrowth"), info.get("priceToBook"),
+                        info.get("returnOnEquity"), dy)
         except Exception:
-            return tk, (None, None, None)
+            return tk, (None,) * 6
 
     with ThreadPoolExecutor(max_workers=8) as ex:
         fund = dict(ex.map(one, [r["tk"] for r in rows]))
     for r in rows:
-        pt, pf, eg = fund.get(r["tk"], (None, None, None))
+        pt, pf, eg, pb, roe, dy = fund.get(r["tk"], (None,) * 6)
         r["per_t"] = f"{pt:.1f}" if isinstance(pt, (int, float)) and 0 < pt < 1000 else "—"
         r["per_f"] = f"{pf:.1f}" if isinstance(pf, (int, float)) and 0 < pf < 1000 else "—"
         r["eps_g"] = f"{eg * 100:+.0f}%" if isinstance(eg, (int, float)) else "—"
+        r["pbr"] = f"{pb:.2f}" if isinstance(pb, (int, float)) and 0 < pb < 1000 else "—"
+        r["roe"] = f"{roe * 100:.1f}%" if isinstance(roe, (int, float)) else "—"
+        r["dy"] = f"{dy:.1f}%" if isinstance(dy, (int, float)) and 0 <= dy < 50 else "—"
     return rows
 
 
@@ -186,17 +222,18 @@ def table(rows, bench_3m, bench_name):
     lines = [
         f"벤치마크({bench_name}) 3개월: {bench_3m:+.1f}%",
         "",
-        "| # | 종목 | 티커 | RS(3M초과) | 3M | 1M | vs50선 | vs200선 | 5/20 | PER | fPER | EPS성장 | 풀 |",
-        "|--:|------|------|--:|--:|--:|--:|--:|:--:|--:|--:|--:|:--:|",
+        "| # | 종목 | 티커 | RS(3M초과) | 3M | 1M | vs50선 | vs200선 | 5/20 | PER | fPER | EPS성장 | PBR | ROE | 배당 | 풀 |",
+        "|--:|------|------|--:|--:|--:|--:|--:|:--:|--:|--:|--:|--:|--:|--:|:--:|",
     ]
     for i, r in enumerate(rows, 1):
         lines.append(
             f"| {i} | {r['name']} | {r['tk']} | **{r['rs']:+.1f}%p** | {r['r3m']:+.1f}% "
             f"| {r['r1m']:+.1f}% | {r['a50']:+.1f}% | {r['a200']:+.1f}% | {r['cross']} "
-            f"| {r.get('per_t', '—')} | {r.get('per_f', '—')} | {r.get('eps_g', '—')} | {r['inpool']} |"
+            f"| {r.get('per_t', '—')} | {r.get('per_f', '—')} | {r.get('eps_g', '—')} "
+            f"| {r.get('pbr', '—')} | {r.get('roe', '—')} | {r.get('dy', '—')} | {r['inpool']} |"
         )
     if not rows:
-        lines.append("| — | (유니버스 로드 실패 또는 정배열 종목 없음) | | | | | | | | | | | |")
+        lines.append("| — | (유니버스 로드 실패 또는 정배열 종목 없음) | | | | | | | | | | | | | | |")
     return lines
 
 
@@ -204,19 +241,19 @@ def main():
     now = datetime.now(KST).strftime("%Y-%m-%d %H:%M KST")
     pool = load_pool()
     out = [
-        "# 🔎 주간 후보 스캔 (v1.2 — 상대강도 리더 TOP 100 + 가치 참고 열)",
+        "# 🔎 주간 후보 스캔 (v1.3 — 동적 유니버스·상대강도 리더 TOP 100·가치 참고 열)",
         "",
-        f"> 생성: {now} · 필터: 50선 위 AND 200선 위(정배열) · 랭킹: 3개월 수익률 − 벤치마크",
+        f"> 생성: {now} · 유니버스: 🇺🇸 S&P500+400(~900) / 🇰🇷 KRX 시총 상위 300(코스닥 포함) · 필터: 50선 위 AND 200선 위(정배열) · 랭킹: 3개월 수익률 − 벤치마크",
         "> ⚠️ **후보 소싱 전용.** 편입은 1절 가치기준 → 밸류트랩 필터 → 8절 검증 필수. 바로 매수 금지.",
-        "> 💰 **PER(과거)·fPER(선행)·EPS성장(YoY)은 참고 표기 전용 — 필터·랭킹에 미사용.** 가치 판단(1절)은 수동 영역. 출처 Yahoo(— = 미제공/음수이익).",
+        "> 💰 **가치 열(PER·fPER·EPS성장·PBR·ROE·배당)은 참고 표기 전용 — 필터·랭킹에 미사용.** 가치 판단(1절)은 수동 영역. 출처 Yahoo(— = 미제공/음수이익). 1절 코어 심사 = 저PER+PBR<1+ROE 수반+배당 실재를 이 열들로 1차 확인.",
         "> ✔풀 = 이미 감시 풀에 있는 종목(발굴 아님, 순위 확인용).",
         "",
-        f"## 🇺🇸 S&P500 리더 TOP {TOP_N}",
+        f"## 🇺🇸 미국 리더 TOP {TOP_N} (S&P500+400)",
     ]
-    us, us_b = scan(sp500_universe(), "^GSPC", pool)
+    us, us_b = scan(us_universe(), "^GSPC", pool)
     out += table(add_fundamentals(us), us_b, "S&P500")
-    out += ["", f"## 🇰🇷 KOSPI 주요종목 리더 TOP {TOP_N}"]
-    kr, kr_b = scan(KR_UNIVERSE, "^KS11", pool)
+    out += ["", f"## 🇰🇷 한국 리더 TOP {TOP_N} (KRX 시총 300·코스닥 포함)"]
+    kr, kr_b = scan(kr_universe(), "^KS11", pool)
     out += table(add_fundamentals(kr), kr_b, "KOSPI")
     with open("candidates.md", "w", encoding="utf-8") as f:
         f.write("\n".join(out) + "\n")

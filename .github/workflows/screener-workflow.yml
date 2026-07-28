@@ -20,7 +20,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install deps
-        run: pip install yfinance pandas lxml requests
+        run: pip install yfinance pandas lxml requests finance-datareader
 
       - name: Run screener
         run: python screen_candidates.py
