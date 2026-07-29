@@ -1,97 +1,97 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-07-29 16:05 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-07-30 07:31 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D-DAY** (07/29) ⭐⭐⭐ SK하이닉스 2Q 실적 — HBM 가이던스·중국 격차 답변
-- **D-1** (07/30) ⭐⭐⭐ FOMC 결과 발표(한국시각 새벽) — 인상 확률 ~40%
-- **D-1** (07/30) ⭐⭐ 삼성전자 컨콜 + 자금 입금(대기 확정·매수 아님)
-- **D-3** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
-- **D-9** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
-- **D-9** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
-- **D-11** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
-- **D-14** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
-- **D-16** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
-- **D-29** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
-- **D-30** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
+- **D+1** (07/29) ⭐⭐⭐ SK하이닉스 2Q 실적 — HBM 가이던스·중국 격차 답변
+- **D-DAY** (07/30) ⭐⭐⭐ FOMC 결과 발표(한국시각 새벽) — 인상 확률 ~40%
+- **D-DAY** (07/30) ⭐⭐ 삼성전자 컨콜 + 자금 입금(대기 확정·매수 아님)
+- **D-2** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
+- **D-8** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
+- **D-8** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
+- **D-10** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
+- **D-13** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
+- **D-15** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
+- **D-28** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
+- **D-29** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `07-29 15:56` 코스피 폭락 속 방어주·로봇주 강세와 한은의 금리 기조 등 이시각 주요뉴스 - 연합인포맥스 — *연합인포맥스*
-- `07-29 15:55` 장중 12%대까지 급락한 코스피…기관 매수에 낙폭 줄여 5660선 마감 - v.daum.net — *v.daum.net*
-- `07-29 15:55` [속보] 코스피 이틀 연속 급락…6,000선 무너져 - 연합뉴스TV — *연합뉴스TV*
-- `07-29 15:45` [경제][속보] 연이틀 코스피·코스닥 서킷브레이커...'6천피' 붕괴 - YTN — *YTN*
-- `07-29 15:42` 이틀째 중단된 증시 거래..."국가적 지혜 모아야 할 상황" [Y녹취록] - YTN — *YTN*
-- `07-29 15:40` [속보] 사상 첫 이틀 연속 동반 서킷브레이커, 6천 내준 코스피 5,663.24로 마감 - 대구MBC — *대구MBC*
-- `07-29 15:40` 코스피, 5.98% 내린 5,663.24 마감…'6천피' 하회 - 연합인포맥스 — *연합인포맥스*
-- `07-29 15:28` 증시 급락에 국고 3년 3.8% 하회…3.794% - 연합인포맥스 — *연합인포맥스*
+- `07-30 07:06` 뉴욕증시 기술주 흔들…실적·악재에 갈린 종목별 명암 [美증시 특징주] - v.daum.net — *v.daum.net*
+- `07-30 06:24` 뉴욕증시, 연준 금리 동결 속 하락…다우 2%↓ - 연합뉴스TV — *연합뉴스TV*
+- `07-30 06:09` 美 기준 금리 5연속 동결‥미 국채 급등·뉴욕증시 급락 - MBC 뉴스 — *MBC 뉴스*
+- `07-30 06:08` "물가 잡겠다" 워시 못 믿는 채권시장...미 증시 '와르르'[뉴욕마감] - 머니투데이 - 머니투데이 — *머니투데이*
+- `07-30 06:04` '실적'은 없다‥충격의 코스피 다시 5,000대로 - MBC 뉴스 — *MBC 뉴스*
+- `07-30 06:00` [뉴욕증시] '손 안 대고 코 푼' 워시에 요동쳤다…급락 마감 - 연합인포맥스 — *연합인포맥스*
+- `07-30 05:52` [뉴욕증시]FOMC 결과에 30년물 5.2% 돌파…일제히 하락 마감 - 아시아경제 — *아시아경제*
+- `07-30 05:43` ‘매파 연준’에 뉴욕 증시 와르르…삼전ㆍSK하닉 더 커진 부담감 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `07-29 15:56` 한국원자력연구원-SK하이닉스, 반도체 방사선 영향평가 협력 강화 - 기계신문 — *기계신문*
-- `07-29 15:53` SK하이닉스, AI 수요 강세 속 2분기 사상 최대 실적…상반기 누적 매출 첫 100조원 돌파 - 인포스탁데일리 — *인포스탁데일리*
-- `07-29 15:44` 한겨레 ‘반도체발 격차사회’ 기획 보도, 민주언론실천상 수상 - 한겨레 — *한겨레*
-- `07-29 15:42` “짠물 배당 언제까지”…또 ‘최대 실적’ 갈아치운 SK하이닉스의 과제 - 주주경제신문 — *주주경제신문*
-- `07-29 15:41` BNK證, SK하이닉스 목표가 148만원까지 낮췄다…"반등 제한적" - 연합인포맥스 — *연합인포맥스*
-- `07-29 15:26` SK하이닉스 시총, 3개월 만에 1천조원 하락 후 회복 - SBS Biz — *SBS Biz*
-- `07-29 15:25` SK하이닉스 "100원 팔면 76원 남아"…엔비디아·TSMC 앞질렀다 - v.daum.net — *v.daum.net*
-- `07-29 15:24` SK하이닉스 "100원 팔면 76원 남아"…엔비디아·TSMC 앞질렀다 - 뉴스1 — *뉴스1*
+- `07-30 07:26` "반도체·자동차 라인 또 멈췄다"… 구마모토 강진에 日 공급망 마비 경보 - 글로벌이코노믹 — *글로벌이코노믹*
+- `07-30 07:19` [반도체 진주, 일본서 캐다] 칩은 바뀌어도 원판은 안 바뀐다 ①웨이퍼 1위 신에쓰화학 - 뉴스핌 — *뉴스핌*
+- `07-30 07:16` KB증권, SK하이닉스 목표주가 420만원 유지…"공포가 만든 기회" - 이투데이 — *이투데이*
+- `07-30 07:06` 엔비디아, HBM 원가 조정…한국 반도체 협상력 영향 - 글로벌이코노믹 — *글로벌이코노믹*
+- `07-30 07:05` 얼어붙은 반도체 투자 심리…연이틀 주가 폭락 - news.kbs.co.kr — *news.kbs.co.kr*
+- `07-30 07:00` [천지일보 이슈종합] 코스피 6000선 붕괴·SK하이닉스 영업익 60조·양산 39.9도 폭염·日 구마모토 강진·보완수사권 통과·공소기각 사유 논란·보유세·참정권 집회 - 천지일보 — *천지일보*
+- `07-30 06:56` [아주증시포커스] 검은 수요일 현실화…SK하이닉스 최대 실적에도 반도체주 와르르 外 - 아주경제 — *아주경제*
+- `07-30 06:31` 삼성전자, 사상 최대 2Q 실적 발표…반도체 피크아웃 우려 종식 주목 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
-- `07-29 15:58` [BNK 밸류업] ④이사회 경고도 무시된 충당금…만성 저평가 탈출, '이익의 질'에 달렸다 - 스마트투데이 — *스마트투데이*
-- `07-29 15:42` NH농협은행, 인터넷뱅킹에 ‘전자점자 서비스' 도입 - 이지경제 — *이지경제*
-- `07-29 15:32` 지방금융지주-은행 실적 악화...아이엠금융-BNK '직격탄(?)' - 금융소비자뉴스 — *금융소비자뉴스*
-- `07-29 15:27` BNK금융, 민·관·노 협력, 건설노동자 포용금융으로 품는다 - 한국경제 — *한국경제*
-- `07-29 15:11` '개미'가 살린 증권사···금융지주 계열 상반기 최대 실적 - 스마트비즈 — *스마트비즈*
-- `07-29 15:06` 4대 금융지주, 보통주자본비율 '희비'...우리금융만 웃었다 - 데일리한국 — *데일리한국*
-- `07-29 15:00` 5대 금융지주, 보험실적 '냉풍'…일제히 하락 - 전자신문 — *전자신문*
-- `07-29 14:54` '역대 최대 실적'에도 웃지 못한 하나금융…건전성·자본력 '4대 금융 최하위' - 데일리스포츠한국 — *데일리스포츠한국*
+- `07-30 07:00` 4대 금융지주, 인건비 늘어도 CIR ‘안정’…KB 효율성 가장 높았다 - CEO스코어데일리 — *CEO스코어데일리*
+- `07-30 05:30` ▒종합 경제정보 미디어 - 이데일리IR▒ - ir.edaily.co.kr — *ir.edaily.co.kr*
+- `07-30 05:00` [서울 중심 금융 탈피] 하나금융 청라 이전, 4대 금융지주·해외IB 전주 집결 - 글로벌이코노믹 — *글로벌이코노믹*
+- `07-30 00:02` 금융지주 '보험 경쟁' 새 국면…KB는 수성, 신한·우리는 M&A 승부수 - v.daum.net — *v.daum.net*
+- `07-29 23:24` AI 전략은 지주, 기술은 현장…금융그룹 AX '이원화' : 네이버 블로그 - Naver Blog — *Naver Blog*
+- `07-29 18:51` KDB생명 본입찰 D-9…판세 관측 엇갈리고 실사 국면엔 한국투자금융지주와 ‘잡음’도 - 뉴스필드 — *뉴스필드*
+- `07-29 18:28` 메리츠금융지주, 회사채 수요예측에 3배 넘는 주문 모여…전 구간 '언더' - 연합인포맥스 — *연합인포맥스*
+- `07-29 18:18` 이억원 "금융지주 회장 연임 제한 아직 미확정" - 아이뉴스24 — *아이뉴스24*
 
 ## 🇰🇷 정책·거시
+- `07-30 06:10` “금융 당국발 인재” “ETF 명칭 쓰지 말아야”…여야, ‘레버리지 ETF’ 대책 요구 - news.kbs.co.kr — *news.kbs.co.kr*
+- `07-30 05:05` 신규 택지·그린벨트 풀고 세제·대출 조인다…부동산 대책 윤곽 - news1.kr — *news1.kr*
+- `07-29 21:24` [사설] 부동산 대책, 수요자 금융만 풀고 PF는 묶어둘 건가 - 대한경제 — *대한경제*
+- `07-29 16:53` 경제·금융당국 수장 긴급 F4회의…증시 폭락 대책 논의 - 네이트 — *네이트*
+- `07-29 16:52` 경제·금융당국 수장 긴급 F4회의…증시 폭락 대책 논의 - 뉴시스 — *뉴시스*
 - `07-29 15:29` 與 "ETF 대책 늦었다"·野 "선거용 졸속 도입"…정무위서 금융당국 질타 - 매일일보 — *매일일보*
+- `07-29 13:42` 금융당국 수장들 "레버리지 ETF 책임 무겁다"…추가 대책 검토 - 미디어펜 — *미디어펜*
 - `07-29 10:54` 부동산 규제 강화 중심 대책 발표된다면...부산 등 지역은? - BBS불교방송 — *BBS불교방송*
-- `07-29 10:41` 금융당국, 단일종목 레버리지 면밀 모니터링…필요시 추가 대책 논의 - edaily.co.kr — *edaily.co.kr*
-- `07-29 10:28` "투기꾼 몰지 말라" 부동산 민심 곳곳 폭발 … 6번째 대책 앞두고 외통수 몰리나 - 뉴데일리 — *뉴데일리*
-- `07-29 09:28` 부동산 경기 침체에 은행 대출 연체율 급등... 정부 대책은? - 공감신문 — *공감신문*
-- `07-29 08:55` 부동산 대책 발표 앞두고도 “집값 오른다” 심리 5년 만에 가장 높아 - JTBC — *JTBC*
-- `07-29 05:00` [우보세] 누더기 '부동산 세제' 잔혹사 - 머니투데이 - 머니투데이 — *머니투데이*
-- `07-29 05:00` 잔금대출은 풀고 전세대출은 죈다…금융당국, 부동산 금융 대책 막판 고심 - 뉴스1 — *뉴스1*
 
 ## 🌍 AI·빅테크
-- `07-29 08:15` AI safety, SEND reform and higher education news | ETIH EdTech News - EdTech Innovation Hub — *EdTech Innovation Hub*
-- `07-29 03:02` Nvidia’s credit default swap hits record high as AI spending soars - eciks.org — *eciks.org*
-- `07-29 02:30` AI Alignment Debate Intensifies as OpenAI Seeks $250B Nvidia Backstop for Massive Data Center - AI Insider — *AI Insider*
-- `07-29 02:23` Nvidia (NASDAQ:NVDA) AI Financing Story Gains Momentum - Kalkine Media — *Kalkine Media*
-- `07-29 02:12` Nvidia Is Becoming the ‘Central Bank of AI,’ As It Weighs $250 Billion OpenAI Data-Center Backstop - MarketWise — *MarketWise*
-- `07-29 02:01` Nvidia May Have Cracked the AI Sales Formula With OpenAI - Memeburn — *Memeburn*
-- `07-29 01:30` Jim Chanos Says Nvidia Is Effectively Financing Its Own AI Chip Sales in Reported OpenAI Deal - Yahoo Finance — *Yahoo Finance*
-- `07-29 00:31` The 5 Hyperscaler Stocks Most at Risk If AI Capex Spending Hits a Wall in 2026 - 24/7 Wall St. — *24/7 Wall St.*
+- `07-30 05:10` Meta Narrows 2026 Capex Forecast Amid Rising AI Buildout - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `07-30 04:37` Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds - Yahoo Finance — *Yahoo Finance*
+- `07-30 03:50` Nebius (NASDAQ: NBIS) And CoreWeave (NASDAQ: CRWV) Stock Plunge As Credit-Swap Costs Threaten AI Infrastructure Financing - foreignpolicyjournal.com — *foreignpolicyjournal.com*
+- `07-30 01:43` Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade - 24/7 Wall St. — *24/7 Wall St.*
+- `07-30 01:40` NVIDIA Talks: Backing OpenAI's US$500bn Ohio AI Data Centre - Data Centre Magazine — *Data Centre Magazine*
+- `07-30 01:24` Nvidia's $750 Billion AI Investment Web Faces Growing Scrutiny, Putting Stock Under Pressure - CarbonCredits.com — *CarbonCredits.com*
+- `07-30 01:13` Alphabet Captures 2026 AI Capex Alpha But Amazon Begins Surging in 2027 - 24/7 Wall St. — *24/7 Wall St.*
+- `07-30 01:13` OpenAI Plans US$500 Billion AI Data Center With Nvidia Backing - Mexico Business News — *Mexico Business News*
 
 ## 🌍 연준·금리
-- `07-29 15:54` Federal Reserve Meeting Carries Stakes Beyond Interest Rates - Bloomberg.com — *Bloomberg.com*
-- `07-29 14:46` Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong. - CoinDesk — *CoinDesk*
-- `07-29 14:03` Gold holds steady ahead of Fed's rate decision - Reuters — *Reuters*
-- `07-29 14:01` The LLM FOMC votes to raise - Financial Times — *Financial Times*
-- `07-29 13:44` US dollar may weaken if Fed holds rates steady this week: TD Securities - TradingView — *TradingView*
-- `07-29 13:40` BofA and Deutsche Bank remain confident the Fed will hold rates - IDNFinancials — *IDNFinancials*
-- `07-29 13:37` Despite frustration over high prices, Federal Reserve is expected to keep rates unchanged - for now - SRN News — *SRN News*
-- `07-29 13:18` Fed weighs rate hike amid mixed signals - | Florida Realtors — *| Florida Realtors*
+- `07-30 07:24` Opinion | The Fed held rates steady, but Kevin Warsh is serious about inflation - The Washington Post — *The Washington Post*
+- `07-30 07:16` Wall Street closes down sharply after Fed keeps rates unchanged - NBC News — *NBC News*
+- `07-30 07:14` Fed holds interest rates for fifth straight time - localnewslive.com — *localnewslive.com*
+- `07-30 07:10` Federal Reserve holds rates steady for fifth straight meeting - cbs19.tv — *cbs19.tv*
+- `07-30 07:06` Federal Reserve holds interest rates, but signals potential hike ahead - WRAL — *WRAL*
+- `07-30 07:03` Federal Reserve keeps interest rates steady - KVUE — *KVUE*
+- `07-30 06:51` The Fed Held Rates at 3.5%-3.75%. Here's What That Means for Walmart, Costco, and Target. - The Motley Fool — *The Motley Fool*
+- `07-30 06:45` Federal Reserve holds interest rates steady, but 3 officials vote for hike - CBS News — *CBS News*
 
 ## 🌍 유가·지정학
-- `07-29 15:58` Oil: Volatile on Iran conflict swings – UOB - FXStreet — *FXStreet*
-- `07-29 15:43` CPC Hints at Fuel Price Cut as Global Oil Prices Ease - ChemAnalyst — *ChemAnalyst*
-- `07-29 15:30` New Zealand Awards First Offshore Oil License Since Ending Drilling Ban - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `07-29 15:26` WTI Price Forecast: Likely revisit 50-day high above $92 on renewed US-Iran attacks - FXStreet — *FXStreet*
-- `07-29 14:43` Israel Built A Secret Oil Pipeline With Iran. Saudi Arabia May Need It Most - NDTV — *NDTV*
-- `07-29 14:26` ‘Obey US, Face Consequences’: Iran Strikes Oil Tankers; Warns Ships Against Following U.S Orders - The Times of India — *The Times of India*
-- `07-29 14:04` US oil lobby rejects Hormuz toll proposal, says Iran must not control key oil route - Firstpost — *Firstpost*
-- `07-29 13:53` Oil jumps after Iran launches ‘surprise attack’ on US forces - Arabian Gulf Business Insight | AGBI — *Arabian Gulf Business Insight | AGBI*
+- `07-30 07:08` DJIA Plunges And Oil Surges As Trump Issues Iran Threats; Microsoft (NASDAQ: MSFT), Meta (NASDAQ: META) Drive After-Hours Action - foreignpolicyjournal.com — *foreignpolicyjournal.com*
+- `07-30 07:00` Low Gas Storage and Diesel Shortages Threaten Europe's Winter Supply - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `07-30 06:56` Escalating US-Iran tensions push oil prices higher - thehill.com — *thehill.com*
+- `07-30 06:40` Oil-producing states benefit from war-driven windfall - marketplace.org — *marketplace.org*
+- `07-30 06:38` Oil prices jump up as US-Iran tensions escalate - thehill.com — *thehill.com*
+- `07-30 06:35` US oil inventories sink as Hormuz traffic remains subdued - thenationalnews.com — *thenationalnews.com*
+- `07-30 06:35` NY Crude Oil Surges, Reclaims $84 Level as Iran Resumes Missile Attacks on U.S. Forces, Reigniting Supply Fears - finance.biggo.com — *finance.biggo.com*
+- `07-30 06:24` Consumer Cos Down on Oil Price Worries - Consumer Roundup - Moomoo — *Moomoo*
 
 ## 🌍 시장 전반
-- `07-29 15:10` South Korea Stock Market Crash Wipes Out ₩2.5 Quadrillion in 40 Days - Coinpedia Fintech News — *Coinpedia Fintech News*
-- `07-29 15:04` Stock market today: Japan’s Nikkei dips, South Korea’s KOSPI falls 6.81 percent as traders await Microsoft, Meta earnings amid tech selloff - Economy Middle East — *Economy Middle East*
-- `07-29 14:46` Global Market: Japan's Nikkei swings between gains and losses as AI stock selloff persists - The Economic Times — *The Economic Times*
-- `07-29 14:37` Global Market: China stocks slip as AI-linked selloff deepens; Hong Kong gains on internet shares - The Economic Times — *The Economic Times*
-- `07-29 13:45` South Korea stocks plunge 11%, trading halted again as SK Hynix earnings deepen AI chip rout - Firstpost — *Firstpost*
-- `07-29 13:37` Are Chip Stocks About to Crash the Market? - The Globe and Mail — *The Globe and Mail*
-- `07-29 13:16` Sensex jumps 700 points: 3 reasons why the stock market is rising today - India Today — *India Today*
-- `07-29 12:43` Asian Stock Markets Today: Nikkei, Kospi Remain Under Pressure After Reports Of Fresh U.S. Action In Iran - NDTV Profit — *NDTV Profit*
+- `07-30 06:56` Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates - marketwatch.com — *marketwatch.com*
+- `07-30 06:00` Footsie defies global tech sell-off to hit record high: AI chip-makers in US and Asia suffer second day of losses - This is Money — *This is Money*
+- `07-30 03:29` Market Indexes Tumble on Geopolitical Tensions and Chip Stock Selloff - The Motley Fool — *The Motley Fool*
+- `07-30 03:02` Could an AI market crash rival 2000 or 2008? Unlikely - The Globe and Mail — *The Globe and Mail*
+- `07-30 02:54` South Korea’s stock market plunges as AI-driven boom fades - Al Jazeera — *Al Jazeera*
+- `07-30 02:49` Market Indexes Tumble on Geopolitical Tensions and Chip Stock Selloff - Yahoo Finance — *Yahoo Finance*
+- `07-30 02:12` The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight - marketwatch.com — *marketwatch.com*
+- `07-30 01:16` US Stock Market Crash: Oil Spike To Fed Pivot Fears — Three Reasons Why Wall Street Is Under Pressure - NDTV Profit — *NDTV Profit*
