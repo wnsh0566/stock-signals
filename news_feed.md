@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-07-30 16:43 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-07-30 16:57 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,34 +17,34 @@
 - **D-29** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
+- `07-30 16:46` "증시 비상사태" 질타에 당국도 비상…'공매도 금지' 만지작 - 연합인포맥스 — *연합인포맥스*
+- `07-30 16:45` 삼성전자 호실적에도 코스피 5500선 후퇴…5거래일 연속 하락 - 인더스트리뉴스 — *인더스트리뉴스*
+- `07-30 16:44` 삼성전자 호실적에도...코스피 1.2% 약세 마감 - YTN — *YTN*
+- `07-30 16:40` "코스피 역사적 저평가 구간…낙폭 과대 대형주 주목하라" - 한국경제 — *한국경제*
+- `07-30 16:38` [표] 코스피 지수선물·옵션 시세표(30일)-2 - 매일경제 마켓 — *매일경제 마켓*
+- `07-30 16:38` [표] 코스피 지수선물·옵션 시세표(30일)-1 - 매일경제 마켓 — *매일경제 마켓*
+- `07-30 16:33` '공포의 7월' 코스피 34% 급락…8월엔 달라질까? - 머니투데이 - 머니투데이 — *머니투데이*
 - `07-30 16:30` [경제쏙] '연이틀 급락' 코스피‥반등은 언제? - v.daum.net — *v.daum.net*
-- `07-30 16:23` 유럽증시, 혼조 출발…유로스톡스 0.20%↑ - 연합인포맥스 — *연합인포맥스*
-- `07-30 16:23` 코스피, 삼성전자 호실적에도 1%대 하락한 5593 마감 - 한겨레 — *한겨레*
-- `07-30 16:17` 코스피, 또 하락…1%대 내려 5,600선 내줘 - v.daum.net — *v.daum.net*
-- `07-30 16:16` 코스피 급락에도 환율 1430원대…전쟁 프리미엄 지웠다 - v.daum.net — *v.daum.net*
-- `07-30 16:10` 삼성전자 실적에도 코스피 또 하락…개미 '팔자' - v.daum.net — *v.daum.net*
-- `07-30 16:08` 코스피, 반도체 중심 하락 마감…코스닥도 2%대↓ - v.daum.net — *v.daum.net*
-- `07-30 16:08` 삼성전자 실적에도 코스피 또 하락…개미 ’팔자’ - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 반도체·HBM
+- `07-30 16:51` 삼성전자, 상반기 법인세 34조·전년比 22배…AI 반도체 효과 '톡톡' - 조세일보 — *조세일보*
+- `07-30 16:45` SK하이닉스, AI 역량 중심으로 신입 채용 개편…‘반나절 심층면접’ 도입 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `07-30 16:40` UBS, SK하이닉스 투자의견 ’매수’ 제시...AI 수요 기대 - Investing.com 한국어 — *Investing.com 한국어*
+- `07-30 16:38` SK하이닉스 주가 급락, 시총 1000조 원 붕괴 - 2news.co.kr — *2news.co.kr*
 - `07-30 16:28` “목표주가 470만원” vs “148만원”…SK하이닉스 두고 갈린 증권가 - 디지털데일리 — *디지털데일리*
-- `07-30 16:10` [ETF 시황] 조선·방산·원유 강세…반도체·AI ETF '급락' - 뉴스핌 — *뉴스핌*
-- `07-30 16:04` 삼성전자, AI 반도체 타고 사상 최대 실적…메모리 70% 장기계약 전환 - 아시아투데이 — *아시아투데이*
-- `07-30 16:02` 한 총리 "충청권, 대표 반도체 성장축으로"…초광역 협력 강조 - 연합뉴스TV — *연합뉴스TV*
-- `07-30 16:01` [마감시황] 반도체 상승분 반납…코스피 1% 하락해 '5600' 하회 - 뉴스핌 — *뉴스핌*
-- `07-30 16:00` SK하이닉스 1주에 800억원?…가상자산 강제 청산 사고 - 아시아경제 — *아시아경제*
-- `07-30 16:00` SK하이닉스, AI 역량 중심으로 신입 채용 개편…‘반나절 심층면접’ 도입 - 알파경제 — *알파경제*
-- `07-30 15:58` SK하이닉스 목표주가 일제히 내렸는데…한투만 470만원으로 상향 - 한국경제 — *한국경제*
+- `07-30 16:26` 대전 온 한성숙 국무총리 "충청권, 대한민국 대표 반도체 성장 축으로 도약" - 굿모닝충청 — *굿모닝충청*
+- `07-30 16:26` 반토막 키옥시아·SK하이닉스…한국·일본, AI 거품 충격 더 컸다 - 머니투데이 - 머니투데이 — *머니투데이*
+- `07-30 16:21` [중국증시-마감] 반도체·AI주 급락에 하락…방어주로 순환매 - KB Think — *KB Think*
 
 ## 🇰🇷 금융주
+- `07-30 16:47` 금융지주 손보사, 상반기 실적 둔화…손해율·회계 부담에 수익성 뒷걸음 - 비즈트리뷴 — *비즈트리뷴*
+- `07-30 16:47` 금융지주 지배구조 개선안 발표, 8월 이후로 또 밀려 - 네이트 — *네이트*
+- `07-30 16:37` 신한은행, ‘신한 영 아티스트 페스타’ 세 번째 전시 개최 - 이지경제 — *이지경제*
 - `07-30 16:33` 롯데손해보험 공개매각 전환…금융지주와 셈법 맞으려면 [시그널INSIDE] - 서울경제 — *서울경제*
 - `07-30 15:49` 4대 금융지주, ROE 높여 주주환원 키운다...자본효율 강화 - 데일리한국 — *데일리한국*
 - `07-30 15:40` 지방 금융지주, 상반기 합산순익 1조931억···JB ‘역대급’ vs BNK·iM ‘주춤’ - 스마트비즈 — *스마트비즈*
 - `07-30 15:11` BNK금융지주, 부산·경남은행 이사회에 소비자보호위 신설 - PRESS9 — *PRESS9*
 - `07-30 14:48` 하나금융지주 2025/26 지속가능경영보고서 KSSB 제2호 기후공시 정합성 분석 - 임팩트온 — *임팩트온*
-- `07-30 14:46` ‘부패한 이너서클’ 꼬리표 뗄까…관치 폭풍 속 벼랑 끝 선 KB 회추위 - 시사저널 — *시사저널*
-- `07-30 14:28` 신한금융지주, 비이자이익 힘으로 역대 최대 실적… 하반기 지속성은 물음표 - 녹색경제신문 — *녹색경제신문*
-- `07-30 13:59` 4대 금융지주 집결…민주당 전북도당 "우리WON금융타운 개소, 제3금융중심지 도약 전환점" - 이로운넷 — *이로운넷*
 
 ## 🇰🇷 정책·거시
 - `07-30 15:35` [현장리포트] 프레임에 집중하는 부동산 대책, 갈라치기는 답이 아니다 - v.daum.net — *v.daum.net*
@@ -57,7 +57,7 @@
 - `07-29 16:52` 경제·금융당국 수장 긴급 F4회의…증시 폭락 대책 논의 - 뉴시스 — *뉴시스*
 
 ## 🌍 AI·빅테크
-- `07-30 13:31` Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again - The Motley Fool — *The Motley Fool*
+- `07-30 14:00` Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again - The Motley Fool — *The Motley Fool*
 - `07-30 12:25` Is Nvidia the Core of an AI Bubble? Two Wall Street Titans Sound the Alarm: Circular Financing Creates a "Biblical" Risk - finance.biggo.com — *finance.biggo.com*
 - `07-30 10:55` Meta Narrows 2026 Capex Forecast Amid Rising AI Buildout - Global Banking & Finance Review — *Global Banking & Finance Review*
 - `07-30 08:06` OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2 - CNBC — *CNBC*
@@ -74,7 +74,7 @@
 - `07-30 14:59` Gold Advances After Federal Reserve Keeps Interest Rates on Hold - Bloomberg.com — *Bloomberg.com*
 - `07-30 14:48` Fed’s Interest Rate Decision: July 29, 2026 - Advisor Perspectives — *Advisor Perspectives*
 - `07-30 14:45` J.P.Morgan brings forward Fed rate hike call to December after July hold - Reuters — *Reuters*
-- `07-30 14:19` Opinion | The Fed held rates steady, but Kevin Warsh is serious about inflation - The Washington Post — *The Washington Post*
+- `07-30 14:19` Opinion | The Fed held rates steady, but Kevin Warsh is serious about inflation - washingtonpost.com — *washingtonpost.com*
 
 ## 🌍 유가·지정학
 - `07-30 16:30` Shell Profits Double to $9.8B as Iran Conflict Lifts Oil, Gas Prices - Global Banking & Finance Review — *Global Banking & Finance Review*
@@ -90,8 +90,8 @@
 - `07-30 15:21` NPS sits out Korea rout as wider equity bands blunt rebalancing - KED Global — *KED Global*
 - `07-30 15:11` The AI Bubble: Why NVIDIA and the Stock Market Could Crash - Share Talk — *Share Talk*
 - `07-30 15:06` Global Market: China, Hong Kong stocks slip as AI selloff hits chip shares; defensive sectors gain - The Economic Times — *The Economic Times*
+- `07-30 14:56` Asian Stocks Struggle Amid Fed Rate Uncertainty and AI Selloff - Global Banking & Finance Review — *Global Banking & Finance Review*
 - `07-30 14:38` South Korea’s Toolkit Comes Into Focus as Stocks Extend Selloff - Bloomberg.com — *Bloomberg.com*
 - `07-30 14:28` Zhongji Innolight shares fall on Hong Kong debut amid global AI sell-off - South China Morning Post — *South China Morning Post*
 - `07-30 14:07` Card spending for second quarter up 7.6 percent - Korea JoongAng Daily — *Korea JoongAng Daily*
 - `07-30 12:26` People Power Party Demands Dismissal of 'No-Solution Trio' Over Stock Crash - 조선일보 — *조선일보*
-- `07-30 12:07` Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar - Investor's Business Daily — *Investor's Business Daily*
