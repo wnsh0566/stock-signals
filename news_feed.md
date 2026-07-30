@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-07-30 16:20 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-07-30 16:43 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,34 +17,34 @@
 - **D-29** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `07-30 16:17` 삼전 호실적에도 증시 출렁이다 1%대 하락 마감 - 한겨레 — *한겨레*
+- `07-30 16:30` [경제쏙] '연이틀 급락' 코스피‥반등은 언제? - v.daum.net — *v.daum.net*
+- `07-30 16:23` 유럽증시, 혼조 출발…유로스톡스 0.20%↑ - 연합인포맥스 — *연합인포맥스*
+- `07-30 16:23` 코스피, 삼성전자 호실적에도 1%대 하락한 5593 마감 - 한겨레 — *한겨레*
+- `07-30 16:17` 코스피, 또 하락…1%대 내려 5,600선 내줘 - v.daum.net — *v.daum.net*
+- `07-30 16:16` 코스피 급락에도 환율 1430원대…전쟁 프리미엄 지웠다 - v.daum.net — *v.daum.net*
 - `07-30 16:10` 삼성전자 실적에도 코스피 또 하락…개미 '팔자' - v.daum.net — *v.daum.net*
 - `07-30 16:08` 코스피, 반도체 중심 하락 마감…코스닥도 2%대↓ - v.daum.net — *v.daum.net*
-- `07-30 16:01` [속보] 코스피, 하루종일 급등락 후 1% 하락 마감 - 연합뉴스TV — *연합뉴스TV*
-- `07-30 16:01` [마감시황] 반도체 상승분 반납…코스피 1% 하락해 '5600' 하회 - 뉴스핌 — *뉴스핌*
-- `07-30 16:00` 증시 급락에도 110원 넘게 오른 원화값…환율 1400원대 머물까 - 매일경제 마켓 — *매일경제 마켓*
-- `07-30 15:56` 코스피, 사흘째 하락…1%대 내려 5600선 하회 - 서울경제TV — *서울경제TV*
-- `07-30 15:53` '뒷심 부족' 코스피, 3거래일째 하락 마감…5600선 하회 - 글로벌이코노믹 — *글로벌이코노믹*
+- `07-30 16:08` 삼성전자 실적에도 코스피 또 하락…개미 ’팔자’ - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 반도체·HBM
+- `07-30 16:28` “목표주가 470만원” vs “148만원”…SK하이닉스 두고 갈린 증권가 - 디지털데일리 — *디지털데일리*
+- `07-30 16:10` [ETF 시황] 조선·방산·원유 강세…반도체·AI ETF '급락' - 뉴스핌 — *뉴스핌*
 - `07-30 16:04` 삼성전자, AI 반도체 타고 사상 최대 실적…메모리 70% 장기계약 전환 - 아시아투데이 — *아시아투데이*
 - `07-30 16:02` 한 총리 "충청권, 대표 반도체 성장축으로"…초광역 협력 강조 - 연합뉴스TV — *연합뉴스TV*
+- `07-30 16:01` [마감시황] 반도체 상승분 반납…코스피 1% 하락해 '5600' 하회 - 뉴스핌 — *뉴스핌*
 - `07-30 16:00` SK하이닉스 1주에 800억원?…가상자산 강제 청산 사고 - 아시아경제 — *아시아경제*
 - `07-30 16:00` SK하이닉스, AI 역량 중심으로 신입 채용 개편…‘반나절 심층면접’ 도입 - 알파경제 — *알파경제*
 - `07-30 15:58` SK하이닉스 목표주가 일제히 내렸는데…한투만 470만원으로 상향 - 한국경제 — *한국경제*
-- `07-30 15:53` SK하이닉스, 8월 20~26일 신입 수시채용…반나절 심층면접 도입 - BBS불교방송 — *BBS불교방송*
-- `07-30 15:53` 금융위, OLED·HBM 공급망 강화에 국민성장펀드 투자 승인 - 뉴스핌 — *뉴스핌*
-- `07-30 15:51` LH, 호남권 반도체 첨단 국가산업단지 설계용역 발주 개시 - 에너지데일리 — *에너지데일리*
 
 ## 🇰🇷 금융주
-- `07-30 15:50` 4대 금융지주, ROE 높여 주주환원 키운다…자본효율 강화 - 네이트 — *네이트*
+- `07-30 16:33` 롯데손해보험 공개매각 전환…금융지주와 셈법 맞으려면 [시그널INSIDE] - 서울경제 — *서울경제*
+- `07-30 15:49` 4대 금융지주, ROE 높여 주주환원 키운다...자본효율 강화 - 데일리한국 — *데일리한국*
 - `07-30 15:40` 지방 금융지주, 상반기 합산순익 1조931억···JB ‘역대급’ vs BNK·iM ‘주춤’ - 스마트비즈 — *스마트비즈*
 - `07-30 15:11` BNK금융지주, 부산·경남은행 이사회에 소비자보호위 신설 - PRESS9 — *PRESS9*
 - `07-30 14:48` 하나금융지주 2025/26 지속가능경영보고서 KSSB 제2호 기후공시 정합성 분석 - 임팩트온 — *임팩트온*
 - `07-30 14:46` ‘부패한 이너서클’ 꼬리표 뗄까…관치 폭풍 속 벼랑 끝 선 KB 회추위 - 시사저널 — *시사저널*
 - `07-30 14:28` 신한금융지주, 비이자이익 힘으로 역대 최대 실적… 하반기 지속성은 물음표 - 녹색경제신문 — *녹색경제신문*
 - `07-30 13:59` 4대 금융지주 집결…민주당 전북도당 "우리WON금융타운 개소, 제3금융중심지 도약 전환점" - 이로운넷 — *이로운넷*
-- `07-30 13:48` 하나금융그룹, One IB로 잠실 스포츠·마이스 복합공간 조성 위한 4조원 규모 PF 이끈다 - 뉴스와이어 — *뉴스와이어*
 
 ## 🇰🇷 정책·거시
 - `07-30 15:35` [현장리포트] 프레임에 집중하는 부동산 대책, 갈라치기는 답이 아니다 - v.daum.net — *v.daum.net*
@@ -67,24 +67,24 @@
 - `07-30 03:50` Nebius (NASDAQ: NBIS) And CoreWeave (NASDAQ: CRWV) Stock Plunge As Credit-Swap Costs Threaten AI Infrastructure Financing - foreignpolicyjournal.com — *foreignpolicyjournal.com*
 
 ## 🌍 연준·금리
+- `07-30 16:23` U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity - japantimes.co.jp — *japantimes.co.jp*
 - `07-30 15:56` Treasury sell-off continues after divided Fed holds interest rates steady - CNBC — *CNBC*
 - `07-30 15:51` Federal Reserve holds interest rates steady despite rising inflation - KRTV — *KRTV*
 - `07-30 15:46` Federal Reserve holds interest rates steady despite rising inflation - WTXL ABC 27 — *WTXL ABC 27*
 - `07-30 14:59` Gold Advances After Federal Reserve Keeps Interest Rates on Hold - Bloomberg.com — *Bloomberg.com*
+- `07-30 14:48` Fed’s Interest Rate Decision: July 29, 2026 - Advisor Perspectives — *Advisor Perspectives*
 - `07-30 14:45` J.P.Morgan brings forward Fed rate hike call to December after July hold - Reuters — *Reuters*
 - `07-30 14:19` Opinion | The Fed held rates steady, but Kevin Warsh is serious about inflation - The Washington Post — *The Washington Post*
-- `07-30 14:17` Federal Reserve votes to leave key rate unchanged - timesdaily.com — *timesdaily.com*
-- `07-30 13:59` Fed’s Interest Rate Decision: July 29, 2026 - Advisor Perspectives — *Advisor Perspectives*
 
 ## 🌍 유가·지정학
-- `07-30 16:11` Shell profits double as oil prices rise due to Iran war - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `07-30 16:30` Shell Profits Double to $9.8B as Iran Conflict Lifts Oil, Gas Prices - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `07-30 16:30` Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `07-30 16:21` Shell half-year earnings soar to £12.6bn on Iran war oil price volatility - Peeblesshire News — *Peeblesshire News*
 - `07-30 16:11` Shell’s profits more than double after jump in oil and gas prices - The Guardian — *The Guardian*
 - `07-30 16:05` WTI Oil extends gains beyond $84.00 as US resumes strikes in Iran - FXStreet — *FXStreet*
 - `07-30 16:04` In the waters off Malaysia, Iranian oil sales continue despite blockade - Al Jazeera — *Al Jazeera*
 - `07-30 16:00` Shell profits double as oil prices rise due to Iran war - BBC — *BBC*
-- `07-30 15:48` Shell half-year earnings soar to £12.6bn on Iran war oil price volatility - Yahoo Finance UK — *Yahoo Finance UK*
-- `07-30 15:10` Japan Buys Rare Canadian Oil Cargo - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `07-30 15:05` Oil giant Shell smashes expectations as profits more than double in second quarter - CNBC — *CNBC*
+- `07-30 15:55` India’s crude oil imports from Russia may touch new record of 3 million barrels per day - here’s why - The Times of India — *The Times of India*
 
 ## 🌍 시장 전반
 - `07-30 15:21` NPS sits out Korea rout as wider equity bands blunt rebalancing - KED Global — *KED Global*
