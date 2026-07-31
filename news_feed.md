@@ -1,97 +1,97 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-07-31 18:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-01 07:35 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+2** (07/29) ⭐⭐⭐ SK하이닉스 2Q 실적 — HBM 가이던스·중국 격차 답변
-- **D+1** (07/30) ⭐⭐⭐ FOMC 결과 발표(한국시각 새벽) — 인상 확률 ~40%
-- **D+1** (07/30) ⭐⭐ 삼성전자 컨콜 + 자금 입금(대기 확정·매수 아님)
-- **D-1** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
-- **D-7** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
-- **D-7** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
-- **D-9** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
-- **D-12** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
-- **D-14** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
-- **D-27** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
-- **D-28** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
+- **D+3** (07/29) ⭐⭐⭐ SK하이닉스 2Q 실적 — HBM 가이던스·중국 격차 답변
+- **D+2** (07/30) ⭐⭐⭐ FOMC 결과 발표(한국시각 새벽) — 인상 확률 ~40%
+- **D+2** (07/30) ⭐⭐ 삼성전자 컨콜 + 자금 입금(대기 확정·매수 아님)
+- **D-DAY** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
+- **D-6** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
+- **D-6** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
+- **D-8** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
+- **D-11** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
+- **D-13** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
+- **D-26** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
+- **D-27** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `07-31 18:18` [중국증시-마감] 제조업황 위축에도 상승 - 연합인포맥스 — *연합인포맥스*
-- `07-31 18:04` 홍콩서 코스피200 커버드콜 ETF 상장…"변동성 활용한 인컴 투자" - yonhapnewstv.co.kr — *yonhapnewstv.co.kr*
-- `07-31 18:01` 코스피, 사상 최대 17% 폭등…SK하이닉스 상한가 - v.daum.net — *v.daum.net*
-- `07-31 17:59` 코스피, 사상 최대 17% 폭등…SK하이닉스 상한가 - yonhapnewstv.co.kr — *yonhapnewstv.co.kr*
-- `07-31 17:58` ‘역대 최대’ 각종 신기록 쏟아낸 7월 마지막날 증시 - 경향신문 — *경향신문*
-- `07-31 17:43` [도쿄증시-마감] 닛케이 4%대 상승…BOJ 회견 주목 - 연합인포맥스 — *연합인포맥스*
-- `07-31 17:42` 1001포인트 급등, 외국인 순매수 역대 최대…코스피 또 새 기록 - v.daum.net — *v.daum.net*
-- `07-31 17:41` '18% 상승' 코스피, 역대급 반등...SK하이닉스, 사상 첫 상한가 기록 - YTN — *YTN*
+- `08-01 07:22` [오늘의 글로벌마켓] 뉴욕증시, 아마존 호실적에 3대지수 강세 - 오피니언뉴스 — *오피니언뉴스*
+- `08-01 07:00` "대출 없어도 돼" 주식 팔아 강남 집 샀는데…증시 '휘청', 부동산 향방은 - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-01 06:53` 현금은 적자인데...아마존, 뉴욕 증시를 웃게 한 비결 - YTN — *YTN*
+- `08-01 06:50` 코스피 18% 급등 ‘역대 최대’…SK하이닉스 상한가 - 경북신문 — *경북신문*
+- `08-01 06:21` 코스피 18%↑ ‘역대 최대 상승’…하이닉스 상한가 - v.daum.net — *v.daum.net*
+- `08-01 06:02` [뉴욕증시] MS 이어 아마존까지 연타석 홈런…강세 마감 - news.einfomax.co.kr — *news.einfomax.co.kr*
+- `08-01 06:00` 코스피 출렁이고 집값 뛰고…7월도 가계대출 늘었다 - 서울경제 — *서울경제*
+- `08-01 05:53` 뉴욕증시, 아마존 실적 훈풍에 강세 마감…나스닥 1%↑(종합) - yna.co.kr — *yna.co.kr*
 
 ## 🇰🇷 반도체·HBM
-- `07-31 18:47` 두산, 2조3000억원에 SK실트론 품었다… 에너지·기계·반도체 ‘3대 사업축’ 경쟁력 강화 - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `07-31 18:32` 두산, 드디어 SK실트론 품는다…반도체 밸류체인 위상 강화 - 비즈워치 — *비즈워치*
-- `07-31 18:26` 두산, SK실트론 2.3조에 인수…반도체 사업 반경 '전공정 핵심 소재'까지 확장 - 오피니언뉴스 — *오피니언뉴스*
-- `07-31 18:25` '자동차·반도체의 힘' 석 달 만에 산업 '트리플 증가'...여전한 불안 - YTN — *YTN*
-- `07-31 17:59` 코스피, 사상 최대 17% 폭등…SK하이닉스 상한가 - yonhapnewstv.co.kr — *yonhapnewstv.co.kr*
-- `07-31 17:57` 두산, SK실트론 2조3000억원에 인수…반도체 전공정 확장 - 글로벌이코노믹 — *글로벌이코노믹*
-- `07-31 17:55` 독일 반도체 연합, 일본에 동맹 제안… AI 첨단 공급망 강화 - 글로벌이코노믹 — *글로벌이코노믹*
-- `07-31 17:54` 전남광주시, 반도체 클러스터·고수온 대응 현안 점검 - v.daum.net — *v.daum.net*
+- `08-01 07:23` SK하이닉스, HBM4 공급망 확보… 美 빅테크 장기계약 결실 - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-01 07:01` '둘 다 역대급 실적이라더니'…삼전엔 있었지만 하닉엔 없었던 것 [B급기자의 B급리포트] - v.daum.net — *v.daum.net*
+- `08-01 07:00` [기획] 中 CXMT 공습에 흔들린 K-반도체...핵심은 추격 '속도'와 미래 '수요' - sentv.co.kr — *sentv.co.kr*
+- `08-01 06:50` 코스피 18% 급등 ‘역대 최대’…SK하이닉스 상한가 - 경북신문 — *경북신문*
+- `08-01 06:40` [주간e종목] SK하이닉스上에 SOL SK하이닉스선물단일종목인버스2X ‘쇼크’ - 시사저널e — *시사저널e*
+- `08-01 06:39` 중국정부가 자국 반도체 기업을 대하는 자세 - 데일리안 — *데일리안*
+- `08-01 06:15` “반도체 조정 끝?”…아마존·MS 15% 폭등에 다시 달린 나스닥 - v.daum.net — *v.daum.net*
+- `08-01 06:02` SK하이닉스 '역사적 상한가'…증권가 눈높이 400만원 대[종목현미경] - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
-- `07-31 18:46` 5대 금융지주·은행, '금융체계상 중요 금융기관' 선정 - newsis.com — *newsis.com*
+- `07-31 22:06` BNK금융지주, 해운협회와 선박금융·표준선형 개발 협력 - PRESS9 — *PRESS9*
+- `07-31 20:16` 국내 5대 금융지주 및 은행, 금융체계상 주요 금융 기관 선정 - 글로벌이코노믹 — *글로벌이코노믹*
+- `07-31 19:49` 농협금융지주, 하반기 지역밀착형 생산적·포용금융 집중 - 농민신문 — *농민신문*
+- `07-31 18:47` 5대 금융지주·은행, 내년도 ‘금융체계상 중요사’로 - 주간한국 — *주간한국*
+- `07-31 18:46` 5대 금융지주·은행, '금융체계상 중요 금융기관' 선정 - 뉴시스 — *뉴시스*
 - `07-31 18:10` [표] 주간 거래소 외국인 순매수도 상위종목 - 매일경제 마켓 — *매일경제 마켓*
 - `07-31 18:07` 5대 금융그룹, 내년에도 '시스템 중요 금융사' 지정 - 포쓰저널 — *포쓰저널*
-- `07-31 17:49` [업앤다운]증권주 9% 상승, 미래에셋증권↑·한국금융지주↑ - nspna.com — *nspna.com*
-- `07-31 17:45` 5대 금융지주·은행, 내년 '시스템상 중요 은행' 지정 - 네이트 — *네이트*
 - `07-31 17:37` NH농협금융 제3차 생산적금융 특별위원회 열어, 이찬우 "지역밀착 금융 확대" - 비즈니스포스트 — *비즈니스포스트*
-- `07-31 17:18` 5대 은행·금융지주, 2027년 ‘금융체계상 중요 금융기관’ 선정 - 헤럴드경제 — *헤럴드경제*
-- `07-31 17:11` KB·신한·하나금융 등 D-SIB 재지정…추가 자본적립 부담 없을 듯 - 위키리크스한국 — *위키리크스한국*
 
 ## 🇰🇷 정책·거시
+- `08-01 05:00` 'ELW 규제' 스터디 금융당국, 레버리지 ETF도 고사 시킨다 - 머니투데이 - 머니투데이 — *머니투데이*
 - `07-31 09:21` 대통령 대책 마련 주문에…은행권 '팰루시드' 잔금대출 추가 배정 - KB Think — *KB Think*
-- `07-31 08:34` 지배구조·부동산대출 대책 줄줄이 지연…청와대만 바라보는 금융당국 - 연합인포맥스 — *연합인포맥스*
+- `07-31 08:34` 지배구조·부동산대출 대책 줄줄이 지연…청와대만 바라보는 금융당국 - news.einfomax.co.kr — *news.einfomax.co.kr*
 - `07-31 06:00` 용적률 1.4배 도심복합사업지 내달 확정…강남 포함이 흥행 관건 - 뉴스핌 — *뉴스핌*
-- `07-30 15:35` [현장리포트] 프레임에 집중하는 부동산 대책, 갈라치기는 답이 아니다 - v.daum.net — *v.daum.net*
+- `07-31 01:02` "文정부만도 못해" 李의 부동산 멘토들도 돌아섰다 - 조선일보 — *조선일보*
+- `07-30 15:33` [현장리포트] 프레임에 집중하는 부동산 대책, 갈라치기는 답이 아니다 - dt.co.kr — *dt.co.kr*
 - `07-30 14:39` 부동산 대책 앞두고 아파트값 상승률 주춤…"관망 분위기" | - 스트레이트뉴스 — *스트레이트뉴스*
 - `07-30 13:44` 금융당국·금투협, 코스피 역대급 하락세에 '대책 마련' 서두른다 - fetv.co.kr — *fetv.co.kr*
-- `07-30 06:10` “금융 당국발 인재” “ETF 명칭 쓰지 말아야”…여야, ‘레버리지 ETF’ 대책 요구 - news.kbs.co.kr — *news.kbs.co.kr*
-- `07-30 05:05` 신규 택지·그린벨트 풀고 세제·대출 조인다…부동산 대책 윤곽 - news1.kr — *news1.kr*
 
 ## 🌍 AI·빅테크
-- `07-31 18:23` Capri Loans Collaborates with OpenAI to Bring Enterprise-Grade AI to Lending Operations - finance.yahoo.com — *finance.yahoo.com*
-- `07-31 18:04` Former OpenAI Researcher Leopold Aschenbrenner’s AI Fund Liquidation: How Leverage Amplified the Crisis? - TradingKey — *TradingKey*
-- `07-31 15:05` Who Is Leopold Aschenbrenner? How the Former OpenAI Researcher's $45 Billion AI Hedge Fund Ran Into Trouble - India Infoline — *India Infoline*
-- `07-31 10:54` Big Tech AI spending spree tops $1tn - ft.com — *ft.com*
-- `07-31 09:35` Google Backstops $15 Billion Loan for Anthropic's Massive Texas AI Campus - finance.biggo.com — *finance.biggo.com*
-- `07-31 07:57` Meet the Gen Z AI whiz at the center of a hedge fund meltdown - Business Insider — *Business Insider*
-- `07-31 07:49` LG Electronics Deepens Nvidia Partnership to Drive Physical AI Strategy - thelec.net — *thelec.net*
-- `07-31 07:09` Mark Cuban, Michael Burry send strong warning on Nvidia, AI stocks - thestreet.com — *thestreet.com*
+- `08-01 02:45` Leopold Aschenbrenner's AI hedge fund collapses after margin calls - qz.com — *qz.com*
+- `08-01 00:54` Ex-OpenAI researcher's $45B AI fund collapses in days - The Tech Buzz — *The Tech Buzz*
+- `07-31 23:44` How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days - CNBC — *CNBC*
+- `07-31 23:02` Nvidia's Circular Money Question: Can the AI Chip King Finance Its Own Demand Without Breaking Trust - AD HOC NEWS — *AD HOC NEWS*
+- `07-31 22:47` Amazon increases AI infrastructure spending to $220bn this year - Financial Times — *Financial Times*
+- `07-31 21:32` Nvidia's Support Zone Holds as Investors Parse the Fine Print of AI's Financing Web - AD HOC NEWS — *AD HOC NEWS*
+- `07-31 19:27` AI boom bet unravels: Ex-OpenAI researcher’s fund sells most holdings - Ynetnews — *Ynetnews*
+- `07-31 19:10` Ex-OpenAI employee's hedge fund Situational Awareness hit by AI stock rout; seeks fresh funding - The Economic Times — *The Economic Times*
 
 ## 🌍 연준·금리
-- `07-31 18:32` Kevin Warsh faces challenge of uniting a divided Federal Reserve - thenationalnews.com — *thenationalnews.com*
-- `07-31 18:15` Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts - CNBC — *CNBC*
-- `07-31 17:30` Federal Reserve: Prolonged pause with hike risks – UOB - FXStreet — *FXStreet*
-- `07-31 17:26` The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street - finance.yahoo.com — *finance.yahoo.com*
-- `07-31 15:35` Spooked investors demand clarity on Fed’s anti-inflation strategy - The Washington Post — *The Washington Post*
-- `07-31 13:34` The Fed will face a pivotal meeting in September unless there is a durable ceasefire - ft.com — *ft.com*
-- `07-31 10:30` US borrowing costs hit 19-year high as Fed holds interest rates - The Guardian — *The Guardian*
-- `07-31 06:49` Will the Fed raise interest rates this year? Divided economists weigh in - abcnews.com — *abcnews.com*
+- `08-01 07:21` Warsh considering reducing number of Fed meetings, NYT reports - fortune.com — *fortune.com*
+- `08-01 07:12` Warsh raised changing frequency of Fed policy meetings, NYT reports - reuters.com — *reuters.com*
+- `08-01 06:50` Warsh Considering Reducing Number of Fed Meetings, NYT Reports - Bloomberg — *Bloomberg*
+- `08-01 06:09` Fed dissenters warn against delaying higher interest rates - The Washington Post — *The Washington Post*
+- `08-01 05:52` Fed Chair Kevin Warsh mulls fewer interest-rate meetings: report - New York Post — *New York Post*
+- `08-01 05:08` Gold has value at $4,000 as investors look beyond Fed hawkishness - KITCO — *KITCO*
+- `08-01 04:12` Fed dissenters sketch the case for a rate hike - reuters.com — *reuters.com*
+- `08-01 04:06` Why Fed dissenters are supporting rate hikes - Los Angeles Times — *Los Angeles Times*
 
 ## 🌍 유가·지정학
-- `07-31 18:45` ADNOC Buys Five Supertankers as Hormuz Crisis Tightens Shipping - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `07-31 18:16` Oil leaps over 20% in July amid renewed US-Iran conflict - engine.online — *engine.online*
-- `07-31 18:05` Two Oil Supertankers Exit Hormuz as Traffic Remains Sparse - Marine News Magazine — *Marine News Magazine*
-- `07-31 18:03` Euro-Area Inflation Strengthens as US-Iran Strikes Boost Oil - Bloomberg.com — *Bloomberg.com*
-- `07-31 17:54` ADNOC buys tankers as Red Sea, Hormuz crisis reshape oil trade - TradingView — *TradingView*
-- `07-31 17:47` Oil futures: Crude inches lower, Hormuz flows eyed - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
-- `07-31 17:41` WTI Oil drifts closer to $80.00 amid a mild increase in traffic through Hormuz - FXStreet — *FXStreet*
-- `07-31 17:40` BP Puts Its North Sea Oil Business Up for Sale - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-01 07:13` PSX rebounds 546 points on oil price fall - The Express Tribune — *The Express Tribune*
+- `08-01 07:00` VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-01 05:25` Iran-backed militant group's threat to Saudi energy hub could upend Trump's midterm message - Politico — *Politico*
+- `08-01 05:14` Oil News: Hormuz Ship Counts Keep Crude Oil Futures Bid Despite Weak Demand - FXEmpire — *FXEmpire*
+- `08-01 05:00` Abqaiq Is a Warning That Oil Markets May Be Misreading - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-01 04:58` DAILY OIL PRICE: July 31, 2026 - Odessa American — *Odessa American*
+- `08-01 04:30` Exxon, Chevron hit 11-digit earnings in second quarter amid Iran war oil price boom - The Business Journals — *The Business Journals*
+- `08-01 04:22` OIL PROFITS SOAR AMID IRAN WAR'S ENERGY SQUEEZE - Local 3 News — *Local 3 News*
 
 ## 🌍 시장 전반
-- `07-31 18:26` Kospi 18% Surge Amid Record Individual Sell-Off - 조선일보 — *조선일보*
-- `07-31 18:25` Global Market: European shares hit record high as tech rally, earnings lift sentiment - The Economic Times — *The Economic Times*
-- `07-31 17:53` Global markets trade positive as tech rally eases artificial intelligence selloff concerns - Anadolu Ajansı — *Anadolu Ajansı*
-- `07-31 16:52` Futures higher after chip rally; Apple, Amazon report - what’s moving markets By Investing.com - Investing.com South Africa — *Investing.com South Africa*
-- `07-31 16:42` Tech rebound fuels record-breaking rally in South Korean stocks - finance.yahoo.com — *finance.yahoo.com*
-- `07-31 16:33` 'Roller KOSPI': Record market swings leave investors split between euphoria, fear - The Korea Times — *The Korea Times*
-- `07-31 16:20` Inside one of the wildest months in South Korea's stock market history - Business Insider Africa — *Business Insider Africa*
-- `07-31 16:16` KOSPI rockets 18% in record-breaking rally - The Korea Times — *The Korea Times*
+- `08-01 06:10` S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff. - MarketWatch — *MarketWatch*
+- `08-01 05:41` U.S. stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - BNN Bloomberg — *BNN Bloomberg*
+- `08-01 05:16` US Equity Markets End Higher on Amazon's Profit Surge, Communications Services Rally - marketscreener.com — *marketscreener.com*
+- `08-01 03:42` FTSE 100 today: Stocks close lower despite earlier tech rally By Investing.com - Investing.com Canada — *Investing.com Canada*
+- `08-01 03:20` Individual Investors' Record Sell-Off During KOSPI Rebound - 조선일보 — *조선일보*
+- `08-01 03:17` Equity Markets Rise Intraday Amid Amazon's Post-Earnings Rally - marketscreener.com — *marketscreener.com*
+- `08-01 03:16` Update: Equity Markets Rise Intraday Amid Amazon's Post-Earnings Rally - Yahoo Finance — *Yahoo Finance*
+- `08-01 03:07` The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move - CNBC — *CNBC*
