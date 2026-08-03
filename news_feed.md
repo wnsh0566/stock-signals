@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-03 17:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-03 19:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,44 +17,44 @@
 - **D-25** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
+- `08-03 18:05` 코스피, 역대급 폭등 하루 만에 5%대 급락…6200선 마감 - 인더스트리뉴스 — *인더스트리뉴스*
+- `08-03 18:02` 코스피 또 떨어지는데..."9000 간다, 사라" 모간스탠리 돌변 이유는 - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-03 17:59` “무섭다, 다시는 韓 주식 투자 안해”…블룸버그, 레버리지 역풍 맞은 코스피 조명 - 전자신문 — *전자신문*
+- `08-03 17:59` 이 대통령, 부동산·증시 점검회의 주재...내치 속도 - YTN — *YTN*
+- `08-03 17:54` 개미들 의욕상실·실탄부족 … 코스피서 존재감 확 줄었다 - v.daum.net — *v.daum.net*
+- `08-03 17:49` [도쿄증시-마감] 엔화 강세 속 1% 안팎 하락 - 연합인포맥스 — *연합인포맥스*
+- `08-03 17:46` 역사적 롤러코스터 코스피 ‘8월 반등 열쇠’는 역시 반도체 - 부산일보 — *부산일보*
 - `08-03 17:36` 코스피 5.12% 하락…투심은 반도체→비반도체 - 뉴스핌 — *뉴스핌*
-- `08-03 17:34` 증시·부동산 악재 쓰나미…李대통령 부정평가 첫 50% 넘어 - hankyung.com — *hankyung.com*
-- `08-03 17:11` [0803마감체크] 코스피, 반등 하루 만에 5%대 하락... 코스닥은 상승 - 인포스탁데일리 — *인포스탁데일리*
-- `08-03 16:51` 고점 투자자에 구조대 오나…삼전닉스 하락으로 코스피 또 '흔들' - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-03 16:45` "역대급 롤러코스피, 대피하자"...MMF에 1.4조 몰렸다 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-03 16:44` 코스피 ‘급락’ 코스닥 ‘강세’…반도체·바이오 희비[마감시황] - 에너지경제신문 — *에너지경제신문*
-- `08-03 16:40` 코스피 5.12% 급락 마감…삼성전자·SK하이닉스 8%대 하락 - 팍스경제TV — *팍스경제TV*
-- `08-03 16:39` [뉴욕증시 전략] 아마존 급등에 뉴욕증시 상승…장기물 국채수익률 부담 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `08-03 17:36` 코스피 5.12% 하락…투심은 반도체→비반도체 - 뉴스핌 — *뉴스핌*
-- `08-03 17:16` [뉴스1 PICK] 코스피 5%대 하락…삼성전자·SK하이닉스 동반 급락 - 뉴스1 — *뉴스1*
-- `08-03 17:14` 반도체 소부장도 중국 맹추격…"미래기술 선점 관건" - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
-- `08-03 17:12` 삼성전자·SK하이닉스 주가 8%대 급락…차익실현 매물에 숨 고르기, 반도체주 향방은? - 뉴스인 — *뉴스인*
-- `08-03 17:10` "국가AI컴퓨팅센터 GPU, B200 확정 아냐…최신 AI 반도체 도입" - zdnet.co.kr — *zdnet.co.kr*
-- `08-03 17:05` [기획] BNK·하나증권, SK하이닉스 주가 하락 '족집게' 예측 화제 - 뉴스워치 — *뉴스워치*
-- `08-03 17:00` [사설] 차세대 전력반도체 R&D, 참여 대기업 파격 혜택 줘라 - 전자신문 — *전자신문*
-- `08-03 16:57` 한전, 호남권 반도체 산단 전력망 구축 속도… 신기술·신공법 본격 도입 - 솔라투데이 — *솔라투데이*
+- `08-03 18:54` LB세미콘, 퀄컴 양산 승인 획득...이달 양산 돌입 - 디일렉 — *디일렉*
+- `08-03 18:38` 두산, 2.3조 승부수…웨이퍼 품고 ‘반도체 공룡’ 도약 - 서울경제TV — *서울경제TV*
+- `08-03 18:37` KGM, 中 체리서 1000억 유치…車·로봇·반도체 협력 확대 - 서울경제TV — *서울경제TV*
+- `08-03 18:36` 삼성전자 2분기 영업익 89.5조 ‘역대 최대’···AI 반도체 실적 견인 - 공유경제신문 — *공유경제신문*
+- `08-03 18:34` AI 회의론에 코스피 흔들리지만…“반도체 여전히 최선호주” - 아시아투데이 — *아시아투데이*
+- `08-03 18:30` 반도체·2차전지 등 '한국판 IRA' 내년 본격 가동 - 매일일보 — *매일일보*
+- `08-03 18:15` 부산 반도체 기업 ‘리노공업’ 노사 이견 팽팽... 파업 장기화 우려 - 조선일보 — *조선일보*
+- `08-03 18:14` AI·반도체엔 세금 깎고 청년엔 ISA… 2026 세법, 5년간 3.4조 더 걷는다 - 경북매일 — *경북매일*
 
 ## 🇰🇷 금융주
+- `08-03 18:00` 상반기 13조 넘긴 금융지주, 하반기엔 '예대마진 축소·부실채권 증가 우려↑ - g-enews.com — *g-enews.com*
+- `08-03 17:49` 빈대인 2기 첫 성적표 ‘흔들’…BNK금융, 부실채권 숙제 못 풀었다 - 이지경제 — *이지경제*
 - `08-03 17:15` 토스, 출범 11년만에 ‘금융그룹’ 반열 올랐다…내부통제 강화는 과제로 - CEO스코어데일리 — *CEO스코어데일리*
 - `08-03 16:34` 5대 금융, ‘포용금융 성적표’ 앞두고 미소금융 확대…상생금융 경쟁 본격화 - 데일리e뉴스 — *데일리e뉴스*
 - `08-03 16:29` [더밸류 브리핑] 오늘의 하나금융그룹 소식...하나금융· 하나은행 - 더밸류뉴스 — *더밸류뉴스*
 - `08-03 15:55` 우리금융지주 우리금융미래재단, 청각장애 유소년 연극단 후원…문화예술 지원 확대 - PRESS9 — *PRESS9*
 - `08-03 15:51` [기획] 금융지주 산하 저축은행, 상반기 약진 - 소년한국일보 — *소년한국일보*
 - `08-03 15:31` ‘비은행 효자’는 옛말…금융지주 보험사, 실적도 위상도 ‘흔들’ - 마이데일리 — *마이데일리*
-- `08-03 15:11` [주식] 7월 베트남 은행주, 27개 중 26개 하락… ABB만 상승 - 굿모닝베트남미디어 — *굿모닝베트남미디어*
-- `08-03 13:49` '무더기 제재' 하나금융, 지배구조 전반 대수술 불가피 - 주주경제신문 — *주주경제신문*
 
 ## 🇰🇷 정책·거시
+- `08-03 17:24` 李, 귀국 후 긴급 회의…주식·부동산 대책 마련 - v.daum.net — *v.daum.net*
 - `08-03 11:45` 순방 마친 이 대통령, 증시·부동산·형소법 등 국내 현안 집중 - 뉴시스 — *뉴시스*
 - `08-03 10:05` 귀국 첫 일정이 경제회의… 이 대통령, 부동산·증시 직접 챙긴다 - v.daum.net — *v.daum.net*
 - `08-03 09:54` 李, 순방 후 부동산 점검…토론회 후속 대책 논의 - 네이트 — *네이트*
 - `08-03 09:53` 서울에 주택을 '닥공'하자고?...오세훈 서울시장의 빗나간 부동산 대책 - 평화뉴스 — *평화뉴스*
-- `08-03 09:22` 李정부, 부동산 종합대책 예고했지만…시장 "집값 더 오른다" - v.daum.net — *v.daum.net*
-- `08-03 06:00` 李, 3일 부동산·증시 점검 비공개 회의 - 세계일보 — *세계일보*
+- `08-03 09:20` 李정부, 부동산 종합대책 예고했지만…시장 "집값 더 오른다" - 더팩트 — *더팩트*
+- `08-03 06:00` 李, 3일 부동산·증시 점검 비공개 회의 - segye.com — *segye.com*
 - `08-03 04:33` 李, 귀국하자마자 부동산-증시 대책 회의 - v.daum.net — *v.daum.net*
-- `08-03 04:30` 李, 귀국하자마자 부동산-증시 대책 회의 - 동아일보 — *동아일보*
 
 ## 🌍 AI·빅테크
 - `08-03 15:27` Explained: What Are AI Neoclouds And How Nvidia's Revenue-Sharing Model Has Fueled Its Rise - NDTV Profit — *NDTV Profit*
@@ -62,35 +62,35 @@
 - `08-03 04:15` Oracle and Nvidia Shares Have Plunged Over the Past 3 Months. Is It Time to Cut These Tech Stocks Loose? - The Motley Fool — *The Motley Fool*
 - `08-02 20:50` Nvidia Has $500 Billion in AI Chip Bookings Covering 2025 and 2026, a Backlog Investors Can Track for Future Revenue - The Motley Fool — *The Motley Fool*
 - `08-02 11:34` Pecking Order and AI Capex Spending - Econbrowser — *Econbrowser*
+- `08-02 02:34` AI Models From OpenAI Just Went Rogue. Here's Why That's a Potential Threat to Crypto. - The Motley Fool — *The Motley Fool*
 - `08-01 21:12` NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook - Intellectia AI — *Intellectia AI*
-- `08-01 18:05` Nvidia’s OpenAI and SK Group Deals Fuel $750B ‘Circular Financing’ Debate，Why are Investors Concerned? - TradingKey — *TradingKey*
 
 ## 🌍 연준·금리
+- `08-03 17:54` The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - AOL.com — *AOL.com*
+- `08-03 17:45` Bitcoin trades near $63,000 as Fed rate hike bets weigh on crypto - eciks.org — *eciks.org*
 - `08-03 17:44` US Fed Reserve’s inflation challenge - Gulf Today — *Gulf Today*
 - `08-03 17:29` The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool — *The Motley Fool*
 - `08-03 16:03` Who Needs the Federal Reserve? - palipost.com — *palipost.com*
-- `08-03 15:58` Webinar: What if… The Fed cuts rates by next summer? - ING Think — *ING Think*
-- `08-03 11:02` The ‘Mar-a-Lago effect’ has reached the Fed - AFR — *AFR*
-- `08-03 10:59` The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - The Motley Fool — *The Motley Fool*
-- `08-03 08:03` Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year - bloomingbit — *bloomingbit*
-- `08-03 00:35` Warsh’s Fed credibility crisis looms under Donald Trump’s presidency - The Times — *The Times*
+- `08-03 15:58` Webinar: What if… The Fed cuts rates by next summer? - ING THINK economic and financial analysis | ING THINK — *ING THINK economic and financial analysis | ING THINK*
+- `08-03 11:30` The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - The Motley Fool — *The Motley Fool*
+- `08-03 11:02` The ‘Mar-a-Lago effect’ has reached the Fed - afr.com — *afr.com*
 
 ## 🌍 유가·지정학
+- `08-03 18:33` Oil price windfall for Africa’s largest exporters - African Energy — *African Energy*
+- `08-03 18:30` BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-03 18:25` Oil Prices Fall 15% as Iran Talks Ease Conflict Fears: What Happens Next? - equiti.com — *equiti.com*
+- `08-03 18:16` Oil down after Trump called off strikes on Iran - engine.online — *engine.online*
+- `08-03 18:15` European Midday Briefing : Shares Rise, Oil Tumbles on Renewed U.S.-Iran Diplomacy - marketscreener.com — *marketscreener.com*
+- `08-03 18:00` Donald Trump’s Latest Iran War Talk Comes With Major Oil Price Change - AOL.com — *AOL.com*
+- `08-03 17:58` Shell (SHEL) Stock Surges Amid Middle East Tensions and Oil Pric - GuruFocus — *GuruFocus*
 - `08-03 17:44` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - The Guardian — *The Guardian*
-- `08-03 17:38` Market News: Oil Crashes 9% — Trump Reveals Canceled Iran Strike Would Have Been Largest Since WWII, Says Deal Is Imminent - Binance — *Binance*
-- `08-03 17:30` Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-03 17:26` U.S. Stock Futures Rise, Oil Falls as U.S. Shifts Toward Diplomacy with Iran - WSJ — *WSJ*
-- `08-03 17:18` Oil futures: Crude slumps as US-Iran pause hostilities for peace talks - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
-- `08-03 17:16` Dow Jones futures advance as oil prices fall on US-Iran diplomatic signals - FXStreet — *FXStreet*
-- `08-03 17:02` WTI Crude Oil Price Forecast: Oil Falls Below $80 as Trump Halts Iran Strikes; Will Prices Rise? - TradingKey — *TradingKey*
-- `08-03 16:57` Groups set 3-day transport strike after weeks of oil price hikes - Inquirer.net — *Inquirer.net*
 
 ## 🌍 시장 전반
+- `08-03 18:20` Corporate Earnings, Lower Yields Drive N11tn July Stock Market Rally - The Whistler Newspaper — *The Whistler Newspaper*
+- `08-03 17:51` Kospi tumbles 5% after record rally as foreigners turn to sell; Kosdaq up with robot shares in focus - KED Global — *KED Global*
 - `08-03 17:44` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - The Guardian — *The Guardian*
+- `08-03 17:32` The Kospi selloff and Situational Awareness tell a similar story of a dangerous investing trap - Business Insider — *Business Insider*
 - `08-03 16:15` Morgan Stanley: KOSPI 9,000 After 360,000 Margin Liquidations - 조선일보 — *조선일보*
 - `08-03 15:28` Asia stocks tumble as KOSPI extends losses; AI shares drag regional markets - Investing.com — *Investing.com*
 - `08-03 14:03` Stock Market Today: Sensex Jumps 800 Points, Nifty Tops 24,550 — Three Reasons Behind The Rally - NDTV Profit — *NDTV Profit*
 - `08-03 13:44` Stock market reverses rally as investors lose N1.3trn in one week - Vanguard News — *Vanguard News*
-- `08-03 13:28` Bitcoin Is Now Calmer Than South Korea’s AI-Driven Stock Market - BeInCrypto — *BeInCrypto*
-- `08-03 12:03` Indonesia Stocks Rally 10.5% in July, But the Surge May Not Last - Jakarta Globe — *Jakarta Globe*
-- `08-03 11:42` Retail Investors Flee Kospi Crash, Criticize Government Policies - 조선일보 — *조선일보*
