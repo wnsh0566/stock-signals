@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-03 07:30 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-03 15:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,75 +17,78 @@
 - **D-25** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `08-03 07:06` AM-PM] 이 대통령, 귀국 직후 부동산·증시 점검 회의 外 - 연합뉴스TV — *연합뉴스TV*
-- `08-03 06:54` “레버리지 투자했다 60% 손실”…정부, 증시 긴급조치권 꺼냈다 [잇슈 머니] - KBS 뉴스 — *KBS 뉴스*
-- `08-03 06:05` [코스피·코스닥 전 거래일(31일) 주요공시] - 연합뉴스 — *연합뉴스*
-- `08-03 06:00` 투자자 예탁금 한 달 만에 20조원 줄어… 말라가는 증시 대기 자금 - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `08-03 05:35` 스페이스X 첫 실적 발표, 주가 100달러 지킬까…고용지표 주목[이번주 美 증시는] - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-03 05:30` 레버리지 ETF 보완·장기 기관투자자 확대…증시 변동성 낮출까 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-03 05:10` 비중 무려 51%, "삼전닉스피" 이 말까지 나왔다...변동성 커진 이유 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-03 05:07` 한 달 새 서킷브레이커 4회…'투전판 증시'에 흔들리는 시장 신뢰 - geconomy.co.kr — *geconomy.co.kr*
+- `08-03 15:33` [속보] 사상 최대 폭등했던 코스피, 5%대 급락 마감…코스닥은 급등 - 한국경제 — *한국경제*
+- `08-03 15:22` “이젠 사이드카 봐도 덤덤하네요”…코스피, 추가 상승 가능할까 - 매일경제 마켓 — *매일경제 마켓*
+- `08-03 15:22` "韓증시 극심한 변동성, 이재명 정부 역풍으로" - 마켓인 — *마켓인*
+- `08-03 15:20` AI에 흔들린 글로벌 증시…다시 기술주로 시선 이동[글로벌 레이더] - 에너지경제신문 — *에너지경제신문*
+- `08-03 15:18` 모건스탠리 “韓 증시 36% 상승 가능…반환점 지나” 비중 확대로 상향 - 문화일보 — *문화일보*
+- `08-03 14:55` 7월 폭락 딛고 반등 시동 건 코스피...대신증권, "9300선까지 밸류에이션 정상화 가능" - 녹색경제신문 — *녹색경제신문*
+- `08-03 14:33` 이 대통령, 순방 마치고 귀국…곧장 집값·증시 점검 - 연합뉴스TV — *연합뉴스TV*
+- `08-03 14:31` 모건스탠리, 한국 증시 '비중확대' 상향 … "코스피 9000까지 상승여력" - newdaily.co.kr — *newdaily.co.kr*
 
 ## 🇰🇷 반도체·HBM
-- `08-03 07:26` VR로 배우는 반도체…시흥 해양생태과학관 체험전 - 경기일보 — *경기일보*
-- `08-03 07:19` 한전, 호남권 반도체 산단 적기 전력공급 총력 기울인다 - 에너지데일리 — *에너지데일리*
-- `08-03 07:05` [기자의 눈] 반도체 기술 빼가도 5년형…산업안보 이대로 안 된다 - ajunews.com — *ajunews.com*
-- `08-03 06:54` “SK하이닉스 흔든 진범 잡혔다”…다시 ‘300만닉스’ 갈까? [잇슈 머니] - KBS 뉴스 — *KBS 뉴스*
-- `08-03 06:33` [WHO뉴스]숀 킴은 '메모리 겨울론 파수꾼'인가? 단순 반도체 흔드는 인물인가? - 저스트 이코노믹스 — *저스트 이코노믹스*
-- `08-03 06:29` '한국 반도체 저승사자' 숀 킴이 잇따라 쏘아 올린 경고음 - climatepol.com — *climatepol.com*
-- `08-03 06:00` 역대급 실적인데… 삼전닉스, IMF·닷컴버블 수준 폭락 [반도체 쇼크와 외국인 ①] - IT조선 — *IT조선*
-- `08-03 06:00` [이투데이 말투데이] 광음여전(光陰如箭)/반도체 슈퍼사이클 - 이투데이 — *이투데이*
+- `08-03 15:33` 반도체 초과세수로 미래대응기금 만드는 게 ‘좌파적’ 발상일까 [AI 혁명 딜레마①] - 더스쿠프 — *더스쿠프*
+- `08-03 15:32` 가천대, AI 반도체 팹리스 전문대학원 만든다 - 디일렉 — *디일렉*
+- `08-03 15:30` 'HBM→LPDDR6' AI 대전 2막?…삼성·SK·CXMT '대격돌' - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-03 15:29` 용인반도체산단 재검토 촉구 전국행진단, 3일 부안 찾는다 - 부안독립신문 — *부안독립신문*
+- `08-03 15:25` 김기철, 8달 만에 세미텍 복귀…테크솔루션 '반도체 장비' 정조준 - 톱데일리 — *톱데일리*
+- `08-03 15:24` 완주군의회 "호남권 반도체 클러스터에 전북 역할 반영해야"…정부에 촉구 - 프레시안 — *프레시안*
+- `08-03 15:19` [주간 껄무새] '삼전닉스' 광란의 금요일…SK하이닉스는 17년 만에 상한가 - 녹색경제신문 — *녹색경제신문*
+- `08-03 15:18` CXMT 추격에도 굳건한 K-메모리…中 생태계 확장은 부담 [반도체레이다] - 디지털데일리 — *디지털데일리*
 
 ## 🇰🇷 금융주
-- `08-02 21:20` 하나금융, 그룹 헤드쿼터 청라 이전 앞두고 ‘통합 캠페인’ 실시 - 이즈보험 — *이즈보험*
-- `08-02 20:31` BNK금융, 해운협회와 손잡고 선박금융 확대에 속도 - 라이센스뉴스 — *라이센스뉴스*
-- `08-02 20:00` '청라 시대' 여는 하나금융…인천과 함께 성장하는 지역금융 전략 본격화 - 라이센스뉴스 — *라이센스뉴스*
-- `08-02 18:14` 같은 ADR인데…하이닉스는 프리미엄, 금융지주는 제자리 - 아시아투데이 — *아시아투데이*
-- `08-02 15:30` 첫 관문도 못 넘은 얼라인…JB·BNK 통합론 사실상 좌초 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `08-02 14:37` iM금융그룹, 계열사 금융소비자보호 역량 강화…실무 교육으로 전문성 제고 - 대경일보 — *대경일보*
-- `08-02 13:14` 하나금융그룹, HQ 청라 이전 기념 ‘하나의 진심(眞心) 담은 통합 캠페인’…“인천의 새로운 가족” - 기호일보 — *기호일보*
-- `08-02 12:22` 하나금융, 그룹 HQ 청라 이전 기념 통합 캠페인 9월 30일까지 진행 - 이슈투데이 — *이슈투데이*
+- `08-03 15:31` ‘비은행 효자’는 옛말…금융지주 보험사, 실적도 위상도 ‘흔들’ - 마이데일리 — *마이데일리*
+- `08-03 15:11` [주식] 7월 베트남 은행주, 27개 중 26개 하락… ABB만 상승 - goodmorningvietnam.co.kr — *goodmorningvietnam.co.kr*
+- `08-03 13:49` '무더기 제재' 하나금융, 지배구조 전반 대수술 불가피 - 주주경제신문 — *주주경제신문*
+- `08-03 13:24` [영호남 금융통합] 방만한 임원 조직 줄이라니…합병은 BNK 철밥통의 위기 : 네이버 블로그 - Naver Blog — *Naver Blog*
+- `08-03 12:15` 하나금융지주, 환율 하락에 3분기 이익·자본비율 ‘동반 개선’ - 하나증권 - PRESS9 — *PRESS9*
+- `08-03 11:41` 신한은행, 금융권 최초 ‘감정평가서 AI 점검 Agent’ 도입 - 이지경제 — *이지경제*
+- `08-03 10:47` 한국금융지주, 차익 실현 매물 출회에 장중 5%대 하락 : 기업주식정보 - 재경일보 — *재경일보*
+- `08-03 10:32` 우리금융지주, 수급 악화 속 금융주 약세 동조화…장중 하락세 : 기업주식정보 - 재경일보 — *재경일보*
 
 ## 🇰🇷 정책·거시
+- `08-03 11:45` 순방 마친 이 대통령, 증시·부동산·형소법 등 국내 현안 집중 - 뉴시스 — *뉴시스*
+- `08-03 10:05` 귀국 첫 일정이 경제회의… 이 대통령, 부동산·증시 직접 챙긴다 - v.daum.net — *v.daum.net*
+- `08-03 09:53` 서울에 주택을 '닥공'하자고?...오세훈 서울시장의 빗나간 부동산 대책 - 평화뉴스 — *평화뉴스*
+- `08-03 09:20` 李정부, 부동산 종합대책 예고했지만…시장 "집값 더 오른다" - 더팩트 — *더팩트*
 - `08-03 06:00` 李, 3일 부동산·증시 점검 비공개 회의 - 세계일보 — *세계일보*
 - `08-03 04:30` 李, 귀국하자마자 부동산-증시 대책 회의 - 동아일보 — *동아일보*
 - `08-03 00:10` [사설] 친여 전문가들도 등 돌린 ‘공급 외면, 징벌 증세’ 집값 대책 - 조선일보 — *조선일보*
 - `08-02 21:51` 李 대통령, 귀국 즉시 출근…부동산·증시 비공개 회의 소집 - 한국경제 — *한국경제*
-- `08-02 14:30` 초미세 핀셋 부동산 대책…고가·비거주 세금 조이고 신축 잔금만 숨통 - ajunews.com — *ajunews.com*
-- `08-02 10:46` '실수요' 잔금대출 숨통ㆍ전세대출 강화⋯당국, 부동산대책 막바지 고심 중 - 이투데이 — *이투데이*
-- `08-02 07:25` 금융당국, 잔금대출 풀고 전세대출은 조인다…규제·완화 '투트랙' - 뉴스1 — *뉴스1*
 
 ## 🌍 AI·빅테크
+- `08-03 09:27` OpenAI and Anthropic now hold 80% of AI 50 venture funding as enterprise-ready startups multiply - MarketScale — *MarketScale*
+- `08-02 20:50` Nvidia Has $500 Billion in AI Chip Bookings Covering 2025 and 2026, a Backlog Investors Can Track for Future Revenue - The Motley Fool — *The Motley Fool*
 - `08-02 11:34` Pecking Order and AI Capex Spending - Econbrowser — *Econbrowser*
-- `08-02 08:15` Nvidia’s OpenAI and SK Group Deals Fuel $750B ‘Circular Financing’ Debate，Why are Investors Concerned? - TradingKey — *TradingKey*
 - `08-01 21:12` NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook - Intellectia AI — *Intellectia AI*
+- `08-01 18:05` Nvidia’s OpenAI and SK Group Deals Fuel $750B ‘Circular Financing’ Debate，Why are Investors Concerned? - TradingKey — *TradingKey*
 
 ## 🌍 연준·금리
+- `08-03 11:02` The ‘Mar-a-Lago effect’ has reached the Fed - afr.com — *afr.com*
+- `08-03 10:59` The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - The Motley Fool — *The Motley Fool*
+- `08-03 08:03` Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year - bloomingbit — *bloomingbit*
 - `08-03 00:35` Warsh’s Fed credibility crisis looms under Donald Trump’s presidency - The Times — *The Times*
-- `08-02 20:00` Will July’s US employment data prompt a rethink on rates? - Financial Times — *Financial Times*
-- `08-02 19:01` Fed holds interest rates steady: a delicate balancing act - Nhan Dan Online — *Nhan Dan Online*
+- `08-02 20:00` Will July’s US employment data prompt a rethink on rates? - ft.com — *ft.com*
 - `08-01 23:29` Is the Fed Becoming an Even Bigger Black Box? Warsh Wants to Reduce Number of Meetings - 24/7 Wall St. — *24/7 Wall St.*
 - `08-01 22:26` President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates - Yahoo Finance — *Yahoo Finance*
-- `08-01 16:07` Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
-- `08-01 09:41` Fed Dissenters Say Rate Hikes Needed to Tame High Inflation - Bloomberg.com — *Bloomberg.com*
-- `08-01 08:10` Bond sell-off sent warning on Federal Reserve’s credibility, says top central bank official - Financial Times — *Financial Times*
+- `08-01 18:06` New Fed chair doesn’t want you to know what he’s thinking. Here’s why. - USA Today — *USA Today*
 
 ## 🌍 유가·지정학
-- `08-03 07:16` Reports of Iran firing cruise missile at US oil tanker, also UK Navy reports incident - investingLive — *investingLive*
-- `08-03 07:09` Oil Slumps, US Futures Rise on Iran Talks Optimism: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `08-03 04:00` China's Car Market Stalls Even as Global Demand Keeps Growing - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-03 02:16` Chevron CEO warns Iran conflict has created 'very real' threat to global oil supplies as gas prices climb - foxnews.com — *foxnews.com*
-- `08-03 02:00` Tidal Energy Could Cover 57% of US Electricity Demand, NREL Study Finds - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-03 01:39` Opec+ agrees output rise in September amid uneasy pause in Iran war - thenationalnews.com — *thenationalnews.com*
-- `08-03 01:31` Crude Oil Price Dives as OPEC+ Agrees to Another Supply Hike - Benzinga — *Benzinga*
-- `08-03 00:19` Oil futures: Crude rebounds as Hormuz, CPC disruptions eyed - Smartkarma — *Smartkarma*
+- `08-03 15:38` Oil prices fall over 5% as US-Iran talks set to resume - Anadolu Ajansı — *Anadolu Ajansı*
+- `08-03 15:30` Greek LNG Ship Safely Clears Hormuz After Maritime Incident - oilprice.com — *oilprice.com*
+- `08-03 15:20` PSX rises as Trump delays Iran strikes, oil slips - The News Pakistan — *The News Pakistan*
+- `08-03 15:18` Oil plunges as US pauses Iran strikes; OPEC+ approves output increase (UCO:NYSEARCA) - Seeking Alpha — *Seeking Alpha*
+- `08-03 15:01` Iran war ushers in oil refining golden era. It won’t last - Reuters — *Reuters*
+- `08-03 14:58` Getting the oil out: exploring Hormuz alternatives - Al Majalla — *Al Majalla*
+- `08-03 14:54` Crude oil futures tank over 6 pc amid hopes of US-Iran talks - Deccan Herald — *Deccan Herald*
+- `08-03 14:49` Oil lower after Trump says Iran talks will resume - FXStreet — *FXStreet*
 
 ## 🌍 시장 전반
+- `08-03 14:03` Stock Market Today: Sensex Jumps 800 Points, Nifty Tops 24,550 — Three Reasons Behind The Rally - NDTV Profit — *NDTV Profit*
+- `08-03 14:01` Bitcoin's Volatility Lags Behind South Korea's AI-Driven Stock Market in 2026 - KuCoin — *KuCoin*
+- `08-03 13:44` Stock market reverses rally as investors lose N1.3trn in one week - Vanguard News — *Vanguard News*
+- `08-03 12:03` Indonesia Stocks Rally 10.5% in July, But the Surge May Not Last - jakartaglobe.id — *jakartaglobe.id*
+- `08-03 11:42` KOSPI Plunge Triggers Record Investor Sell-Off - 조선일보 — *조선일보*
+- `08-03 11:25` Foreign Investors Reverse Course on Korean Stocks After Record Selloff - 조선일보 — *조선일보*
 - `08-03 03:40` Global shockwaves as South Korea's crash rattles markets - ABC News & Headlines – Australian Broadcasting Corporation — *ABC News & Headlines – Australian Broadcasting Corporation*
 - `08-03 02:45` Semiconductor Sell-Off: 1 Chip Stock to Buy, 1 to Hold, and 1 to Sell - The Motley Fool — *The Motley Fool*
-- `08-02 22:35` Cloud Revenue Highlights Divide in AI Stock Selloff, Separating Market Winners and Losers - TechStock² — *TechStock²*
-- `08-02 21:00` Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun. - marketwatch.com — *marketwatch.com*
-- `08-02 21:00` Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs. - marketwatch.com — *marketwatch.com*
-- `08-02 20:44` Netflix's Big Sell-Off May Be Sending the Wrong Signal - MarketBeat — *MarketBeat*
-- `08-02 17:00` Stock Market Today: Live Updates 02.08.2026 - TechStock² — *TechStock²*
-- `08-02 16:00` If the $1.3 Trillion Chip Stock Sell-Off Was a Warning for the S&P 500, History Repeatedly Suggests 1 Move to Avoid - The Motley Fool — *The Motley Fool*
