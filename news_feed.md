@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-03 15:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-03 15:47 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -27,6 +27,7 @@
 - `08-03 14:31` 모건스탠리, 한국 증시 '비중확대' 상향 … "코스피 9000까지 상승여력" - newdaily.co.kr — *newdaily.co.kr*
 
 ## 🇰🇷 반도체·HBM
+- `08-03 15:39` [마감시황] 반도체 차익실현에 코스피 5.12% 하락... 코스닥은 강세 - 매일일보 — *매일일보*
 - `08-03 15:33` 반도체 초과세수로 미래대응기금 만드는 게 ‘좌파적’ 발상일까 [AI 혁명 딜레마①] - 더스쿠프 — *더스쿠프*
 - `08-03 15:32` 가천대, AI 반도체 팹리스 전문대학원 만든다 - 디일렉 — *디일렉*
 - `08-03 15:30` 'HBM→LPDDR6' AI 대전 2막?…삼성·SK·CXMT '대격돌' - 글로벌이코노믹 — *글로벌이코노믹*
@@ -34,7 +35,6 @@
 - `08-03 15:25` 김기철, 8달 만에 세미텍 복귀…테크솔루션 '반도체 장비' 정조준 - 톱데일리 — *톱데일리*
 - `08-03 15:24` 완주군의회 "호남권 반도체 클러스터에 전북 역할 반영해야"…정부에 촉구 - 프레시안 — *프레시안*
 - `08-03 15:19` [주간 껄무새] '삼전닉스' 광란의 금요일…SK하이닉스는 17년 만에 상한가 - 녹색경제신문 — *녹색경제신문*
-- `08-03 15:18` CXMT 추격에도 굳건한 K-메모리…中 생태계 확장은 부담 [반도체레이다] - 디지털데일리 — *디지털데일리*
 
 ## 🇰🇷 금융주
 - `08-03 15:31` ‘비은행 효자’는 옛말…금융지주 보험사, 실적도 위상도 ‘흔들’ - 마이데일리 — *마이데일리*
@@ -75,13 +75,13 @@
 
 ## 🌍 유가·지정학
 - `08-03 15:38` Oil prices fall over 5% as US-Iran talks set to resume - Anadolu Ajansı — *Anadolu Ajansı*
-- `08-03 15:30` Greek LNG Ship Safely Clears Hormuz After Maritime Incident - oilprice.com — *oilprice.com*
+- `08-03 15:31` Oil prices fall over 5% as US-Iran talks set to resume - A News — *A News*
+- `08-03 15:30` Greek LNG Ship Safely Clears Hormuz After Maritime Incident - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `08-03 15:20` PSX rises as Trump delays Iran strikes, oil slips - The News Pakistan — *The News Pakistan*
 - `08-03 15:18` Oil plunges as US pauses Iran strikes; OPEC+ approves output increase (UCO:NYSEARCA) - Seeking Alpha — *Seeking Alpha*
+- `08-03 15:02` By July 2027, Shell shares could turn £9,999 into… - The Twelfth Magpie — *The Twelfth Magpie*
 - `08-03 15:01` Iran war ushers in oil refining golden era. It won’t last - Reuters — *Reuters*
 - `08-03 14:58` Getting the oil out: exploring Hormuz alternatives - Al Majalla — *Al Majalla*
-- `08-03 14:54` Crude oil futures tank over 6 pc amid hopes of US-Iran talks - Deccan Herald — *Deccan Herald*
-- `08-03 14:49` Oil lower after Trump says Iran talks will resume - FXStreet — *FXStreet*
 
 ## 🌍 시장 전반
 - `08-03 14:03` Stock Market Today: Sensex Jumps 800 Points, Nifty Tops 24,550 — Three Reasons Behind The Rally - NDTV Profit — *NDTV Profit*
