@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-03 19:26 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-03 19:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,15 +18,16 @@
 
 ## 🇰🇷 증시·코스피
 - `08-03 19:13` ‘역대급 폭등’ 코스피 차익실현에 5%대 ↓ - 국제신문 — *국제신문*
+- `08-03 18:08` 부정평가 첫 '과반'…귀국 후 '부동산·코스피'부터 챙겼다 - newstomato.com — *newstomato.com*
 - `08-03 18:05` 코스피, 역대급 폭등 하루 만에 5%대 급락…6200선 마감 - 인더스트리뉴스 — *인더스트리뉴스*
 - `08-03 18:02` 코스피 또 떨어지는데..."9000 간다, 사라" 모간스탠리 돌변 이유는 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-03 17:59` “무섭다, 다시는 韓 주식 투자 안해”…블룸버그, 레버리지 역풍 맞은 코스피 조명 - 전자신문 — *전자신문*
+- `08-03 17:59` “무섭다, 다시는 韓 주식 투자 안해”…블룸버그, 레버리지 역풍 맞은 코스피 조명 - etnews.com — *etnews.com*
 - `08-03 17:59` 이 대통령, 부동산·증시 점검회의 주재...내치 속도 - YTN — *YTN*
 - `08-03 17:54` 개미들 의욕상실·실탄부족 … 코스피서 존재감 확 줄었다 - v.daum.net — *v.daum.net*
-- `08-03 17:49` [도쿄증시-마감] 엔화 강세 속 1% 안팎 하락 - 연합인포맥스 — *연합인포맥스*
-- `08-03 17:46` 역사적 롤러코스터 코스피 ‘8월 반등 열쇠’는 역시 반도체 - 부산일보 — *부산일보*
+- `08-03 17:52` "코스피 바닥 다졌다" 어떤 지표에 집중해야 할까 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🇰🇷 반도체·HBM
+- `08-03 19:37` “농업용수에 반도체 폐수 뿌리나” 안성 주민 400여 명 트랙터 행진 - v.daum.net — *v.daum.net*
 - `08-03 18:54` LB세미콘, 퀄컴 양산 승인 획득...이달 양산 돌입 - 디일렉 — *디일렉*
 - `08-03 18:42` '전력 확보 변수' 반도체 투자 경쟁…삼성·SK, 에너지 역량 강화한다 - 폴리뉴스 Polinews — *폴리뉴스 Polinews*
 - `08-03 18:38` 두산, 2.3조 승부수…웨이퍼 품고 ‘반도체 공룡’ 도약 - 서울경제TV — *서울경제TV*
@@ -34,23 +35,22 @@
 - `08-03 18:36` 삼성전자 2분기 영업익 89.5조 ‘역대 최대’···AI 반도체 실적 견인 - 공유경제신문 — *공유경제신문*
 - `08-03 18:34` AI 회의론에 코스피 흔들리지만…“반도체 여전히 최선호주” - 아시아투데이 — *아시아투데이*
 - `08-03 18:30` 반도체·2차전지 등 '한국판 IRA' 내년 본격 가동 - 매일일보 — *매일일보*
-- `08-03 18:15` 부산 반도체 기업 ‘리노공업’ 노사 이견 팽팽... 파업 장기화 우려 - chosun.com — *chosun.com*
 
 ## 🇰🇷 금융주
+- `08-03 19:24` [영호남 금융통합] 방만한 임원 조직 줄이라니…합병은 BNK 철밥통의 위기 : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `08-03 18:00` 상반기 13조 넘긴 금융지주, 하반기엔 '예대마진 축소·부실채권 증가 우려↑ - 글로벌이코노믹 — *글로벌이코노믹*
 - `08-03 17:49` 빈대인 2기 첫 성적표 ‘흔들’…BNK금융, 부실채권 숙제 못 풀었다 - 이지경제 — *이지경제*
 - `08-03 17:15` 토스, 출범 11년만에 ‘금융그룹’ 반열 올랐다…내부통제 강화는 과제로 - CEO스코어데일리 — *CEO스코어데일리*
 - `08-03 16:34` 5대 금융, ‘포용금융 성적표’ 앞두고 미소금융 확대…상생금융 경쟁 본격화 - 데일리e뉴스 — *데일리e뉴스*
 - `08-03 16:29` [더밸류 브리핑] 오늘의 하나금융그룹 소식...하나금융· 하나은행 - 더밸류뉴스 — *더밸류뉴스*
-- `08-03 15:55` 우리금융지주 우리금융미래재단, 청각장애 유소년 연극단 후원…문화예술 지원 확대 - PRESS9 — *PRESS9*
+- `08-03 15:55` 우리금융지주 우리금융미래재단, 청각장애 유소년 연극단 후원…문화예술 지원 확대 - press9.kr — *press9.kr*
 - `08-03 15:51` [기획] 금융지주 산하 저축은행, 상반기 약진 - 소년한국일보 — *소년한국일보*
-- `08-03 15:31` ‘비은행 효자’는 옛말…금융지주 보험사, 실적도 위상도 ‘흔들’ - 마이데일리 — *마이데일리*
 
 ## 🇰🇷 정책·거시
-- `08-03 17:24` 李, 귀국 후 긴급 회의…주식·부동산 대책 마련 - v.daum.net — *v.daum.net*
+- `08-03 18:59` 李, 위기감? 귀국하자마자 "부동산·주식 대책 마련" - 매일신문 — *매일신문*
 - `08-03 11:45` 순방 마친 이 대통령, 증시·부동산·형소법 등 국내 현안 집중 - 뉴시스 — *뉴시스*
 - `08-03 10:05` 귀국 첫 일정이 경제회의… 이 대통령, 부동산·증시 직접 챙긴다 - v.daum.net — *v.daum.net*
-- `08-03 09:54` 李, 순방 후 부동산 점검…토론회 후속 대책 논의 - 네이트 — *네이트*
+- `08-03 09:54` 李, 순방 후 부동산 점검…토론회 후속 대책 논의 - news.nate.com — *news.nate.com*
 - `08-03 09:53` 서울에 주택을 '닥공'하자고?...오세훈 서울시장의 빗나간 부동산 대책 - 평화뉴스 — *평화뉴스*
 - `08-03 09:20` 李정부, 부동산 종합대책 예고했지만…시장 "집값 더 오른다" - 더팩트 — *더팩트*
 - `08-03 06:00` 李, 3일 부동산·증시 점검 비공개 회의 - 세계일보 — *세계일보*
@@ -65,28 +65,28 @@
 - `08-01 21:12` NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook - Intellectia AI — *Intellectia AI*
 
 ## 🌍 연준·금리
-- `08-03 19:06` EXCLUSIVE: Fed's Williams expects inflation to ease, says Fed will act if it doesn't - Reuters — *Reuters*
+- `08-03 19:20` EXCLUSIVE: Fed's Williams expects inflation to ease, says Fed will act if it doesn't - Reuters — *Reuters*
 - `08-03 17:54` The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - AOL.com — *AOL.com*
 - `08-03 17:45` Bitcoin trades near $63,000 as Fed rate hike bets weigh on crypto - eciks.org — *eciks.org*
 - `08-03 17:44` US Fed Reserve’s inflation challenge - Gulf Today — *Gulf Today*
 - `08-03 17:29` The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool — *The Motley Fool*
-- `08-03 16:03` Who Needs the Federal Reserve? - palipost.com — *palipost.com*
+- `08-03 16:03` Who Needs the Federal Reserve? - Palisadian-Post — *Palisadian-Post*
 - `08-03 15:58` Webinar: What if… The Fed cuts rates by next summer? - ING THINK economic and financial analysis | ING THINK — *ING THINK economic and financial analysis | ING THINK*
 - `08-03 11:30` The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - The Motley Fool — *The Motley Fool*
 
 ## 🌍 유가·지정학
-- `08-03 18:57` Oil prices seen declining in first week of August - ABS-CBN — *ABS-CBN*
-- `08-03 18:33` Oil price windfall for Africa’s largest exporters - African Energy — *African Energy*
+- `08-03 19:45` Trump Said He’s Halting Attacks And Resuming Talks With Iran. Oil Prices Are Plunging - International Business Times — *International Business Times*
+- `08-03 19:36` Brent outlook: Oil price falls on fresh US-Iran peace deal optimism - fxstreet.com — *fxstreet.com*
+- `08-03 19:30` India's Imports of Russian Crude Hit New High in July - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-03 19:25` Oil prices fall sharply on Iran peace deal hopes - middle-east-online.com — *middle-east-online.com*
+- `08-03 19:00` Oil majors profit as US-Iran fighting drives energy prices higher - Euronews.com — *Euronews.com*
+- `08-03 18:34` Oil plummets as Trump calls off Iran strikes - The Telegraph — *The Telegraph*
+- `08-03 18:33` Oil price windfall for Africa’s largest exporters - africa-energy.com — *africa-energy.com*
 - `08-03 18:30` BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-03 18:27` Oil Slumps, US Futures Rise on Iran Talks Optimism: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `08-03 18:25` Oil Prices Fall 15% as Iran Talks Ease Conflict Fears: What Happens Next? - equiti.com — *equiti.com*
-- `08-03 18:16` Oil down after Trump called off strikes on Iran - engine.online — *engine.online*
-- `08-03 18:16` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - theguardian.com — *theguardian.com*
-- `08-03 18:15` European Midday Briefing : Shares Rise, Oil Tumbles on Renewed U.S.-Iran Diplomacy - marketscreener.com — *marketscreener.com*
 
 ## 🌍 시장 전반
 - `08-03 18:20` Corporate Earnings, Lower Yields Drive N11tn July Stock Market Rally - The Whistler Newspaper — *The Whistler Newspaper*
-- `08-03 18:16` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - theguardian.com — *theguardian.com*
+- `08-03 18:16` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - The Guardian — *The Guardian*
 - `08-03 17:51` Kospi tumbles 5% after record rally as foreigners turn to sell; Kosdaq up with robot shares in focus - KED Global — *KED Global*
 - `08-03 17:32` The Kospi selloff and Situational Awareness tell a similar story of a dangerous investing trap - Business Insider — *Business Insider*
 - `08-03 16:15` Morgan Stanley: KOSPI 9,000 After 360,000 Margin Liquidations - 조선일보 — *조선일보*
