@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-03 17:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-03 17:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,20 +18,20 @@
 
 ## 🇰🇷 증시·코스피
 - `08-03 17:36` 코스피 5.12% 하락…투심은 반도체→비반도체 - 뉴스핌 — *뉴스핌*
+- `08-03 17:34` 증시·부동산 악재 쓰나미…李대통령 부정평가 첫 50% 넘어 - hankyung.com — *hankyung.com*
 - `08-03 17:11` [0803마감체크] 코스피, 반등 하루 만에 5%대 하락... 코스닥은 상승 - 인포스탁데일리 — *인포스탁데일리*
 - `08-03 16:51` 고점 투자자에 구조대 오나…삼전닉스 하락으로 코스피 또 '흔들' - 머니투데이 - 머니투데이 — *머니투데이*
 - `08-03 16:45` "역대급 롤러코스피, 대피하자"...MMF에 1.4조 몰렸다 - 머니투데이 - 머니투데이 — *머니투데이*
 - `08-03 16:44` 코스피 ‘급락’ 코스닥 ‘강세’…반도체·바이오 희비[마감시황] - 에너지경제신문 — *에너지경제신문*
 - `08-03 16:40` 코스피 5.12% 급락 마감…삼성전자·SK하이닉스 8%대 하락 - 팍스경제TV — *팍스경제TV*
-- `08-03 16:38` '5%↓' 코스피 또 변동성…레버리지 대책에 수급완화? 코스닥 강세(종합) - 연합뉴스 — *연합뉴스*
-- `08-03 16:38` 폭등후 미끄러진 코스피…사실상 단종 수순 밟는 '단종레' - 비즈워치 — *비즈워치*
+- `08-03 16:39` [뉴욕증시 전략] 아마존 급등에 뉴욕증시 상승…장기물 국채수익률 부담 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
 - `08-03 17:36` 코스피 5.12% 하락…투심은 반도체→비반도체 - 뉴스핌 — *뉴스핌*
 - `08-03 17:16` [뉴스1 PICK] 코스피 5%대 하락…삼성전자·SK하이닉스 동반 급락 - 뉴스1 — *뉴스1*
 - `08-03 17:14` 반도체 소부장도 중국 맹추격…"미래기술 선점 관건" - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
 - `08-03 17:12` 삼성전자·SK하이닉스 주가 8%대 급락…차익실현 매물에 숨 고르기, 반도체주 향방은? - 뉴스인 — *뉴스인*
-- `08-03 17:10` "국가AI컴퓨팅센터 GPU, B200 확정 아냐…최신 AI 반도체 도입" - 지디넷코리아 — *지디넷코리아*
+- `08-03 17:10` "국가AI컴퓨팅센터 GPU, B200 확정 아냐…최신 AI 반도체 도입" - zdnet.co.kr — *zdnet.co.kr*
 - `08-03 17:05` [기획] BNK·하나증권, SK하이닉스 주가 하락 '족집게' 예측 화제 - 뉴스워치 — *뉴스워치*
 - `08-03 17:00` [사설] 차세대 전력반도체 R&D, 참여 대기업 파격 혜택 줘라 - 전자신문 — *전자신문*
 - `08-03 16:57` 한전, 호남권 반도체 산단 전력망 구축 속도… 신기술·신공법 본격 도입 - 솔라투데이 — *솔라투데이*
@@ -43,7 +43,7 @@
 - `08-03 15:55` 우리금융지주 우리금융미래재단, 청각장애 유소년 연극단 후원…문화예술 지원 확대 - PRESS9 — *PRESS9*
 - `08-03 15:51` [기획] 금융지주 산하 저축은행, 상반기 약진 - 소년한국일보 — *소년한국일보*
 - `08-03 15:31` ‘비은행 효자’는 옛말…금융지주 보험사, 실적도 위상도 ‘흔들’ - 마이데일리 — *마이데일리*
-- `08-03 15:11` [주식] 7월 베트남 은행주, 27개 중 26개 하락… ABB만 상승 - goodmorningvietnam.co.kr — *goodmorningvietnam.co.kr*
+- `08-03 15:11` [주식] 7월 베트남 은행주, 27개 중 26개 하락… ABB만 상승 - 굿모닝베트남미디어 — *굿모닝베트남미디어*
 - `08-03 13:49` '무더기 제재' 하나금융, 지배구조 전반 대수술 불가피 - 주주경제신문 — *주주경제신문*
 
 ## 🇰🇷 정책·거시
@@ -66,31 +66,31 @@
 - `08-01 18:05` Nvidia’s OpenAI and SK Group Deals Fuel $750B ‘Circular Financing’ Debate，Why are Investors Concerned? - TradingKey — *TradingKey*
 
 ## 🌍 연준·금리
+- `08-03 17:44` US Fed Reserve’s inflation challenge - Gulf Today — *Gulf Today*
 - `08-03 17:29` The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool — *The Motley Fool*
 - `08-03 16:03` Who Needs the Federal Reserve? - palipost.com — *palipost.com*
 - `08-03 15:58` Webinar: What if… The Fed cuts rates by next summer? - ING Think — *ING Think*
 - `08-03 11:02` The ‘Mar-a-Lago effect’ has reached the Fed - AFR — *AFR*
 - `08-03 10:59` The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - The Motley Fool — *The Motley Fool*
-- `08-03 08:03` Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year - en.bloomingbit.io — *en.bloomingbit.io*
+- `08-03 08:03` Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year - bloomingbit — *bloomingbit*
 - `08-03 00:35` Warsh’s Fed credibility crisis looms under Donald Trump’s presidency - The Times — *The Times*
-- `08-02 20:00` Will July’s US employment data prompt a rethink on rates? - Financial Times — *Financial Times*
 
 ## 🌍 유가·지정학
+- `08-03 17:44` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - The Guardian — *The Guardian*
+- `08-03 17:38` Market News: Oil Crashes 9% — Trump Reveals Canceled Iran Strike Would Have Been Largest Since WWII, Says Deal Is Imminent - Binance — *Binance*
 - `08-03 17:30` Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `08-03 17:26` U.S. Stock Futures Rise, Oil Falls as U.S. Shifts Toward Diplomacy with Iran - WSJ — *WSJ*
 - `08-03 17:18` Oil futures: Crude slumps as US-Iran pause hostilities for peace talks - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
 - `08-03 17:16` Dow Jones futures advance as oil prices fall on US-Iran diplomatic signals - FXStreet — *FXStreet*
-- `08-03 16:59` WTI Crude Oil Price Forecast: Oil Falls Below $80 as Trump Halts Iran Strikes; Will Prices Rise? - TradingKey — *TradingKey*
+- `08-03 17:02` WTI Crude Oil Price Forecast: Oil Falls Below $80 as Trump Halts Iran Strikes; Will Prices Rise? - TradingKey — *TradingKey*
 - `08-03 16:57` Groups set 3-day transport strike after weeks of oil price hikes - Inquirer.net — *Inquirer.net*
-- `08-03 16:46` Oil prices drop more than $4 after Trump holds off on new strike against Iran - The New Voice of Ukraine — *The New Voice of Ukraine*
-- `08-03 16:43` Oil plummets as Trump calls off Iran strikes - The Telegraph — *The Telegraph*
 
 ## 🌍 시장 전반
+- `08-03 17:44` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - The Guardian — *The Guardian*
 - `08-03 16:15` Morgan Stanley: KOSPI 9,000 After 360,000 Margin Liquidations - 조선일보 — *조선일보*
 - `08-03 15:28` Asia stocks tumble as KOSPI extends losses; AI shares drag regional markets - Investing.com — *Investing.com*
 - `08-03 14:03` Stock Market Today: Sensex Jumps 800 Points, Nifty Tops 24,550 — Three Reasons Behind The Rally - NDTV Profit — *NDTV Profit*
 - `08-03 13:44` Stock market reverses rally as investors lose N1.3trn in one week - Vanguard News — *Vanguard News*
 - `08-03 13:28` Bitcoin Is Now Calmer Than South Korea’s AI-Driven Stock Market - BeInCrypto — *BeInCrypto*
-- `08-03 12:03` Indonesia Stocks Rally 10.5% in July, But the Surge May Not Last - jakartaglobe.id — *jakartaglobe.id*
+- `08-03 12:03` Indonesia Stocks Rally 10.5% in July, But the Surge May Not Last - Jakarta Globe — *Jakarta Globe*
 - `08-03 11:42` Retail Investors Flee Kospi Crash, Criticize Government Policies - 조선일보 — *조선일보*
-- `08-03 11:25` Foreign Investors Reverse Course on Korean Stocks After Record Selloff - 조선일보 — *조선일보*
