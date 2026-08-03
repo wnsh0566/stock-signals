@@ -1,95 +1,97 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-03 19:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-04 07:34 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+5** (07/29) ⭐⭐⭐ SK하이닉스 2Q 실적 — HBM 가이던스·중국 격차 답변
-- **D+4** (07/30) ⭐⭐⭐ FOMC 결과 발표(한국시각 새벽) — 인상 확률 ~40%
-- **D+4** (07/30) ⭐⭐ 삼성전자 컨콜 + 자금 입금(대기 확정·매수 아님)
-- **D+2** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
-- **D-4** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
-- **D-4** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
-- **D-6** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
-- **D-9** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
-- **D-11** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
-- **D-24** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
-- **D-25** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
+- **D+6** (07/29) ⭐⭐⭐ SK하이닉스 2Q 실적 — HBM 가이던스·중국 격차 답변
+- **D+5** (07/30) ⭐⭐⭐ FOMC 결과 발표(한국시각 새벽) — 인상 확률 ~40%
+- **D+5** (07/30) ⭐⭐ 삼성전자 컨콜 + 자금 입금(대기 확정·매수 아님)
+- **D+3** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
+- **D-3** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
+- **D-3** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
+- **D-5** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
+- **D-8** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
+- **D-10** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
+- **D-23** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
+- **D-24** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `08-03 19:13` ‘역대급 폭등’ 코스피 차익실현에 5%대 ↓ - 국제신문 — *국제신문*
-- `08-03 18:08` 부정평가 첫 '과반'…귀국 후 '부동산·코스피'부터 챙겼다 - newstomato.com — *newstomato.com*
-- `08-03 18:05` 코스피, 역대급 폭등 하루 만에 5%대 급락…6200선 마감 - 인더스트리뉴스 — *인더스트리뉴스*
-- `08-03 18:02` 코스피 또 떨어지는데..."9000 간다, 사라" 모간스탠리 돌변 이유는 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-03 17:59` “무섭다, 다시는 韓 주식 투자 안해”…블룸버그, 레버리지 역풍 맞은 코스피 조명 - etnews.com — *etnews.com*
-- `08-03 17:59` 이 대통령, 부동산·증시 점검회의 주재...내치 속도 - YTN — *YTN*
-- `08-03 17:54` 개미들 의욕상실·실탄부족 … 코스피서 존재감 확 줄었다 - v.daum.net — *v.daum.net*
-- `08-03 17:52` "코스피 바닥 다졌다" 어떤 지표에 집중해야 할까 - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-04 07:14` 美 증시, 미-이란 대화 재개에 나란히 상승…다우 '사상 최고치'-[글로벌 마감 시황] - v.daum.net — *v.daum.net*
+- `08-04 07:02` "한국증시 안 끝났다…하루 급등락 아니라 방향을 봐야"[클릭e종목] - v.daum.net — *v.daum.net*
+- `08-04 07:00` 증시 급등락에 발 묶인 VC…메자닌·상장주 회수 고민 커진다 - 인베스트조선 — *인베스트조선*
+- `08-04 07:00` 이 대통령, 부동산·증시 점검회의…“주택공급 물량 최대 확보” - 브릿지경제 — *브릿지경제*
+- `08-04 06:57` [뉴욕증시]美·이란 대화 재개, 빅테크 ↑…다우, 최고치 경신 - asiae.co.kr — *asiae.co.kr*
+- `08-04 06:49` [글로벌증시] 미, 이란 공격 취소에…뉴욕증시 상승 마감 - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
+- `08-04 06:48` 美 이란 공격 취소에 안도…AI 주 반등에 뉴욕증시 일제히 상승 - 조선일보 — *조선일보*
+- `08-04 05:56` [뉴욕증시] 애플 제외한 빅테크 모두 날았다…강세 마감 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
-- `08-03 19:37` “농업용수에 반도체 폐수 뿌리나” 안성 주민 400여 명 트랙터 행진 - v.daum.net — *v.daum.net*
-- `08-03 18:54` LB세미콘, 퀄컴 양산 승인 획득...이달 양산 돌입 - 디일렉 — *디일렉*
-- `08-03 18:42` '전력 확보 변수' 반도체 투자 경쟁…삼성·SK, 에너지 역량 강화한다 - 폴리뉴스 Polinews — *폴리뉴스 Polinews*
-- `08-03 18:38` 두산, 2.3조 승부수…웨이퍼 품고 ‘반도체 공룡’ 도약 - 서울경제TV — *서울경제TV*
-- `08-03 18:37` KGM, 中 체리서 1000억 유치…車·로봇·반도체 협력 확대 - 서울경제TV — *서울경제TV*
-- `08-03 18:36` 삼성전자 2분기 영업익 89.5조 ‘역대 최대’···AI 반도체 실적 견인 - 공유경제신문 — *공유경제신문*
-- `08-03 18:34` AI 회의론에 코스피 흔들리지만…“반도체 여전히 최선호주” - 아시아투데이 — *아시아투데이*
-- `08-03 18:30` 반도체·2차전지 등 '한국판 IRA' 내년 본격 가동 - 매일일보 — *매일일보*
+- `08-04 07:30` 두 달간 주가 반토막 난 SK하이닉스…핵심 관전포인트 4가지 - 한국경제 — *한국경제*
+- `08-04 07:03` [엄태윤의 마켓인텔리전스] 대만 반도체 기업 TSMC가 직면한 지정학적 위기 - 경기신문 — *경기신문*
+- `08-04 07:03` 반도체 호황에 역대급 세수풍년…사상 첫 500조 넘을까 - 뉴시스 — *뉴시스*
+- `08-04 07:03` SK하이닉스 ‘그림자 시장’ 커졌다…본주로 충격 번질까 - 데일리안 — *데일리안*
+- `08-04 07:00` AI 시대 승자는 반도체만이 아냐…"성장 무게중심 이동" - 아시아경제 — *아시아경제*
+- `08-04 06:36` [새만금에 1000조(兆) 담기] ⑤ 배후도시 익산에 '반도체 소부장 특화단지' 조성…"전남광주와 시너지 효과도" - 프레시안 — *프레시안*
+- `08-04 06:18` SK하이닉스 오폐수 직방류 반대 안성시민 결의대회 열려 - 시사안성 — *시사안성*
+- `08-04 06:07` 반도체 투톱 쉴 때도, 급등 때도 소부장은 뛴다 - 메트로신문 — *메트로신문*
 
 ## 🇰🇷 금융주
-- `08-03 19:24` [영호남 금융통합] 방만한 임원 조직 줄이라니…합병은 BNK 철밥통의 위기 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `08-03 18:00` 상반기 13조 넘긴 금융지주, 하반기엔 '예대마진 축소·부실채권 증가 우려↑ - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-04 07:00` KB·신한·우리·하나, 두 번째 영구채 발행 추진…최대 4000억원 증액 가능 - CEO스코어데일리 — *CEO스코어데일리*
+- `08-04 06:00` [DCM] 우리금융지주, 신종자본 2700억 발행...금리 1년새 1%p 급등 - 한국금융신문 — *한국금융신문*
+- `08-04 01:24` [영호남 금융통합] 방만한 임원 조직 줄이라니…합병은 BNK 철밥통의 위기 : 네이버 블로그 - Naver Blog — *Naver Blog*
+- `08-03 18:00` 상반기 13조 넘긴 금융지주, 하반기엔 '예대마진 축소·부실채권 증가 우려↑ - g-enews.com — *g-enews.com*
 - `08-03 17:49` 빈대인 2기 첫 성적표 ‘흔들’…BNK금융, 부실채권 숙제 못 풀었다 - 이지경제 — *이지경제*
 - `08-03 17:15` 토스, 출범 11년만에 ‘금융그룹’ 반열 올랐다…내부통제 강화는 과제로 - CEO스코어데일리 — *CEO스코어데일리*
 - `08-03 16:34` 5대 금융, ‘포용금융 성적표’ 앞두고 미소금융 확대…상생금융 경쟁 본격화 - 데일리e뉴스 — *데일리e뉴스*
 - `08-03 16:29` [더밸류 브리핑] 오늘의 하나금융그룹 소식...하나금융· 하나은행 - 더밸류뉴스 — *더밸류뉴스*
-- `08-03 15:55` 우리금융지주 우리금융미래재단, 청각장애 유소년 연극단 후원…문화예술 지원 확대 - press9.kr — *press9.kr*
-- `08-03 15:51` [기획] 금융지주 산하 저축은행, 상반기 약진 - 소년한국일보 — *소년한국일보*
 
 ## 🇰🇷 정책·거시
+- `08-04 00:47` 이재명 대통령, 귀국 직후 7시간 반 긴급 회의…부동산·주식시장 안정 대책 전면 점검 - sisaworld.kr — *sisaworld.kr*
+- `08-04 00:27` 귀국 직후 7시간 부동산·증시 회의…"공급 대책 재점검" - 네이트 — *네이트*
+- `08-04 00:08` 李대통령 "부동산, 공급·속도 매우 중요…기존 대책 전면 재점검" - 뉴스웍스 — *뉴스웍스*
+- `08-03 22:44` 귀국하자마자 긴급회의...부동산·증시 대책 등 점검 - ytn.co.kr — *ytn.co.kr*
+- `08-03 19:35` [이슈빡] 급등락 코스피, 레버리지 대책은?…부동산 '세제개편' 발표, 누가 얼마나 더 내나? - news.sbs.co.kr — *news.sbs.co.kr*
+- `08-03 19:00` 양도세·종부세 개편한 정부...대출 규제 완화·신규 공급 대책 내놓나 - 뉴스핌 — *뉴스핌*
 - `08-03 18:59` 李, 위기감? 귀국하자마자 "부동산·주식 대책 마련" - 매일신문 — *매일신문*
-- `08-03 11:45` 순방 마친 이 대통령, 증시·부동산·형소법 등 국내 현안 집중 - 뉴시스 — *뉴시스*
-- `08-03 10:05` 귀국 첫 일정이 경제회의… 이 대통령, 부동산·증시 직접 챙긴다 - v.daum.net — *v.daum.net*
-- `08-03 09:54` 李, 순방 후 부동산 점검…토론회 후속 대책 논의 - news.nate.com — *news.nate.com*
-- `08-03 09:53` 서울에 주택을 '닥공'하자고?...오세훈 서울시장의 빗나간 부동산 대책 - 평화뉴스 — *평화뉴스*
-- `08-03 09:20` 李정부, 부동산 종합대책 예고했지만…시장 "집값 더 오른다" - 더팩트 — *더팩트*
-- `08-03 06:00` 李, 3일 부동산·증시 점검 비공개 회의 - 세계일보 — *세계일보*
-- `08-03 04:33` 李, 귀국하자마자 부동산-증시 대책 회의 - v.daum.net — *v.daum.net*
+- `08-03 17:24` 李, 귀국 후 긴급 회의…주식·부동산 대책 마련 - v.daum.net — *v.daum.net*
 
 ## 🌍 AI·빅테크
+- `08-04 03:14` Big Tech's cloud backlog just hit $2.3 trillion — and it's feeding AI capex plans - Yahoo Finance — *Yahoo Finance*
+- `08-04 01:44` Nvidia’s Next Move? Financing AI - Network World — *Network World*
+- `08-03 23:01` NVIDIA Stock Forecast Today: NVDA Holds $200 as $250B AI Financing Risk Tests Bulls - FXLeaders — *FXLeaders*
+- `08-03 22:46` Nvidia's Pause Before The Next AI Wave (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
+- `08-03 19:22` A Former OpenAI Employee Built A $45 Billion Fortune From AI. Then A Hedge Fund Selloff Wiped Out Most of Its Value. - International Business Times — *International Business Times*
 - `08-03 15:27` Explained: What Are AI Neoclouds And How Nvidia's Revenue-Sharing Model Has Fueled Its Rise - NDTV Profit — *NDTV Profit*
 - `08-03 09:27` OpenAI and Anthropic now hold 80% of AI 50 venture funding as enterprise-ready startups multiply - MarketScale — *MarketScale*
-- `08-02 20:50` Nvidia Has $500 Billion in AI Chip Bookings Covering 2025 and 2026, a Backlog Investors Can Track for Future Revenue - The Motley Fool — *The Motley Fool*
-- `08-02 11:34` Pecking Order and AI Capex Spending - Econbrowser — *Econbrowser*
-- `08-02 02:34` AI Models From OpenAI Just Went Rogue. Here's Why That's a Potential Threat to Crypto. - The Motley Fool — *The Motley Fool*
-- `08-01 21:12` NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook - Intellectia AI — *Intellectia AI*
+- `08-02 20:50` Nvidia Has $500 Billion in AI Chip Bookings Covering 2025 and 2026, a Backlog Investors Can Track for Future Revenue - fool.com — *fool.com*
 
 ## 🌍 연준·금리
-- `08-03 19:20` EXCLUSIVE: Fed's Williams expects inflation to ease, says Fed will act if it doesn't - Reuters — *Reuters*
-- `08-03 17:54` The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - AOL.com — *AOL.com*
-- `08-03 17:45` Bitcoin trades near $63,000 as Fed rate hike bets weigh on crypto - eciks.org — *eciks.org*
-- `08-03 17:44` US Fed Reserve’s inflation challenge - Gulf Today — *Gulf Today*
-- `08-03 17:29` The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool — *The Motley Fool*
-- `08-03 16:03` Who Needs the Federal Reserve? - Palisadian-Post — *Palisadian-Post*
-- `08-03 15:58` Webinar: What if… The Fed cuts rates by next summer? - ING THINK economic and financial analysis | ING THINK — *ING THINK economic and financial analysis | ING THINK*
-- `08-03 11:30` The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - The Motley Fool — *The Motley Fool*
+- `08-04 06:49` Federal Reserve holds rates steady: 3 mistakes borrowers should avoid - Channel 3000 — *Channel 3000*
+- `08-04 05:30` Warsh Wants the Federal Reserve to Rethink the Rules - The Daily Economy — *The Daily Economy*
+- `08-04 04:17` July Fed Meeting Strengthens Case for Short Duration Bonds - ETF Database — *ETF Database*
+- `08-04 02:04` Warsh floats fewer Fed meetings to reduce market dependence - WBFF — *WBFF*
+- `08-04 01:14` What happens if the Fed holds fewer policy meetings - Axios — *Axios*
+- `08-04 00:43` August Mortgage Outlook: Rates Heading Higher - NerdWallet — *NerdWallet*
+- `08-03 23:37` Why the U.S. Stepped In to Prop Up Japan’s Yen Currency - Time Magazine — *Time Magazine*
+- `08-03 23:29` What’s at Stake for the Federal Reserve - Raymond James - Commentaries - Advisor Perspectives — *Advisor Perspectives*
 
 ## 🌍 유가·지정학
-- `08-03 19:45` Trump Said He’s Halting Attacks And Resuming Talks With Iran. Oil Prices Are Plunging - International Business Times — *International Business Times*
-- `08-03 19:36` Brent outlook: Oil price falls on fresh US-Iran peace deal optimism - fxstreet.com — *fxstreet.com*
-- `08-03 19:30` India's Imports of Russian Crude Hit New High in July - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-03 19:25` Oil prices fall sharply on Iran peace deal hopes - middle-east-online.com — *middle-east-online.com*
-- `08-03 19:00` Oil majors profit as US-Iran fighting drives energy prices higher - Euronews.com — *Euronews.com*
-- `08-03 18:34` Oil plummets as Trump calls off Iran strikes - The Telegraph — *The Telegraph*
-- `08-03 18:33` Oil price windfall for Africa’s largest exporters - africa-energy.com — *africa-energy.com*
-- `08-03 18:30` BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-04 07:21` Tracking Trump: GOP holdouts relent on AG pick; Trump claims Iran talks breakthrough; Trump demands lower oil prices; and more - The Washington Post — *The Washington Post*
+- `08-04 07:00` Harold Hamm Bets Bigger on Argentina's Vaca Muerta Shale Boom - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-04 06:52` Trump lashes out at Big Oil for ‘making too much money’ during Iran war: ‘they ought to give some of that back’ - New York Post — *New York Post*
+- `08-04 06:20` Diamondback Energy Lifts Production Guidance, Reports Surging Profit on High Oil Prices - wsj.com — *wsj.com*
+- `08-04 06:13` OIL PRICE ROLLBACK Effective Tuesday, August 4, 2026, oil companies will decrease pump prices. Here are the estimates. #AllYouNeedToKnow - facebook.com — *facebook.com*
+- `08-04 06:08` Trump lashes out at Chevron and Exxon's soaring profits during Iran war - thenationalnews.com — *thenationalnews.com*
+- `08-04 06:03` Trump says Exxon, Chevron are 'making too much money' amid Iran war - USA Today — *USA Today*
+- `08-04 06:00` How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `08-03 18:20` Corporate Earnings, Lower Yields Drive N11tn July Stock Market Rally - The Whistler Newspaper — *The Whistler Newspaper*
-- `08-03 18:16` Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes - The Guardian — *The Guardian*
-- `08-03 17:51` Kospi tumbles 5% after record rally as foreigners turn to sell; Kosdaq up with robot shares in focus - KED Global — *KED Global*
-- `08-03 17:32` The Kospi selloff and Situational Awareness tell a similar story of a dangerous investing trap - Business Insider — *Business Insider*
-- `08-03 16:15` Morgan Stanley: KOSPI 9,000 After 360,000 Margin Liquidations - 조선일보 — *조선일보*
-- `08-03 15:28` Asia stocks tumble as KOSPI extends losses; AI shares drag regional markets - Investing.com — *Investing.com*
-- `08-03 14:03` Stock Market Today: Sensex Jumps 800 Points, Nifty Tops 24,550 — Three Reasons Behind The Rally - NDTV Profit — *NDTV Profit*
-- `08-03 13:44` Stock market reverses rally as investors lose N1.3trn in one week - Vanguard News — *Vanguard News*
+- `08-04 06:41` S&P 500 Erases July Losses as Mega-Cap Technology Leads Market Rally - Mott Capital Management — *Mott Capital Management*
+- `08-04 06:10` US Stocks Close Higher As Tech-Led Rally Lifts Market - Bitcoin World — *Bitcoin World*
+- `08-04 06:10` Dow Jones Futures: Trump Sparks Stock Market Rally; Palantir Soars On Earnings With SpaceX On Deck - Investor's Business Daily — *Investor's Business Daily*
+- `08-04 05:53` US stocks rally near a record as falling oil prices ease Wall Street’s worries about inflation - AP News — *AP News*
+- `08-04 05:26` Stocks Rally as Oil Drops on Hormuz Diplomatic Hopes - wsj.com — *wsj.com*
+- `08-04 05:17` U.S. Stock Market Today: Monday, August 3, 2026 - stl.news — *stl.news*
+- `08-04 05:16` Dow surges to record close after a fresh tech rally and a plunge in oil prices - Business Insider — *Business Insider*
+- `08-04 05:04` Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying. - Investor's Business Daily — *Investor's Business Daily*
