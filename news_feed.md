@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-04 17:07 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-04 17:52 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,36 +17,37 @@
 - **D-24** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
+- `08-04 17:46` 코스피, 장중 6080선까지 출렁…6358.95로 1.62% 상승 마감 - 인더스트리뉴스 — *인더스트리뉴스*
+- `08-04 17:25` 개미 매수로 코스피, 막판 상승 전환...모건스탠리는 다시 '1만피' 제시 - economist.co.kr — *economist.co.kr*
+- `08-04 17:22` “韓 증시, 2015년 中 폭락 수준…투자 부적합 국가가 되고 있다” 외신이 날린 섬뜩한 경고 - etnews.com — *etnews.com*
+- `08-04 17:16` (반도체 풍향계 '코스피')③결국은 AI·반도체…글로벌 공급망 연동 - 뉴스토마토 — *뉴스토마토*
+- `08-04 17:16` (반도체 풍향계, '코스피')①삼전·하닉 등락에 '촉각'…코스피·나스닥 '한 몸' - 뉴스토마토 — *뉴스토마토*
+- `08-04 17:09` [0804마감체크] 코스피, 개인 매수세에 6300선 회복... 코스닥 5%대 급 - 인포스탁데일리 — *인포스탁데일리*
 - `08-04 16:58` [장마감] 코스피 1.62%↑(6358.95), 코스닥 5.88%↑(780.72) - 버핏연구소 — *버핏연구소*
 - `08-04 16:47` 788종목이 올랐는데…삼전·닉스 약세에 1% 반등 마감한 코스피 - 한겨레 — *한겨레*
-- `08-04 16:41` 롤러코스피에 개미 청산랠리…'빚투' 이틀 새 4.7조 급감 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `08-04 16:36` 코스피 6300선 회복…코스닥 사상 첫 3거래일 연속 매수 사이드카[마감시황] - 에너지경제신문 — *에너지경제신문*
-- `08-04 16:29` [금융이슈] 코스닥으로 이동하는 증시 자금…‘반도체 다음’ 찾는 돈 - ceomagazine.co.kr — *ceomagazine.co.kr*
-- `08-04 16:19` 코스피 6천 3백선 회복...코스닥 5.9% 상승 - BBS불교방송 — *BBS불교방송*
-- `08-04 16:19` [마감시황] 코스피, 급등락 속 1.62% 상승…코스닥 3거래일째 사이드카 - 뉴스핌 — *뉴스핌*
-- `08-04 16:11` 코스피, 롤러코스터 장세 속 '6300선 안착'…코스닥 사흘째 매수 사이드카 발동 - 프라임경제 — *프라임경제*
 
 ## 🇰🇷 반도체·HBM
+- `08-04 17:45` '반도체 머니' 채권시장으로…하이닉스, 15조 폭풍 매수 - 한국경제 — *한국경제*
+- `08-04 17:35` SK하이닉스, HBM 이을 차세대 메모리 표준 공개 - 한국경제 — *한국경제*
+- `08-04 17:16` (반도체 풍향계 '코스피')③결국은 AI·반도체…글로벌 공급망 연동 - 뉴스토마토 — *뉴스토마토*
+- `08-04 17:16` SK하이닉스·샌디스크, 첫 고대역폭 플래시 사양 공개 - Investing.com 한국어 — *Investing.com 한국어*
+- `08-04 17:04` 김정관 “호남 반도체 임기 내 생산 목표…CPTPP 가입 추진” - 한겨레 — *한겨레*
 - `08-04 16:54` 삼성전자·SK하이닉스, 美서 이번주 '포스트 HBM' 로드맵 대결 주목 - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `08-04 16:51` 경기도의회 국민의힘 “경기도를 대한민국 AI-반도체 최강 선진지로” - 세계환경신문 — *세계환경신문*
 - `08-04 16:49` 전력반도체도 AI발 품귀…온세미 "데이터센터 매출 올해 두 배" - 디일렉 — *디일렉*
-- `08-04 16:47` 반도체 클러스터 ‘비수도권’ 우선…2030년 AI 팩토리 500개 - 에너지경제신문 — *에너지경제신문*
-- `08-04 16:46` 삼성전자·SK하이닉스, 장중 급등락 끝 동반 상승 마감 - 강원도민일보 — *강원도민일보*
-- `08-04 16:45` 한양대 연구팀, 딥페이크 음성 판별 AI 반도체 소자 개발 - 중앙일보 — *중앙일보*
-- `08-04 16:44` SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개 - 뉴스톱 — *뉴스톱*
-- `08-04 16:41` "10년 후에 HBM보다 더 커진다", SK하이닉스 곽노정 HBF로 메모리 '쌍두마차' 오른다 - 비즈니스포스트 — *비즈니스포스트*
-- `08-04 16:31` 구미시, 첨단산업 혁신TF 출범…로봇·반도체·방산 등 6대 산업 총괄 - 에너지경제신문 — *에너지경제신문*
 
 ## 🇰🇷 금융주
-- `08-04 16:36` 동양생명, 진통 끝에 우리금융 완전자회사 확정 - 뉴스투데이 — *뉴스투데이*
+- `08-04 17:32` 김남구 한국금융지주 회장 장남, 한투증권 기획담당 상무 승진 - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-04 17:26` 동양생명, 계약 해제권 불행사…우리금융 완전자회사 편입 - 팍스경제TV — *팍스경제TV*
+- `08-04 17:10` [채널Who] 금융지주 회장 '3연임 제한' 강행할까? 주주 권리 보호한다던 이재명 정부의 모순 - 비즈니스포스트 — *비즈니스포스트*
+- `08-04 16:54` 동양생명, 우리금융지주 포괄적 주식교환 승인 - supple.kr — *supple.kr*
+- `08-04 16:36` 동양생명, 진통 끝에 우리금융 완전자회사 확정 - news2day.co.kr — *news2day.co.kr*
 - `08-04 16:32` JB금융, 상반기 순이익 3857억 사상 최대…지방금융 중 '유일 성장' - 전민일보 — *전민일보*
 - `08-04 16:27` 동양생명 "우리금융지주 주식교환 예정대로 추진…시장 신뢰 고려" - 네이트 — *네이트*
 - `08-04 16:23` 동양생명, 우리금융지주와 포괄적 주식교환 예정대로 진행…계약 해제권 불행사 결정 - 디지털투데이 — *디지털투데이*
-- `08-04 16:20` BNK금융지주, 서울·부산서 e스포츠 브랜드데이 개최 - PRESS9 — *PRESS9*
-- `08-04 16:16` 동양생명, 우리금융지주와 포괄적 주식교환 예정대로 추진 - 보험신보 — *보험신보*
-- `08-04 16:13` 동양생명, 우리금융지주와 포괄적 주식교환 예정대로 추진 - 보험매일 — *보험매일*
-- `08-04 16:09` CET1 ‘2%P’ 끌어올린 우리금융지주...이제 ‘보험 성과’ 본다 - 에너지경제신문 — *에너지경제신문*
 
 ## 🇰🇷 정책·거시
+- `08-04 17:12` 李 "공급대책 마련" 직후…금융위, 부동산 PF 긴급 점검 - supple.kr — *supple.kr*
 - `08-04 14:57` 정부 추가 부동산대책 임박…지방 맞춤형 처방 담길까 - 매일신문 — *매일신문*
 - `08-04 14:46` 송영길 "부동산 시장, 세제보다 공급 우선" - v.daum.net — *v.daum.net*
 - `08-04 14:37` 수도권은 공급 부족, 지방은 미분양…`같은 처방`으론 양극화 못 푼다 - 매일신문 — *매일신문*
@@ -54,11 +55,10 @@
 - `08-04 11:17` 세제개편안에 화들짝 … 서울·수도권 흔들릴까 민주당 내부서도 우려 - 뉴데일리 — *뉴데일리*
 - `08-04 11:16` 부동산 대책, 세제 채찍 다음은…그린벨트·집단대출 규제 풀어 당근책(종합) - 아시아경제 — *아시아경제*
 - `08-04 11:09` 송영길 "부동산 세제 방향 공감…공급대책 우선해야" - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-04 10:51` 부동산 대책 힘 싣는 李대통령 “조세 제도 정상화되지 않으면 형평성 문제 생겨” - 서울신문 — *서울신문*
 
 ## 🌍 AI·빅테크
-- `08-04 15:32` SoftBank’s AI funding plans to face reckoning at earnings - 1450 AM 99.7 FM WHTC — *1450 AM 99.7 FM WHTC*
-- `08-04 13:38` Naver to establish wholly-owned operator of Nvidia-Brookfield-backed AI factories - kedglobal.com — *kedglobal.com*
+- `08-04 15:33` SoftBank’s AI funding plans to face reckoning at earnings - KELO-AM — *KELO-AM*
+- `08-04 13:38` Naver to establish wholly-owned operator of Nvidia-Brookfield-backed AI factories - KED Global — *KED Global*
 - `08-04 07:45` Nvidia could invest $250bn in OpenAI's 10Gw Ohio data center — but costs could balloon to $500bn - TechRadar — *TechRadar*
 - `08-04 06:27` Nvidia’s next move? Financing AI - Network World — *Network World*
 - `08-04 03:14` Big Tech's cloud backlog just hit $2.3 trillion — and it's feeding AI capex plans - Yahoo Finance — *Yahoo Finance*
@@ -67,24 +67,24 @@
 - `08-03 22:46` Nvidia's Pause Before The Next AI Wave (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
 
 ## 🌍 연준·금리
+- `08-04 16:20` Warsh Wants The Federal Reserve To Rethink The Rules - Seeking Alpha — *Seeking Alpha*
 - `08-04 11:12` Gold Steady as Middle East Talks Weigh on Interest Rate Outlook - Bloomberg.com — *Bloomberg.com*
 - `08-04 11:00` Why India should fear oil prices more than US Federal Reserve rate decisions - ThePrint — *ThePrint*
+- `08-04 09:55` Gold price wavers as traders weigh Fed rate outlook, US-Iran talks - Mining.com — *Mining.com*
 - `08-04 09:02` Fed's Warsh weighs cutting regular FOMC meetings to six from eight a year - FXStreet — *FXStreet*
 - `08-04 08:45` Gold steady as Middle East talks weigh on interest rate outlook - The Business Times — *The Business Times*
 - `08-04 07:33` ICYMI: Federal Reserve Chair Warsh weighs cutting Fed meetings, biggest policy shake-up in decades - investingLive — *investingLive*
-- `08-04 07:26` How a US-Japan pact to hit yen speculators came together - Reuters — *Reuters*
-- `08-04 06:49` Federal Reserve holds rates steady: 3 mistakes borrowers should avoid - Channel 3000 — *Channel 3000*
-- `08-04 05:30` Warsh Wants the Federal Reserve to Rethink the Rules - The Daily Economy — *The Daily Economy*
+- `08-04 07:26` How a US-Japan pact to hit yen speculators came together - reuters.com — *reuters.com*
 
 ## 🌍 유가·지정학
+- `08-04 17:23` Oil gains as talks to end US-Iran war remain uncertain - lufkindailynews.com — *lufkindailynews.com*
 - `08-04 16:41` Oil giant BP profits more than double due to Iran war - again - Sky News — *Sky News*
+- `08-04 16:16` BP profits more than double as Iran war sends oil prices soaring - The Guardian — *The Guardian*
 - `08-04 16:12` Aramco Q2 Profit Surges 33% as Iran War Tightens Oil Supply - ChemAnalyst — *ChemAnalyst*
 - `08-04 16:05` Oil Advances as Trump Touts Iran Negotiations and Hormuz Flows - Energy Connects — *Energy Connects*
-- `08-04 15:54` BP profits more than double as Iran war sends oil prices soaring - The Guardian — *The Guardian*
-- `08-04 15:34` Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations - cnbc.com — *cnbc.com*
+- `08-04 15:42` Oil Edges Higher as Uncertainty Over U.S.-Iran Talks Persists... - jordannews.jo — *jordannews.jo*
+- `08-04 15:34` Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations - CNBC — *CNBC*
 - `08-04 15:24` Saudi Aramco Profit Jumps 33% on Higher Oil Prices Amid Iran War - WSJ — *WSJ*
-- `08-04 15:22` US stocks near record high, oil falls as Trump claims Iran talks under way - Al Jazeera — *Al Jazeera*
-- `08-04 15:07` BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’ - cnbc.com — *cnbc.com*
 
 ## 🌍 시장 전반
 - `08-04 16:49` Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga — *Benzinga*
