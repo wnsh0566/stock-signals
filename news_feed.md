@@ -1,94 +1,94 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-07 17:20 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-08 07:08 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+6** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
-- **D-DAY** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
-- **D-DAY** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
-- **D-2** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
-- **D-5** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
-- **D-7** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
-- **D-20** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
-- **D-21** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
+- **D+7** (08/01) ⭐⭐ 한국 7월 수출입 통계 — 반도체 수출 실물 검증
+- **D+1** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
+- **D+1** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
+- **D-1** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
+- **D-4** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
+- **D-6** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
+- **D-19** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
+- **D-20** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `08-07 17:16` 코스피 반등 실패…코스닥도 6거래일 만에 하락 - 더나은미래 — *더나은미래*
-- `08-07 17:11` No.1 경제·증권 채널 : @HKWOWTV - wowtv.co.kr — *wowtv.co.kr*
-- `08-07 16:49` 코스피 이틀째 하락 마감...코스닥, 엿새 만에 하락 - YTN — *YTN*
-- `08-07 16:28` [마감시황] 코스피, 중동 긴장 고조에 하락…0.6%↓ - 신아일보 — *신아일보*
-- `08-07 16:27` [장마감] 코스피 0.60%↓(6258.77), 코스닥 0.36%↓(798.81) - 버핏연구소 — *버핏연구소*
-- `08-07 16:24` [마감시황] 코스피, 7주 연속 하락…외국인 매도에 6258.77 - 뉴스핌 — *뉴스핌*
-- `08-07 16:21` 코스피, 외국인 1조원대 매도에 상승분 반납···6250선 약세 마감 - 서울파이낸스 — *서울파이낸스*
-- `08-07 16:20` 코스피, 장 초반 반등에도 外人 매도에 '6250선 마감'…코스닥 0.36%↓ - 프라임경제 — *프라임경제*
+- `08-08 07:00` 與전대, 부동산·증시 '정책 책임론'...제 발등 찍는 '네탓 공방' - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-08 06:52` 美증시, 고용 악화에 금리인상 기대 후퇴…S&P500 사상최고치 마감 - 매일경제 마켓 — *매일경제 마켓*
+- `08-08 06:51` 美 고용쇼크가 밀어올린 증시…S&P500 사상 최고 - 경북매일 — *경북매일*
+- `08-08 06:27` 뉴욕 증시, 금리 인하 기대감 꺾이며 3대 지수 상승 마감 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-08 06:00` [주간증시전망] 다음주 코스피 6000~7000⋯“外人 수급은 정책이 변수” - 이투데이 — *이투데이*
+- `08-08 05:55` [뉴욕증시] 고용 쇼크에 금리 부담 덜었다…강세 마감 - 연합인포맥스 — *연합인포맥스*
+- `08-08 05:42` 뉴욕증시, 기준금리 인상 후퇴 기대에 3대지수 일제히 상승[뉴욕마감] - MTN 머니투데이방송 — *MTN 머니투데이방송*
+- `08-08 05:40` [뉴욕증시] 고용 감소 속 S&P500 사상 최고…스페이스X, 16% 폭등 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `08-07 17:16` SK하이닉스, 용인·청주 새 반도체공장 건설에 54조원 투자 - 한겨레 — *한겨레*
-- `08-07 17:12` SK하이닉스, 용인 Y2·청주 M17에 54조 베팅…AI 메모리 선제 대응 [반도체레이다] - 디지털데일리 — *디지털데일리*
-- `08-07 17:12` SK하이닉스, 용인 Y2·청주 M17에 54조원 투자…AI 메모리 생산기반 확대 - 파이낸셜신문 — *파이낸셜신문*
-- `08-07 17:10` SK하이닉스, 용인∙청주에 신규 팹 건설...54조원 투자 - 더트래커 — *더트래커*
-- `08-07 17:09` SK하이닉스, 주당 375원 분기배당…추가 주주환원책은 3분기 공개 - hidomin.com — *hidomin.com*
-- `08-07 17:07` SK하이닉스, 용인·청주에 총 54조원 투자…AI 메모리 수요 대응 위한 신규 팹 건설 본격화 - sisaworld.kr — *sisaworld.kr*
-- `08-07 17:05` “15% 빠졌는데 사도 되나”...SK하이닉스 급락 부른 ‘루빈 리스크’ - 에너지경제신문 — *에너지경제신문*
-- `08-07 17:05` SK하이닉스, 주당 375원 분기배당…3분기 중 '추가 주주환원' 발표 - 아시아경제 — *아시아경제*
+- `08-08 07:00` [中 하드테크 IPO 빅뱅] ㉕캔세미, 광둥성 반도체 생태계의 리더 - 뉴스핌 — *뉴스핌*
+- `08-08 06:33` [AI돋보기] 시장이 사라진 AI 반도체 전쟁…한국의 선택은 - 연합뉴스 — *연합뉴스*
+- `08-08 06:30` 9000억원 규모 국도45호선 반도체 도로, 건설사업자 선정 절차 착수 - MTN 머니투데이방송 — *MTN 머니투데이방송*
+- `08-08 06:30` 차세대 HBM 거론되는 ‘CXL’…엔비디아가 확산 걸림돌이라고? [칩칩팹팹] - 헤럴드경제 — *헤럴드경제*
+- `08-08 06:09` 주주환원 외치고 7% 오른 마이크론…말 아끼고 17% 깎인 하이닉스 - v.daum.net — *v.daum.net*
+- `08-08 06:00` 반도체 건설, 제철소...폭염 속 근로자 IT가 지킨다 - 조선일보 — *조선일보*
+- `08-08 06:00` 중국 반도체, 비싸지만 비싸지 않은 이유 [B급기자의 B급리포트] - 한국경제TV — *한국경제TV*
+- `08-08 04:24` 외국인은 반도체 4.5조 줍고, 기관 방어주로…개미는 ‘삼전·하닉’ 팔았다 - 뉴스투데이 — *뉴스투데이*
 
 ## 🇰🇷 금융주
-- `08-07 16:49` KDB생명 매각 본입찰 ‘한화·흥국·한투’ 3파전…삼성생명 불참 - 마이데일리 — *마이데일리*
-- `08-07 16:47` KDB생명 인수전 3파전…한화생명·흥국생명·한국금융지주 본입찰 - 파이낸셜포스트 — *파이낸셜포스트*
-- `08-07 16:43` KB금융지주, 최대 4000억 신종자본증권 발행한다 - 마켓인 — *마켓인*
-- `08-07 16:00` 증권사 품은 수협은행, 금융지주 퍼즐 맞춘다···'다음 과제'는 캐피털·보험 - 시사저널e — *시사저널e*
-- `08-07 15:43` [데이터 뉴스룸] 금융業 40곳 올해 시총 30% 육박 상승에 미소…삼성생명·KB금융·신한지주·하나금융지주, 시총 10조 넘게 증가 - 녹색경제신문 — *녹색경제신문*
-- `08-07 15:36` [증권言言] 메리츠증권 "iM금융지주, 높은 주주환원 매력 유효" - 마일드경제 — *마일드경제*
-- `08-07 14:34` 금융지주, 영구채 뚫어 '실탄 확보'···'비은행' 자본수혈 총력전 - 뉴스웨이 — *뉴스웨이*
-- `08-07 13:47` 4대 금융지주 여성 회장 '전무'…승계 파이프라인 막힌 유리천장, 왜? - 녹색경제신문 — *녹색경제신문*
+- `08-08 06:00` 한국금융지주 순익 1조 육박…목표가 낮춰도 "저평가"[종목현미경] - 네이트 — *네이트*
+- `08-07 18:05` KB·신한·하나·우리…4대 금융지주 중 한 종목을 산다면? [한경 프리미엄9 TODAY] - 한국경제 — *한국경제*
+- `08-07 17:46` [마켓인]KB금융지주, 최대 4000억 신종자본증권 발행한다 - 네이트 — *네이트*
+- `08-07 17:44` ▒종합 경제정보 미디어 - 이데일리IR▒ - ir.edaily.co.kr — *ir.edaily.co.kr*
+- `08-07 17:44` [마켓인]KB금융지주, 최대 4000억 신종자본증권 발행한다 - edaily.co.kr — *edaily.co.kr*
+- `08-07 17:23` KDB생명 매각 본입찰에 한화생명 흥국생명 한국투자금융지주 3곳 참여 - 비즈니스포스트 — *비즈니스포스트*
+- `08-07 17:18` [업앤다운]증권주 2% 하락, 상상인증권↑·한국금융지주↓ - NSP통신 — *NSP통신*
+- `08-07 17:09` 매각 '7수' KDB생명 이번에는 매각 성공할까 : 본입찰에 한화생명 흥국생명 한국금융지주 최종 인수제안서 냈다 - 허프포스트코리아 — *허프포스트코리아*
 
 ## 🇰🇷 정책·거시
-- `08-07 17:01` "정부 세제 개편안 'C+'…부동산 대책이 '오징어게임'인가" - 네이트 — *네이트*
-- `08-07 16:10` 李대통령, 부동산 점검 2차 회의 연다…수도권 공급대책 논의 - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `08-07 15:32` '부동산 후속 공급대책 그림 나올까' - 네이트 — *네이트*
-- `08-07 15:31` 부동산 공급대책 막판 조율 - 네이트 — *네이트*
-- `08-07 13:01` [경제읽기] 李, 오늘 2차 부동산 점검 회의…공급 대책 집중 - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
-- `08-07 12:51` 이재명 대통령의 주재 하에 발표된 부동산 대책 … 강남 개발 논의의 핵심은 무엇인가? - 공감신문 — *공감신문*
-- `08-07 12:21` ‘부동산 대책’ 충돌 계속…“공급 입법 협조하라” “세금 폭탄” - KBS 뉴스 — *KBS 뉴스*
-- `08-07 11:49` "부동산 대책이 오징어게임?" 정부, 세제로 정책실험 하나? - 네이트 — *네이트*
+- `08-07 22:22` 이재명 대통령이 6시간 부동산 난상토론서 강조한 내용... 13일 최종 대책 발표되나 - 위키트리 — *위키트리*
+- `08-07 21:51` [아주경제 오늘의 뉴스 종합] 이 대통령, 부동산 대책 6시간 점검…기존 방식 벗어나 과감히 실행 外 - 아주경제 — *아주경제*
+- `08-07 21:32` 李대통령, 6시간 부동산 회의…“용산, 서울시와 협의해야” 공급대책 속도 - 에너지경제신문 — *에너지경제신문*
+- `08-07 20:33` 이 대통령, 부동산 대책 6시간 점검…기존 방식 벗어나 과감히 실행 - 아주경제 — *아주경제*
+- `08-07 20:05` ‘부동산 대책’ 충돌 계속…“공급 입법 협조하라” “세금 폭탄” - KBS 뉴스 — *KBS 뉴스*
+- `08-07 19:51` 황희 민주당 의원 '버스하우스' 제안..."이게 공급대책?" 황당 - 뉴스락 — *뉴스락*
+- `08-07 19:38` ‘부동산 대책’ 충돌 계속…“공급 입법 협조하라” “세금 폭탄” - v.daum.net — *v.daum.net*
+- `08-07 18:27` 그린벨트 풀고 재건축·재개발 키울까…2차 부동산 점검회의 관심 - ebn.co.kr — *ebn.co.kr*
 
 ## 🌍 AI·빅테크
-- `08-07 14:02` AI: Nvidia the 'Kingmaker', Now 'Uber AI Investor & Banker'. AI-RTZ #1171 - AI: Reset to Zero — *AI: Reset to Zero*
-- `08-07 07:34` Asia Today: AI Funding, Chip Deals, Aviation Growth & More - Asia Business Outlook — *Asia Business Outlook*
-- `08-07 04:12` AI Data Center Race Shifts to Financing Costs - 조선일보 — *조선일보*
-- `08-07 01:18` Kenya is bringing the AI boom home with East Africa’s first fund tracking Microsoft, OpenAI and other global tech giants - Business Insider Africa — *Business Insider Africa*
-- `08-07 00:13` Alphabet Is Taking on More Debt to Finance Its AI Spending. Why That's Not Necessarily Bad News - 24/7 Wall St. — *24/7 Wall St.*
-- `08-06 23:24` The Australian data centre boom: AI-optimised facilities, neocloud counterparties and the limits of conventional bankability - Dentons — *Dentons*
-- `08-06 21:15` SoftBank Lands $10B Loan Secured by OpenAI Stake to Bolster AI Investment Strategy - citybiz — *citybiz*
-- `08-06 20:00` Just Announced: SpaceX and Nvidia Teaming Up on New Orbital AI Data Center - finance.yahoo.com — *finance.yahoo.com*
+- `08-08 05:57` Nvidia ends week up more than 10% as AI chip fears ease - Yahoo Finance — *Yahoo Finance*
+- `08-08 04:49` OpenAI says its upcoming Astra model may have 'critical' cybersecurity capabilities, amid rash of AI model hacks - Yahoo Finance — *Yahoo Finance*
+- `08-08 04:09` Nvidia Stock Forecast: NVDA Targets Record-High After New $2 Billion AI Deal - BeInCrypto — *BeInCrypto*
+- `08-08 03:49` AI Stock Jumps After Unusual Nvidia Hedge Fund Deal - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `08-08 02:50` Nvidia's $500 Billion Korean Gambit: Inside the AI Chipmaker's High-Stakes Balancing Act - AD HOC NEWS — *AD HOC NEWS*
+- `08-08 00:28` Former Bitcoin miner Firmus raises $2B as Blackstone, Nvidia back AI push - Crypto News — *Crypto News*
+- `08-07 23:50` Nvidia's $500 Billion Bet: Can the AI Infrastructure Boom Survive Its Own Ambition? - AD HOC NEWS — *AD HOC NEWS*
+- `08-07 23:35` Google’s $200 Billion Financing Web Gives It a 2.2-Point Borrowing Moat Over Nvidia-Backed Rivals - forkast.news — *forkast.news*
 
 ## 🌍 연준·금리
-- `08-07 16:07` Warsh's 'Small Fed' Policy Fuels Rate Surge - 조선일보 — *조선일보*
-- `08-07 15:29` Rates Spark: More guidance from jobs data than the Fed - ING Think — *ING Think*
-- `08-07 14:04` Analysis-Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance - Yahoo — *Yahoo*
-- `08-07 13:40` Markets Anticipate US Jobs Report Amid Fed Rate Hike Uncertainty - Global Banking & Finance Review — *Global Banking & Finance Review*
-- `08-07 09:06` The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility - Morningstar — *Morningstar*
-- `08-07 08:40` With Cook sending hawkish signals, a Fed rate hike is in play for September - Scotsman Guide — *Scotsman Guide*
-- `08-07 06:59` Fed’s Musalem backs rate hikes, says inflation remains too high - FXStreet — *FXStreet*
-- `08-07 06:49` Fed's Musalem: Favored raising rates at the recent FOMC meeting - Forex Factory — *Forex Factory*
+- `08-08 05:18` US Stocks Close: Nasdaq Composite Index Rises 1.3% as Fed Rate-Hike Expectations Cool; Memory Stocks Sold Off While Software Gains; SpaceX Soars 15.83% - TradingKey — *TradingKey*
+- `08-08 05:00` US job losses in July temper Federal Reserve rate hike expectations - ColoradoBiz — *ColoradoBiz*
+- `08-08 04:59` Federal Reserve Interest Rate Faces Uncertainty After July Jobs Report - The Cryptonomist — *The Cryptonomist*
+- `08-08 04:36` Some of the urgency is gone for a Fed rate hike in September after the soft jobs report - MarketWatch — *MarketWatch*
+- `08-08 04:27` Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience - Bloomberg.com — *Bloomberg.com*
+- `08-08 03:33` The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News — *CBS News*
+- `08-08 03:11` Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters — *Reuters*
+- `08-08 02:49` Fed’s Hawkish Hold Splits Metals: Gold Gains, Silver Falls - Investing News Network — *Investing News Network*
 
 ## 🌍 유가·지정학
-- `08-07 17:15` China's Crude Imports Bounce Back After Historic June Slump - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-07 17:14` Hormuz Strait Crisis 2026: Oil Market Impact and Investment Strategy - Intellectia AI — *Intellectia AI*
-- `08-07 16:13` Market Quick Take - Hormuz doubts lift oil as payrolls loom - 7 August 2026 - Saxo — *Saxo*
-- `08-07 16:01` Oil rises on concerns over Strait of Hormuz reopening plans - Reuters — *Reuters*
-- `08-07 16:00` Russia Turns to South Korea for Fuel as Refinery Crisis Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-07 15:51` Iran War Takes Heavy Toll on Australia, New Zealand as Oil Soars - Bloomberg.com — *Bloomberg.com*
-- `08-07 15:32` Oil prices climb as Strait of Hormuz concerns return - Qazinform — *Qazinform*
-- `08-07 15:30` What stages a comeback for oil prices? - FXStreet — *FXStreet*
+- `08-08 06:00` China Is Betting on Quantum Tech to Fix Its Power Grid - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-08 05:21` Oil Steadies as Hormuz Tensions Flare - Rigzone — *Rigzone*
+- `08-08 05:05` Brent climbs $1 on uncertainty over end to Iran war - Reuters — *Reuters*
+- `08-08 05:00` Energy Affordability Trumps Climate in US Midterm Races - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-08 04:46` Oil futures: Crude higher amid Strait of Hormuz deal uncertainty - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
+- `08-08 04:43` July 2026 Iran Tanker Tracker: Offshore Oil Reserves Cushion Iran as U.S. Reinstates Blockade - United Against Nuclear Iran | UANI — *United Against Nuclear Iran | UANI*
+- `08-08 04:33` DAILY OIL PRICE: August 7, 2026 - Odessa American — *Odessa American*
+- `08-08 04:03` Oil gains on pending Iran-Oman deal over Hormuz - Euronext Markets: Real-time Stock Market Data | live — *Euronext Markets: Real-time Stock Market Data | live*
 
 ## 🌍 시장 전반
-- `08-07 16:55` NFP preview: Will markets get the weak print they would like? - FXStreet — *FXStreet*
-- `08-07 15:48` Japan’s Pension Whale GPIF Has $152 Billion Gain on Stock Rally - Bloomberg.com — *Bloomberg.com*
-- `08-07 06:53` US Dollar Falls As Stock Market Rally Accelerates - Exchange Rates Org UK — *Exchange Rates Org UK*
-- `08-07 05:14` Why This DNA Tester Plummeted 38%, Leading A Medtech Sell-Off - Investor's Business Daily — *Investor's Business Daily*
-- `08-07 02:42` Buy 5 Top-Ranked Growth Stocks for August to Tap Market Rally - finance.yahoo.com — *finance.yahoo.com*
-- `08-07 02:31` Palantir: This Rally Is A Gift, Sell It (NASDAQ:PLTR) - Seeking Alpha — *Seeking Alpha*
-- `08-07 02:11` World's Smartest Banker Warns Of Hidden Margin Debt; SanDisk, WDC Disappoint; SK Hynix's Flash Crash - Benzinga — *Benzinga*
-- `08-07 02:07` Stock Market Extends Rally as NGX ASI Gains 0.12%, NSI Rises 2.05%; BDC Rate Closed Flat at N1,420/US$1 - Proshare — *Proshare*
+- `08-08 06:40` Stock Market Today, Aug. 7: Markets Rally on Jobs Shock and Atlassian Surges 35% - The Motley Fool — *The Motley Fool*
+- `08-08 05:41` Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters — *Reuters*
+- `08-08 05:33` Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ — *WSJ*
+- `08-08 04:42` Bitcoin Misses Another Stock Market Rally—Here's Why That's No Big Deal - Benzinga — *Benzinga*
+- `08-08 02:09` UK Stock Market Marks Fourth Week of Gains as Miners Rally - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `08-08 01:35` Stock Market Rallies On Oil, Yields and Big Earnings: Weekly Review - Investor's Business Daily — *Investor's Business Daily*
+- `08-08 01:15` UK stock indexes set for fourth week of gains, miners rally - Reuters — *Reuters*
+- `08-08 01:07` US stocks, bonds rally after soft jobs report; yen bounces back - Euronext Markets: Real-time Stock Market Data | live — *Euronext Markets: Real-time Stock Market Data | live*
