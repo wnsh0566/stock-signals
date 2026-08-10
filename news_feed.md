@@ -1,91 +1,93 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-10 17:49 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-11 07:09 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+3** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
-- **D+3** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
-- **D+1** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
-- **D-2** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
-- **D-4** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
-- **D-17** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
-- **D-18** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
+- **D+4** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
+- **D+4** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
+- **D+2** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
+- **D-1** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
+- **D-3** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
+- **D-16** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
+- **D-17** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `08-10 17:44` [0810마감체크] 코스피, 개인·기관 순매수에 강보합... 코스닥은 급등 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
-- `08-10 17:43` [도쿄증시-마감] 美 고용발 금리 인상 기대 약화에 닛케이 2%대 상승 - 연합인포맥스 — *연합인포맥스*
-- `08-10 17:40` [양준영 칼럼] '코스피 5000' 정책의 명과 암 - 한국경제 — *한국경제*
-- `08-10 17:37` “역대급 실적인데 주주는?” 코스피 반등 시험대 ‘주주환원’ - v.daum.net — *v.daum.net*
-- `08-10 17:34` 코스피 6,299.66 코스닥 854.47 - v.daum.net — *v.daum.net*
-- `08-10 17:34` 코스피 꺾였지만 10곳 중 9곳은 올랐다…코스닥·비반도체에 ‘온기’ - 경향신문 — *경향신문*
-- `08-10 17:29` [마감] 코스피, 美 긴축 우려 완화에 3거래일만에 반등…코스닥은 급등 속 ’매수 사이드카’ 발동 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `08-10 17:21` 바이오·소부장 흐름탄 코스닥 850 회복…코스피는 '덤덤' - 머니투데이 — *머니투데이*
+- `08-11 06:51` 뉴욕증시, 이란 불확실성 증가에 숨고르기...나스닥 0.32%↓ - 증권일보 — *증권일보*
+- `08-11 06:47` 스리랑카 증시, 부동산 강세에 힘입어 4거래일 연속 상승 - kr.investing.com — *kr.investing.com*
+- `08-11 06:31` 미·이란 협상 불확실성에 뉴욕증시 숨고르기…유가 5% 급등 - 조선일보 — *조선일보*
+- `08-11 06:22` 뉴욕증시, 중동 협상 불확실성에 일제히 '하락'…나스닥 0.3%↓ - newsworks.co.kr — *newsworks.co.kr*
+- `08-11 06:15` 뉴욕증시, 美·이란 협상 난항 우려에 약세… 유가 또 올라 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-11 06:12` 호르무즈 다시 흔들자 뉴욕증시 ‘주춤’…유가 5% 급등·엔비디아 3%↓ - 경북매일 — *경북매일*
+- `08-11 06:10` 멈춰도 흔들린 증시⋯30년된 안전장치의 경고 [올해 77번 멈춘 증시, 녹슨 비상벨①] - 이투데이 — *이투데이*
+- `08-11 06:06` [월가 레이더] 美 뉴욕증시, 반도체 약세 속 혼조…이란 협상 난항에 유가 5% 폭등 - 포커스온경제 — *포커스온경제*
 
 ## 🇰🇷 반도체·HBM
-- `08-10 17:41` 이대통령, 호남 반도체 '전격전' 주문…"일본 구마모토 못지않은 속도로" - 주간조선 — *주간조선*
-- `08-10 17:40` SK하이닉스, 中 후공정 매각 검토…AI 메모리 중심 재편 조짐 - v.daum.net — *v.daum.net*
-- `08-10 17:37` 충북교육청, 충북도‧SK하이닉스 등과 AI 심리상담 맞손 - 굿모닝충청 — *굿모닝충청*
-- `08-10 17:36` 이 대통령 ‘호남 반도체 전격전…광주 군공항 기능, 28년 중반까지 이전’ - 한겨레 — *한겨레*
-- `08-10 17:20` "다양한 방안 검토중" … SK하이닉스, 中 충칭공장 매각설에 여지 - 디지털포스트(PC사랑) — *디지털포스트(PC사랑)*
-- `08-10 17:19` SK하이닉스, 충칭공장 매각설에 "다양한 방안 검토" - 뉴스핌 — *뉴스핌*
-- `08-10 17:17` 삼성 1위 탈환, SK하이닉스 2위 ‘턱밑 추격전’…14조 실탄 챙긴 CXMT도 위협하나 - 이지경제 — *이지경제*
-- `08-10 17:14` 용인시의회, 베트남 다낭시와 반도체·AI 협력 논의 - 뉴스웍스 — *뉴스웍스*
+- `08-11 06:44` 미국증시, 유가 5% 급등에 숨고르기…엔비디아 2.9%↓ 반도체 차익실현 - topstarnews.net — *topstarnews.net*
+- `08-11 06:30` SK하이닉스 담보대출 1년 새 5배…40대 비중도 두 배 뛰었다 - ebn.co.kr — *ebn.co.kr*
+- `08-11 06:30` 반도체 훈풍인데…'소부장' 한미반도체·한화세미텍 상반기 '부진', 왜? - 뉴스1 — *뉴스1*
+- `08-11 06:30` 7월 누계 반도체 수출 2333억弗…하반기 전망도 '好好' - 뉴시스 — *뉴시스*
+- `08-11 06:25` 말레이시아, 韓과 반도체·AI·할랄 산업 협력 강화… ‘고부가가치 전략적 파트너’ 도약 - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-11 06:15` [서울데이터랩]기술주 약세에 나스닥 0.32% 하락…반도체 급락 속 에너지·제약 강세 - seoul.co.kr — *seoul.co.kr*
+- `08-11 06:15` 정부가 길 닦는다…삼성전자·SK하이닉스 반도체 투자 속도 붙나 - 뉴스1 — *뉴스1*
+- `08-11 06:15` 李대통령, 호남 반도체 전격전 선언…삼전·하닉 '로드맵' 주목 - 뉴스1 — *뉴스1*
 
 ## 🇰🇷 금융주
-- `08-10 17:33` [더밸류 브리핑] 오늘의 금융계 소식...KB금융그룹·IBK기업은행· 새마을금고 - 더밸류뉴스 — *더밸류뉴스*
-- `08-10 17:33` [더밸류 브리핑] 오늘의 금융권 소식...NH농협금융그룹·BNK금융그룹·BNK 부산은행 - 더밸류뉴스 — *더밸류뉴스*
-- `08-10 17:30` 한국투자, 카디프생명 인수 막바지…SPA 체결 눈앞[시그널] - 네이트 — *네이트*
-- `08-10 17:26` 농협금융지주, ‘경영계획 Review’ 첫 도입…하반기 실행전략 본격화 - 농민신문 — *농민신문*
-- `08-10 17:17` [D-BIZ 금융 기업 동향] BNK금융그룹, 부산광역시수의사회와 손잡고 동물의료산업 금융지원 강화 - 데일리비즈온 — *데일리비즈온*
-- `08-10 17:01` 금융지주 회장 연임 제한 '없던 일' 되나…당정 이견에 법제화 난항 - 네이트 — *네이트*
-- `08-10 16:41` iM금융지주, 금융주 약세 속 3%대 하락 마감 : 기업주식정보 - 재경일보 — *재경일보*
-- `08-10 16:39` '장기 연임' 막으면 끝?…금융지주 지배구조 개편 '본질'은 - 핀포인트뉴스 — *핀포인트뉴스*
+- `08-11 07:00` 금융그룹 오너일가 등기임원 겸직 현황 보니…빗썸 ‘최다’·미래에셋 ‘전무’ - CEO스코어데일리 — *CEO스코어데일리*
+- `08-11 06:58` 농협금융, 올해 경영계획 중간점검…하반기 실행력 강화 - Naver Blog — *Naver Blog*
+- `08-11 06:16` 5년물 가뭄 속 코코본드 '완판'…금융지주 자본확충 수요에 발행 지속[시그널] - 네이트 — *네이트*
+- `08-11 06:00` 금융권, ‘은행+비은행’ 성장 공식 확산…수협은행 ‘종합금융그룹’ 참여하나 - lcnews.co.kr — *lcnews.co.kr*
+- `08-11 06:00` '비은행 선방에 리딩뱅크 굳히기' KB금융 양종희 회장, 연임 청신호 - 땅집고 — *땅집고*
+- `08-11 05:38` "어쩌면 마지막 매수 기회, 은행주 팔아 삼전닉스 올라타라" - 조선일보 — *조선일보*
+- `08-11 05:00` 당정 이견·신중론에…제동 걸린 금융지주 회장 ‘3연임 제한’ - hani.co.kr — *hani.co.kr*
+- `08-11 04:31` 청라로 헤드쿼터 이전하는 하나금융그룹 '인천시대' 개막 - 네이트 — *네이트*
 
 ## 🇰🇷 정책·거시
-- `08-10 17:07` "대책 나오자마자 이사가래요"…부동산 대책에 전세난민 속출 - 네이트 — *네이트*
-- `08-10 16:22` 수도권 공급에 쏠린 부동산 대책…지방 미분양 해법은 ‘뒷전’ - cctoday.co.kr — *cctoday.co.kr*
-- `08-10 16:22` 1년 내내 '총알받이' 된 대출규제, 하나마나한 공급대책…이번엔 다를까? - 네이트 — *네이트*
-- `08-10 12:02` 태풍 '돌핀' 가고 '찬홈' 온다 / 모레 부동산 대책 공개? 용산공원 등 '초관심' [정오블핑] - 네이트 — *네이트*
-- `08-10 11:51` 8·3대책發 급매 나오지만… 대출규제에 막혀 ‘매물 소화불량’ - 문화일보 — *문화일보*
-- `08-10 11:51` 전문가들 “李정부 1년동안 부동산대책 성적은 C” - 문화일보 — *문화일보*
-- `08-10 11:31` "본인들이 막아놓고 이제 와서"…李 '결혼 페널티' 대책에 야권 맹공 - 네이트 — *네이트*
-- `08-10 11:00` '부동산·주거 대책' 여야 정면충돌...한병도 "공급 절벽 주범" vs 장동혁 "국민포기정부" - KBC광주방송 — *KBC광주방송*
+- `08-11 06:10` 부동산 공급대책 곧 발표‥그린벨트 해제도 검토 - v.daum.net — *v.daum.net*
+- `08-11 06:01` '부동산·당권·징계'⋯폭염 속 정치권, 민생·권력 투쟁 동시 폭발[여의뷰] - 네이트 — *네이트*
+- `08-11 04:00` 초강력 대출규제만 1년… 첫 종합대책은 다를까 - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-11 00:10` [사설] 다섯 차례 대책에도 집값 치솟자 "윤석열, 오세훈 탓" - 조선일보 — *조선일보*
+- `08-10 19:54` 정부, 부동산 공급대책 곧 발표‥그린벨트 해제도 검토 - v.daum.net — *v.daum.net*
+- `08-10 19:46` 정부, 부동산 공급대책 곧 발표‥그린벨트 해제도 검토 - MBC 뉴스 — *MBC 뉴스*
+- `08-10 19:31` [이슈빡] 부동산부터 ISA까지, 세제개편안 후폭풍…공급대책 통할까? - news.sbs.co.kr — *news.sbs.co.kr*
+- `08-10 18:36` '위장 미혼' 신혼부부 줄어들까···부동산 종합대책 발표 임박 - 여성경제신문 — *여성경제신문*
 
 ## 🌍 AI·빅테크
-- `08-10 14:31` Nvidia's Orbital Gambit Meets a $250 Billion Circularity Debate - AD HOC NEWS — *AD HOC NEWS*
-- `08-10 11:26` $3 Trillion AI Capex Nearing Its Limit? Cloud Giants Face a Reckoning on Returns - finance.biggo.com — *finance.biggo.com*
-- `08-10 10:30` Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine "Funding Everyone and Anyone." Here's What That Means for AI Stocks. - The Motley Fool — *The Motley Fool*
-- `08-10 09:50` Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine "Funding Everyone and Anyone." Here's What That Means for AI Stocks. - Yahoo Finance — *Yahoo Finance*
-- `08-10 04:50` Nvidia's Orbital Ambitions Meet a $250 Billion Question: Who's Really Paying for the AI Boom? - AD HOC NEWS — *AD HOC NEWS*
-- `08-09 21:35` Cathie Wood's Ark Invest Loads Up on Nvidia and TSMC as Meta's AI Spending Surge Validates the Bet - finance.biggo.com — *finance.biggo.com*
+- `08-11 06:54` Nvidia and Wall Street Firms Target $500 Billion AI Infrastructure Financing - eurasiabusinessnews.com — *eurasiabusinessnews.com*
+- `08-11 06:41` Nvidia's $500B AI Funding Push Puts Crypto Compute Tokens On Watch - Yellow.com — *Yellow.com*
+- `08-11 06:38` Nvidia Forms Financial Partnerships to Fuel AI Factory Boom - PYMNTS.com — *PYMNTS.com*
+- `08-11 06:27` Nvidia Makes Massive Move to Fund AI Buildout - TradingView — *TradingView*
+- `08-11 06:19` Nvidia Strikes Deals With Wall Street Firms to Fund Its Own Customers - Barron's — *Barron's*
+- `08-11 06:15` Top Wall Street Firms Reportedly Partnering With Nvidia for $500 Billion AI Investment - Gizmodo — *Gizmodo*
+- `08-11 06:11` Nvidia Confirms Huge AI Funding Deal. These Financial Stocks Jump. - Investor's Business Daily — *Investor's Business Daily*
+- `08-11 06:05` NVIDIA Mobilizes $500 Billion in Third-Party Capital to Finance AI Compute - Unite.AI — *Unite.AI*
 
 ## 🌍 연준·금리
-- `08-10 15:53` FX Daily: One test down, four to go - ING Think — *ING Think*
-- `08-10 14:48` Silver Rises As Markets Reassess Chances Of Federal Reserve Rate Hikes This Year By Kedia Advisory - Investing.com India — *Investing.com India*
-- `08-10 12:26` Hawkish Data, Divided FOMC: Will September Bring a Rate Hike or a Standoff? - NAI500 — *NAI500*
-- `08-10 11:25` Dollar hovers near two-month low as weak US jobs data reshapes Fed rate outlook, inflation in focus - Firstpost — *Firstpost*
-- `08-10 09:15` Australian Stocks Eye Another Lift After Wall Street’s Bounce - Finimize — *Finimize*
-- `08-10 08:28` The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting - Yahoo Finance — *Yahoo Finance*
-- `08-10 00:21` Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July - Kalshi News — *Kalshi News*
-- `08-09 21:07` Federal Reserve Bank of New York’s Center for Microeconomic Data July 2026 Survey of Consumer Expectations Finds Short-Term Inflation Expectations Tick Down 0.1 Percentage Point to 3.6% Month-Over-Month and U.S. Unemployment Rate Expected to - Sierra Sun Times — *Sierra Sun Times*
+- `08-11 06:43` Why Kevin Warsh Might Raise Interest Rates at the Next FOMC Meeting, Despite a Weak Jobs Report - The Motley Fool — *The Motley Fool*
+- `08-11 04:35` Cleveland Fed president Hammack says ‘some number’ of rate hikes may be needed - Crain's Cleveland Business — *Crain's Cleveland Business*
+- `08-11 03:54` Trump Is Back to Pressuring the Fed. What Leverage Does He Have? - Bloomberg.com — *Bloomberg.com*
+- `08-11 03:25` Hammack Says Multiple Rate Hikes Needed to Combat Broadening Inflation | Cleveland Fed - News and Statistics - IndexBox — *IndexBox*
+- `08-11 03:22` Wednesday's CPI report could reshape the Fed's rate path — here's what advisors should watch - InvestmentNews — *InvestmentNews*
+- `08-11 01:15` Why Momentum, Fed Liquidity, & Tech Beats Signal More Upside - TradingView — *TradingView*
+- `08-11 01:11` Kevin Hassett outlines preference for Fed rate cuts, adding to pressure on Warsh - Washington Examiner — *Washington Examiner*
+- `08-11 01:03` Americans Feel the Sting of High Prices Every Day, So Why Does the Fed Need So Many Ways to Measure Inflation? - The San Diego Voice & Viewpoint — *The San Diego Voice & Viewpoint*
 
 ## 🌍 유가·지정학
-- `08-10 17:33` Oil rebounds, but uncertainty remains about reopening Strait of Hormuz - marketscreener.com — *marketscreener.com*
-- `08-10 17:28` Oil steady as Iran tempers hopes of swift Hormuz reopening - The Lufkin Daily News — *The Lufkin Daily News*
-- `08-10 17:28` Oil steady as Iran tempers hopes of swift Hormuz reopening - CNA — *CNA*
-- `08-10 17:28` Global stocks edge higher as oil steadies on Hormuz plans - Latest news from Azerbaijan — *Latest news from Azerbaijan*
-- `08-10 17:27` Hormuz shipping risks highlight strategic value of oil storage outside chokepoint - Anadolu Ajansı — *Anadolu Ajansı*
-- `08-10 17:18` Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `08-10 17:15` Global stocks tick up with oil steady on Hormuz plans - marketscreener.com — *marketscreener.com*
-- `08-10 17:14` Global stocks tick up with oil steady on Hormuz plans - TradingView — *TradingView*
+- `08-11 07:00` Global Diesel Crunch Worsens Ahead of Peak Winter Demand - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-11 06:40` Dorchester Minerals: Cheap Royalty Play Despite Oil Price Headwinds (NASDAQ:DMLP) - Seeking Alpha — *Seeking Alpha*
+- `08-11 06:27` How Government Corruption Turned Iran’s Oil Wealth Into A Chain Of Economic And Institutional Crises - OpEd - eurasiareview.com — *eurasiareview.com*
+- `08-11 06:18` Trump administration extends limited shipping waiver to keep oil flowing amid Iran war - Anadolu Ajansı — *Anadolu Ajansı*
+- `08-11 06:16` Oil Prices Surge 5% as Hormuz Uncertainty Pressures Global Markets - mezha.net — *mezha.net*
+- `08-11 06:11` Oil prices jump 5% as Trump keeps Iran escalation option open - Ednews.net — *Ednews.net*
+- `08-11 06:09` US stocks edge down from their record after oil prices climb 5% - AP News — *AP News*
+- `08-11 06:09` U.S. Stocks Fall as Hopes for Strait of Hormuz Reopening Are Dashed Again - WSJ — *WSJ*
 
 ## 🌍 시장 전반
-- `08-10 17:08` The Number of Stocks Beating S&P Is at Four-Year High - RealClearMarkets — *RealClearMarkets*
-- `08-10 16:04` Stock market extends rally as investors position for earnings season - Vanguard News — *Vanguard News*
-- `08-10 15:01` Waiting for a stock market crash? This FTSE 100 superstar just fell 20% in a day - Yahoo Finance UK — *Yahoo Finance UK*
-- `08-10 13:24` Dow Futures Fall With Big Earnings Ahead; What To Do Now - Investor's Business Daily — *Investor's Business Daily*
-- `08-10 11:29` Samsung Electronics, SK hynix rally on U.S. market boost - 매일경제 — *매일경제*
-- `08-10 11:14` [Opening Market] KOSPI Reclaims 6,300 As Tech Stocks Rally Amid Stable Won/Dollar Rate - Businesskorea — *Businesskorea*
-- `08-10 10:39` Gift Nifty, Asian Markets To US-Iran War — Five Key Things To Watch Ahead Of The Indian Stock Market Opening - NDTV Profit — *NDTV Profit*
-- `08-10 09:57` CICC: The A-share market's recovery rally is still expected to continue, and the trend of upward movement with volatility remains intact. - 富途牛牛 — *富途牛牛*
+- `08-11 05:23` SpaceX Stock Keeps Rising After Lockup Rally Ahead of the Next Share Unlock - Barron's — *Barron's*
+- `08-11 04:18` Microsoft’s stock is charging back. Here’s the case for it to rally another 30%. - MarketWatch — *MarketWatch*
+- `08-11 03:08` 2 charts showing just how insane the stock market’s August ‘crash-up’ has been so far - MarketWatch — *MarketWatch*
+- `08-11 01:00` Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Milestone - Investor's Business Daily — *Investor's Business Daily*
+- `08-11 00:58` Strategy dumps yet more Bitcoin, latest $109 million sell-off comes amid a seven-week buying hiatus - Fortune — *Fortune*
+- `08-11 00:40` Investors Abandon Hedges in Order to Chase Soaring Stocks - Bloomberg.com — *Bloomberg.com*
+- `08-11 00:09` US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India — *The Times of India*
+- `08-10 23:56` Analysis-FOMO fuels Wall Street’s breakout rally as traders pile in - whbl.com — *whbl.com*
