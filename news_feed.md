@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-10 07:00 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-10 15:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -13,76 +13,79 @@
 - **D-18** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `08-10 06:30` [증권사 실적 두 얼굴③] 증시 호황이 가린 PF 잔불...중소형사 회복 '아직' - 뉴스저널리즘 — *뉴스저널리즘*
-- `08-10 06:20` 단일종목 레버리지 규제 효과…증시 거래대금 절반 달했던 ETF 거래 급감 - 대한경제 — *대한경제*
-- `08-10 06:20` [26년 8월 10일(월)] 韓증시 롤러코스터 끝나나…블룸버그가 주목한 반전 신호 - 비티의 오늘 주요 뉴스 요약 - 네이버 프리미엄콘텐츠 — *네이버 프리미엄콘텐츠*
-- `08-10 06:20` [증권사 실적 두 얼굴①] 롤러코스터 증시에도 '역대급' 실적...수수료 잭팟에 가려진 명암 - 뉴스저널리즘 — *뉴스저널리즘*
-- `08-10 06:15` 中 초부유층 27.4%, 베이징·상하이에 집중… 부동산·증시 한파로 자산은 소폭 감소 - 글로벌이코노믹 — *글로벌이코노믹*
-- `08-10 06:05` [코스피·코스닥 전 거래일(7일) 주요공시] - 연합뉴스 — *연합뉴스*
-- `08-10 06:01` 증시 변동성 속 퇴직연금 개편 임박…‘수익률 제고’ vs ‘손실 위험’ 팽팽 - 대한경제 — *대한경제*
-- `08-10 06:00` [뉴욕증시 주간전망] AI 인프라 성적표· CPI 지표가 지수 향방 가른다 - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-10 15:39` [그래픽] 코스피·코스닥 추이 - v.daum.net — *v.daum.net*
+- `08-10 15:34` 코스피, 0.65% 오른 6,299.66…코스닥은 7% 급등 - 연합인포맥스 — *연합인포맥스*
+- `08-10 15:33` [스팟] 코스피 40.89포인트(0.65%) 오른 6299.66 마감 - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-10 15:12` 美 고용 쇼크가 부른 금리 안도…외국인, 코스피로 돌아오나 By EBN - Investing.com 한국어 — *Investing.com 한국어*
+- `08-10 15:12` 증시 훈풍에 채권 시장 찬밥신세…혼합형ETF로 진화 중 By EBN - Investing.com 한국어 — *Investing.com 한국어*
+- `08-10 15:09` 장기투자 하라더니 정책은 오락가락…개미들 다시 美 증시로 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-10 15:07` 美 중동협상·中 휴머노이드 IPO·日 외국인 수급…엇갈리는 증시 셈법 [글로벌 레이더] - 에너지경제신문 — *에너지경제신문*
+- `08-10 14:55` 코스피, 외인 1조 ‘팔자’에 하락 전환…6300선 아래로 - 글로벌이코노믹 — *글로벌이코노믹*
 
 ## 🇰🇷 반도체·HBM
-- `08-10 06:50` 中 제안에 '기술 유출' SK하이닉스 전 직원, 2심도 징역 1년 6개월 - 글로벌E — *글로벌E*
-- `08-10 06:45` [단독] 9.5억 스스로 걷어찼다…‘출장지서 1분 만에 퇴근’상습 근태 불량 SK하이닉스 직원 해고 정당 [세상&] - 헤럴드경제 — *헤럴드경제*
-- `08-10 06:39` [도정소식] "삼성·SK하이닉스 총출동"···경기도 '차세대 반도체 패키징 산업전' 등 - 서울파이낸스 — *서울파이낸스*
-- `08-10 06:35` "반도체에 이어 데이터마저 막힌다"… 中, ‘중국어 데이터 부족’ 병목 현상 직면 - 글로벌이코노믹 — *글로벌이코노믹*
-- `08-10 06:33` 삼전닉스 급락 맞힌 '반도체 저승사자'…"이젠 사야할 때" - bloomingbit.io — *bloomingbit.io*
-- `08-10 06:30` 생산직·사무직 SK하이닉스 통합노조 추진 - 매일노동뉴스 — *매일노동뉴스*
-- `08-10 06:26` "주주환원 그 한 줄"이 갈라놓은 삼성전자·SK하이닉스 주가 - epeopletoday.com — *epeopletoday.com*
-- `08-10 06:25` 글로벌 메모리 3사, 2027년 HBM·DRAM 물량 할당 완료 - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-10 15:28` 법무법인YK, 서울대·칼텍 차세대 반도체 공동연구 법률·특허 맡는다 - 뉴스핌 — *뉴스핌*
+- `08-10 15:27` 이 대통령, 호남반도체 ‘전격전’ 주문…“광주군공항 기능 이전, 2028년까지” - v.daum.net — *v.daum.net*
+- `08-10 15:25` [IT/반도체/자동차] LX세미콘, 현대·기아차에 자동차용 반도체(MCU) 공급 개시 - 굿모닝베트남미디어 — *굿모닝베트남미디어*
+- `08-10 15:24` 반도체 호조에 최근 한국 경제 개선세 확대…대외 불확실성 상존 - news.bbsi.co.kr — *news.bbsi.co.kr*
+- `08-10 15:20` 삼성전자·SK하이닉스·에코프로 1000원부터 산다…카카오페이證, 국내 주식 소수점 거래 시작 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-10 15:18` '통합' 택한 SK하이닉스, '분리' 택한 삼성전자…성과급이 흔든 노사판[NW리포트] - v.daum.net — *v.daum.net*
+- `08-10 15:16` [성공예감] SK하이닉스 배당 375원…중국보다 낮은 배당률, 한국 증시 명운이 걱정입니다 – 홍춘욱 대표(프리즘 투자자문) - v.daum.net — *v.daum.net*
+- `08-10 15:15` 추미애, 용인 반도체 방류수 관리 강화 지시…"환경조치 후 주민 설명" - 베이비타임즈 — *베이비타임즈*
 
 ## 🇰🇷 금융주
-- `08-10 06:02` 늦어지는 지배구조 개편안…KB 지나 iM금융 '첫 타자' 되나 - 네이트 — *네이트*
-- `08-10 06:00` 중앙회 배불리는 NH금융…배당·농지비, 올해도 조단위 넘을 듯 - IT조선 — *IT조선*
-- `08-09 23:29` 수협도 금융지주로…지난해 트리니티 올해 상상인 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `08-09 18:43` 반도체 빠진 증시서 은행주 ‘역주행’…기준금리·환율 호재에 상승세 - v.daum.net — *v.daum.net*
-- `08-09 18:01` 수협은행, ‘Sh금융지주’ 시동…상상인증권 품고 은행 중심 탈피 - 아시아투데이 — *아시아투데이*
-- `08-09 17:48` 고물가·폭염 속 온기 전달… 하나금융, 명동 소상공인에 ‘행복상자’ 나눔 - 포인트경제 — *포인트경제*
-- `08-09 17:00` [단독] 진옥동, 이찬진 첫 해외 IR 동행…정부 행사 '단골손님' - v.daum.net — *v.daum.net*
-- `08-09 16:46` [오늘의 ESG] 하나금융·우아한형제들·풀무원 - 파이낸셜리뷰 — *파이낸셜리뷰*
+- `08-10 15:18` 대부업서 보험까지…OK금융, 종합금융그룹 퍼즐 맞춘다 - 뉴스토마토 — *뉴스토마토*
+- `08-10 15:02` 새마을금고, 해외·일상 혜택 담은 ‘MG+ 트래블로그 하나카드’ 출시 - 이지경제 — *이지경제*
+- `08-10 14:53` 오케이캐피탈, 계열사 오케이홀딩스대부로부터 JB금융지주 상장주식 담보 제공받아 - 디지털투데이 — *디지털투데이*
+- `08-10 14:38` NH농협금융, 하반기 경영전략회의 개최…'원펌' 전략 구체화 - 오피니언뉴스 — *오피니언뉴스*
+- `08-10 14:34` '장기집권' 막히자 달라진 금융지주···천덕꾸러기 부회장 'CEO 검증 무대'로 - 스마트비즈 — *스마트비즈*
+- `08-10 14:33` NH농협금융, '경영계획 재점검' 첫 도입…하반기 전략 본격화 - 전자신문 — *전자신문*
+- `08-10 14:33` KDB생명 인수전 흥국생명·한국금융지주에 무게, 산업은행 증자 부담 덜어줄 자본 여력이 승부처 - 비즈니스포스트 — *비즈니스포스트*
+- `08-10 14:20` NH농협금융, 첫 ‘경영계획 Review’ 실시…27년 성장전략에 반영 - 핀포인트뉴스 — *핀포인트뉴스*
 
 ## 🇰🇷 정책·거시
-- `08-10 06:10` [오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표 - 데일리안 — *데일리안*
-- `08-10 04:30` 부동산·일자리·주식 '청년 홀대론' 띄우는 국민의힘... 文 정권 지지율 폭락 재현 노린다 - 한국일보 — *한국일보*
-- `08-09 22:55` 정부, 주택공급 후속대책 막판 조율…“도심 공급 속도 높인다” - sankyungtoday.com — *sankyungtoday.com*
-- `08-09 19:30` [부동산 정책] 정부, 13일 안팎 주택 공급 대책 발표 검토… '서울 준공업지역 2.7만 가구' 속도 낸다 - sisaworld.kr — *sisaworld.kr*
-- `08-09 19:08` [사설] 공급 대책에 재건축·재개발 촉진 방안도 포함돼야 - 네이트 — *네이트*
-- `08-09 19:07` [사설] 공급 대책에 재건축·재개발 촉진 방안도 포함돼야 - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `08-09 18:55` 실거주 의무가 키운 양극화…'똘똘한 한채' 쏠림 심해졌다[이종배의 부동산산책] - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `08-09 18:37` 이재명 정부 부동산 공급대책 이르면 13일 발표···“명확한 플랜 제시해야” - 경향신문 — *경향신문*
+- `08-10 12:02` 태풍 '돌핀' 가고 '찬홈' 온다 / 모레 부동산 대책 공개? 용산공원 등 '초관심' [정오블핑] - 네이트 — *네이트*
+- `08-10 11:51` 8·3대책發 급매 나오지만… 대출규제에 막혀 ‘매물 소화불량’ - munhwa.com — *munhwa.com*
+- `08-10 11:51` 전문가들 “李정부 1년동안 부동산대책 성적은 C” - munhwa.com — *munhwa.com*
+- `08-10 11:31` "본인들이 막아놓고 이제 와서"…李 '결혼 페널티' 대책에 야권 맹공 - 네이트 — *네이트*
+- `08-10 11:00` '부동산·주거 대책' 여야 정면충돌...한병도 "공급 절벽 주범" vs 장동혁 "국민포기정부" - KBC광주방송 — *KBC광주방송*
+- `08-10 10:41` "얼마나 졸속 대책이면…" 이재명 정부 부동산 '추가 대책' 곧 발표 - 땅집고 — *땅집고*
+- `08-10 10:18` [부동산 2026] 세금폭탄안에 부동산 민심 악화…"대통령은 청년대책 챙기기" - 이코노미톡뉴스 — *이코노미톡뉴스*
+- `08-10 10:12` 정부, 13일 전후 주택 공급대책 발표 검토…수도권에 '5만가구+α' - 네이트 — *네이트*
 
 ## 🌍 AI·빅테크
+- `08-10 14:31` Nvidia's Orbital Gambit Meets a $250 Billion Circularity Debate - AD HOC NEWS — *AD HOC NEWS*
+- `08-10 11:26` $3 Trillion AI Capex Nearing Its Limit? Cloud Giants Face a Reckoning on Returns - finance.biggo.com — *finance.biggo.com*
+- `08-10 10:30` Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine "Funding Everyone and Anyone." Here's What That Means for AI Stocks. - The Motley Fool — *The Motley Fool*
+- `08-10 09:50` Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine "Funding Everyone and Anyone." Here's What That Means for AI Stocks. - Yahoo Finance — *Yahoo Finance*
 - `08-10 04:50` Nvidia's Orbital Ambitions Meet a $250 Billion Question: Who's Really Paying for the AI Boom? - AD HOC NEWS — *AD HOC NEWS*
-- `08-08 13:33` Nvidia’s OpenAI and SK Group Deals Fuel $750B ‘Circular Financing’ Debate，Why are Investors Concerned? - TradingKey — *TradingKey*
-- `08-08 12:56` Nvidia to Invest $3 Billion in Stargate Power Provider Lancium, Extending AI Arms Race to the Grid - finance.biggo.com — *finance.biggo.com*
+- `08-09 21:35` Cathie Wood's Ark Invest Loads Up on Nvidia and TSMC as Meta's AI Spending Surge Validates the Bet - finance.biggo.com — *finance.biggo.com*
 
 ## 🌍 연준·금리
-- `08-10 00:21` Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July - Kalshi News — *Kalshi News*
-- `08-09 21:07` Federal Reserve Bank of New York’s Center for Microeconomic Data July 2026 Survey of Consumer Expectations Finds Short-Term Inflation Expectations Tick Down 0.1 Percentage Point to 3.6% Month-Over-Month and U.S. Unemployment Rate Expected to - Sierra Sun Times — *Sierra Sun Times*
-- `08-09 21:00` US economy expands at sluggish pace, mortgage rate hit highest point - The North State Journal — *The North State Journal*
-- `08-09 20:00` Will US inflation be cool enough to trim bets on a September rate rise? - Financial Times — *Financial Times*
-- `08-09 19:15` What Happens to a Bond ETF's Price When the Fed Cuts Rates -- Using the Actual Historical Data - The Motley Fool — *The Motley Fool*
-- `08-09 18:52` What Happens to a Bond ETF's Price When the Fed Cuts Rates -- Using the Actual Historical Data - The Globe and Mail — *The Globe and Mail*
-- `08-09 18:12` Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool — *The Motley Fool*
-- `08-09 12:06` Peter Schiff Warns $39.8 Trillion US Debt Is Trapping Fed in Rate-Hike Dilemma: ‘The More Important It Be - Benzinga — *Benzinga*
+- `08-10 14:48` Silver Rises As Markets Reassess Chances Of Federal Reserve Rate Hikes This Year By Kedia Advisory - Investing.com India — *Investing.com India*
+- `08-10 14:46` New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets. - The Globe and Mail — *The Globe and Mail*
+- `08-10 14:08` Bitcoin tops $65,000 as weak US jobs report eas... - Pluang — *Pluang*
+- `08-10 12:26` Hawkish Data, Divided FOMC: Will September Bring a Rate Hike or a Standoff? - NAI500 — *NAI500*
+- `08-10 11:25` Dollar hovers near two-month low as weak US jobs data reshapes Fed rate outlook, inflation in focus - Firstpost — *Firstpost*
+- `08-10 09:59` Asian markets rise as soft US jobs data eases Fed rate hike fears; oil climbs on Hormuz tensions - Firstpost — *Firstpost*
+- `08-10 09:15` Australian Stocks Eye Another Lift After Wall Street’s Bounce - Finimize — *Finimize*
+- `08-10 08:34` The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its… - Longbridge — *Longbridge*
 
 ## 🌍 유가·지정학
-- `08-10 04:41` Trump is betting that the US naval blockade choking Iran's economy can do what missiles couldn't - Fortune — *Fortune*
-- `08-10 04:33` Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News — *AP News*
-- `08-10 04:21` Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia - Al Jazeera — *Al Jazeera*
-- `08-10 04:00` What Does It Take to Reopen a Nuclear Power Plant - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-10 03:46` Trump May Open the Hormuz, But He Can’t Prevent Next Oil Shock - Benzinga — *Benzinga*
-- `08-10 02:00` Crude Oil Weekly Outlook: Hormuz Risks, Key Levels to Watch - forex.com — *forex.com*
-- `08-10 02:00` Europe's Next Energy Crisis Won't Be a War, It'll Be Peak Oil - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-10 01:26` Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news - seMissourian — *seMissourian*
+- `08-10 15:39` Oil Prices Rise As Strait Of Hormuz Reopening Remains Uncertain - News Mobile — *News Mobile*
+- `08-10 15:34` Oil Rises on Uncertainty Over Reopening of Hormuz - Fana News - — *Fana News -*
+- `08-10 15:30` Hormuz Tensions Surge After Reports of Another Tanker Strike - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-10 15:23` Oil prices climb as Iran ties Hormuz reopening to key demands - Yeni Safak English — *Yeni Safak English*
+- `08-10 15:18` Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `08-10 15:11` Oil Climbs on Hormuz Uncertainty: Iran Demands, US Resistance Weigh - News and Statistics - IndexBox — *IndexBox*
+- `08-10 15:03` Oil pares gains as Hormuz uncertainty, Houthi attacks keep supply risks elevated - Investing.com Nigeria — *Investing.com Nigeria*
+- `08-10 14:51` FTSE 100 Set To Slip As Oil And Gold Cool - Finimize — *Finimize*
 
 ## 🌍 시장 전반
-- `08-10 04:11` The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise. - MarketWatch — *MarketWatch*
-- `08-10 02:54` Futures Loom With Big Earnings Ahead; What To Do Now - Investor's Business Daily — *Investor's Business Daily*
-- `08-10 01:11` Stock Market Warning: Understanding the Once-in-a-Generation Signal Flashing Red Alert - Intellectia AI — *Intellectia AI*
-- `08-10 00:47` If a Stock Market Crash Is on the Horizon, History Says Investing in This 1 Thing is the Smartest Opportunity Right Now - Yahoo Finance — *Yahoo Finance*
-- `08-10 00:38` Berkshire Hathaway Ends 3-Year Sell-Off With $19.8 Billion Stock Buy - 조선일보 — *조선일보*
-- `08-10 00:33` Nvidia and Micron Have Driven the S&P 500's 2026 Rally to Record Highs. History Says It's Not Over - 24/7 Wall St. — *24/7 Wall St.*
-- `08-09 23:49` Japanese Pension Giant GPIF Books Record $152B Quarterly Gain on Stock Rally - Mingtiandi — *Mingtiandi*
-- `08-09 23:34` Scott Galloway warned the US stock market could crash within 24 months thanks to AI. Protect your nest egg while you can - AOL.com — *AOL.com*
+- `08-10 15:18` Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `08-10 12:08` Dow Futures Fall With Big Earnings Ahead; What To Do Now - Investor's Business Daily — *Investor's Business Daily*
+- `08-10 11:29` Samsung Electronics, SK hynix rally on U.S. market boost - 매일경제 — *매일경제*
+- `08-10 11:14` [Opening Market] KOSPI Reclaims 6,300 As Tech Stocks Rally Amid Stable Won/Dollar Rate - Businesskorea — *Businesskorea*
+- `08-10 10:39` Gift Nifty, Asian Markets To US-Iran War — Five Key Things To Watch Ahead Of The Indian Stock Market Opening - NDTV Profit — *NDTV Profit*
+- `08-10 09:57` CICC: The A-share market's recovery rally is still expected to continue, and the trend of upward movement with volatility remains intact. - 富途牛牛 — *富途牛牛*
+- `08-10 09:49` Asian Stock Markets Today: Nikkei, Kospi Rise As Friday's Wall Street Rally Boosts Sentiment - NDTV Profit — *NDTV Profit*
+- `08-10 08:46` Berkshire Buys $19.8 Billion in Stock After Three-Year Sell-Off - 조선일보 — *조선일보*
