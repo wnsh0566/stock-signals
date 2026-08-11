@@ -1,93 +1,93 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-11 17:15 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-12 07:20 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+4** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
-- **D+4** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
-- **D+2** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
-- **D-1** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
-- **D-3** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
-- **D-16** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
-- **D-17** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
+- **D+5** (08/07) ⭐⭐⭐ FTD 유효창 마감(7/30 개방) — +1.5%↑ 상승일 감시
+- **D+5** (08/07) ⭐⭐ 미국 7월 고용보고서(밤)
+- **D+3** (~08/09) ⭐⭐ 미-이란 2주 휴전 만료(추정) — 재점화 감시
+- **D-DAY** (~08/12) ⭐⭐⭐ 미국 7월 CPI(추정) — 'CPI 함정' 실체 판정
+- **D-2** (08/14) ⭐ 자금 +3,000만 입금 — BEAR 해제 전 봉인(§14-1)
+- **D-15** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄(추정) — 워시 첫 기조연설
+- **D-16** (~08/28) ⭐⭐⭐ 엔비디아 실적(추정) — 심판 A 복귀 촉매
 
 ## 🇰🇷 증시·코스피
-- `08-11 17:09` 증시 조정에 투자자예탁금 줄어…'빚투'는 다시 증가세 - v.daum.net — *v.daum.net*
-- `08-11 16:57` [장마감] 코스피 0.73%↑(6345.53), 코스닥 0.39%↑(857.84) - 버핏연구소 — *버핏연구소*
-- `08-11 16:51` 과열 잦아든 코스피…‘변동성 지수’ -11% 뚝 - 한겨레 — *한겨레*
-- `08-11 16:50` 코스피 6300선 회복·코스닥 850선 안착…수출 호조에 반도체주 반등 - 인더스트리뉴스 — *인더스트리뉴스*
-- `08-11 16:49` 반도체·화장품 수출이 끌어올렸다…코스피·코스닥 동반 상승 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-11 16:46` 반도체 상승에 코스피 반등...코스닥도 강보합 - YTN — *YTN*
-- `08-11 16:40` 'S&P500 8000 간다' 강세론 굳히는 월가…코스피엔 아직 '신중' - 한국경제 — *한국경제*
-- `08-11 16:39` 반도체 수출 155% 폭증에 코스피 ‘반전’…삼성전자 4% 뛰었다 - 경북매일 — *경북매일*
+- `08-12 07:11` [오늘의 글로벌마켓] 뉴욕증시, 유가 상승 속 3대지수 하락세 - 오피니언뉴스 — *오피니언뉴스*
+- `08-12 07:00` 방향타 잃은 코스피, 부상하는 코스닥…'레버리지 규제' 타고 반등 - 뉴시스 — *뉴시스*
+- `08-12 06:59` [뉴욕증시] 중동 혼란·CPI 경계감에 하락, 반도체 '반등'···국채↑·유가↑ - 서울파이낸스 — *서울파이낸스*
+- `08-12 06:47` 호르무즈 재개방 또 물러가나…증시 숨고르기[뉴욕마감] - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-12 06:43` 뉴욕 증시, 호르무즈 불확실성에 동반 하락 마감 - YTN — *YTN*
+- `08-12 06:30` 뉴욕증시, 호르무즈 협상 불확실성에 3대 지수 하락 - 뉴시안 — *뉴시안*
+- `08-12 06:25` 뉴욕증시, 유가 상승·CPI 경계에 하락…나스닥 0.60%↓[상보] - v.daum.net — *v.daum.net*
+- `08-12 06:20` 뉴욕증시, 호르무즈 협상 난항에 하락 마감 - 조선비즈 - Chosunbiz — *Chosunbiz*
 
 ## 🇰🇷 반도체·HBM
-- `08-11 17:05` 與 메가특위, 용인 반도체 현장 방문…"조기 완공 총력" - 한국경제 — *한국경제*
-- `08-11 17:03` 지멘스 EDA "반도체 설계 시간 10배 단축" - 디일렉 — *디일렉*
-- `08-11 17:02` 엇갈리는 반도체 2톱…삼전, 로봇까지 확장 vs SK하닉, 쪼그라든 HBM - 뉴스1 — *뉴스1*
-- `08-11 17:02` SK하이닉스, 日 키옥시아 사실 최대주주로…도시바 지분 역전 - 디지털데일리 — *디지털데일리*
-- `08-11 17:00` [DD퇴근] 목표가 200만원 차이나는 SK하이닉스…누구말 믿어야 하나 - 디지털데일리 — *디지털데일리*
-- `08-11 17:00` [단독] “HBM은 형편없다” 전 인텔 CEO 도발하자…SK하이닉스 임원 대답이 - v.daum.net — *v.daum.net*
-- `08-11 16:56` 속도 내는 산업장관 “호남 반도체 팹 2029년 1차 완공 목표” - 서울신문 — *서울신문*
-- `08-11 16:56` 800兆 호남 반도체, 2029년 팹 1차 완공 목표…군공항 이전·산단 병행 추진 - 조선비즈 - biz.chosun.com — *biz.chosun.com*
+- `08-12 07:15` “SK하이닉스, 40조원 규모 '통 큰 주주환원' 기대”[클릭e종목] - 아시아경제 — *아시아경제*
+- `08-12 07:03` 서울대 공대 연구팀, 오랜 정보 스스로 잊는 AI반도체 소자 개발 - sciencetimes.co.kr — *sciencetimes.co.kr*
+- `08-12 07:02` 中 CXMT 점유율 10% 추격…삼성·SK, 수십조 증설 서두른다 - v.daum.net — *v.daum.net*
+- `08-12 07:01` AI·반도체 뜨는데…한국 원자력 학술연구는 '정체 수준' - v.daum.net — *v.daum.net*
+- `08-12 07:00` [천지일보 이슈종합] 반도체 수출·호남 반도체 클러스터·경남 가뭄·검찰 개혁·평택 물류센터 화재·부동산 실거주·콜롬비아 강진 - 천지일보 — *천지일보*
+- `08-12 06:59` [속보] 뉴욕증시 하락 속 '하닉ADR' 4.70% 급등…반도체 강세 - 프레시안 — *프레시안*
+- `08-12 06:59` [뉴욕증시] 중동 혼란·CPI 경계감에 하락, 반도체 '반등'···국채↑·유가↑ - 서울파이낸스 — *서울파이낸스*
+- `08-12 06:45` [사설] 정치에 둘러싸인 반도체, 기업은 말이 없다 - 경기일보 — *경기일보*
 
 ## 🇰🇷 금융주
-- `08-11 16:40` KB금융 차기 회장 결정 한 달 앞으로, 양종희와 경쟁할 '2차 숏리스트' 하마평 무성 - businesspost.co.kr — *businesspost.co.kr*
-- `08-11 16:37` 1550원의 공포, 1420원의 기회…환율이 바꾼 금융지주 표정 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `08-11 16:36` 동양생명, 우리금융그룹 완전자회사 편입…종합금융 시너지 본격화 - 인더스트리뉴스 — *인더스트리뉴스*
-- `08-11 16:32` [금융지주 풍향계] 하나금융, 국가보훈부와 ‘국립묘지 묘역 환경 개선’ MOU 外 - 에너지경제신문 — *에너지경제신문*
-- `08-11 16:20` 하나금융·신한금융지주, 롯데 금융계열사 인수 저울질…결국 ‘가격’ - PRESS9 — *PRESS9*
-- `08-11 16:20` 우리금융지주, 동양생명 100% 품었다…보험 통합 속도 - PRESS9 — *PRESS9*
-- `08-11 16:14` 동양생명, 최대주주 우리금융지주 지분율 100%로 변동 - 데이터투자 — *데이터투자*
-- `08-11 15:58` 동양생명…우리금융 완전자회사로 ‘새 출발’ - 경제타임스 — *경제타임스*
+- `08-12 06:10` 4대 금융지주, 채권 1조1200억 발행…‘실탄’ 쌓는다 - IT조선 — *IT조선*
+- `08-12 00:19` iM금융그룹, ‘솔라시안 유스 오케스트라’ 청년 음악가 성장 지원 - 프레시안 — *프레시안*
+- `08-11 20:00` 교보생명, 악사손보 인수 추진…금융지주 전환 '속도' - 뉴스1 — *뉴스1*
+- `08-11 19:29` 대전시-하나금융그룹, 중장년 일자리 매칭 - 쿠키뉴스 — *쿠키뉴스*
+- `08-11 19:05` 금융지주 회장 3연임 제한 빠지나…당정 이견에 법제화 불투명 - 아주경제 — *아주경제*
+- `08-11 19:00` [단독] 민주당 금융사 CEO 연임 막아라 요구에도…금융당국 법적 수단 없어 - 아주경제 — *아주경제*
+- `08-11 18:17` 지배구조 개편 지연… 연임 도전 한숨 돌린 금융지주회장들 - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `08-11 17:45` 4대 금융그룹 稅부담 급증…이익보다 2배 빠르게 늘어 - 네이트 — *네이트*
 
 ## 🇰🇷 정책·거시
-- `08-11 16:51` 이재명 “정책이 국민을 따라야”…여야, 부동산 대책 공방 - busan.com — *busan.com*
-- `08-11 16:40` 서울은 집 부족, 대구경북은 남아 돌아…부동산 대책 ‘같은 처방’ 안 된다 - v.daum.net — *v.daum.net*
-- `08-11 15:57` 與 "13일 주택 공급·금융 대책 정부안 발표…공급이 해법" - 네이트 — *네이트*
-- `08-11 15:56` ​​​​​​​與 13일 주택 공급·금융 대책 정부안 발표…공급이 해법 - ajunews.com — *ajunews.com*
-- `08-11 15:50` 정점식 원대, 이재명 정부 겨냥 ‘지방 악성 미분양 해소 대책’ 신속 마련 촉구 - 강원도민일보 — *강원도민일보*
-- `08-11 15:35` 與, 13일 의총서 세제개편안·부동산 대책 논의 - 네이트 — *네이트*
-- `08-11 15:28` 부동산 정책: 용산어린이정원에 근조화환이?…정부가 검토하는 주택공급 대책은 - BBC — *BBC*
-- `08-11 14:46` 민주당, 13일 의총 개최…세제개편·부동산 대책 논의 - news.bbsi.co.kr — *news.bbsi.co.kr*
+- `08-12 06:30` 李정부 부동산 공급대책, 승부처 되나…지지율 최저치 속 초강수 - 데일리안 — *데일리안*
+- `08-12 06:01` 與, 주택시장 안정화 TF 첫 회의·…부동산 민심잡기 총력전 - 뉴스1 — *뉴스1*
+- `08-12 05:07` 李대통령, 민심 악재에 직접 대응…'형소법·ISA·부동산' 반등 카드 모색 - 뉴스1 — *뉴스1*
+- `08-12 00:10` [사설] 청와대 참모가 다주택에 무단 증축, 부동산 대책 영 서겠나 - 한국일보 — *한국일보*
+- `08-12 00:02` 정점식 “지방 미분양 해소 위한 부동산 대책 신속 마련하라” - 강원도민일보 — *강원도민일보*
+- `08-12 00:00` 정부 세제개편안 논란 확산, 與 대책부심…野 파상공세 - 경상일보 — *경상일보*
+- `08-11 23:59` 여당, 이번 주 부동산 의총·TF…세제개편안 보완·수정 모색 - 한겨레 — *한겨레*
+- `08-11 20:47` 박지원 "李 정부 부동산 정책 잘하고 있어…결정은 신중히" - 뉴시스 — *뉴시스*
 
 ## 🌍 AI·빅테크
-- `08-11 17:11` Nvidia Forms AI Compute Financing Partnerships to Raise $500 Billion Capital - marketscreener.com — *marketscreener.com*
-- `08-11 17:10` Nvidia’s Huang calls chips an ‘investable asset class’ after $500B AI financing push (NVDA:NASDAQ) - Seeking Alpha — *Seeking Alpha*
-- `08-11 16:54` Nvidia links with Wall Street firms for $500bn AI financing deal - The Guardian — *The Guardian*
-- `08-11 16:47` Nvidia announces new $500 billion investment in AI computing - Techzine Global — *Techzine Global*
-- `08-11 16:46` How Nvidia's $500B financing deal will entrench its AI dominance - CNBC — *CNBC*
-- `08-11 15:57` Nvidia’s $500 Billion AI Push Is Starting to Show Up in Credit - Investing.com — *Investing.com*
-- `08-11 15:57` NVIDIA, Wall Street join hands to mobilise over $500 billion for AI infrastructure - Storyboard18 — *Storyboard18*
-- `08-11 15:47` NVDA: Nvidia Taps Wall Street Giants for $500 Billion AI Buildout. Bank of Jensen Opens. - TradingView — *TradingView*
+- `08-12 06:04` Nvidia, 6 Partners Plan $500B In AI Infrastructure Financing - Law360 — *Law360*
+- `08-12 06:01` Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - cnbc.com — *cnbc.com*
+- `08-12 05:48` Nvidia Stock Wavers As Chipmaker Rounds Up Funding For AI Buildout - Investor's Business Daily — *Investor's Business Daily*
+- `08-12 05:38` Nvidia’s Show of Financial Force Soothes Jittery Credit Markets - Bloomberg.com — *Bloomberg.com*
+- `08-12 05:21` Nvidia, Apollo, Blackstone, and Others to Mobilize $500B for AI Infrastructure - News and Statistics - IndexBox — *IndexBox*
+- `08-12 05:02` ‘Gaming the System’ for AI. Nvidia, OpenAI & Anthropic. ARD #138 - AI: Reset to Zero — *AI: Reset to Zero*
+- `08-12 04:56` Does NVIDIA's $500B AI Push Open a New Opportunity for Financial ETFs? - The Globe and Mail — *The Globe and Mail*
+- `08-12 04:40` Nvidia Taps Wall Street for $500B AI Buildout - Technology Org — *Technology Org*
 
 ## 🌍 연준·금리
-- `08-11 15:00` Trump reopens Fed battle at critical time for bond markets - Reuters — *Reuters*
-- `08-11 10:27` Goldman Sachs Says Stay Invested, Sees No Fed Rate Hikes in 2026 as Oil Retreats - finance.biggo.com — *finance.biggo.com*
-- `08-11 10:17` Trump is once again pressuring the Fed, seeking to influence interest-rate policy - Українські Національні Новини (УНН) — *Українські Національні Новини (УНН)*
-- `08-11 09:19` Gold Price Hits $4,400: Fed Inflation Data Driving Historic Rally 2026 - Intellectia AI — *Intellectia AI*
-- `08-11 09:00` Inflation Reports Could Test Warsh’s Tough Talk - WSJ — *WSJ*
-- `08-11 08:32` Cleveland Fed President says multiple rate hikes may be needed to curb inflation, as Trump continues pressing for rate cuts, fueling debate over the Federal Reserve's independence - 富途牛牛 — *富途牛牛*
-- `08-11 08:30` Unemployment Rate Dips: Implications on Fed's Rate Decisions - Devdiscourse — *Devdiscourse*
-- `08-11 08:30` Unemployment rate remains Fed's labor market lodestar - Reuters — *Reuters*
+- `08-12 04:21` Inflation Remains America’s Chief Economic Malady, Warns Chicago Fed’s Goolsbee - TradingView — *TradingView*
+- `08-12 03:34` An inflation report Wednesday should be a big deal for the Fed. Here's what to expect - cnbc.com — *cnbc.com*
+- `08-12 03:07` Inflation is the biggest problem, Fed's Goolsbee says - Reuters — *Reuters*
+- `08-12 00:25` US Bond Yields Surge as Trump and Bessent Diverge Over Federal Reserve Rate Policy - Межа. Новини України. — *Межа. Новини України.*
+- `08-11 23:49` Is inflation really slowing? Fed rate hike hinges on July price report. - marketwatch.com — *marketwatch.com*
+- `08-11 22:14` US yield curve twists expose Trump's and Bessent's rate dilemma - Reuters — *Reuters*
+- `08-11 21:42` Cleveland Fed's Beth Hammack says multiple rate hikes may be needed - qz.com — *qz.com*
+- `08-11 21:33` A Fed Member Voted To Hike Rates In July. She Said More Than One Increase Could Be Needed To Tame Inflation. - International Business Times — *International Business Times*
 
 ## 🌍 유가·지정학
-- `08-11 16:48` Oil Rises Further as Hormuz Talks Show Little Progress - WSJ — *WSJ*
-- `08-11 16:45` Global Gas Turbine Orders Hit Record High as Power Demand Surges - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-11 16:44` Oil prices continue to rise and reach new highs as the Strait of Hormuz remains closed - صوت الإمارات — *صوت الإمارات*
-- `08-11 16:39` Oil futures: Hormuz impasse lifts crude to fresh August highs - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
-- `08-11 16:28` Bitcoin Price Forecast: Will higher Oil prices and ETF outflows sink BTC? - FXStreet — *FXStreet*
-- `08-11 16:27` Oil rises as Iran and US trade demands for reopening Strait of Hormuz - The Lufkin Daily News — *The Lufkin Daily News*
-- `08-11 16:20` WTI Surges 6%: Could Strait of Hormuz Tensions Trigger a New Oil Rally? - Investing.com — *Investing.com*
-- `08-11 16:09` WTI Price Forecast: Refreshes weekly high at $82.70 as oil supply uncertainty deepens - FXStreet — *FXStreet*
+- `08-12 07:00` Sodium-Ion Batteries Gain Ground as Lithium Alternative - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-12 06:59` U.S. stocks edge further from their records as oil prices keep swinging - PBS — *PBS*
+- `08-12 06:45` Oil prices settle up as Iran says Strait of Hormuz to stay shut - Oil & Gas 360 — *Oil & Gas 360*
+- `08-12 06:30` Oil Tuesday recap - settles higher as Iran keeps Hormuz shut and new Gulf attacks resume - investingLive — *investingLive*
+- `08-12 06:28` Oil prices continue climb on US-Iran deal doubts; stocks retreat - TradingView — *TradingView*
+- `08-12 06:13` Crude Oil Price Forecast: Breakout Targets $94.34 and Beyond - FXEmpire — *FXEmpire*
+- `08-12 06:04` Brace for oil supply disruptions into 2027, U.S. says - Boston Herald — *Boston Herald*
+- `08-12 06:00` Middle East War Pushes China Toward the Arctic Trade Route - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `08-11 16:28` European stocks drift as Hormuz impasse and energy spike test AI rally - Investing.com — *Investing.com*
-- `08-11 16:01` US stock market dips down as oil prices rise again - The Arkansas Democrat-Gazette — *The Arkansas Democrat-Gazette*
-- `08-11 15:00` Gold breakout rally sends Chinese bullion stocks near record highs - South China Morning Post — *South China Morning Post*
-- `08-11 14:12` Adani Group Stocks Rally Despite Share Market Weakness. Here's Why - NDTV — *NDTV*
-- `08-11 13:48` From Gift Nifty to Oil prices, Asian banking stocks rally: 8 key things that changed for Indian stock market overnight - TradingView — *TradingView*
-- `08-11 13:07` US Stock Market: Berkshire shares rally on strong Q2 results, accelerating capital deployment - The Economic Times — *The Economic Times*
-- `08-11 12:33` Austal gets up to $1.2 bln offer for U.S. unit from Hanwha; shares rally - Investing.com — *Investing.com*
-- `08-11 12:08` SpaceX shares reclaim $135 IPO price as rally extends into Monday close - Investing.com — *Investing.com*
+- `08-12 03:06` S&P 500 Just Hit a Record High and CPI Week Could Break It - Memeburn — *Memeburn*
+- `08-11 23:35` July Inflation Print Puts Rally on Trial as Stocks Eye Record Highs - Investing.com — *Investing.com*
+- `08-11 22:25` European stocks inch up as investors weigh Hormuz impasse By Investing.com - Investing.com — *Investing.com*
+- `08-11 19:57` The Bond Market Has Doubts About This Rally - pro.thestreet.com — *pro.thestreet.com*
+- `08-11 18:44` Daimler Truck stock: Rally meets earnings reality - Investing.com — *Investing.com*
+- `08-11 18:17` A 117 Percent Stock Rally Is Making Investors Nervous. The Calendar Is Not the Real Threat - inc.com — *inc.com*
+- `08-11 17:21` Tech stock sell-off tests AI hype, but is not end of infrastructure story - The Straits Times — *The Straits Times*
+- `08-11 16:10` European stocks drift as Hormuz impasse and energy spike test AI rally - Investing.com UK — *Investing.com UK*
