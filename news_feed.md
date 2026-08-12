@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-12 15:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-12 15:57 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -19,40 +19,40 @@
 - **D-23** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
+- `08-12 15:51` 코스피 상승 마감 - v.daum.net — *v.daum.net*
+- `08-12 15:50` 코스피 3.7% 상승 6500선 탈환…코스닥도 상승 마감 - v.daum.net — *v.daum.net*
+- `08-12 15:47` [마켓뷰] 외국인, 반도체 집중 매수… 코스피 급등 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-12 15:46` 코스피 본격 반등?…반도체서 전기·장비·K뷰티로 ‘순환매’ - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-12 15:46` 코스피, 반도체주 강세에 3%대 상승 마감 - sentv.co.kr — *sentv.co.kr*
+- `08-12 15:41` 증시 조정에 투자자예탁금 100조원 붕괴…두 달여 만에 30% 급감 - BBS불교방송 — *BBS불교방송*
+- `08-12 15:37` 속보 코스피 3.7% 상승 6,500선 탈환...코스닥 0.1% 상승 - YTN — *YTN*
 - `08-12 15:36` 코스피, 3.68% 상승 마감…코스닥은 강보합 - v.daum.net — *v.daum.net*
-- `08-12 15:36` [속보] 코스피, 3.7% 급등한 6579 마감…코스닥 0.12%↑ - 한국경제 — *한국경제*
-- `08-12 15:35` [속보] 급등 코스피, 매수 사이드카' 발동···삼전닉스 상승 견인, 6579.04로 마감 - 대구MBC — *대구MBC*
-- `08-12 15:31` 투자자예탁금 결국 100조원 '아래로'…6개월만에 최저 - v.daum.net — *v.daum.net*
-- `08-12 15:30` [코스피] 233.51p(3.68%) 오른 6,579.04(장종료) - 연합뉴스 — *연합뉴스*
-- `08-12 14:56` [뉴스핌 이 시각 PICK] 코스피, 4%대 급등에 매수 사이드카 外 - 뉴스핌 — *뉴스핌*
-- `08-12 14:50` 삼전·닉스 급등에 코스피 ‘매수 사이드카’…반도체 투자 심리 호전 - 한겨레 — *한겨레*
-- `08-12 14:42` '삼전닉스' 강세에 코스피 6,600선...매수 사이드카 발동 - YTN — *YTN*
 
 ## 🇰🇷 반도체·HBM
+- `08-12 15:47` [마켓뷰] 외국인, 반도체 집중 매수… 코스피 급등 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-12 15:46` 코스피 본격 반등?…반도체서 전기·장비·K뷰티로 ‘순환매’ - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-12 15:43` 김정관, 호남권 반도체 클러스터 부지 ‘팔비틀기’ 주장에 “기업이 최종 결정” - 경향신문 — *경향신문*
+- `08-12 15:39` SK하이닉스 지원자 주목…'바뀐 전형' 잡는 가천대 취업지원 노하우 - 머니투데이 - 머니투데이 — *머니투데이*
 - `08-12 15:36` 직장인 행복도 조사 결과…SK하이닉스 '상위 3%' - v.daum.net — *v.daum.net*
-- `08-12 15:34` ‘호남 반도체’ 성공 위해 전남광주시·정부·한전·삼성·SK 뭉쳤다 - 문화일보 — *문화일보*
 - `08-12 15:33` “벌써 작년 한해 수익 3배 벌었다”…저스템, 반도체 습도솔루션으로 ‘쾌속 성장’ - 문화일보 — *문화일보*
-- `08-12 15:28` SK하이닉스 통합노조 출범 임박…"PS 현금 원칙 사수·삼성노조 연대 검토" - 매일일보 — *매일일보*
-- `08-12 15:27` 조선대 반도체화학과, HBM 패키징 소재 상용화 성공 - 아시아경제 — *아시아경제*
-- `08-12 15:26` 호남권·용인 반도체 메가프로젝트, 전력공급 협약 3건 체결 - 디지털데일리 — *디지털데일리*
-- `08-12 15:24` 수억원대 성과급 '1등 신랑감' 바뀌나…'반도체 엔지니어' 외신도 주목 - economist.co.kr — *economist.co.kr*
-- `08-12 15:22` 호남 반도체 산단, 2029년 3GW 전력 우선 공급 - OhmyNews — *OhmyNews*
+- `08-12 15:28` 조선대 반도체화학과, HBM 패키징 소재 상용화 성공 - v.daum.net — *v.daum.net*
+- `08-12 15:28` SK하이닉스 통합노조 출범 임박…"PS 현금 원칙 사수·삼성노조 연대 검토" - m-i.kr — *m-i.kr*
 
 ## 🇰🇷 금융주
+- `08-12 15:49` 메리츠금융지주, 2분기 순이익 7914억원…전년비 7.3%↑ - 네이트 — *네이트*
+- `08-12 15:48` 메리츠금융지주 2분기 순이익 7천914억원…역대 최대 - 연합인포맥스 — *연합인포맥스*
+- `08-12 15:38` 메리츠증권 2분기 영업이익 2천457억원…작년 동기 대비 18.2%↓ - 연합뉴스 — *연합뉴스*
 - `08-12 15:12` BNK금융지주, 전 계열사 공동 생성형 AI 플랫폼 구축 - PRESS9 — *PRESS9*
 - `08-12 15:04` 증권사 순익 두 배 껑충…금융지주 내 존재감 '쑥' - 비즈워치 — *비즈워치*
+- `08-12 14:41` KB금융, ‘국민의 영웅’ 소방공무원 지원 확대…쉼터 3개소 조성 - 데일리한국 — *데일리한국*
 - `08-12 14:29` iM금융그룹, 민·관 협력 통해 폭염 속 쪽방촌 지원 앞장 - 한국경제 — *한국경제*
 - `08-12 12:59` 4대 금융지주, 영구채 발행 러시…금리 3%→4% 차환에 부담 ↑ - 네이트 — *네이트*
-- `08-12 12:14` “국민 영웅 쉼터 만든다”… KB금융그룹, 국립소방병원과 손잡고 소방관 지원 대폭 확대 - dailysmart.co.kr — *dailysmart.co.kr*
-- `08-12 11:26` 저축은행 품고 20년 전 판 손보사까지 … 교보생명, 금융지주 전환 속도 - 뉴데일리 — *뉴데일리*
-- `08-12 11:25` 증권사가 금융지주 제쳤다···미래에셋증권 2분기 순익 KB 근접·신한 추월 - womaneconomy.co.kr — *womaneconomy.co.kr*
-- `08-12 10:58` 교보생명, 악사손보 인수 추진…금융지주 ‘마지막 퍼즐’ 채우나 - 마이데일리 — *마이데일리*
 
 ## 🇰🇷 정책·거시
-- `08-12 15:33` ‘부동산 민심’ 달래는 與… “주거 사다리 복원할 것” - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `08-12 15:23` 개혁당 김정철 "집주인, 실입주하겠다며 계약 종료 통보…세입자만 피해" - 뉴시스 — *뉴시스*
-- `08-12 15:23` 민주당 "부동산 대책에 총력…野 발목 잡아도 주택공급 법안 이달 처리" - 네이트 — *네이트*
-- `08-12 14:58` 與, 주택시장 안정화 TF 개최…공급·금융대책 총점검 - news.einfomax.co.kr — *news.einfomax.co.kr*
+- `08-12 15:35` ‘부동산 민심’ 달래는 與… “주거 사다리 복원할 것” - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-12 15:25` 개혁당 김정철 "집주인, 실입주하겠다며 계약 종료 통보…세입자만 피해" - 네이트 — *네이트*
+- `08-12 15:22` 민주당 "부동산 대책에 총력…野 발목 잡아도 주택공급 법안 이달 처리" - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-12 14:58` 與, 주택시장 안정화 TF 개최…공급·금융대책 총점검 - 연합인포맥스 — *연합인포맥스*
 - `08-12 13:08` [경제읽기] 코스피, 반도체 강세에 상승…곧 부동산 공급대책 - 연합뉴스 — *연합뉴스*
 - `08-12 12:18` 민주당, 부동산 대책 후속 법안 관련 “국힘에 발목... 양심 있다면 내일 처리 협조해야" - 로이슈 — *로이슈*
 - `08-12 11:27` 개혁당 김정철 "집주인, '실입주 하겠으니 방 뺄 준비' 요구…정부 부동산 대책 탓" - 뉴스1 — *뉴스1*
@@ -66,27 +66,27 @@
 - `08-12 10:17` Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom - WSJ — *WSJ*
 - `08-12 10:13` NVIDIA Turns AI Compute Into $500B Asset Class - The Tech Buzz — *The Tech Buzz*
 - `08-12 09:01` Blackstone (BX) Deepens Ties With NVIDIA On AI Infrastructure Financing Platforms – What Truly Changes? - simplywall.st — *simplywall.st*
-- `08-12 08:22` Nvidia Just Recruited Wall Street to Help Fund $500 Billion in AI Infrastructure. Here’s the Catch. - fool.com — *fool.com*
+- `08-12 09:00` Nvidia targets USD 500 bn in third-party financing to fuel AI data center boom - EnterpriseAM — *EnterpriseAM*
 
 ## 🌍 연준·금리
 - `08-12 13:19` Boston Fed's Collins open to interest rate increase in September, FT says - Reuters — *Reuters*
 - `08-12 13:02` Poorer Americans are struggling to make ‘ends meet’, top Fed official says - Financial Times — *Financial Times*
 - `08-12 13:00` U.S. Consumer Prices May Modestly Rise, Impacting Federal Reserve Plans - Devdiscourse — *Devdiscourse*
 - `08-12 10:26` One Fed rate hike may not get the job done, Hammack warns - Scotsman Guide — *Scotsman Guide*
-- `08-12 10:01` Dollar Stable as Markets Await US Inflation Data and Fed Guidance - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `08-12 10:01` Dollar Stable as Markets Await US Inflation Data and Fed Guidance - globalbankingandfinance.com — *globalbankingandfinance.com*
 - `08-12 08:35` Gold Advances as Traders Watch US Inflation for Rate-Hike Clues - Bloomberg.com — *Bloomberg.com*
 - `08-12 08:30` US yield curve twists expose Trump's and Bessent's rate dilemma - Reuters — *Reuters*
 - `08-12 06:27` Fed rate hike debate grows with inflation above 2% - Crypto News — *Crypto News*
 
 ## 🌍 유가·지정학
-- `08-12 15:31` Oil rises as doubts over US-Iran deal heighten supply concerns - Yahoo Finance UK — *Yahoo Finance UK*
-- `08-12 15:31` Oil rises as doubts over US-Iran deal heighten supply concerns - tradingview.com — *tradingview.com*
+- `08-12 15:31` Oil rises as doubts over US-Iran deal heighten supply concerns - Yahoo Finance Singapore — *Yahoo Finance Singapore*
+- `08-12 15:31` Oil rises as doubts over US-Iran deal heighten supply concerns - TradingView — *TradingView*
+- `08-12 15:29` Athabasca Oil (TSE:ATH) Stock Price Crosses Above 200 Day Moving Average - Here's What Happened - MarketBeat — *MarketBeat*
 - `08-12 14:51` Oil futures: Crude up with Hormuz flows constrained, US stocks rise - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
-- `08-12 14:45` Russia Imports Indian Fuel as Refinery Crisis Deepens - oilprice.com — *oilprice.com*
+- `08-12 14:45` Russia Imports Indian Fuel as Refinery Crisis Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `08-12 14:23` Oil Extends Gain on Doubts Over Hormuz Deal Despite Upbeat Tone - Energy Connects — *Energy Connects*
 - `08-12 13:56` Oil prices rise as Red Sea, Gulf of Oman attacks heighten supply concerns - CNBC — *CNBC*
 - `08-12 13:45` Airline exposure to oil price spikes: which carriers face the most risk? - Investing.com — *Investing.com*
-- `08-12 13:21` EIA Warns of Prolonged Hormuz Shipping Disruption, Raises 2026 Oil Price Forecast - News and Statistics - indexbox.io — *indexbox.io*
 
 ## 🌍 시장 전반
 - `08-12 13:22` Samsung, SK Hynix shares rally as Temasek reportedly considers investment By Investing.com - Investing.com — *Investing.com*
