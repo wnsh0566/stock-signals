@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-14 16:48 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-14 17:00 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -19,34 +19,34 @@
 - **D-21** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
-- `08-14 16:44` 외국인 나흘 연속 순매수, ‘셀코리아’ 끝났나…코스피는 장중 7천선 회복 - 한겨레 — *한겨레*
+- `08-14 16:57` [주식] 코스피 7000 턱밑 마감...큐리옥스 30%↑·페니트리움 12%↓ - 히트뉴스 — *히트뉴스*
+- `08-14 16:55` [마감시황] 코스피, 외국인 3조 '사자'에 5일째 상승…7000선 턱밑 - 뉴스핌 — *뉴스핌*
+- `08-14 16:54` 코스피 상승 마감… 개인·외국인 매도에도 기관 매수에 올라 - 천지일보 — *천지일보*
 - `08-14 16:43` 외국인 4거래일 연속 '사자'…코스피 6900선 후반 마감 [MTN 마감시황] - MTN 머니투데이방송 — *MTN 머니투데이방송*
+- `08-14 16:41` 코스피 2.42% 상승 마감…장중 7천선 돌파·주간 11.5% 급등 - 산경투데이 — *산경투데이*
 - `08-14 16:36` [장마감] 코스피 2.42%↑(6977.94), 코스닥 0.38%↑(864.55) - 버핏연구소 — *버핏연구소*
 - `08-14 16:33` 현대차 그룹주 날았다…코스피 2.42%↑, 닷새 연속 상승에 7000피 눈앞 - 이코노미스트 — *이코노미스트*
-- `08-14 16:31` 코스피 5일 연속 상승 마감…장중 7000선 돌파 - 더나은미래 — *더나은미래*
-- `08-14 16:24` 코스피, 美 훈풍에 '7천피' 근접 마감…코스닥, 5거래일 연속 상승 - 서울이코노미뉴스 — *서울이코노미뉴스*
-- `08-14 16:19` 닷새 내리 오른 코스피 7000 문턱서 마감 - v.daum.net — *v.daum.net*
-- `08-14 16:16` 코스피 7000선 터치 후 숨고르기… 6970선 강세 마감 - 경제타임스 — *경제타임스*
+- `08-14 16:32` 코스피 2.4%↑, 7천피 턱밑까지…이번주 내내 올랐다(종합) - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
+- `08-14 16:58` 이지켐, ESG경영 선포…반도체 소재 공급망 대응 체계 구축 - 헬로티 — *헬로티*
+- `08-14 16:56` [ETF 시황] 반도체 강세에 레버리지 ETF 웃었다…SK하이닉스 6%대↑ - 뉴스핌 — *뉴스핌*
+- `08-14 16:48` 센코, 상반기 매출 전년比 35.2%↑..."반도체 고객사 확대" - 팍스경제TV — *팍스경제TV*
+- `08-14 16:41` 현금 88조인데 또 상장?…SK하이닉스, 솔리다임 '쪼개기' 논란 - 더팩트 — *더팩트*
 - `08-14 16:38` 제주반도체, 2분기 영업익 1200억원…전년비 2700%↑ - 디일렉 — *디일렉*
 - `08-14 16:30` SK에코플랜트 2분기 영업이익 266% 증가, 반도체·AI 인프라 호조 - 비즈니스포스트 — *비즈니스포스트*
+- `08-14 16:29` SK하이닉스 손자회사 솔리다임 나스닥 상장 추진…‘투자금 회수’ vs ‘중복상장’ 논란 - 이지경제 — *이지경제*
 - `08-14 16:26` LG전자 상반기 원재료비 1.2조 급등…반도체·광물 줄줄이 인상 - v.daum.net — *v.daum.net*
-- `08-14 16:24` 수자원공사, 삼성전자·SK하이닉스에 ‘물요금 차등화’ 검토 - 에너지경제신문 — *에너지경제신문*
-- `08-14 16:24` SK스퀘어, 2분기 영업익 19.2조…"반도체 신규 투자 준비" - 아이티비즈 — *아이티비즈*
-- `08-14 16:14` 용인의 반도체 미래, 사실과 원칙 위에서 지켜야 한다 - 용인시민신문 — *용인시민신문*
-- `08-14 16:11` [중국증시-마감] 반도체 강세에 상승 - 연합인포맥스 — *연합인포맥스*
-- `08-14 16:11` SK하이닉스 통합노조 출범…“PS 현금 지급 사수·과반 확보 목표” - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
+- `08-14 16:54` KB·하나금융, 제81주년 광복절 앞두고 보훈 실천 - 위키리크스한국 — *위키리크스한국*
+- `08-14 16:42` 한국투자금융지주, KDB생명·카디프생명 동시인수 가능성 - ESG경제 — *ESG경제*
+- `08-14 16:40` ‘금융그룹 후광’도 무색···저축은행 줄줄이 ‘A-’ - 이뉴스투데이 — *이뉴스투데이*
 - `08-14 16:21` 한국금융지주, KDB생명 인수 본궤도…“장기조달 파이프라인 확보” - 인더스트리뉴스 — *인더스트리뉴스*
 - `08-14 15:40` 환율 안정·실적에 은행주 랠리···‘목표가 하향’ 증권주와 명암 - 스마트비즈 — *스마트비즈*
 - `08-14 15:28` KDB생명 인수 우선협상대상자에 한국금융지주…이번엔 매듭 짓나 - 미디어펜 — *미디어펜*
 - `08-14 15:12` 한국금융지주, KDB생명 우선협상대상자 선정 - IT조선 — *IT조선*
 - `08-14 14:58` [여의도단신]한국투자금융그룹·신한투자증권·DB증권·SK증권 - 매일신문 — *매일신문*
-- `08-14 14:54` 하나금융, 단자회사에서 878조 종합금융그룹으로…위기를 기회로 바꾼 55년 - 더트래커 — *더트래커*
-- `08-14 14:48` BNK금융, 부산광역시치과의사회와 손잡고 지역 치과의료산업 금융지원 강화 - 한국경제 — *한국경제*
-- `08-14 14:33` 한투지주, KDB생명 품고 종합금융그룹 도약 - 뉴스토마토 — *뉴스토마토*
 
 ## 🇰🇷 정책·거시
 - `08-14 16:26` 與 "국민의힘, 정부 부동산대책 왜곡…청년 주거불안 조장" - 뉴시스 — *뉴시스*
@@ -69,6 +69,7 @@
 - `08-14 13:11` AI infrastructure rises from niche to global asset class with $500bn Nvidia deal - thenationalnews.com — *thenationalnews.com*
 
 ## 🌍 연준·금리
+- `08-14 16:02` Emerging-market assets rally as US inflation data suggests Fed rate hike delay - TradingView — *TradingView*
 - `08-14 13:08` S&P 500 Hits Record High in August 2026: What Investors Need to Know - Intellectia AI — *Intellectia AI*
 - `08-14 12:29` Dow, S&P 500 Futures Climb, Nasdaq Futures Inch Lower After July PPI Cools Fed Rate Hike Expectations - TradingView — *TradingView*
 - `08-14 11:20` Fed’s Susan Collins: September rate hike possible - idnfinancials.com — *idnfinancials.com*
@@ -76,17 +77,16 @@
 - `08-14 09:55` Wall Street hits record high as cooling US inflation reshapes Fed rate outlook - WION — *WION*
 - `08-14 08:35` S&P 500 notches record-high close as rate-hike worries ease - Reuters — *Reuters*
 - `08-14 08:33` Fed rate pause was the right call, Goldman’s Kaplan says - Cryptonews.net — *Cryptonews.net*
-- `08-14 07:19` 3.4 Percent Is Not a Good Inflation Rate - National Review — *National Review*
 
 ## 🌍 유가·지정학
-- `08-14 16:40` European Shares Flat as Iran Tensions Lift Oil Prices - moderndiplomacy.eu — *moderndiplomacy.eu*
+- `08-14 16:52` Gharibabadi: Qeshm Oil Pollution Direct Result of US-Israeli Aggression - WANA News Agency — *WANA News Agency*
+- `08-14 16:50` European shares flat, but set for weekly loss as Iran tensions lift oil - WNWN-FM — *WNWN-FM*
+- `08-14 16:50` Iran Foreign Ministry Blames Foreign Ship for Qeshm Oil Slick - IranWire — *IranWire*
+- `08-14 16:40` European Shares Flat as Iran Tensions Lift Oil Prices - Modern Diplomacy — *Modern Diplomacy*
+- `08-14 16:29` Oil Prices Rose As The US Floated A Long Iran Blockade - Finimize — *Finimize*
 - `08-14 16:09` US threats against Iran push oil higher as blockade drags on - Türkiye Today — *Türkiye Today*
-- `08-14 16:08` Oil Prices Rose As The US Floated A Long Iran Blockade - Finimize — *Finimize*
 - `08-14 16:03` US puts lower oil prices ahead of Iran nuclear deterrence - Yeni Safak English — *Yeni Safak English*
 - `08-14 16:00` Russia Captures Record Share of India's Oil Market - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-14 15:52` Oil moves higher as U.S. threatens 'economic isolation' of Iran - CNBC — *CNBC*
-- `08-14 15:00` Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post — *The Jerusalem Post*
-- `08-14 14:51` Iranian heavy oil price at over $82 in July: OPEC data - IranOilGas — *IranOilGas*
 
 ## 🌍 시장 전반
 - `08-14 16:05` Japan, South Korea Stocks Gain on Friday; Kospi Rises over 2%, Snapping Losing Streak with 11.5% Weekly Gain; SK Hynix, Samsung, Kioxia Rally - TradingKey — *TradingKey*
