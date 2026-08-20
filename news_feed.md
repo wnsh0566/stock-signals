@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-20 06:53 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-20 15:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,81 +16,81 @@
 - **D-15** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
-- `08-20 06:46` 뉴욕증시, 美 국채금리 하락에 상승 마감 - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `08-20 06:29` 일본, 유럽 국채금리도 수십년 만에 최고…'버티던 증시' 흔들 - 한국경제 — *한국경제*
-- `08-20 06:21` [속보]모더나 주가 177% 폭등…뉴욕증시 3대 지수 상승 - 문화일보 — *문화일보*
-- `08-20 06:13` [서울데이터랩] 뉴욕증시 혼조 마감…다우 상승·반도체 약세에 나스닥100 하락 - 서울신문 — *서울신문*
-- `08-20 06:13` [영상] 코스피 5.8% 급락…여전히 반도체 좋게 보는 이유는 - v.daum.net — *v.daum.net*
-- `08-20 06:12` 뉴욕증시, 美 장기금리 하락에 반등⋯국제유가는 나흘째 상승 - v.daum.net — *v.daum.net*
-- `08-20 06:09` [월가 레이더] 美 뉴욕증시, 재무부 국채 환매 2배 확대에 반등…30년물 금리 급락 - 포커스온경제 — *포커스온경제*
-- `08-20 06:09` 뉴욕증시, 미국 재무부 국채 바이백 확대에 반등…S&P 0.21%↑[뉴욕마감] - v.daum.net — *v.daum.net*
+- `08-20 15:39` 코스피, 5.9% 급등해 6852에 마감 - 국제신문 — *국제신문*
+- `08-20 15:33` 코스피, 삼전닉스 급등에 5.89% 상승 마감…외인 1.7조 순매수 - 연합인포맥스 — *연합인포맥스*
+- `08-20 14:39` [정선영의 마켓산책] 레버리지의 늪 - KB Think — *KB Think*
+- `08-20 14:27` 코스피, 급등세에 매수 사이드카...SK하이닉스 10%대 ↑ - YTN — *YTN*
+- `08-20 13:33` 미 국채 바이백에 아시아 증시 반등…코스피지수 급등 - Investing.com 한국어 — *Investing.com 한국어*
+- `08-20 13:31` [직설] 7월 FOMC 의사록 공개…美·日 국채금리 급등, 증시 변곡점 오나? - v.daum.net — *v.daum.net*
+- `08-20 13:30` [시장 따라잡기] 성공적 증시 데뷔한 유니트리…국내 로봇주 영향은? - v.daum.net — *v.daum.net*
+- `08-20 13:26` 코스피, 6%대 급등…하이닉스 13%·삼성전자 8%↑ - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `08-20 06:46` SK하이닉스, 40조 자사주 소각한다…주주환원 강화 속도 - v.daum.net — *v.daum.net*
-- `08-20 06:42` SK하이닉스, 40조 자사주 취득·소각…“주주 환원 강화” - v.daum.net — *v.daum.net*
-- `08-20 06:38` 초저전력 AI 반도체 벨라우라, 1.1억 달러 투자유치…유니콘 등극 - 와우테일 — *와우테일*
-- `08-20 06:33` 반도체 일자리 8000명 늘어나는데…5000명 감소 전망되는 업종은 - v.daum.net — *v.daum.net*
-- `08-20 06:21` 삼성 파운드리, 풀가동 신호탄 쐈다..HBM이 살린 위탁생산 - dailycar.co.kr — *dailycar.co.kr*
-- `08-20 06:13` [서울데이터랩] 뉴욕증시 혼조 마감…다우 상승·반도체 약세에 나스닥100 하락 - 서울신문 — *서울신문*
-- `08-20 06:13` 안보 위기 속 반도체 핵심 시설 지하화…AI주 수혜 - 글로벌이코노믹 — *글로벌이코노믹*
-- `08-20 06:13` [영상] 코스피 5.8% 급락…여전히 반도체 좋게 보는 이유는 - v.daum.net — *v.daum.net*
+- `08-20 15:34` ‘40조 자사주’ SK하이닉스 12% 올랐는데…JP모건 “더 사라” [머니+] - 에너지경제신문 — *에너지경제신문*
+- `08-20 15:33` 반도체 패키징 전문가, “AI 인프라 최대 병목은 '열'…AI로 해결해야” 한 목소리 - 전자신문 — *전자신문*
+- `08-20 15:29` JP모건 “SK하이닉스, 2027년까지 180조원 추가 주주환원 가능” - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-20 15:28` SK하이닉스 노사, 임단협 잠정합의…성과급 60% 자사주 지급 - v.daum.net — *v.daum.net*
+- `08-20 15:28` [속보] SK하이닉스 노사, 성과급 판 뒤집었다…‘60% 주식’ 파격 합의 - 테크월드 — *테크월드*
+- `08-20 15:28` 아침엔 팔더니 오후엔 매수 1위로…초고수, SK하이닉스 ‘턴’[주식 초고수는 지금] - 매일경제 — *매일경제*
+- `08-20 15:24` "성과급 60% 자사주로"‥SK하이닉스 임단협 잠정합의 - MBC 뉴스 — *MBC 뉴스*
+- `08-20 15:17` SK하이닉스, 빛으로 칩 잇는 ‘CPO’ 논문 네이처 게재 - 매일일보 — *매일일보*
 
 ## 🇰🇷 금융주
-- `08-20 05:10` [직장 돋보기 분석] 신한금융지주, 평균연봉 1억7800만원…진옥동의 AX로 성장판 키운다 - 뉴스투데이 — *뉴스투데이*
-- `08-19 21:59` 우리금융그룹, '동양생명·ABL생명' 통합 본격 추진 - todaymild.com — *todaymild.com*
-- `08-19 18:48` 에버코어: 뮤추얼 펀드, 2분기 은행주 보유량 축소 - Investing.com 한국어 — *Investing.com 한국어*
-- `08-19 16:54` 우리은행, ‘은행원 출신’ 박경리 탄생 100주년 기린다 - 이지경제 — *이지경제*
-- `08-19 16:15` [오늘Who] 우리금융 55조 대형 생보험사 출범 시동, 임종룡 단숨에 4대 금융 톱 생보사 노린다 - 비즈니스포스트 — *비즈니스포스트*
-- `08-19 16:08` 신한금융, 롯데손보 인수전서 속도 조절 들어가나 - 뉴스프리존 — *뉴스프리존*
-- `08-19 15:41` 우리금융지주 주가 250원 하락 후 장마감 - anewsa.com — *anewsa.com*
-- `08-19 15:29` BNK금융그룹 임직원, 거제 수해 현장서 복구 지원…급식도 제공 - 매일경제 — *매일경제*
+- `08-20 14:38` 4대 금융지주 운용사, 상반기 순익 1522억…6년래 최대 - 인더스트리뉴스 — *인더스트리뉴스*
+- `08-20 14:21` 하나금융지주, 비트고코리아 VASP 신고 수리…디지털자산 수탁 본격화 - PRESS9 — *PRESS9*
+- `08-20 14:00` 하나금융그룹, 디지털자산 수탁 사업 본격 가속화! - 한국경제 — *한국경제*
+- `08-20 13:26` NH농협은행, 코스피200 연동예금 출시…최고 연 7.5% - 이지경제 — *이지경제*
+- `08-20 13:20` [MD포커스] 양종희·진옥동·함영주·임종룡 평가표 공개…‘보상 잣대’ 달랐다 - 마이데일리 — *마이데일리*
+- `08-20 12:51` 김상욱 울산시장, 빈대인 BNK금융지주 회장과 환담 - 울산종합일보 — *울산종합일보*
+- `08-20 12:04` 금융지주 2026년 8월 브랜드평판...하나금융지주, 아이엠금융지주, 한국금융지주 順 - 에너지신문 — *에너지신문*
+- `08-20 11:31` iM금융, 청년 멘토링·사회공헌 활성화 지원 - 디지털투데이 — *디지털투데이*
 
 ## 🇰🇷 정책·거시
-- `08-20 06:00` [천지일보 여론조사] 국민 52.9% “8.13 부동산 대책 부적절”… 적절 36.7% - 천지일보 — *천지일보*
-- `08-20 01:22` [데스크 시각] 세법, 용산아파트, 부동산 대책 - 서울신문 — *서울신문*
-- `08-20 00:21` [조현숙의 시시각각] 부동산 대책 잔혹사 - 네이트 — *네이트*
-- `08-20 00:20` [조현숙의 시시각각] 부동산 대책 잔혹사 - 중앙일보 — *중앙일보*
-- `08-19 20:18` 당정-국힘, 부동산 공급대책 해법 제각각 - 경상일보 — *경상일보*
-- `08-19 19:37` 부산 부동산 소비심리 한 달새 ‘뚝’…건설사 “회복책 절실” - 국제신문 — *국제신문*
-- `08-19 19:35` 국힘 8·13 부동산 대책 맞불 토론회…오세훈 "타협할 여지 없다" - v.daum.net — *v.daum.net*
-- `08-19 19:00` [경제 오딧세이]정부의 8.13 부동산대책...'약발' 있을까? - BBS불교방송 — *BBS불교방송*
+- `08-20 14:51` 시민사회 "공급 내세운 8·13 부동산정책, 근거 부실…수도권 집중도 여전" - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-20 14:22` [심층분석]이재명 대통령 국정 지지율 42.8% .." 51.8% 과반 불신....8.13 부동산 대책 "효과 없을 것 - 창업일보 — *창업일보*
+- `08-20 14:09` [서정렬 칼럼] '8·13 부동산대책'과 1인 가구 영향 - 1코노미뉴스 — *1코노미뉴스*
+- `08-20 13:42` 8·13 부동산대책 ‘속도전’…울산 공공주택 6671가구는? - 울산저널i — *울산저널i*
+- `08-20 11:03` 시민사회 "8·13 대책, 가계대출 증가·집값 상승 이어질 우려" - v.daum.net — *v.daum.net*
+- `08-20 11:02` 8·13 부동산 대책 ‘효과 없을 것’ 51.8%…‘있을 것’ 25.4% (한국사회여론연구소) - 톱스타뉴스 — *톱스타뉴스*
+- `08-20 10:34` 李 수도권 지지율 '싸늘'…부동산 대책 부정 평가도 과반 넘어서 - 한국경제 — *한국경제*
+- `08-20 10:07` 8·13 부동산 대책의 문제점과 한계 - 네이트 — *네이트*
 
 ## 🌍 AI·빅테크
+- `08-20 14:49` Nvidia Backs OpenAI's Ohio Data Center With $105 Billion Guarantee - ET Datacenters — *ET Datacenters*
+- `08-20 14:49` Dell'Oro Doubles Data Centre Capex Forecast to $3 Trillion by 2030 on AI - ET Datacenters — *ET Datacenters*
+- `08-20 09:06` When GPUs Become Collateral: The Reality and Blind Spots of the AI Capital Cycle Built by Nvidia and Wall Street - finance.biggo.com — *finance.biggo.com*
+- `08-20 08:44` Nvidia’s new ‘investable asset class’ must retain the ‘infra’ in AI infra - Infrastructure Investor — *Infrastructure Investor*
+- `08-20 06:01` NVIDIA (NVDA): What Foxconn and Super Micro Are Telling Us about the AI Boom - Yahoo Finance — *Yahoo Finance*
 - `08-20 05:45` Nvidia Reportedly Explores Stake in AI Data Provider Mercor At $20B Valuation - TradingView — *TradingView*
-- `08-20 02:48` Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation - The Information — *The Information*
-- `08-20 00:00` Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic — *The Logic*
-- `08-19 23:36` Broadcom stock falls 6% as AI financing concerns weigh on chip giant - eciks.org — *eciks.org*
-- `08-19 22:38` Will Nvidia’s plan to turn AI chips into an asset class work? - Investors' Chronicle — *Investors' Chronicle*
-- `08-19 21:47` Is NVIDIA’s (NVDA) AI Dominance About to Face Its Biggest Test Yet? - finance.yahoo.com — *finance.yahoo.com*
-- `08-19 21:00` Nvidia’s new financial strategy does not compute - The Verge — *The Verge*
-- `08-19 18:50` Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - finance.yahoo.com — *finance.yahoo.com*
+- `08-20 04:01` AI Boom Lifts 15 S&P 500 Stocks to Triple-Digit Gains—and Nvidia Isn't One of Them - finance.biggo.com — *finance.biggo.com*
+- `08-20 03:46` BofA Sees Nvidia Discount as Deep as 50%, Says AI Financing Risks Are Overpriced - finance.biggo.com — *finance.biggo.com*
 
 ## 🌍 연준·금리
-- `08-20 06:37` Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post — *The Washington Post*
-- `08-20 06:37` Trump calls on Federal Reserve to cut interest rates - Yeni Safak English — *Yeni Safak English*
-- `08-20 05:35` Federal Reserve minutes reveal ‘many’ wanted to raise rates - The Times — *The Times*
-- `08-20 05:32` Trump bemoans Fed interest rate policy, says U.S. should be paying much less - CNBC — *CNBC*
-- `08-20 05:29` Bond yields fall after Treasury announces surprise move to ease rising rates - NBC News — *NBC News*
-- `08-20 05:28` Many Fed officials flagged inflation threat, possible need to hike rates - CFO Dive — *CFO Dive*
-- `08-20 05:24` Behind The Scenes At The Fed: Pressure Growing For Higher Rates, Fewer Meetings - Investopedia — *Investopedia*
-- `08-20 05:15` Fed July 2026 FOMC minutes: rate hike debate details - qz.com — *qz.com*
+- `08-20 13:30` Federal Reserve policymakers are becoming more hawkish - Financial Times — *Financial Times*
+- `08-20 11:59` Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post — *The Washington Post*
+- `08-20 11:16` Trump Pressures Fed Again for Rate Cut... Calls Wash "Excellent" - 아시아경제 — *아시아경제*
+- `08-20 10:31` Will US Fed Increase Benchmark Interest Rate In Sept Policy? Here's What FOMC Minutes Reveal - NDTV Profit — *NDTV Profit*
+- `08-20 08:55` Fed Hawks Push Rate Hikes Amid Stubborn Inflation - 조선일보 — *조선일보*
+- `08-20 08:19` Fed officials warned rate hikes may be needed if inflation stays high - Axios — *Axios*
+- `08-20 08:13` Federal Reserve officials hint rate increase may be necessary - The Hill — *The Hill*
+- `08-20 08:06` Fed minutes lean hawkish, but we don’t expect a hike - ING Think — *ING Think*
 
 ## 🌍 유가·지정학
-- `08-20 06:14` US military created secret path through Hormuz, 10 million barrels of oil pass daily - report - jpost.com — *jpost.com*
-- `08-20 06:05` US Military Runs Strait of Hormuz Oil Corridor, Moving 10 Million Barrels Daily: how 17 outlets framed it - NewsCord — *NewsCord*
-- `08-20 06:01` Exxon Stock Rises as Oil Nears $92 on Hormuz Risk - GuruFocus — *GuruFocus*
-- `08-20 06:00` SLB Prepares to Restart 15 Oil Rigs in Venezuela - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-20 05:47` US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation - New York Post — *New York Post*
-- `08-20 05:43` Oil futures: Crude higher as Strait of Hormuz standoff continues - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
-- `08-20 05:35` ICYMI: US runs stealth Hormuz oil corridor, moving 10 million barrels a day: Axios - investingLive — *investingLive*
-- `08-20 05:27` Iraq has asked Iran to protect its oil exports through the Strait of Hormuz - UA.NEWS — *UA.NEWS*
+- `08-20 15:37` 3 Oil And LNG Exporters That Could Benefit From Tighter Iran Sanctions - simplywall.st — *simplywall.st*
+- `08-20 15:30` Oil Prices Climb on Middle East Supply Worries Amid US-Iran Standoff - StockInvest.us — *StockInvest.us*
+- `08-20 15:28` US has opened secret oil shipping corridor at Hormuz - Rediff — *Rediff*
+- `08-20 15:07` SBO's profit slumps due to Iran war, rebuild drives oil equipment orders - TradingView — *TradingView*
+- `08-20 15:04` 10 million barrels a day: Trump creates secret US-protected oil corridor through Strait of Hormuz - Firstpost — *Firstpost*
+- `08-20 15:00` The Iran war energy crisis is just getting started - reuters.com — *reuters.com*
+- `08-20 14:57` Oil Prices Hold Steady as Traders Weigh US Iran War and Hormuz Shipping Risks - Межа. Новини України. — *Межа. Новини України.*
+- `08-20 14:53` Oil Market Starts Pricing in a Prolonged Hormuz Crisis - caspianpost.com — *caspianpost.com*
 
 ## 🌍 시장 전반
-- `08-20 06:37` Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post — *The Washington Post*
-- `08-20 05:50` Markets Rally After U.S. Treasury Eases Bond Investor Stress - The New York Times — *The New York Times*
-- `08-20 05:47` Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters — *Reuters*
-- `08-20 01:40` 9 stocks to ride the industrial sector’s blazing rally - marketwatch.com — *marketwatch.com*
-- `08-20 01:20` Bond market sell-off threatens higher borrowing costs. Here is what it means for your money. - CBS News — *CBS News*
-- `08-20 00:55` Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging - marketwatch.com — *marketwatch.com*
-- `08-20 00:46` Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022 - fool.com — *fool.com*
-- `08-20 00:33` Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022 - AOL.com — *AOL.com*
+- `08-20 15:30` Preferred Stocks Offer 6.5% Yields or More After Bond Market Selloff - Barron's — *Barron's*
+- `08-20 13:58` Foreign investment in Korea rises at fastest clip in Q2 on stock rally - koreajoongangdaily.com — *koreajoongangdaily.com*
+- `08-20 12:12` Tech Futures Rise After Biotechs Soar, These Sectors Lag - Investor's Business Daily — *Investor's Business Daily*
+- `08-20 11:59` Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post — *The Washington Post*
+- `08-20 11:40` Asian stocks rally as US Treasury steps in to ease bond fears - Yahoo Finance Singapore — *Yahoo Finance Singapore*
+- `08-20 09:54` Today’s Market Recap：U.S. Treasury Steps In to Stabilize Markets,Stocks Rally, Bitcoin Breaks $70,000, Moderna Surges 180% - TradingKey — *TradingKey*
+- `08-20 09:10` Rising Treasury Yields Trigger Chip Stocks Selloff: Market Analysis 2026 - Intellectia AI — *Intellectia AI*
+- `08-20 07:18` Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip - Yahoo Finance — *Yahoo Finance*
