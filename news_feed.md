@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-21 15:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-21 16:05 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -14,34 +14,34 @@
 - **D-14** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
-- `08-21 15:40` 삼성전자(005930) - 매일경제 마켓 — *매일경제 마켓*
-- `08-21 15:37` 코스피, 6900선 회복…코스닥은 4.6% 급락 - 국제신문 — *국제신문*
-- `08-21 15:36` 코스피, 0.9% 올라 6900선 회복…코스닥 4.6% 급락 - 한국경제 — *한국경제*
-- `08-21 15:36` 코스피, 0.88% 상승 마감…코스닥은 4%대 하락 - 연합뉴스TV — *연합뉴스TV*
-- `08-21 15:33` [스팟] 코스피 60.37포인트(0.88%) 오른 6912.95 마감 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-21 15:10` "시장은 죄가 없다"…고수가 꼽은 코스피 반등 조건 - 한국경제 — *한국경제*
-- `08-21 14:53` '주주환원의 힘'...삼전·닉스 강세로 코스피 상승세 - YTN — *YTN*
-- `08-21 14:38` 삼성전자·SK하이닉스 주주환원 기대감에 코스피 상승 전환 - 뉴스핌 — *뉴스핌*
+- `08-21 16:00` [마감시황] 코스피, 삼성전자 주주환원 기대에 6900선 회복 - 뉴스핌 — *뉴스핌*
+- `08-21 15:56` ‘삼전닉스’ 상승세에 코스피 6,900선 회복…코스닥 4%대 급락 - KBS 뉴스 — *KBS 뉴스*
+- `08-21 15:52` 성공투자 오후증시 - 한국경제TV — *한국경제TV*
+- `08-21 15:51` [증시 레이더] 코스피 6천900선 회복⋯반도체 강세, 금리 부담 눌러 - 포커스온경제 — *포커스온경제*
+- `08-21 15:47` [도쿄증시-마감] 국채금리 반등·중동 불안 속 혼조 - KB Think — *KB Think*
+- `08-21 15:47` 코스피,0.9% 올라 6,900선 회복…코스닥 4.6% 급락 - 서울이코노미뉴스 — *서울이코노미뉴스*
+- `08-21 15:45` 주주환원 기대에 코스피 6900선 회복... 코스닥은 4.63% 급락 [마감시황] - 매일일보 — *매일일보*
+- `08-21 15:43` 코스피, 소폭 상승 6900선 회복…코스닥은 매도 사이드카까지 ‘휘청’ - 조세일보 — *조세일보*
 
 ## 🇰🇷 반도체·HBM
+- `08-21 15:54` "우리도 반도체처럼"…삼성전자 완제품 노조, 서초사옥서 항의 집회 - 연합인포맥스 — *연합인포맥스*
+- `08-21 15:51` [증시 레이더] 코스피 6천900선 회복⋯반도체 강세, 금리 부담 눌러 - 포커스온경제 — *포커스온경제*
+- `08-21 15:30` 8월 수출 552억달러 역대 최대···반도체가 198.8% 끌어올려 - 자본시장뉴스 — *자본시장뉴스*
+- `08-21 15:24` 삼전닉스, 반도체 투자에 장비업체 '반색'…반년새 일감 두배 쌓였다 - 서울이코노미뉴스 — *서울이코노미뉴스*
 - `08-21 15:10` "수출 절반이 반도체"… 8월 중순 수출 552억달러의 '명암' - 조세금융신문 — *조세금융신문*
+- `08-21 15:07` HBM 본격 '세대 교체'...반도체 장비주 볕든다 - 글로벌이코노믹 — *글로벌이코노믹*
 - `08-21 14:44` 반도체 초과세수, 100조 규모 미래대응기금에 적립… 세수펑크 때 꺼내 쓴다 - 천지일보 — *천지일보*
 - `08-21 14:38` 삼성전자·SK하이닉스 주주환원 기대감에 코스피 상승 전환 - 뉴스핌 — *뉴스핌*
-- `08-21 14:34` SK하이닉스, ‘100조+α’ 자사주 소각…진짜 돈잔치 이제 시작 - 에너지경제신문 — *에너지경제신문*
-- `08-21 14:31` 반도체처럼…완성차 노조도 “성과급 N% 자사주로 달라” - 매일경제 — *매일경제*
-- `08-21 14:30` [특징주] 삼전닉스 장중 상승폭 확대···SK하이닉스 2.7%·삼성전자 4.7% - 자본시장뉴스 — *자본시장뉴스*
-- `08-21 14:29` 美마이크론, HBM 다음 기술에 도전…100억달러 투자,차세대 메모리 연구거점 구축 - 서울이코노미뉴스 — *서울이코노미뉴스*
-- `08-21 14:28` 한신평 "SK하이닉스 대규모 주주환원, 신용도 영향 제한적" - 아시아경제 — *아시아경제*
 
 ## 🇰🇷 금융주
+- `08-21 15:55` [금융지주 풍향계] KB금융, FTSE4Good 지수 16년 연속 편입 外 - 에너지경제신문 — *에너지경제신문*
+- `08-21 15:49` 메리츠금융지주 주가 200원 상승 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `08-21 15:48` 한국금융지주 주가 2,300원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `08-21 15:45` 우리금융지주 주가 200원 상승 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `08-21 15:41` 신한은행, ‘신한 나라사랑카드’로 ‘IDEA 2026’ 동상 수상 - 이지경제 — *이지경제*
+- `08-21 15:36` KB국민은행, 부동산 세제 변화 맞춰 자산관리 세미나 개최 - 이지경제 — *이지경제*
 - `08-21 15:35` 오후 이슈 [은행] : 하나금융지주, 신한지주, KB금융, iM금융지주, 우리금융지주 - 파이낸셜뉴스 — *파이낸셜뉴스*
 - `08-21 15:28` 신한금융그룹, 경남 집중호우 피해지역 복구 성금 5억원 전달 - 전자신문 — *전자신문*
-- `08-21 15:17` NH투자증권 “한투지주 KDB생명 인수, 핵심은 보험 아닌 증권 시너지” - 디지털데일리 — *디지털데일리*
-- `08-21 15:11` 4대 금융지주, RWA 1288조 돌파…생산적금융 확대에 자본관리 '시험대' - 네이트 — *네이트*
-- `08-21 14:25` 우리금융지주, 경남 집중호우 피해 복구 총력…5억원 기부·금융지원 - PRESS9 — *PRESS9*
-- `08-21 13:45` [오늘의 금융지주] KB금융·하나금융·우리금융·BNK금융 - 파이낸셜리뷰 — *파이낸셜리뷰*
-- `08-21 13:34` 하나은행, 국내은행 최초 RFI와 원화 스왑거래 체결 - 이지경제 — *이지경제*
-- `08-21 13:21` 한국금융지주, KDB생명 품고 '종합금융그룹' 도약…전통·디지털 금융 다각화 속도 - 네이트 — *네이트*
 
 ## 🇰🇷 정책·거시
 - `08-21 14:17` [전문가 기고] 또 곰탕대책, 이제는 말이 아니라 돈으로 - 서울파이낸스 — *서울파이낸스*
@@ -74,6 +74,7 @@
 - `08-21 05:18` The Fed's preferred measure of inflation is changing - marketplace.org — *marketplace.org*
 
 ## 🌍 유가·지정학
+- `08-21 15:45` Australia's Beetaloo Shale Basin Is About to Start Pumping Gas - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `08-21 15:15` FTSE 100 Live: Iran escalation and $93 oil set tone for cautious London open - Yahoo Finance UK — *Yahoo Finance UK*
 - `08-21 14:54` Natural Gas and Oil Forecast: Hormuz Risks Support Oil as U.S. Inventories Build - FXEmpire — *FXEmpire*
 - `08-21 14:32` Another round of oil price hikes looms next week as world fuel prices remain high due to continued tensions in the Middle East. I via ANC 24/7 Link to full story in the comments section. - facebook.com — *facebook.com*
@@ -81,14 +82,13 @@
 - `08-21 13:46` Asian shares are mixed following Wall Street losses as US Treasury's moves fail to calm markets - Audacy — *Audacy*
 - `08-21 13:30` Crude oil price: Futures decline as US threatens ‘toughest sanctions’ on Iran - BusinessLine — *BusinessLine*
 - `08-21 13:00` Middle East oil squeeze: How much crude is actually flowing through Hormuz - The Times of India — *The Times of India*
-- `08-21 12:48` Iran Tensions And Hormuz Security Keep Crude Oil Markets On Edge, With Implications For TSX:RY - foreignpolicyjournal.com — *foreignpolicyjournal.com*
 
 ## 🌍 시장 전반
 - `08-21 14:32` Financial Stocks Rally in Mixed Market; Samsung Fire Up 6%, Hana Up 5% - Seoul Economic Daily — *Seoul Economic Daily*
 - `08-21 14:29` Asia crypto stocks rally as Bitcoin rebounds sharply; Metaplanet surges 20% - Investing.com Canada — *Investing.com Canada*
+- `08-21 14:15` Making Tech for the Battlefield Fuels 80% Rally in Swedish Stock - Bloomberg.com — *Bloomberg.com*
 - `08-21 13:13` XRP Surges 18.8%, Coinbase Gains $3.2 Billion as Crypto Markets Rally - TechStock² — *TechStock²*
 - `08-21 12:43` Asian Stocks Slide on Bond Stress: Will Safe Havens BTC and Gold Keep Rallying? - BeInCrypto — *BeInCrypto*
 - `08-21 12:11` Bearish Signal For Market Rally; Now What? - Investor's Business Daily — *Investor's Business Daily*
 - `08-21 11:32` MicroStrategy Erases 2-Month Loss as Crypto Stocks Rally: Is the Damage Over? - Mitrade — *Mitrade*
-- `08-21 11:09` Dow, S&P 500, Nasdaq Futures Climb After Sharp Selloff On Rising Treasury Yields: MSTR, MARA, COIN, WMT Stocks In Focus - Stocktwits — *Stocktwits*
 - `08-21 10:30` Why is the Trump administration causing turmoil in the bond markets? | Richard Partington - The Guardian — *The Guardian*
