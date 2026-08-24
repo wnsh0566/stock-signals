@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-24 16:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-24 17:03 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -13,26 +13,27 @@
 - **D-11** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
-- `08-24 16:28` ‘삼전 8% 급락’에 코스피 하락 마감…삼성 관련주도 줄줄이 하락 - 경향신문 — *경향신문*
-- `08-24 16:27` 코스피 3.12% 급락에도 강원 코스닥주 강세…메쥬 8.88% 상승 - v.daum.net — *v.daum.net*
-- `08-24 16:26` 삼성전자 8% 급락에 코스피 6700선 붕괴…외국인 3.6조 ‘팔자’ - 디지털데일리 — *디지털데일리*
-- `08-24 16:22` 삼성전자 8% 급락에 코스피도 '흔들'…6700선 붕괴 마감 - 뉴스웍스 — *뉴스웍스*
-- `08-24 16:22` ‘삼전’ 주주환원 실망에 코스피 3% 하락… 6700선 깨져 - IT조선 — *IT조선*
-- `08-24 16:19` 美 장기금리 19년 만에 최고…국내 증시도 ‘금리 공포’에 출렁 - 에너지경제신문 — *에너지경제신문*
-- `08-24 16:19` [일본 증시] AI·반도체주 매도에 하락...닛케이 0.74%↓ - 뉴스핌 — *뉴스핌*
-- `08-24 16:18` [중국증시 마감] 성장·기술주 차익실현에 급락, 금·농업·석탄주로 자금 이동 - 뉴스핌 — *뉴스핌*
+- `08-24 16:49` 코스피 3% 빠진 날, 오른 종목이 두 배…'삼전닉스'가 만든 지수의 역설 - 피플투데이 — *피플투데이*
+- `08-24 16:49` 빚투 증가 속도 너무 빠르다. 증시 체력이 단기적으로 약해질 수 있어 - Investing.com 한국어 — *Investing.com 한국어*
+- `08-24 16:47` [이도윤의 증시 라운지] 이번엔 다르다?…개미 울리는 증시의 수많은 예언가들 - 아주경제 — *아주경제*
+- `08-24 16:46` [증시 인사이트] 주주환원에도 삼성전자 급락…코스피 약세 지속될까 - v.daum.net — *v.daum.net*
+- `08-24 16:45` [뉴욕증시 전략] 뉴욕증시 상승…달러 약세에 금·비트코인 강세 - v.daum.net — *v.daum.net*
+- `08-24 16:45` 삼성전자 실망 매물 폭탄에…코스피 6700선 아래로 - v.daum.net — *v.daum.net*
+- `08-24 16:43` [장마감] 코스피 3.12%↓(6696.96), 코스닥 1.42%↑(813.33) - 버핏연구소 — *버핏연구소*
+- `08-24 16:37` 삼성전자 쇼크에 코스피 3%대 급락… `멀미 증시`에 개미들 패닉 - 매일신문 — *매일신문*
 
 ## 🇰🇷 반도체·HBM
+- `08-24 16:55` 엔비디아도 못 꺾은 메모리 난…삼성전자·SK하이닉스 '협상력 우위' 지속 - 뉴시스 — *뉴시스*
+- `08-24 16:53` SK하이닉스, 40조원 자사주 매입 본격화…매일 65만주 순매수 행보 - 2news.co.kr — *2news.co.kr*
+- `08-24 16:51` 광주 군공항에 온 SK하이닉스 경영진…반도체 생산기지 밑그림 - MTN 머니투데이방송 — *MTN 머니투데이방송*
+- `08-24 16:46` 삼성전자·SK하이닉스, '150조' 역대급 주주환원…투자경쟁 속 재원배분 관건 - 뉴시스 — *뉴시스*
+- `08-24 16:41` '호남 반도체 클러스터 성공 지원'…전남광주 범시민추진위 출범 - 뉴시스 — *뉴시스*
+- `08-24 16:39` [전남광주 소식] SK하이닉스 광주 군공항 현장 방문·담양군 '첨단4지구' 제안·나주시 '1조2711억 추경안' 제출·장성군 '사회조사 결과' 공표·광산구 '청렴문화 확산 집중기간' 운영 - 뉴스웍스 — *뉴스웍스*
 - `08-24 16:28` 호남권 반도체 클러스터 조성 협의 SK하이닉스 경영진 전남광주통합특별시 방문 - 중도일보 — *중도일보*
 - `08-24 16:25` SK하이닉스 경영진, 광주군공항 방문…호남 반도체 팹 조성 점검 - 지디넷코리아 — *지디넷코리아*
-- `08-24 16:25` 성과급 주식 ‘수수료 면제’…SK하이닉스 임단협 가결 청신호 - IT조선 — *IT조선*
-- `08-24 16:25` 호남권 반도체 범시민 추진위 출범식 - 뉴스핌 — *뉴스핌*
-- `08-24 16:25` 민형배 시장, 박수 치며 반도체 성공 기원 - 뉴스핌 — *뉴스핌*
-- `08-24 16:24` '호남권 반도체 성공 기원' - 뉴스핌 — *뉴스핌*
-- `08-24 16:14` 대구·경북 고교생 68명, 반도체 기업 ‘실전 채용면접’ 도전 - kyongbuk.co.kr — *kyongbuk.co.kr*
-- `08-24 16:08` 코스피, 반도체株 약세에 3%대↓…삼전 주주환원 '실망' - 서울경제TV — *서울경제TV*
 
 ## 🇰🇷 금융주
+- `08-24 16:42` '환골탈태' 우리금융, 자본비율 1위 '껑충'…"자본력, 성장 엔진으로" - 네이트 — *네이트*
 - `08-24 16:32` [금융지주 풍향계] KB금융, 우키시마호 침몰 81년…마이즈루 현지 목소리 담았다 外 - 에너지경제신문 — *에너지경제신문*
 - `08-24 16:23` '새 식구' 맞는 한국금융지주, 증권사와 시너지 기대 - 한스경제 — *한스경제*
 - `08-24 16:09` 금융사 지방이전 현실화하나···민간 금융지주도 ‘혹시?’ - supple.kr — *supple.kr*
@@ -40,7 +41,6 @@
 - `08-24 16:00` 금리 상승에 은행주 반등 기대감···수익성 확대에 환율 하락 주주환원 기대감도 - 네이트 — *네이트*
 - `08-24 15:21` [금융 게시판] 금융권 사회공헌도 진화…KB금융·우리금융·BNK금융 - 라이센스뉴스 — *라이센스뉴스*
 - `08-24 14:47` [중국 특징주] '중신은행' 최고가 경신, 은행주 반등 신호탄? - 네이트 — *네이트*
-- `08-24 14:44` 양종희 KB금융지주 회장 수성인가 리더십 교체인가 : 회장 선임 '준결승’에서 후보 6명이 맞닥뜨릴 질문들 - 허프포스트코리아 — *허프포스트코리아*
 
 ## 🇰🇷 정책·거시
 - `08-24 15:46` 한 총리, 8·13대책 "착공·인허가 등 명확한 단계 데이터로 공개" - 뉴시스 — *뉴시스*
@@ -63,6 +63,7 @@
 - `08-23 22:51` Nvidia’s $500 Billion AI Funding Plan Calms Credit Markets - equiti.com — *equiti.com*
 
 ## 🌍 연준·금리
+- `08-24 16:03` New Fed chair faces critical test at Jackson Hole as inflation fears mount - The Guardian — *The Guardian*
 - `08-24 07:27` Bitcoin plunges 7% after Fed nominee Warsh spar... - Pluang — *Pluang*
 - `08-24 07:00` September FOMC is coming – Bitcoin’s 2026 track record reveals why it’s bad news - AMBCrypto — *AMBCrypto*
 - `08-23 21:07` Jackson Hole 2026: Fed Chair Warsh's Speech Could Move Markets - Intellectia AI — *Intellectia AI*
@@ -72,14 +73,14 @@
 - `08-22 21:58` U.S. Federal Reserve Officials Signal Openness to Higher Interest Rates - Tekedia — *Tekedia*
 
 ## 🌍 유가·지정학
+- `08-24 16:53` US vows ‘economic D-Day’ as Iran threatens to halt all oil exports - AFR — *AFR*
+- `08-24 16:42` Directionless trading as markets await Bessent’s Iran-related press conference, Oil FUTs decline - FXStreet — *FXStreet*
 - `08-24 16:28` Iran seizes, sells US oil cargo for EB patients - Mehr News Agency — *Mehr News Agency*
 - `08-24 16:15` Exxon Eyes Shell's $8 Billion U.S. Chemicals Business - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `08-24 16:11` Natural Gas and Oil Forecast: WTI, Brent Pull Back as Iran Sanctions Intensify - FXEmpire — *FXEmpire*
-- `08-24 16:07` Iran Oil Cargoes Dry Up Even Before US Acts on Tehran Threats - Bloomberg — *Bloomberg*
+- `08-24 16:07` Iran Oil Cargoes Dry Up Even Before US Acts on Tehran Threats - Bloomberg.com — *Bloomberg.com*
 - `08-24 16:00` If Economic War Continues, Not A Drop Of Oil Will Be Exported From The Persian Gulf - WANA News Agency — *WANA News Agency*
 - `08-24 16:00` Equinor and Uniper Sign 15-Year Gas Supply Deal for Germany - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-24 15:48` Oil prices drop as Trump targets Iran with economic pressure - novanews.co.za — *novanews.co.za*
-- `08-24 15:45` WTI Oil flirts with the $85.00 level with markets economic D-Day sanctions on Iran - FXStreet — *FXStreet*
 
 ## 🌍 시장 전반
 - `08-24 13:06` US Stock Market Today 08/24/2026 [UPDATE: 00:06 EDT] [Alibaba Dilution Joins Memory Selloff in Overnight Trade] - TechStock² — *TechStock²*
