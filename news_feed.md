@@ -1,93 +1,93 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-25 06:56 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-25 15:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 - **D+7** (~08/18) ⭐⭐ 보험 4사 2Q 실적(코리안리·DB손보·삼성화재·현대해상) — 발표일 미정, DART 확인 필요
 - **D-1** (08/26) ⭐⭐⭐ 엔비디아 실적(현지 수 마감 후 = 한국 목 새벽) — 컨센 매출 $93~95B(+67%)·심판 A 복귀 촉매
-- **D-2** (~08/27) ⭐⭐⭐ 잭슨홀 심포지엄 — 워시 첫 기조연설
+- **D-3** (08/28) ⭐⭐⭐ 잭슨홀 워시 첫 기조 10:00 ET = 금 23:00 KST(심포지엄 8/27~29) — 9월 인상 경로 힌트·2018 교훈 1순위
 - **D-6** (~08/31) ⭐⭐ USTR 301조 '과잉생산' 판정 — 반도체·기계·조선 대상, 코어(금융) 무풍
 - **D-6** (~08/31) ⭐⭐ 금융위 지배구조 개편안(회장 연임 제한) — 당정 이견에 법제화 불투명(P8)
 - **D-6** (~08/31) ⭐ 한은 금통위 — 원화·유동성
 - **D-10** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
-- `08-25 06:27` 뉴욕증시, 반도체 급락 속 혼조 마감…엔비디아 7일째 밀려 - 뉴스핌 — *뉴스핌*
-- `08-25 06:22` 뉴욕 증시, 기술주 하락세에 혼조세로 마감 - YTN — *YTN*
-- `08-25 06:19` 증시 조정에 소비심리 넉 달 만에 후퇴…집값 기대도 꺾였다 - 스트레이트뉴스 — *스트레이트뉴스*
-- `08-25 06:17` 뉴욕증시, 반도체주 급락에 발목…나스닥 0.76%↓ - bntnews.co.kr — *bntnews.co.kr*
-- `08-25 06:08` [월가 레이더] 美 뉴욕증시, 반도체 급락에 나스닥 발목…엔비디아 7일 연속 하락 - 포커스온경제 — *포커스온경제*
-- `08-25 06:06` 뉴욕증시, 기술주 약세에 혼조…나스닥 0.77% 하락[뉴욕마감] - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `08-25 06:05` [코스피·코스닥 전 거래일(24일) 주요공시] - 연합뉴스 — *연합뉴스*
-- `08-25 06:05` [코스피·코스닥 전 거래일(24일) 주요공시] - 매일경제 마켓 — *매일경제 마켓*
+- `08-25 15:33` "앞으로 10년 수익률 마이너스"…美 증시 고평가 경고 - 한국경제 — *한국경제*
+- `08-25 15:21` 코스피, 美 반도체주 급락 여파에 6500선 붕괴···삼전·SK하닉 약세 - 서울파이낸스 — *서울파이낸스*
+- `08-25 14:51` 4%대 폭락 딛고 기적적 반등…코스피·코스닥 장중 상승 전환 - 진일보 — *진일보*
+- `08-25 14:45` "오늘도 글렀어" 주식창 닫았는데 '반등'...삼전닉스 빨간불 켜나 - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-25 14:40` 코스피, 장중 상승전환해 소폭 강세…삼전닉스도 강보합 - 연합뉴스 — *연합뉴스*
+- `08-25 14:38` 소비심리 4개월만에 꺾여…한은 “증시조정·물가상승 여파” - 동아일보 — *동아일보*
+- `08-25 14:31` '삼전닉스' 낙폭 줄이며 코스피 상승 전환…6700선 회복[장중시황] - 뉴스1 — *뉴스1*
+- `08-25 14:27` [시황]코스피 장중 4% 급락·코스닥 800선 붕괴…반도체주 약세 확산 - 에너지경제신문 — *에너지경제신문*
 
 ## 🇰🇷 반도체·HBM
-- `08-25 06:36` 삼전 주가 또 추락…SK하이닉스와 뭐가 달랐나 - v.daum.net — *v.daum.net*
-- `08-25 06:27` 뉴욕증시, 반도체 급락 속 혼조 마감…엔비디아 7일째 밀려 - 뉴스핌 — *뉴스핌*
-- `08-25 06:26` ‘성과급 자사주 60%’ 통과할까… SK하이닉스 합의안 미지수 - v.daum.net — *v.daum.net*
-- `08-25 06:08` [월가 레이더] 美 뉴욕증시, 반도체 급락에 나스닥 발목…엔비디아 7일 연속 하락 - 포커스온경제 — *포커스온경제*
-- `08-25 06:04` 반도체 주춤한 한 달, 그 틈에 바이오는 20% 뛰었다 - 히트뉴스 — *히트뉴스*
-- `08-25 06:00` [힘 달리는 타워크레인…반도체 팹 발목 잡나] (1) 반도체 ‘팹’ 건설 갈 길 바쁜데…타워크레인 용량 부족에 ‘헉헉’ - 대한경제 — *대한경제*
-- `08-25 06:00` 엔비디아도 못 버텼다…삼전·닉스 반도체 수요 고공행진 [AI 호황의 청구서①] - 쿠키뉴스 — *쿠키뉴스*
-- `08-25 06:00` “SK하이닉스 성과급 안 부러워”… ‘극단의 성과주의’에 MZ들 은행보다 증권 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `08-25 15:26` “성과급 60% 주식으로 못받겠다”…SK하이닉스 노사 합의, 다시 원점 - 중앙일보 — *중앙일보*
+- `08-25 15:15` GIST-켄텍, '사람 뇌' 닮은 차세대 AI 반도체 소자 개발 - v.daum.net — *v.daum.net*
+- `08-25 15:09` SK하이닉스 ‘성과급 60% 주식 지급안’ 부결…재협상 험로 예고 - 산경일보 — *산경일보*
+- `08-25 15:02` 전남광주특별시 "320만 시민 힘 모아 반도체 성공시대 연다“ - 산경일보 — *산경일보*
+- `08-25 14:57` SK하이닉스, 잠정합의안, 25표 차로 부결…‘60% 자사주’ 발목 - 뉴스토마토 — *뉴스토마토*
+- `08-25 14:53` 10억 이상 고액자산가 포트폴리오 봤더니…삼성전자·SK하이닉스 ‘투톱’ - 강원도민일보 — *강원도민일보*
+- `08-25 14:49` CXMT HBM 점유율 2년 내 10%, 삼성·SK하이닉스 범용D램 이어 HBM도 중국과 기술격차 좁혀진다 - 비즈니스포스트 — *비즈니스포스트*
+- `08-25 14:32` 이천문화재단, 2026 기업열전展에 SK하이닉스 선정 - 중부일보 — *중부일보*
 
 ## 🇰🇷 금융주
-- `08-25 06:12` [양종희號 3년 ㊦] 안정적 '용병술'로 비은행 수익 비중 44% '압도적'…AI·디지털·글로벌로 '1등 KB' 굳힌다 - 소비자가 만드는 신문 — *소비자가 만드는 신문*
-- `08-24 23:02` 우리금융그룹 동양생명, 수해 피해 고객에 금융지원 "보험료 최대 6개월 유예" - 마일드경제 — *마일드경제*
-- `08-24 18:00` 금리 오르고 환율 내려도…은행주는 지지부진 - 서울경제 — *서울경제*
-- `08-24 17:30` 원화값 두달새 166원 급등에 금융지주 생산적금융 실탄 쑥 - 네이트 — *네이트*
-- `08-24 17:10` 한국투자금융지주, KDB생명 인수 임박...재무 부담 과제 - 이코리아 — *이코리아*
-- `08-24 17:00` 4대 금융지주 CEO·이사회, 밸류업 세일즈에 뛴다 - 아주경제 — *아주경제*
-- `08-24 16:42` '환골탈태' 우리금융, 자본비율 1위 '껑충'…"자본력, 성장 엔진으로" - 네이트 — *네이트*
-- `08-24 16:32` [금융지주 풍향계] KB금융, 우키시마호 침몰 81년…마이즈루 현지 목소리 담았다 外 - 에너지경제신문 — *에너지경제신문*
+- `08-25 15:25` 국민연금, 하나금융지주 지분 9% 돌파…28만여주 추가 확보 - 데이터투자 — *데이터투자*
+- `08-25 15:23` iM금융지주, 차기 회장 인선 시동…황병우 연임 여부 '주목' - 네이트 — *네이트*
+- `08-25 15:14` [금융지주 보수분석] 임종룡 우리금융 회장, '종합그룹' 완성에 상여 '역대급' - fetv.co.kr — *fetv.co.kr*
+- `08-25 14:42` KB금융 차기 회장 3인 누가 오르나…양종희 연임 가능성 속 ‘외부 변수’ 주목 - 오피니언뉴스 — *오피니언뉴스*
+- `08-25 14:07` 한국투자금융그룹, 초기 창업기업에 전방위 지원...AC, 투자파트너스, PE 등 총력협업 - 파이낸셜포스트 — *파이낸셜포스트*
+- `08-25 13:49` 우리금융그룹과 손잡은 고용부, K-뉴딜 아카데미로 청년 IT 인재 육성 - 부산경제 — *부산경제*
+- `08-25 13:00` [초점] KB금융 회장 후보 27일 3명으로…외부 인사 진입이 시험대 - 자본시장뉴스 — *자본시장뉴스*
+- `08-25 12:50` 우리금융지주, 우리투자증권 자체 성장 본격화…비은행 새 성장축 키운다 - PRESS9 — *PRESS9*
 
 ## 🇰🇷 정책·거시
-- `08-25 06:35` 노원구 "8.13 부동산 대책 재건축 속도 높이고 분담금 낮춘다" - 네이트 — *네이트*
-- `08-25 06:00` [함께 묻다] 부동산 대책 논의 속, 임차인은 어디 있는가? - 경기신문 — *경기신문*
-- `08-25 05:00` 다주택자 겨눈 징벌적 과세⋯28차례 대책에도 집값 폭등 [정권별 부동산 세제 변천사中] - 이투데이 — *이투데이*
-- `08-24 18:17` 부동산 대책에도… 李대통령 지지율 40.2% 또 최저치 - v.daum.net — *v.daum.net*
-- `08-24 18:16` 부동산 대책에도…李대통령 지지율 40.2% 또 최저치 - 네이트 — *네이트*
-- `08-24 18:00` 8.13 부동산 대책 | 전세대출 달라지고 청년미래보금자리론 출시돼요 - KB Think — *KB Think*
-- `08-24 17:21` 李 정부 집값 정책이 ‘인플레 뇌관’ 건드리는 순간 [톺아보기+] - 더스쿠프 — *더스쿠프*
-- `08-24 17:07` 이억원 "8·13 대책, 무작정 대출 완화 아니다…DSR·LTV 원칙 유지" - 포인트경제 — *포인트경제*
+- `08-25 15:26` 여야, 부동산 공급 책임 공방…野 "과거 정책 짜깁기" 與 "오세훈 탓" - 뉴스1 — *뉴스1*
+- `08-25 15:21` "용산공원, 땜질식 부동산 대책의 희생양"…서울시의회 국힘 긴급 결의 - 네이트 — *네이트*
+- `08-25 15:04` 노원구 "8·13 대책에 정비사업장 14곳 긍정 영향" - 연합뉴스 — *연합뉴스*
+- `08-25 15:04` 한성숙 총리 "부동산 공급 대책, 예측 가능하도록 바뀌어야" - 뉴스핌 — *뉴스핌*
+- `08-25 14:24` 실거주 중심 세제에도 공급엔 시차…"중저가 주택 수요 몰릴 것" - 뉴스핌 — *뉴스핌*
+- `08-25 13:53` 혼란만 키운 부동산 세제·공급대책…땜질처방 불가피 - 메트로신문 — *메트로신문*
+- `08-25 13:42` [김상진 교수의 부동산 소식] 8·3 세제개편과 8·13 대책, 여전히 비어있는 '지방 대책'의 맹점은? - BBS불교방송 — *BBS불교방송*
+- `08-25 11:59` 노원구, 8.13 부동산 대책으로 재건축 사업성 개선 기대 - 웹이코노미 — *웹이코노미*
 
 ## 🌍 AI·빅테크
+- `08-25 15:29` Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ — *WSJ*
+- `08-25 13:52` Nvidia Earnings Awaited to Drive Next AI Rally in Global Markets - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `08-25 10:27` Is Synchrony Financial (SYF) Cheap As Its OpenAI Push Lifts AI Ambitions? - simplywall.st — *simplywall.st*
+- `08-25 09:33` Nvidia just sent a huge signal to investors ahead of earnings - thestreet.com — *thestreet.com*
 - `08-25 06:18` AI Capital Race: Nvidia Earnings, SoftBank & Alibaba - StartupHub.ai — *StartupHub.ai*
-- `08-25 05:40` Nvidia results 'so important' for gauging AI funding fears, expert says - Reuters — *Reuters*
-- `08-25 05:02` ‘The World on its Shoulders’ in AI. Nvidia’s Mega Week. ARD #147 - AI: Reset to Zero — *AI: Reset to Zero*
-- `08-25 03:13` Nvidia's AI investments reshape its risk, tying profits to AI ecosystem health beyond chip sales - Pluang — *Pluang*
-- `08-25 03:12` Nvidia Stock: Why It May Be Raising Prices 15% and Funding AI Startups - Barron's — *Barron's*
-- `08-25 02:29` Nvidia Q2 Preview: The Beat Is Priced In, But I Have Questions About Their AI Investments - Seeking Alpha — *Seeking Alpha*
-- `08-25 01:33` Nvidia Could Double Down on Perplexity. AI Startup Seeks $30 Billion-Plus Valuation. - International Business Times — *International Business Times*
-- `08-25 01:01` Lancium Announces Partnership with NVIDIA to Advance Gigawatt-Scale AI Factory Development Across Its 15+ GW Portfolio - Yahoo Finance — *Yahoo Finance*
+- `08-25 06:08` Nvidia Price Hikes: Demand Outstrips Supply - StartupHub.ai — *StartupHub.ai*
+- `08-25 06:07` Nvidia Faces Price Hikes Amid AI Chip Demand Surge - StartupHub.ai — *StartupHub.ai*
+- `08-25 05:47` Nvidia results 'so important' for gauging AI funding fears, expert says - Reuters — *Reuters*
 
 ## 🌍 연준·금리
+- `08-25 06:10` Beyond the Rent: The economic signals multifamily leaders should watch this fall - Multifamily Dive — *Multifamily Dive*
+- `08-25 06:07` Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech - Reuters — *Reuters*
+- `08-25 05:40` These 3 Sectors Will Outperform if the Fed Hikes Rates - Barron's — *Barron's*
 - `08-25 05:33` Will Warsh Hit Reset With Markets at Jackson Hole? - Investopedia — *Investopedia*
-- `08-25 01:25` Wells Fargo: Jackson Hole Communication Key For Fed Rate Path - Bitcoin World — *Bitcoin World*
+- `08-25 01:40` Fed officials signal rate hike may be needed if inflation doesn’t cool - eciks.org — *eciks.org*
 - `08-24 23:18` New Fed chair faces critical test at Jackson Hole as inflation fears mount - The Guardian — *The Guardian*
 - `08-24 23:00` Raising rates won’t fix the energy shock — it just makes workers pay twice - Washington Examiner — *Washington Examiner*
-- `08-24 22:29` Nvidia Earnings and PCE Land Same Day: September Rate Decision Starts Wednesday - Tech Times — *Tech Times*
-- `08-24 21:21` Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech - Reuters — *Reuters*
-- `08-24 20:35` AI Giants and U.S. Treasury Compete for Long-Term Capital; Huachuang Securities: Rate Cuts Are the Only Way Out - finance.biggo.com — *finance.biggo.com*
-- `08-24 20:14` Mark Zandi Warns Iran War Is Fueling Inflation, Pushing Investors Toward Fed Rate Hike Bets: 'Lawmakers Need to Address the Nation’s Darkening Fiscal Outlook' - TradingView — *TradingView*
+- `08-24 22:30` Here’s exactly how a Fed rate change hits your wallet - 104.5 WOKV — *104.5 WOKV*
 
 ## 🌍 유가·지정학
-- `08-25 06:28` Iran response to more sanctions biggest oil market risk - Midland Reporter-Telegram — *Midland Reporter-Telegram*
-- `08-25 06:07` U.S. threatens sanctions on Iran’s trading partners as pressure mounts on oil flows - World Oil — *World Oil*
-- `08-25 06:00` Europe's Biogas Plants Could Become Fertilizer Factories - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-25 05:39` Blockchain 24/7 markets priced oil’s Iran shock while Wall Street was closed - Cryptonews.net — *Cryptonews.net*
-- `08-25 05:38` Oil Retreats While Iran Pressure Builds - Rigzone — *Rigzone*
-- `08-25 05:32` Oil prices fall as Bessent outlines new steps to punish Iran - Yahoo Finance Singapore — *Yahoo Finance Singapore*
-- `08-25 05:13` DAILY OIL PRICE: August 24, 2026 - Odessa American — *Odessa American*
-- `08-25 05:08` How much oil is flowing through Hormuz? - CNBC — *CNBC*
+- `08-25 15:37` Dow (DOW) Could Be 12% Undervalued Following Oil Price Volatility - simplywall.st — *simplywall.st*
+- `08-25 15:37` 3 Oil Stocks To Watch As Iran Sanctions Put Offshore Supply Back In Focus - simplywall.st — *simplywall.st*
+- `08-25 15:24` Trump administration targets Iran’s military, cyber operations and oil trade - Free Press Kashmir — *Free Press Kashmir*
+- `08-25 15:23` Oil tanker hit by projectile off Oman near Hormuz - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
+- `08-25 15:22` US Sanctions Dozens Of Entities, Individuals Over Iran Military And Oil Networks - i24NEWS — *i24NEWS*
+- `08-25 15:20` Iran war latest: Oil tanker attacked in Strait of Hormuz off Oman - thenationalnews.com — *thenationalnews.com*
+- `08-25 15:00` The US says it’ll crack down on countries doing business with Iran. Who’s buying Iranian oil? - CNN — *CNN*
+- `08-25 15:00` Iran Threatens Retaliation as U.S. Widens Sanctions - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `08-25 06:00` What Kevin Warsh can say this week to spark a new market rally, according to Wharton professor Jeremy Siegel - Business Insider — *Business Insider*
-- `08-25 05:29` How a Negative Beta Bet Can Protect Your Portfolio From an AI Selloff - Barron's — *Barron's*
-- `08-25 05:07` Warren Buffett's Favorite 'Forever' Stock Hits A High After Big Rally - Investor's Business Daily — *Investor's Business Daily*
-- `08-25 02:46` JPMorgan says be ready to sell stocks as technical warnings pile up heading into September - Business Insider — *Business Insider*
-- `08-25 00:19` Bitcoin ETF Inflows Return, Hinting at a Potential ‘Sustained Rally’ - Investopedia — *Investopedia*
-- `08-25 00:13` Gold as a safe haven for investors – and how it can work in a diversified portfolio - Chase Bank — *Chase Bank*
-- `08-24 21:20` JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - Yahoo Finance — *Yahoo Finance*
-- `08-24 21:20` JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St. — *24/7 Wall St.*
+- `08-25 15:37` Korea stock rally opens door to rerating: Nomura economist - The Korea Herald — *The Korea Herald*
+- `08-25 14:35` Global Market: Nikkei drops as Japanese chip stocks track US tech selloff - The Economic Times — *The Economic Times*
+- `08-25 13:14` Is the smallcap rally a trap? Only 37% of stocks are outperforming their benchmark - The Economic Times — *The Economic Times*
+- `08-25 12:05` Big Investors Admit Bitcoin Rally Signals Capital Fleeing an Overheated AI Trade - BeInCrypto — *BeInCrypto*
+- `08-25 10:00` The World’s Craziest Stock Market Has Turned Into a Fright Ride - WSJ — *WSJ*
+- `08-25 09:57` Global Market Today: Asian stocks dip after US tech selloff, gold gains - The Economic Times — *The Economic Times*
+- `08-25 08:37` Asian stocks under pressure after US tech sell-off - The Business Times — *The Business Times*
+- `08-25 08:37` Asian stocks retreat on US tech sell-off as chipmakers lead losses - The Business Times — *The Business Times*
