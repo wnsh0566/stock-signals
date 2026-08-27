@@ -1,44 +1,44 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-27 23:36 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-28 03:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+1** (08/26) ⭐⭐⭐ 엔비디아 실적(현지 수 마감 후 = 한국 목 새벽) — 컨센 매출 $93~95B(+67%)·심판 A 복귀 촉매
-- **D-1** (08/28) ⭐⭐⭐ 잭슨홀 워시 첫 기조 10:00 ET = 금 23:00 KST(심포지엄 8/27~29) — 9월 인상 경로 힌트·2018 교훈 1순위
-- **D-4** (~08/31) ⭐⭐ USTR 301조 '과잉생산' 판정 — 반도체·기계·조선 대상, 코어(금융) 무풍
-- **D-4** (~08/31) ⭐⭐ 금융위 지배구조 개편안(회장 연임 제한) — 당정 이견에 법제화 불투명(P8)
-- **D-4** (~08/31) ⭐ 한은 금통위 — 원화·유동성
-- **D-8** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
+- **D+2** (08/26) ⭐⭐⭐ 엔비디아 실적(현지 수 마감 후 = 한국 목 새벽) — 컨센 매출 $93~95B(+67%)·심판 A 복귀 촉매
+- **D-DAY** (08/28) ⭐⭐⭐ 잭슨홀 워시 첫 기조 10:00 ET = 금 23:00 KST(심포지엄 8/27~29) — 9월 인상 경로 힌트·2018 교훈 1순위
+- **D-3** (~08/31) ⭐⭐ USTR 301조 '과잉생산' 판정 — 반도체·기계·조선 대상, 코어(금융) 무풍
+- **D-3** (~08/31) ⭐⭐ 금융위 지배구조 개편안(회장 연임 제한) — 당정 이견에 법제화 불투명(P8)
+- **D-3** (~08/31) ⭐ 한은 금통위 — 원화·유동성
+- **D-7** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
+- `08-28 03:03` "20년만에 찾아온 기회" 사회초년생도 부자 만드는 한국 증시 투자법 [싱글파이어] - 머니투데이 — *머니투데이*
+- `08-28 02:27` 주요국 내년 증시 미리보기 [한경 프리미엄9 TODAY] - 한국경제 — *한국경제*
+- `08-28 01:34` 파워볼 분석법 더블유 - 시대별 변화와 영향 - 업계 전문가들의 조언 - Platea Magazine — *Platea Magazine*
+- `08-28 01:13` 토토적중조회 : 초보자가 알아야 할 모든 것 - 실용적인 접근법 - Platea Magazine — *Platea Magazine*
+- `08-28 00:39` 삼성전자(005930) - 매일경제 마켓 — *매일경제 마켓*
 - `08-27 23:11` 한은 연속 금리인상에도 코스피·코스닥 1% 상승 - YTN — *YTN*
 - `08-27 23:05` 뉴욕증시, 엔비디아發 훈풍에 상승 출발… AI 기대감 재점화 - 조선비즈 - Chosunbiz — *Chosunbiz*
 - `08-27 22:48` 뉴욕증시, 엔비디아 호실적에 상승 출발 - 연합뉴스 — *연합뉴스*
-- `08-27 21:53` 뉴욕증시 프리뷰, 엔비디아 7% 급등에 나스닥 선물 1%↑…AI 낙관론 재확산 - 뉴스핌 — *뉴스핌*
-- `08-27 21:01` 코스피 7,000선 회복 시도…금리 인상에 상승폭 축소 - 연합뉴스TV — *연합뉴스TV*
-- `08-27 20:21` 썸타임 토토 고객 서비스를 위한 리더십 최선의 실천 - Platea Magazine — *Platea Magazine*
-- `08-27 20:03` 성공투자 오후증시 - 한국경제TV — *한국경제TV*
-- `08-27 19:28` [亞증시-종합] 반도체 훈풍에도 잭슨홀 경계에 혼조 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
-- `08-27 23:11` Nvidia 매출 전망에 미국 반도체 주식 상승 - Investing.com — *Investing.com*
-- `08-27 23:03` 시놉시스, FY27 성장 반등과 반도체 설계 수요 강세 전망으로 투자의견 상향 - Investing.com — *Investing.com*
-- `08-27 23:00` SK하이닉스, 美 인디애나서 첫 삽 … HBM 공급망 현지화 속도 - 뉴데일리 — *뉴데일리*
-- `08-27 23:00` SK하이닉스, 美인디애나 HBM 팹 첫 삽…'메이드 인 USA' 연다 - 뉴스1 — *뉴스1*
-- `08-27 22:51` 시놉시스, 3분기 매출 42% 급증·연간 가이던스 상향…AI 반도체 설계 수요 본격화 - 매일경제 마켓 — *매일경제 마켓*
-- `08-27 22:45` HBM 영업이익률 70% 넘는데…SK하이닉스, 샌디스크·마이크론처럼 날아오를 수 있을까 - 코인리더스 — *코인리더스*
-- `08-27 22:40` 트럼프 정부, 반도체 고율관세 부과 검토..단계적 도입 가능[이상은의 워싱턴나우] - 한국경제 — *한국경제*
-- `08-27 22:29` 트럼프 행정부, 반도체 전면 관세 검토 중…"자충수" 업계 반발 - 머니투데이 - 머니투데이 — *머니투데이*
+- `08-28 03:34` 캡틴 토토 경찰 - 을 통한 성공 전략 - Platea Magazine — *Platea Magazine*
+- `08-28 03:25` 추미애, “경기도 세계 친환경 반도체 산업의 새로운 기준으로 만들겠다” - 부천포커스 — *부천포커스*
+- `08-28 03:09` "SK하이닉스가 7000개 일자리 만든대"…인구 4.5만 美도시 ‘들썩’ - 마켓인 — *마켓인*
+- `08-28 02:59` 곽노정 CEO “한미 AI의 새로운 미래 시작”…SK하이닉스, 美 HBM 생산거점 구축 - 테크월드 — *테크월드*
+- `08-28 02:46` SK하닉, 미국 내 '1호 HBM 팹' 구축 본격화…"차세대 제품 대량 양산" - 노컷뉴스 — *노컷뉴스*
+- `08-28 02:29` SK하이닉스, 美 인디애나에 첫 HBM 생산기지 착공 … 40억 달러 베팅 - 워크투데이 — *워크투데이*
+- `08-28 02:25` 'Made in USA' HBM…SK하이닉스 인디애나 투자, '한미 경제협력' 새 역사 - 파이낸셜포스트 — *파이낸셜포스트*
+- `08-28 02:25` [인터뷰]칩스법 주도 영 의원 “패키징만으론 부족…반도체 모든 영역 투자 필요” - 한겨레 — *한겨레*
 
 ## 🇰🇷 금융주
-- `08-27 21:23` [부패한 이너서클의 실체] 회장은 '제왕적'이라는데…연임 때마다 고개 드는 '관치' : 네이버 블로그 - Naver Blog — *Naver Blog*
+- `08-28 03:22` [부패한 이너서클의 실체] 회장은 '제왕적'이라는데…연임 때마다 고개 드는 '관치' : 네이버 블로그 - Naver Blog — *Naver Blog*
+- `08-28 01:09` [부패한 이너서클의 실체] '주인 없는' 금융지주…국민연금, '참호 구축' 제동 걸까 : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `08-27 20:35` KB금융 차기 회장 후보…양종희·이재근·권광석 압축 - 브릿지경제 — *브릿지경제*
 - `08-27 19:43` KB금융 회장 후보 3인 압축…내부 양종희·이재근, 외부 권광석 '3파전' - 녹색경제신문 — *녹색경제신문*
 - `08-27 19:35` KB금융 차기 회장 후보에 양종희·이재근·권광석 - 한국경제 — *한국경제*
-- `08-27 19:17` KB금융 회장 후보 권광석·양종희·이재근 압축 - 세이프머니 — *세이프머니*
+- `08-27 19:07` [부패한 이너서클의 실체] 현직 회장 경쟁자는 어디로…'기울어진 운동장' 금융지주 승계 : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `08-27 19:03` 금융지주 회장 3연임 금지… 법 보다 요건 강화로 - v.daum.net — *v.daum.net*
-- `08-27 19:00` [부패한 이너서클의 실체] 현직 회장 경쟁자는 어디로…'기울어진 운동장' 금융지주 승계 : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `08-27 18:47` KB금융 차기 회장 후보 3명 압축…권광석·양종희·이재근 경합 - 위클리서울 — *위클리서울*
 
 ## 🇰🇷 정책·거시
@@ -52,41 +52,41 @@
 - `08-27 13:29` 8.13 부동산 대책 효과 없을 것 57%…재건축·재개발 규제 완화 59% (NBS 전국지표조사) - 톱스타뉴스 — *톱스타뉴스*
 
 ## 🌍 AI·빅테크
+- `08-28 03:31` Microsoft Is Leaving Investors Flying Blind on Its AI Businesses - WSJ — *WSJ*
+- `08-28 03:11` Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `08-28 02:41` Nvidia’s Blockbuster Earnings: Here’s the Biggest Risk the AI Chipmaker Faces, Even as Sales Soar - MarketWise — *MarketWise*
+- `08-28 01:34` Nvidia smashes expectations and doubles down on ‘circular financing’ - Investors' Chronicle — *Investors' Chronicle*
+- `08-28 00:30` Nvidia says it's building an ecosystem that can't fail - Yahoo Finance — *Yahoo Finance*
 - `08-27 23:07` Nvidia Forecast Sparks AI Chip Stock Rally, Eases Investor Worries - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `08-27 23:07` Bill Gates AI Warning Meets Nvidia's AI Financing Push - NVIDIA (NASDAQ:NVDA) - Benzinga — *Benzinga*
 - `08-27 23:00` NVIDIA's $500B AI Financing Gamble Explained - Memeburn — *Memeburn*
-- `08-27 22:50` NVIDIA Q2 Earnings: AI Demand Surges, But Credit Risk Is Rising - TradingView — *TradingView*
-- `08-27 22:15` This Tiny AI Stock Has Crushed Micron and Nvidia This Year. Here's Why It Can Keep Going. - Yahoo Finance — *Yahoo Finance*
-- `08-27 21:50` NVIDIA Raises the Bar on AI Growth: AI ETFs to Win - Yahoo Finance — *Yahoo Finance*
-- `08-27 21:30` Nvidia’s Q2 Secret: You're Blinded By The AI Hype (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
-- `08-27 21:01` Nvidia's AI chip sales soar but growing financing role raises cash flow and credit risks. - Pluang — *Pluang*
-- `08-27 20:29` Is the AI Buildout Becoming Too Dependent on the Bank of Nvidia? - 24/7 Wall St. — *24/7 Wall St.*
 
 ## 🌍 연준·금리
-- `08-27 23:01` Bitcoin (BTC) holds near $80,000 as traders brace for Warsh’s Jackson Hole Fed speech - CoinDesk — *CoinDesk*
-- `08-27 22:46` Fed's Warsh faces challenge whether inflation is a problem or not - Reuters — *Reuters*
-- `08-27 22:45` While Long Islanders struggle with inflation, the Federal Reserve fiddles - Long Island Business News — *Long Island Business News*
-- `08-27 22:03` The Fed Chairman Is Heading to Jackson Hole Without a Clear Stance on Inflation - WSJ — *WSJ*
-- `08-27 21:58` New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Bozeman Daily Chronicle — *Bozeman Daily Chronicle*
-- `08-27 21:20` Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive - CNBC — *CNBC*
-- `08-27 20:30` Fed’s Schmid Says Policy Isn’t in Restrictive Territory - Bloomberg.com — *Bloomberg.com*
-- `08-27 20:29` The Federal Reserve faces the decision that will set the price of money until the end of 2026. - Demócrata — *Demócrata*
+- `08-28 02:26` Kevin Warsh Faces Fed Inflation Divide At Jackson Hole: Stephen Miran Says A Rate Hike Now Would Be ‘Really Strange - TradingView — *TradingView*
+- `08-28 01:25` Cleveland Fed President Hammack Reaffirms Support for Rate Hikes, Warning of Stubborn Inflation - finance.biggo.com — *finance.biggo.com*
+- `08-28 01:09` As Jackson Hole conference kicks off, three Fed officials warn about inflation - Reuters — *Reuters*
+- `08-28 00:53` Fed’s Schmid Says Policy Isn’t in Restrictive Territory - Bloomberg — *Bloomberg*
+- `08-28 00:14` Fed's Warsh faces challenge whether inflation is a problem or not - Reuters — *Reuters*
+- `08-28 00:11` Fed rate policy may not be restrictive enough, Schmid warns - mpamag.com — *mpamag.com*
+- `08-28 00:06` Cleveland Fed President: Inflation Has Stayed Too High for Too Long—Now Is the Time to Raise Rates - finance.biggo.com — *finance.biggo.com*
+- `08-27 23:45` NEWSLETTER: Kevin Warsh saddles up for Jackson Hole - Reuters — *Reuters*
 
 ## 🌍 유가·지정학
-- `08-27 23:30` Fortum Seeks State Aid for Major New Nuclear Project in Sweden - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-27 23:10` Oil: Hormuz traffic and policy risks – MUFG - FXStreet — *FXStreet*
-- `08-27 22:39` Hormuz oil flows rising as Middle East producers ramp up - Transport Topics — *Transport Topics*
-- `08-27 22:30` TotalEnergies Exits Russia's Sanctioned Arctic LNG 2 Project - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-27 22:21` Another Tanker Was Struck In The Strait Of Hormuz. Oil Is Edging Up. - International Business Times — *International Business Times*
-- `08-27 22:21` Iraq, Qatar’s UCC discuss oil pipeline projects to bypass Hormuz - IraqiNews — *IraqiNews*
-- `08-27 22:12` Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters — *Reuters*
-- `08-27 22:09` Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Accelerates - Bloomberg.com — *Bloomberg.com*
+- `08-28 03:30` Trump Sends Saudi Nuclear Deal to Congress as Riyadh Rejects Israel Condition - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-28 03:28` Trump says millions of barrels of oil flowing through Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
+- `08-28 03:16` Trump scraps Iran MOU, leaving Hormuz talks stalled and oil risk high - Investing.com — *Investing.com*
+- `08-28 03:11` US President Trump hits Canada on trade, says Hormuz Oil keeps flowing - FXStreet — *FXStreet*
+- `08-28 03:00` Central Asia Resists US Pressure to Choose Sides in AI Race - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-28 02:51` Trump's oil and gas stock trades continued during Iran war, filings show - CBS News — *CBS News*
+- `08-28 02:30` Energean in Exclusive Talks for $1 Billion BP Egypt Gas Deal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-28 02:16` COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters — *Reuters*
 
 ## 🌍 시장 전반
-- `08-27 22:52` The stock market crash is coming - The Spectator — *The Spectator*
+- `08-28 02:41` AI’s rally is disguising a massive slump in tech stocks - CNN — *CNN*
+- `08-28 02:22` If a Stock Market Crash Is Coming, History Says There's a Major Silver Lining for Investors - The Motley Fool — *The Motley Fool*
+- `08-28 01:01` Popular crypto stock rallies on blockbuster earnings - thestreet.com — *thestreet.com*
+- `08-27 23:40` Nvidia ignites chip stock rally as forecast shows AI boom is intact - The Economic Times — *The Economic Times*
+- `08-27 22:56` The stock market crash is coming - The Spectator — *The Spectator*
 - `08-27 21:40` Nasdaq futures rise as tech stocks rally after Nvidia, Salesforce earnings - CNBC TV18 — *CNBC TV18*
-- `08-27 19:37` European shares fall as French stock sell-off and energy drag offset Nvidia - Investing.com — *Investing.com*
-- `08-27 19:30` Warren Buffett Says This 1 Move Is the Key to Surviving a Stock Market Crash. 100 Years of History Says He's Right. - The Motley Fool — *The Motley Fool*
-- `08-27 17:34` China Life Profit Triples as Market Rally Boosts Returns - Bloomberg.com — *Bloomberg.com*
-- `08-27 13:02` Rs 58,000 crore selloff by promoters, PE funds hits stock market. Why are they cashing out now? - The Economic Times — *The Economic Times*
-- `08-27 13:00` Diversification drive after chip sell-off gives China’s private funds a boost - South China Morning Post — *South China Morning Post*
-- `08-27 07:22` A Quiet Market, But Can Intel Shares Begin to Rally? - TheStreet Pro — *TheStreet Pro*
+- `08-27 20:43` XRP Hit $1.66 and Fell Back. Was That the Top? - 24/7 Wall St. — *24/7 Wall St.*
+- `08-27 19:37` European shares tumble as French stock sell-off and energy drag offset Nvidia - Investing.com — *Investing.com*
