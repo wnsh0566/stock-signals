@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-27 23:06 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-27 23:36 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -12,24 +12,24 @@
 - **D-8** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
+- `08-27 23:11` 한은 연속 금리인상에도 코스피·코스닥 1% 상승 - YTN — *YTN*
+- `08-27 23:05` 뉴욕증시, 엔비디아發 훈풍에 상승 출발… AI 기대감 재점화 - 조선비즈 - Chosunbiz — *Chosunbiz*
 - `08-27 22:48` 뉴욕증시, 엔비디아 호실적에 상승 출발 - 연합뉴스 — *연합뉴스*
 - `08-27 21:53` 뉴욕증시 프리뷰, 엔비디아 7% 급등에 나스닥 선물 1%↑…AI 낙관론 재확산 - 뉴스핌 — *뉴스핌*
 - `08-27 21:01` 코스피 7,000선 회복 시도…금리 인상에 상승폭 축소 - 연합뉴스TV — *연합뉴스TV*
 - `08-27 20:21` 썸타임 토토 고객 서비스를 위한 리더십 최선의 실천 - Platea Magazine — *Platea Magazine*
 - `08-27 20:03` 성공투자 오후증시 - 한국경제TV — *한국경제TV*
 - `08-27 19:28` [亞증시-종합] 반도체 훈풍에도 잭슨홀 경계에 혼조 - 연합인포맥스 — *연합인포맥스*
-- `08-27 18:11` [중국증시-마감] 엔비디아發 훈풍에 상승 - 연합인포맥스 — *연합인포맥스*
-- `08-27 18:09` "내달 증시 조정땐 AI 생태계에 분산투자하라" - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `08-27 23:00` SK하이닉스, 인디애나 팹 기공식…첫 미국 생산기지 - 연합뉴스TV — *연합뉴스TV*
+- `08-27 23:11` Nvidia 매출 전망에 미국 반도체 주식 상승 - Investing.com — *Investing.com*
+- `08-27 23:03` 시놉시스, FY27 성장 반등과 반도체 설계 수요 강세 전망으로 투자의견 상향 - Investing.com — *Investing.com*
+- `08-27 23:00` SK하이닉스, 美 인디애나서 첫 삽 … HBM 공급망 현지화 속도 - 뉴데일리 — *뉴데일리*
+- `08-27 23:00` SK하이닉스, 美인디애나 HBM 팹 첫 삽…'메이드 인 USA' 연다 - 뉴스1 — *뉴스1*
 - `08-27 22:51` 시놉시스, 3분기 매출 42% 급증·연간 가이던스 상향…AI 반도체 설계 수요 본격화 - 매일경제 마켓 — *매일경제 마켓*
+- `08-27 22:45` HBM 영업이익률 70% 넘는데…SK하이닉스, 샌디스크·마이크론처럼 날아오를 수 있을까 - 코인리더스 — *코인리더스*
+- `08-27 22:40` 트럼프 정부, 반도체 고율관세 부과 검토..단계적 도입 가능[이상은의 워싱턴나우] - 한국경제 — *한국경제*
 - `08-27 22:29` 트럼프 행정부, 반도체 전면 관세 검토 중…"자충수" 업계 반발 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-27 21:55` 폴리티코 "美, 반도체 전면적 관세 부과 검토 중" - KB Think — *KB Think*
-- `08-27 21:50` 美, 호남 반도체까지 거론하며 “미국에 공장 지어달라” - 뉴스비전e — *뉴스비전e*
-- `08-27 21:46` 경기도 ‘글로벌 반도체기업 재생에너지’ 간담회…“새 기준 구축” - KBS 뉴스 — *KBS 뉴스*
-- `08-27 21:45` 이천시, 공직자 반도체 특강에 SK하이닉스 팹투어까지…산업 이해 역량 강화 - 타임뉴스 — *타임뉴스*
-- `08-27 21:34` "미 트럼프 행정부, 반도체 대상 고강도 관세 검토" - MBC 뉴스 — *MBC 뉴스*
 
 ## 🇰🇷 금융주
 - `08-27 21:23` [부패한 이너서클의 실체] 회장은 '제왕적'이라는데…연임 때마다 고개 드는 '관치' : 네이버 블로그 - Naver Blog — *Naver Blog*
@@ -52,34 +52,34 @@
 - `08-27 13:29` 8.13 부동산 대책 효과 없을 것 57%…재건축·재개발 규제 완화 59% (NBS 전국지표조사) - 톱스타뉴스 — *톱스타뉴스*
 
 ## 🌍 AI·빅테크
+- `08-27 23:07` Nvidia Forecast Sparks AI Chip Stock Rally, Eases Investor Worries - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `08-27 23:00` NVIDIA's $500B AI Financing Gamble Explained - Memeburn — *Memeburn*
+- `08-27 22:50` NVIDIA Q2 Earnings: AI Demand Surges, But Credit Risk Is Rising - TradingView — *TradingView*
+- `08-27 22:15` This Tiny AI Stock Has Crushed Micron and Nvidia This Year. Here's Why It Can Keep Going. - Yahoo Finance — *Yahoo Finance*
+- `08-27 21:50` NVIDIA Raises the Bar on AI Growth: AI ETFs to Win - Yahoo Finance — *Yahoo Finance*
 - `08-27 21:30` Nvidia’s Q2 Secret: You're Blinded By The AI Hype (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
 - `08-27 21:01` Nvidia's AI chip sales soar but growing financing role raises cash flow and credit risks. - Pluang — *Pluang*
 - `08-27 20:29` Is the AI Buildout Becoming Too Dependent on the Bank of Nvidia? - 24/7 Wall St. — *24/7 Wall St.*
-- `08-27 19:43` AI Capital Hub?NVIDIA FY2027 Q2 Earnings: Growth Still Accelerating, AI Supercycle Enters Multi-Track Parallel Phase - odaily.news — *odaily.news*
-- `08-27 19:18` World’s most valuable stock Nvidia gains $370bn overnight as AI demand grows - Yahoo Finance UK — *Yahoo Finance UK*
-- `08-27 19:04` A quarter of Nvidia’s business next year comes from labs it is financing - AI News — *AI News*
-- `08-27 19:04` Nvidia's Huang Rejects Circular Financing Claims Over AI Investments - Seoul Economic Daily — *Seoul Economic Daily*
-- `08-27 18:30` Nvidia’s $279 Billion Supply-Chain Gamble - WSJ — *WSJ*
 
 ## 🌍 연준·금리
+- `08-27 23:01` Bitcoin (BTC) holds near $80,000 as traders brace for Warsh’s Jackson Hole Fed speech - CoinDesk — *CoinDesk*
+- `08-27 22:46` Fed's Warsh faces challenge whether inflation is a problem or not - Reuters — *Reuters*
 - `08-27 22:45` While Long Islanders struggle with inflation, the Federal Reserve fiddles - Long Island Business News — *Long Island Business News*
 - `08-27 22:03` The Fed Chairman Is Heading to Jackson Hole Without a Clear Stance on Inflation - WSJ — *WSJ*
+- `08-27 21:58` New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Bozeman Daily Chronicle — *Bozeman Daily Chronicle*
 - `08-27 21:20` Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive - CNBC — *CNBC*
 - `08-27 20:30` Fed’s Schmid Says Policy Isn’t in Restrictive Territory - Bloomberg.com — *Bloomberg.com*
 - `08-27 20:29` The Federal Reserve faces the decision that will set the price of money until the end of 2026. - Demócrata — *Demócrata*
-- `08-27 20:17` Fed's Warsh faces challenge whether inflation is a problem or not - Reuters — *Reuters*
-- `08-27 19:54` New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
-- `08-27 19:17` Fed Chair Kevin Warsh Faces a Crucial Test at Jackson Hole As Treasury Yields Remain High - International Business Times — *International Business Times*
 
 ## 🌍 유가·지정학
+- `08-27 23:30` Fortum Seeks State Aid for Major New Nuclear Project in Sweden - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-27 23:10` Oil: Hormuz traffic and policy risks – MUFG - FXStreet — *FXStreet*
+- `08-27 22:39` Hormuz oil flows rising as Middle East producers ramp up - Transport Topics — *Transport Topics*
 - `08-27 22:30` TotalEnergies Exits Russia's Sanctioned Arctic LNG 2 Project - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-27 22:27` Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters — *Reuters*
+- `08-27 22:21` Another Tanker Was Struck In The Strait Of Hormuz. Oil Is Edging Up. - International Business Times — *International Business Times*
 - `08-27 22:21` Iraq, Qatar’s UCC discuss oil pipeline projects to bypass Hormuz - IraqiNews — *IraqiNews*
+- `08-27 22:12` Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters — *Reuters*
 - `08-27 22:09` Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Accelerates - Bloomberg.com — *Bloomberg.com*
-- `08-27 22:09` Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Accelerates - Yahoo Finance UK — *Yahoo Finance UK*
-- `08-27 21:50` Kuwaiti Oil Price Drops - Fana News - — *Fana News -*
-- `08-27 21:50` Oman Oil Price Up by USD 2.31 - Fana News - — *Fana News -*
-- `08-27 21:47` Oil prices steady on Iran-Oman talks over Hormuz - Transport Topics — *Transport Topics*
 
 ## 🌍 시장 전반
 - `08-27 22:52` The stock market crash is coming - The Spectator — *The Spectator*
