@@ -1,92 +1,90 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-29 12:18 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-31 08:46 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+3** (08/26) ⭐⭐⭐ 엔비디아 실적(현지 수 마감 후 = 한국 목 새벽) — 컨센 매출 $93~95B(+67%)·심판 A 복귀 촉매
-- **D+1** (08/28) ⭐⭐⭐ 잭슨홀 워시 첫 기조 10:00 ET = 금 23:00 KST(심포지엄 8/27~29) — 9월 인상 경로 힌트·2018 교훈 1순위
-- **D-2** (~08/31) ⭐⭐ USTR 301조 '과잉생산' 판정 — 반도체·기계·조선 대상, 코어(금융) 무풍
-- **D-2** (~08/31) ⭐⭐ 금융위 지배구조 개편안(회장 연임 제한) — 당정 이견에 법제화 불투명(P8)
-- **D-2** (~08/31) ⭐ 한은 금통위 — 원화·유동성
-- **D-6** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
+- **D+5** (08/26) ⭐⭐⭐ 엔비디아 실적(현지 수 마감 후 = 한국 목 새벽) — 컨센 매출 $93~95B(+67%)·심판 A 복귀 촉매
+- **D+3** (08/28) ⭐⭐⭐ 잭슨홀 워시 첫 기조 10:00 ET = 금 23:00 KST(심포지엄 8/27~29) — 9월 인상 경로 힌트·2018 교훈 1순위
+- **D-DAY** (~08/31) ⭐⭐ USTR 301조 '과잉생산' 판정 — 반도체·기계·조선 대상, 코어(금융) 무풍
+- **D-DAY** (~08/31) ⭐⭐ 금융위 지배구조 개편안(회장 연임 제한) — 당정 이견에 법제화 불투명(P8)
+- **D-DAY** (~08/31) ⭐ 한은 금통위 — 원화·유동성
+- **D-4** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
-- `08-29 11:01` 미 연준 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락 - 한겨레 — *한겨레*
-- `08-29 11:00` [단독]갤럭시코퍼레이션, 韓 증시 대신 '미국 직행'…지주사 설립 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-29 10:51` 워시 매파 발언에 뉴욕증시 하락…엔비디아 4.6%↓ - 코리아리포트 — *코리아리포트*
-- `08-29 10:38` [해외시황] 뉴욕증시, 워시 매파 발언·금리 인상 우려에 '하락'…나스닥 0.52%↓ - 프라임경제 — *프라임경제*
-- `08-29 10:25` 코스피 흔들리자 일주일 새 2.6조 몰린 ‘방어형 ETF’ - 경북매일 — *경북매일*
-- `08-29 10:20` ‘엔비디아 호재’도 무용지물… 국장 발목 잡은 금리와 트럼프 [주간 증시해설서] - 더스쿠프 — *더스쿠프*
-- `08-29 10:20` [8월 넷째 주 세계경제동향 브리핑] 코스피 6,700선 후퇴…코스닥은 4%대 반등 - v.daum.net — *v.daum.net*
-- `08-29 09:39` 워시 매파 발언에 9월 금리인상 기대 급등…뉴욕증시 하락 - 티제이비 — *티제이비*
+- `08-31 08:43` [모닝 리포트] "코스피 7000 재도전…고용·금리·반도체 수급 관건" - 뉴스핌 — *뉴스핌*
+- `08-31 08:41` "바닥은 다졌다...9월 코스피는 8000까지 오를 수도" - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `08-31 08:40` 코스피·코스닥 엇갈린 사이 신용융자잔고 급증…SK증권 "추가 확산보다는 압축" - 파이낸셜포스트 — *파이낸셜포스트*
+- `08-31 08:40` 워시發 금리인상 우려에 코스피 약세 전망…삼전닉스 향방 주목 [투자360] - 헤럴드경제 — *헤럴드경제*
+- `08-31 08:39` “9월 코스피 상단 8,000…반도체·조선 중심 대응” - 뉴스투데이 — *뉴스투데이*
+- `08-31 08:35` [증시 포인트] 제한적 흐름 전망...미-이란 긴장감은 유의 - 오피니언뉴스 — *오피니언뉴스*
+- `08-31 08:34` [시황] 미국증시, 연준 추가 금리인상 경계감에 기술주 중심 하락 마감 - 버핏연구소 — *버핏연구소*
+- `08-31 08:34` [어제장 오늘장] 7천피 앞두고 주춤한 코스피…오늘장 반도체가 관건 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `08-29 11:31` 인디켐, 남공주산단에 반도체 소재 공장 준공… 포토레지스트 원료 양산 돌입 - 기계신문 — *기계신문*
-- `08-29 11:24` 【심층기획】 세계 반도체 대기업이 선택한 ‘용인’~ 왜! 한국형 실리콘밸리인가? - 경기경제신문 — *경기경제신문*
-- `08-29 11:02` 中 CXMT, 상반기 매출 1503억위안…텐센트 제치고 시총 1위 등극 - 디지털데일리 — *디지털데일리*
-- `08-29 11:00` 16년 키운 코웨이 수처리…AI 반도체 타고 최대 실적 눈앞 - 블로터 — *블로터*
-- `08-29 10:41` “삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나 - v.daum.net — *v.daum.net*
-- `08-29 10:40` “삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나 - 헤럴드경제 — *헤럴드경제*
-- `08-29 10:28` 고찬석 건설교통 위원장 “반도체 도로망 예타 통과” 환영 - 동방일보 — *동방일보*
-- `08-29 10:21` 경기도 ‘반도체 벨트’ 도로망 건설 추진 탄력 - 동방일보 — *동방일보*
+- `08-31 08:43` [모닝 리포트] "코스피 7000 재도전…고용·금리·반도체 수급 관건" - 뉴스핌 — *뉴스핌*
+- `08-31 08:39` “9월 코스피 상단 8,000…반도체·조선 중심 대응” - 뉴스투데이 — *뉴스투데이*
+- `08-31 08:38` "HBM 공급자 프리미엄 축소" SK하이닉스 목표가↓-LS證 - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `08-31 08:37` 삼성전자·SK하이닉스, 美 반도체주 조정·금리 우려에 프리마켓서 약세 - 뉴스웨이 — *뉴스웨이*
+- `08-31 08:34` [어제장 오늘장] 7천피 앞두고 주춤한 코스피…오늘장 반도체가 관건 - v.daum.net — *v.daum.net*
+- `08-31 08:32` [리포트 브리핑]SK하이닉스, '작은 것을 주고 큰 것을 취한다' 목표가 2,400,000원 - LS증권 - 뉴스핌 — *뉴스핌*
+- `08-31 08:31` 반도체 초호황의 빛과 그늘…최첨단 산업 뒤엔 저임금 노동자가 있다 - 뉴스비전e — *뉴스비전e*
+- `08-31 08:31` [인터뷰] "AI 반도체 병목, 연산에서 '저장'으로…낸드, 사이클 탈피 가능성" - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 금융주
-- `08-29 11:01` 인도 은행주, 수십 년 만에 최대 거래소 간 가격 차이 기록 - Investing.com 한국어 — *Investing.com 한국어*
-- `08-28 20:34` [금융 게시판] KB금융·신한금융, ‘성장 생태계’ 넓힌다…기업과 인재 성장 강화 - 라이센스뉴스 — *라이센스뉴스*
-- `08-28 19:22` 8월 28일 증시: 연휴 전 변동성 속 외국인 은행주 순매수 지속 - 굿모닝베트남미디어 — *굿모닝베트남미디어*
-- `08-28 18:41` 메리츠금융지주, 5000억원 자사주 취득 신탁계약 체결…NH투자증권에 위탁 - 디지털투데이 — *디지털투데이*
-- `08-28 18:23` 메리츠금융지주, 7000억원 규모 자기주식 신탁계약 해지…NH투자증권 통해 취득 완료 - 디지털투데이 — *디지털투데이*
-- `08-28 17:25` KB금융지주, 차기 회장 후보 숏리스트 3명으로 압축 - 코리아리포트 — *코리아리포트*
-- `08-28 17:22` [금융지주 풍향계] KB금융, 싱가포르서 K-스타트업 글로벌 성장 지원 外 - 에너지경제신문 — *에너지경제신문*
-- `08-28 16:53` KB금융 차기 회장 후보 3명 압축…양종희·권광석·이재근 - 뉴스;트리 — *뉴스;트리*
+- `08-31 08:43` 하나금융지주, 대학생 홍보대사 20기 활동 마무리 - PRESS9 — *PRESS9*
+- `08-31 08:34` 하나증권 "은행주, 다시 커지는 금리 모멘텀 가능성" - 파이낸셜포스트 — *파이낸셜포스트*
+- `08-31 08:30` [비즈 인사이트] 10대 금융지주 이자수익 2.8%↑·영업익 11%↑…순익 17조 육박 - 서울타임즈뉴스 — *서울타임즈뉴스*
+- `08-31 07:58` 하나증권 “은행주, 다시 커지는 금리모멘텀 재부각 가능성..주간 우리금융 KB금융 추천” - 한국정경신문 — *한국정경신문*
+- `08-31 07:29` NH농협금융, 4000억 펀드 조성... 첨단산업 육성 박차 - 뉴스락 — *뉴스락*
+- `08-31 07:15` [코스피·코스닥, 삼성바이오로직스 한화엔진 대우건설 메리츠금융지주 뷰노 HLB생명과학 코맥스등 28일 주요공시] - 퍼블릭타임스 — *퍼블릭타임스*
+- `08-31 07:08` 우리금융 ABL, 토지 재평가에도 지급여력 16.20%p↓…임종룡 보험통합 시험대 - 뉴스필드 — *뉴스필드*
+- `08-31 06:00` [거버넌스 워치독] 은행장 낙점은 지주가, 자회사 임추위는 ‘통과의례’ - DFT 대한금융신문 — *DFT 대한금융신문*
 
 ## 🇰🇷 정책·거시
-- `08-29 07:12` ‘8·13 대책’ 후 첫 부동산 점검… 애로사항 해소 통해 주택공급 속도 - 세계일보 — *세계일보*
-- `08-28 16:00` "시체 위에 지어봐라"…정부 공급 대책에 폭발한 민심[부동산취재로그] - edaily.co.kr — *edaily.co.kr*
-- `08-28 10:32` [성명] 원칙없이 우왕좌왕하는 이재명 정부, 부동산시장 안정화를 위한 근본대책 실시하라! - 경제정의실천시민연합 — *경제정의실천시민연합*
-- `08-28 10:00` 대출 조인 8·13 대책, 공급엔 돈 푼다…금융·건설업계 첫 회동 - 뉴스1 — *뉴스1*
-- `08-27 17:21` 이재명 지지율 50%, 하락세 주춤..8·13 부동산 대책엔 ‘냉랭’ - 일간경기 — *일간경기*
-- `08-27 16:15` 親與 도시학자도 등 돌린 정부 부동산 대책… “아마추어 대학생 수준도 안되는 정책” - 대한경제 — *대한경제*
-- `08-27 15:30` [이슈플러스] '벼랑 끝' 지방 부동산, 대책은? _ 서정렬 영산대학교 교수 - LG헬로비전 — *LG헬로비전*
-- `08-27 15:27` '서민 집값' 불 붙인 8.3 대책…강남권 하락, 강북권 초강세 - 땅집고 — *땅집고*
+- `08-31 05:52` 수도권 13만 호 신속 공급! 달라지는 8.13 부동산 대책 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑 — *대한민국 정책브리핑*
+- `08-30 15:22` 與 용산·탄천 사이 갈팡질팡...부동산 공급대책 고심 - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `08-30 14:00` 부동산 대책에도 서울 아파트값 상승세 - 뉴시스 — *뉴시스*
+- `08-30 13:34` 집값 오르면 투기 억제, 떨어지면 공공 매입…이 대통령 ‘양방향 대책’ 주문 - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-30 12:37` "8.13대책 목표 달성 어려울 것…금융·세제 보완해야" - 메트로신문 — *메트로신문*
+- `08-30 06:00` '8·31 대책' 후 21년…한 번도 '정상적이지 않았던' 세금 종부세 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🌍 AI·빅테크
-- `08-29 11:07` OpenAI Ends AI Partnership with SpaceX's Cursor | Finance News - Global Banking & Finance Review — *Global Banking & Finance Review*
-- `08-29 11:01` Nvidia’s $279 Billion Supply-Chain Gamble - WSJ — *WSJ*
-- `08-29 10:58` OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ — *WSJ*
-- `08-29 06:27` Bullish provides USD.AI $100M facility for GPU loans - Crypto News — *Crypto News*
-- `08-29 06:05` This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It - Yahoo Finance — *Yahoo Finance*
-- `08-29 06:05` This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It - 24/7 Wall St. — *24/7 Wall St.*
-- `08-29 06:01` Wall Street backs Nvidia-led GPU loans to reshape global AI finance - CHOSUNBIZ - Chosunbiz — *Chosunbiz*
-- `08-29 03:48` NVIDIA GPUs get $2.4B financing as IREN builds an AI campus - Stock Titan — *Stock Titan*
+- `08-31 04:52` Jeff Gundlach Says Nvidia’s $500 Billion AI Financing Plan Won’t Age Well - thewealthadvisor.com — *thewealthadvisor.com*
+- `08-31 03:20` Nvidia Pulls Back on AI Cloud Financing Plan as Antitrust Questions Mount - PYMNTS.com — *PYMNTS.com*
+- `08-30 22:48` Nvidia Invests Nearly $50 Billion in AI Labs That Buy Its Chips - entARABI — *entARABI*
+- `08-30 22:45` Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks - Yahoo Finance — *Yahoo Finance*
+- `08-30 19:16` Chipmakers Displace Big Tech as AI Era Winners: NVIDIA Quarter Confirms Shift - Tech Times — *Tech Times*
+- `08-30 18:05` Nvidia in Talks to Invest in Perplexity AI at $30 Billion Valuation - finance.biggo.com — *finance.biggo.com*
+- `08-30 14:38` Why Nvidia May Spend $13bn on Hugging Face’s Doorway to AI Demand - semivision — *semivision*
+- `08-30 12:16` Blue Owl Leads $2.4 Billion IREN AI Factory Financing For NVIDIA Blackwell Ultra Infrastructure - Pulse 2.0 — *Pulse 2.0*
 
 ## 🌍 연준·금리
-- `08-29 10:30` Odds of higher interest rates soar after Fed Chair Warsh's remarks - KATV — *KATV*
-- `08-29 10:11` Stocks fall while dollar, bond yields rise as Fed chair Warsh prompts rate hike bets - The Edge Malaysia — *The Edge Malaysia*
-- `08-29 08:58` Fed chair Warsh, concerned about inflation, says bank may have ‘work to do’ - The Washington Post — *The Washington Post*
-- `08-29 06:41` Warsh’s Inflation Warning Sets Up September Showdown for the Fed - Bloomberg.com — *Bloomberg.com*
-- `08-29 06:10` Warsh's 'quieter Fed' now includes a smidgen of guidance - Reuters — *Reuters*
-- `08-29 05:41` Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances - Barchart.com — *Barchart.com*
-- `08-29 04:17` Investors heartened by Warsh inflation talk, still uncertain about Fed action - Reuters — *Reuters*
-- `08-29 04:11` Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns - The New York Times — *The New York Times*
+- `08-31 06:55` US Stocks Brace for September Rate Hike Fears as Jobs Data and AI Earnings Set the Tone - finance.biggo.com — *finance.biggo.com*
+- `08-31 04:22` Ex-Reserve Bank of India Chief Raghuram Rajan Says US Federal Reserve Should Raise Rates to Curb Inflation - News India Times — *News India Times*
+- `08-31 04:16` Societe Generale sees Fed raising rates three times through March (DXY:) - Seeking Alpha — *Seeking Alpha*
+- `08-31 02:23` Federal Reserve's chairman Kevin Warsh faces a 'no-win' situation on rates - Business Standard — *Business Standard*
+- `08-31 01:00` Fed chair signals rate hikes might be needed with US inflation still elevated - Taipei Times — *Taipei Times*
+- `08-31 00:34` Trump, Warsh Clash Over Rate Policy - 조선일보 — *조선일보*
+- `08-30 22:01` Mortgage rates will rise even higher if bond market continues to choke | Expert Opinion - Inquirer.com — *Inquirer.com*
+- `08-30 20:04` Fed Chair Signals Possible September Rate Hike - Briefs Finance — *Briefs Finance*
 
 ## 🌍 유가·지정학
-- `08-29 09:41` Qatar, Kuwait Boost Strait of Hormuz Oil Exports via Ship-to-Ship Transfers | 2026 - News and Statistics - IndexBox — *IndexBox*
-- `08-29 09:40` Record Tanker Rates: Gulf Oil Shipments Surge Despite Iran War Risks - News and Statistics - IndexBox — *IndexBox*
-- `08-29 09:32` Oil Prices Drop on Qatar-Iran Talks Over Strait of Hormuz Reopening - News and Statistics - IndexBox — *IndexBox*
-- `08-29 09:31` Oil Prices Fall on Iran-Oman Talks Over Strait of Hormuz | Market Update - News and Statistics - IndexBox — *IndexBox*
-- `08-29 09:00` The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune — *Fortune*
-- `08-29 08:32` Mines Cleared From Strait Of Hormuz; More Oil Flowing - Eurasia Review — *Eurasia Review*
-- `08-29 08:02` Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves - CNBC — *CNBC*
-- `08-29 07:55` Iran's Revolutionary Guard says US claims about Hormuz are ‘lies’ to manipulate oil prices - A News — *A News*
+- `08-31 08:14` Shafaq News..Four oil routes could cut Iraq’s Hormuz reliance - شفق نيوز — *شفق نيوز*
+- `08-31 08:13` Oil Jumps After Fresh US Strike on Iran, Brent Tops $90 a Barrel - bloomingbit — *bloomingbit*
+- `08-31 08:10` Iran's president admits 'we have many problems' as the U.S. blockade chokes its economy - Fortune — *Fortune*
+- `08-31 08:00` U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-31 07:31` Oil prices jump more than 2% after U.S. strike on Iran (CO1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
+- `08-31 07:24` [MARKET UPDATE] Oil futures gap higher at the reopen amid geopolitical escalation after the US conducted strikes on Larak Island, while Iran retaliated with missiles targeting US vessels in the Strait of Hormuz and a US base in Jordan - Newsquawk — *Newsquawk*
+- `08-31 07:22` Oil Prices Surge Over 2% After US Strike on Iran’s Larak Island - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `08-31 07:13` Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 시장 전반
-- `08-29 09:14` The stock market crash is coming - The Spectator — *The Spectator*
-- `08-29 08:21` Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters — *Reuters*
-- `08-29 05:38` Why the Trade War and Iran War Aren’t Stopping the Stock Market Rally - Barron's — *Barron's*
-- `08-29 05:22` Jobs report, Broadcom results pose next hurdles for stock market rally - Yahoo Finance — *Yahoo Finance*
-- `08-29 05:22` Jobs report, Broadcom results pose next hurdles for stock market rally - TradingView — *TradingView*
-- `08-29 05:16` Gold Miner Newmont Eclipses Gold's Rally Thanks To A Dual Growth Engine - Investor's Business Daily — *Investor's Business Daily*
-- `08-29 01:54` Jefferies names top coal stocks amid supply issues and price rally - Investing.com — *Investing.com*
-- `08-28 23:25` Is Marvell stock a buy after its post-earnings sell-off? - Investing.com — *Investing.com*
+- `08-31 00:34` Single-Stock Leverage Products See 1.7T Won Sell-Off After Regulations - 조선일보 — *조선일보*
+- `08-30 22:43` Iran war reshapes global economy as markets rally, energy costs bite (CL1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
+- `08-30 22:00` Jobs report, Broadcom results pose next hurdles for stock market rally - TradingView — *TradingView*
+- `08-30 21:00` AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October - MarketWatch — *MarketWatch*
+- `08-30 19:43` If a Stock Market Crash Is Coming, You'll Want to Hold Onto These 3 Warren Buffett Stocks - The Motley Fool — *The Motley Fool*
+- `08-30 17:26` Is a Stock Market Crash Imminent Under President Donald Trump? More Than 85 Years of Historical Precedent Offers an Answer. - Yahoo Finance — *Yahoo Finance*
+- `08-30 10:16` J.P. Morgan urges Korea to broaden stock market rally - UA.NEWS — *UA.NEWS*
+- `08-30 02:08` These 3 factors create a ‘perfect storm’ for a stock market crash. Here’s how to prepare - The Twelfth Magpie — *The Twelfth Magpie*
