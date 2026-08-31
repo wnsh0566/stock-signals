@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-31 19:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-31 19:50 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -12,24 +12,24 @@
 - **D-4** (09/04) ⭐ 솔리다임 프리IPO 재공시 기한 — 하이닉스 중복상장 디스카운트 축
 
 ## 🇰🇷 증시·코스피
+- `08-31 19:18` [亞증시-종합] 매파 워시·중동 긴장 재고조 속 혼조 - 연합인포맥스 — *연합인포맥스*
 - `08-31 19:00` [금융 한 입] 변동성은 잡혔지만…식어가는 증시, 9월의 향방은? - BBS불교방송 — *BBS불교방송*
+- `08-31 18:45` 미 금리 인상 우려에도 보합권...코스피, 0.46% 상승 - YTN — *YTN*
+- `08-31 18:42` ‘큰돈 벌 기회 끝났다’ 코스피 조용해지니…진짜 거품이었나, 곧바로 반토막 [투자360] - v.daum.net — *v.daum.net*
 - `08-31 18:42` 코스피 장중 3.55% 급락 딛고 6820…‘삼전닉스’ 자사주가 반전 견인 - 경북매일 — *경북매일*
+- `08-31 18:31` 코스피 막판 반등…삼전닉스 주주환원이 떠받쳤다 - 블루밍비트 — *블루밍비트*
 - `08-31 18:22` [중국증시-마감] 경제지표 부진에도 기술주 반등에 상승 - 연합인포맥스 — *연합인포맥스*
 - `08-31 18:20` 유럽증시, 혼조 출발…유로스톡스 0.09%↓ - 연합인포맥스 — *연합인포맥스*
-- `08-31 18:12` [마감시황] 코스피 장 초반 약세 딛고 반등…6800선 회복 - 한양경제 — *한양경제*
-- `08-31 17:56` 삼전닉스: 국민여러분 안심하십시오 코스피는 안전합니다 [8/31 G프터눈]｜Global Money Club - 중앙일보 — *중앙일보*
-- `08-31 17:51` 삼전닉스 자사주 매입이 받친 코스피…美 실적·고용 주목 - 머니투데이 - 머니투데이 — *머니투데이*
-- `08-31 17:49` [도쿄증시-마감] 일부 반도체株 강세 속에 혼조 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
-- `08-31 18:52` SK하이닉스 "최태원 회장 日 반도체 합작 공장 설립 추진 사실아냐" - 조세금융신문 — *조세금융신문*
-- `08-31 18:44` 최태원 "日에 반도체 합작공장 설립 검토" - 한국경제 — *한국경제*
-- `08-31 18:40` 日미야기현 “SK하이닉스 오라” 유치 총력전… 최태원 “일본 공장 검토” - v.daum.net — *v.daum.net*
-- `08-31 18:36` “SK하이닉스 반도체 폐수 저수지 유입땐 농사 악영향”…안성 농민들, 직방류 철회 촉구 - 농민신문 — *농민신문*
-- `08-31 18:32` AI 메모리 부족에 국경 넘는 SK하이닉스…日 합작공장까지 검토 - 아이티데일리 — *아이티데일리*
-- `08-31 18:30` 광산구, “토양 환경 행정권한 총동원 반도체 속도전 지원” - 일등방송 — *일등방송*
-- `08-31 18:28` SK하이닉스, 2분기 웨이퍼 구매액 삼성전자 추월 - 디일렉 — *디일렉*
-- `08-31 18:23` 광주특별시, ´반도체 금융망´ 승부수···기업은행 유치 실현 가능성은 - 무등일보 — *무등일보*
+- `08-31 19:46` 최태원 "日 전역 살펴보고 있다"…SK하이닉스 "합작공장 검토는 아냐" - 글로벌이코노믹 — *글로벌이코노믹*
+- `08-31 19:33` 한국은행 “반도체 수혜 지역, 2년간 소비증가액 1.7조 전망” - v.daum.net — *v.daum.net*
+- `08-31 19:33` 반도체 성과급이 지갑 열었다…한은 “내년 GDP 성장률 최대 0.09%p 견인” - 녹색경제신문 — *녹색경제신문*
+- `08-31 19:32` SK에코플랜트, SK오션플랜트 4100억원에 매각…AI·반도체로 사업 재편 - 아시아경제 — *아시아경제*
+- `08-31 19:27` 최태원 “일본에 반도체 공장 투자 검토” - 한겨레 — *한겨레*
+- `08-31 19:20` SK, 일본에 반도체 공장 검토… 최태원 "전력·물 되면 어디든" - v.daum.net — *v.daum.net*
+- `08-31 19:11` 최태원 "日 반도체 공장 검토"…SK하이닉스, 합작공장은 부인(종합) - v.daum.net — *v.daum.net*
+- `08-31 18:53` 최태원 “日에 반도체공장 설립 검토…전력·물 풍부하면 어디든” - 동아일보 — *동아일보*
 
 ## 🇰🇷 금융주
 - `08-31 18:03` “3연임 만장일치 과하다” 금융지주 회장 규제, 막판까지 갈팡질팡 - 서울신문 — *서울신문*
@@ -42,6 +42,7 @@
 - `08-31 16:48` 신한금융, ‘3.4조’보다 중요한 변화…진옥동 2기 성장 공식 달라졌다 - Korea IT Times — *Korea IT Times*
 
 ## 🇰🇷 정책·거시
+- `08-31 19:01` [칼럼] 99번째 부동산 대책 정부는 100번째를 준비하나 - 네이트 — *네이트*
 - `08-31 17:37` 실러가 8·13 대책을 읽는다면…[서순탁의 파이데이아] - 네이트 — *네이트*
 - `08-31 17:05` 정부 8·13 부동산 공급 대책…"지역 특수성 반영한 맞춤형 대응 절실" - v.daum.net — *v.daum.net*
 - `08-31 16:17` [성명] "주택가격 폭락대비" 지시, 대통령은 시장을 제대로 보고 있는가 - 경제정의실천시민연합 — *경제정의실천시민연합*
@@ -60,24 +61,24 @@
 - `08-30 14:38` Why Nvidia May Spend $13bn on Hugging Face’s Doorway to AI Demand - semivision — *semivision*
 
 ## 🌍 연준·금리
+- `08-31 19:32` The Federal Reserve may raise interest rates twice before the end of 2026 - المتداول العربي — *المتداول العربي*
+- `08-31 19:30` Fed Rate Hike September 2026: Markets Brace for Higher Interest Rates as Inflation Stays Elevated - kalkine.ca — *kalkine.ca*
 - `08-31 18:06` Gold Steadies After Tumbling as Warsh Spurs Fed Rate-Hike Bets - Bloomberg.com — *Bloomberg.com*
 - `08-31 18:06` Veteran analyst predicts Fed rate hike after Warsh’s hawkish shift - thestreet.com — *thestreet.com*
-- `08-31 18:00` Emerging-Market Stocks Fall as Warsh Stokes Fed Rate-Hike Bets - Bloomberg.com — *Bloomberg.com*
 - `08-31 17:56` South African rand muted as stronger dollar, softer metals and Fed rate concerns weigh - Reuters — *Reuters*
 - `08-31 16:56` 5 shocks that could keep US interest rates higher for longer - CommBank — *CommBank*
 - `08-31 16:44` Gold Price Forecast: Can Gold Keep Rising as Fed Rate Hike Expectations Heat Up and US-Iran Conflict Escalates? - TradingKey — *TradingKey*
 - `08-31 16:32` Bessent and Warsh Clash Over U.S. Interest Rate Policy - 조선일보 — *조선일보*
-- `08-31 15:42` Bitcoin and gold may have room to surge further as September Fed rate-hike fears look overblown - CoinDesk — *CoinDesk*
 
 ## 🌍 유가·지정학
-- `08-31 19:01` Oil prices jump 2% after US-Iran strikes - Egyptian Gazette — *Egyptian Gazette*
-- `08-31 18:56` Oil prices higher as US-Iran continue skirmishes in Gulf - FXStreet — *FXStreet*
-- `08-31 18:50` Lithium Miners Cash In as Battery Storage Demand Surges - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-31 18:40` Oil price climbs above $90 as Iran says US diplomacy ‘isn’t possible’ - City AM — *City AM*
-- `08-31 18:40` Oil Price Supported by Renewed Geopolitical Risk - Rigzone — *Rigzone*
-- `08-31 18:37` Oil prices jump as US-Iran conflict escalates in Strait of Hormuz - Riviera Radio — *Riviera Radio*
-- `08-31 18:35` Not Stopped for a Moment’: Iran Says Kharg Oil Operations Continue - WANA News Agency — *WANA News Agency*
-- `08-31 18:25` Kharg Island: The target that could change the oil economy — and the Iran war - Firstpost — *Firstpost*
+- `08-31 19:45` Iran’s Khark Oil Hub Defies Attacks and Keeps Exports Moving - Caspian Post — *Caspian Post*
+- `08-31 19:32` Analysis-Depleted US oil stash loses potency as Iran war grinds on - 1470 & 100.3 WMBD — *1470 & 100.3 WMBD*
+- `08-31 19:28` Oil Prices Jump over 2% after US Attacks on Iran - اسلام تايمز — *اسلام تايمز*
+- `08-31 19:22` Oil prices surge after US, Iran resume strikes - Free Press Kashmir — *Free Press Kashmir*
+- `08-31 19:16` US-Iran Hormuz Conflict Drives Oil Past $90: Global Markets Plunge, Fed Rate Hike Expectations Rekindled - odaily.news — *odaily.news*
+- `08-31 19:16` IRGC: Oil tanker catches fire after hitting mines in Strait of Hormuz - Middle East Eye — *Middle East Eye*
+- `08-31 19:08` WTI Oil appreciates beyond $85.50 as tensions rise in Iran - FXStreet — *FXStreet*
+- `08-31 19:07` AM Markets Need to Know: Venezuela oil, Iran tensions, and more (SP500:) - Seeking Alpha — *Seeking Alpha*
 
 ## 🌍 시장 전반
 - `08-31 14:54` Internal shift in the AI market rally? Despite semiconductor adjustments, software & cloud stocks are bucking the trend and rising again! Barclays provides a deep dive into the "profit structure of the AI industry"! Which sectors are truly profitable? Is a golden opp - Moomoo — *Moomoo*
