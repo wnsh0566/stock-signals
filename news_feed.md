@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-31 20:09 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-31 20:35 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -22,14 +22,14 @@
 - `08-31 18:20` 유럽증시, 혼조 출발…유로스톡스 0.09%↓ - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
+- `08-31 20:31` SK하이닉스 일본 합작공장설립설, 최태원 발언 해석 논란 속 “검토 사실 아냐” 진화 - sisaworld.kr — *sisaworld.kr*
+- `08-31 20:18` 소비지형 확 바꾼 반도체 성과급 - 공공뉴스 — *공공뉴스*
+- `08-31 20:06` SK하이닉스 성과급 지출 청주는 명품관에 쏠렸다 - 충청타임즈 — *충청타임즈*
 - `08-31 19:46` 최태원 "日 전역 살펴보고 있다"…SK하이닉스 "합작공장 검토는 아냐" - 글로벌이코노믹 — *글로벌이코노믹*
-- `08-31 19:33` 한국은행 “반도체 수혜 지역, 2년간 소비증가액 1.7조 전망” - v.daum.net — *v.daum.net*
 - `08-31 19:33` 반도체 성과급이 지갑 열었다…한은 “내년 GDP 성장률 최대 0.09%p 견인” - 녹색경제신문 — *녹색경제신문*
 - `08-31 19:32` SK에코플랜트, SK오션플랜트 4100억원에 매각…AI·반도체로 사업 재편 - 아시아경제 — *아시아경제*
+- `08-31 19:31` 수면 아래 '3조 달러' 실체...반도체株에 무슨 일이 [B급기자의 B급리포트] - v.daum.net — *v.daum.net*
 - `08-31 19:27` 최태원 “일본에 반도체 공장 투자 검토” - 한겨레 — *한겨레*
-- `08-31 19:20` SK, 일본에 반도체 공장 검토… 최태원 "전력·물 되면 어디든" - v.daum.net — *v.daum.net*
-- `08-31 19:11` 최태원 "日 반도체 공장 검토"…SK하이닉스, 합작공장은 부인(종합) - v.daum.net — *v.daum.net*
-- `08-31 18:53` 최태원 “日에 반도체공장 설립 검토…전력·물 풍부하면 어디든” - 동아일보 — *동아일보*
 
 ## 🇰🇷 금융주
 - `08-31 18:03` “3연임 만장일치 과하다” 금융지주 회장 규제, 막판까지 갈팡질팡 - 서울신문 — *서울신문*
@@ -55,32 +55,33 @@
 - `08-31 09:21` Nvidia's AI Growth and Undervalued Stock Potential - Intellectia AI — *Intellectia AI*
 - `08-31 04:52` Jeff Gundlach Says Nvidia’s $500 Billion AI Financing Plan Won’t Age Well - thewealthadvisor.com — *thewealthadvisor.com*
 - `08-31 03:20` Nvidia Pulls Back on AI Cloud Financing Plan as Antitrust Questions Mount - PYMNTS.com — *PYMNTS.com*
+- `08-31 01:12` Nvidia Q2 Earnings 2026: Record $96.2B Revenue & AI Infrastructure Analysis - Intellectia AI — *Intellectia AI*
 - `08-30 22:48` Nvidia Invests Nearly $50 Billion in AI Labs That Buy Its Chips - entARABI — *entARABI*
-- `08-30 22:45` Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks - Yahoo Finance — *Yahoo Finance*
 - `08-30 19:16` Chipmakers Displace Big Tech as AI Era Winners: NVIDIA Quarter Confirms Shift - Tech Times — *Tech Times*
 - `08-30 14:38` Why Nvidia May Spend $13bn on Hugging Face’s Doorway to AI Demand - semivision — *semivision*
 
 ## 🌍 연준·금리
+- `08-31 20:14` Fed Rate Hike Odds Jump: Why Kevin Warsh’s ‘Work To Do’ Comment Has Barclays Reportedly Calling For Two More Hikes - TradingView — *TradingView*
+- `08-31 19:51` Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week - TradingView — *TradingView*
 - `08-31 19:32` The Federal Reserve may raise interest rates twice before the end of 2026 - المتداول العربي — *المتداول العربي*
 - `08-31 19:30` Fed Rate Hike September 2026: Markets Brace for Higher Interest Rates as Inflation Stays Elevated - kalkine.ca — *kalkine.ca*
 - `08-31 18:06` Gold Steadies After Tumbling as Warsh Spurs Fed Rate-Hike Bets - Bloomberg.com — *Bloomberg.com*
 - `08-31 18:06` Veteran analyst predicts Fed rate hike after Warsh’s hawkish shift - thestreet.com — *thestreet.com*
 - `08-31 17:56` South African rand muted as stronger dollar, softer metals and Fed rate concerns weigh - Reuters — *Reuters*
 - `08-31 16:56` 5 shocks that could keep US interest rates higher for longer - CommBank — *CommBank*
-- `08-31 16:44` Gold Price Forecast: Can Gold Keep Rising as Fed Rate Hike Expectations Heat Up and US-Iran Conflict Escalates? - TradingKey — *TradingKey*
-- `08-31 16:32` Bessent and Warsh Clash Over U.S. Interest Rate Policy - 조선일보 — *조선일보*
 
 ## 🌍 유가·지정학
-- `08-31 20:05` Iran: US airstrike one month on. UAE denies attack on Tehran. Oil tanker ablaze in the Strait of Hormuz - Il Sole 24 ORE — *Il Sole 24 ORE*
+- `08-31 20:29` U.S. strikes on Iran send oil prices higher, futures lower - qz.com — *qz.com*
+- `08-31 20:26` Oil price today: Brent tops $91 as US-Iran strikes raise Strait of Hormuz supply fears | Hindustan Times - Hindustan Times — *Hindustan Times*
+- `08-31 20:23` PetroChina’s first-half profit jumps 22% despite Iran war oil supply crunch - South China Morning Post — *South China Morning Post*
+- `08-31 20:20` U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths - NPR — *NPR*
+- `08-31 20:18` Oil tanker struck in Strait of Hormuz as US strikes Iranian island - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
 - `08-31 20:01` Tension rises as strikes continue between U.S., Iran; plus new oil partner? - KCENTV.com — *KCENTV.com*
+- `08-31 20:00` Crude Oil Futures Surge For 4th Day As Fresh US-Iran Strikes Put Hormuz In Focus - ETV Bharat — *ETV Bharat*
 - `08-31 20:00` Iran Says Supertanker Hit by Mines in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `08-31 19:59` Oman Oil Price Rises - Fana News - — *Fana News -*
-- `08-31 19:47` U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024 - CoinDesk — *CoinDesk*
-- `08-31 19:45` Iran’s Khark Oil Hub Defies Attacks and Keeps Exports Moving - Caspian Post — *Caspian Post*
-- `08-31 19:41` Trump threatens to blow Kharg Island 'to smithereens' as U.S. and Iran trade fresh strikes - Fortune — *Fortune*
-- `08-31 19:29` Analysis-Depleted US oil stash loses potency as Iran war grinds on - The Mighty 790 KFGO — *The Mighty 790 KFGO*
 
 ## 🌍 시장 전반
+- `08-31 18:40` Semiconductor Slump Sparks Gold, Bitcoin Rally; Hedge Funds Pivot - 조선일보 — *조선일보*
 - `08-31 14:54` Internal shift in the AI market rally? Despite semiconductor adjustments, software & cloud stocks are bucking the trend and rising again! Barclays provides a deep dive into the "profit structure of the AI industry"! Which sectors are truly profitable? Is a golden opp - Moomoo — *Moomoo*
 - `08-31 14:37` Stock Market Crash: Sensex Down 500 Points, Nifty Below 24,000 — Three Reasons Why Market Is Falling Today - NDTV Profit — *NDTV Profit*
 - `08-31 14:31` US Stock Market: Jobs data, Broadcom results to test stock rally near record highs - The Economic Times — *The Economic Times*
@@ -88,4 +89,3 @@
 - `08-30 22:43` Iran war reshapes global economy as markets rally, energy costs bite (CL1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
 - `08-30 22:20` Top economist says it's 'panic season' in markets and it's your fault for taking summer vacation - Fortune — *Fortune*
 - `08-30 22:00` Jobs report, Broadcom results pose next hurdles for stock market rally - TradingView — *TradingView*
-- `08-30 19:43` If a Stock Market Crash Is Coming, You'll Want to Hold Onto These 3 Warren Buffett Stocks - The Motley Fool — *The Motley Fool*
