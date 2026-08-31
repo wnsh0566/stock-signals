@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-08-31 19:50 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-08-31 20:09 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -71,21 +71,21 @@
 - `08-31 16:32` Bessent and Warsh Clash Over U.S. Interest Rate Policy - 조선일보 — *조선일보*
 
 ## 🌍 유가·지정학
+- `08-31 20:05` Iran: US airstrike one month on. UAE denies attack on Tehran. Oil tanker ablaze in the Strait of Hormuz - Il Sole 24 ORE — *Il Sole 24 ORE*
+- `08-31 20:01` Tension rises as strikes continue between U.S., Iran; plus new oil partner? - KCENTV.com — *KCENTV.com*
+- `08-31 20:00` Iran Says Supertanker Hit by Mines in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `08-31 19:59` Oman Oil Price Rises - Fana News - — *Fana News -*
+- `08-31 19:47` U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024 - CoinDesk — *CoinDesk*
 - `08-31 19:45` Iran’s Khark Oil Hub Defies Attacks and Keeps Exports Moving - Caspian Post — *Caspian Post*
-- `08-31 19:32` Analysis-Depleted US oil stash loses potency as Iran war grinds on - 1470 & 100.3 WMBD — *1470 & 100.3 WMBD*
-- `08-31 19:28` Oil Prices Jump over 2% after US Attacks on Iran - اسلام تايمز — *اسلام تايمز*
-- `08-31 19:22` Oil prices surge after US, Iran resume strikes - Free Press Kashmir — *Free Press Kashmir*
-- `08-31 19:16` US-Iran Hormuz Conflict Drives Oil Past $90: Global Markets Plunge, Fed Rate Hike Expectations Rekindled - odaily.news — *odaily.news*
-- `08-31 19:16` IRGC: Oil tanker catches fire after hitting mines in Strait of Hormuz - Middle East Eye — *Middle East Eye*
-- `08-31 19:08` WTI Oil appreciates beyond $85.50 as tensions rise in Iran - FXStreet — *FXStreet*
-- `08-31 19:07` AM Markets Need to Know: Venezuela oil, Iran tensions, and more (SP500:) - Seeking Alpha — *Seeking Alpha*
+- `08-31 19:41` Trump threatens to blow Kharg Island 'to smithereens' as U.S. and Iran trade fresh strikes - Fortune — *Fortune*
+- `08-31 19:29` Analysis-Depleted US oil stash loses potency as Iran war grinds on - The Mighty 790 KFGO — *The Mighty 790 KFGO*
 
 ## 🌍 시장 전반
 - `08-31 14:54` Internal shift in the AI market rally? Despite semiconductor adjustments, software & cloud stocks are bucking the trend and rising again! Barclays provides a deep dive into the "profit structure of the AI industry"! Which sectors are truly profitable? Is a golden opp - Moomoo — *Moomoo*
 - `08-31 14:37` Stock Market Crash: Sensex Down 500 Points, Nifty Below 24,000 — Three Reasons Why Market Is Falling Today - NDTV Profit — *NDTV Profit*
+- `08-31 14:31` US Stock Market: Jobs data, Broadcom results to test stock rally near record highs - The Economic Times — *The Economic Times*
 - `08-31 00:34` Single-Stock Leverage Products See 1.7T Won Sell-Off After Regulations - 조선일보 — *조선일보*
 - `08-30 22:43` Iran war reshapes global economy as markets rally, energy costs bite (CL1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
+- `08-30 22:20` Top economist says it's 'panic season' in markets and it's your fault for taking summer vacation - Fortune — *Fortune*
 - `08-30 22:00` Jobs report, Broadcom results pose next hurdles for stock market rally - TradingView — *TradingView*
 - `08-30 19:43` If a Stock Market Crash Is Coming, You'll Want to Hold Onto These 3 Warren Buffett Stocks - The Motley Fool — *The Motley Fool*
-- `08-30 18:06` Is a Stock Market Crash Imminent Under President Donald Trump? More Than 85 Years of Historical Precedent Offers an Answer. - The Motley Fool — *The Motley Fool*
-- `08-30 17:26` Is a Stock Market Crash Imminent Under President Donald Trump? More Than 85 Years of Historical Precedent Offers an Answer. - Yahoo Finance — *Yahoo Finance*
