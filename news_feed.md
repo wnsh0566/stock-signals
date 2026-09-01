@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-01 09:46 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-01 17:35 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -22,81 +22,81 @@
 - **D-29** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-01 09:42` [이슈] 증시 떠난 동양생명, 우리금융 지원 받아 새 출발·재도약 - 팍스경제TV — *팍스경제TV*
-- `09-01 09:37` 코스피, 외인 이탈에 6700대로 하락… 코스닥도 약세 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `09-01 09:35` 코스피, 중동 긴장 재고조에 6700선으로 밀려...반도체주 약세 - 녹색경제신문 — *녹색경제신문*
-- `09-01 09:34` 코스피, 외인·기관 '팔자'에 6780선 약세…美 유가·금리 부담 [개장시황] - v.daum.net — *v.daum.net*
-- `09-01 09:31` 오늘도 하락 출발 코스피 장 초반 6700대…힘빠진 삼전하닉 - v.daum.net — *v.daum.net*
-- `09-01 09:30` 국제유가 상승 속 코스피 하락 출발 6700선…코스닥 약보합 - v.daum.net — *v.daum.net*
-- `09-01 09:29` 코스피, 美·이란 충돌·금리 부담에 약세…6784.29 출발[개장시황] - v.daum.net — *v.daum.net*
-- `09-01 09:28` 코스피, 6700선으로 하락 출발…삼전닉스도 약세 - 대전일보 — *대전일보*
+- `09-01 17:19` 중동발 악재에도 코스피 6830선 회복…삼성전자·SK하이닉스 자사주 매입 ‘효과’ - 인더스트리뉴스 — *인더스트리뉴스*
+- `09-01 17:15` [0901마감체크] 코스피, 상승 전환하며 강보합… 코스닥은 1%대 하락 - infostockdaily.co.kr — *infostockdaily.co.kr*
+- `09-01 17:11` [코스피·코스닥 붐업이 남긴 것] ①코스피5000 선언, 무엇이 바뀌었나 - 스트레이트뉴스 — *스트레이트뉴스*
+- `09-01 17:08` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
+- `09-01 17:03` 8월 반도체 수출 호조..코스피 전약후강 마감 - 매일경제 마켓 — *매일경제 마켓*
+- `09-01 16:58` 코스피 0.23%↑…‘삼전·닉스’ 자사주 매입에 6830선 방어 - 스트레이트뉴스 — *스트레이트뉴스*
+- `09-01 16:48` 외국인 올해 코스피서 169조 던졌다…‘사자’는 단 두 달 - 경북매일 — *경북매일*
+- `09-01 16:47` 변동성 커지는 9월 코스피…금리·실적·미 선거 등 세 가지 변수 - 뉴스토마토 — *뉴스토마토*
 
 ## 🇰🇷 반도체·HBM
-- `09-01 09:44` 반도체 5년 전략 새로 짠다…첫 법정 기본계획 연말 확정 - 에너지신문 — *에너지신문*
-- `09-01 09:39` [종합] 반도체 수출 역대 최대, 8월 수출 982.5억 달러…3개월 연속 900억 달러 ↑ - 아주경제 — *아주경제*
-- `09-01 09:39` 中 HBM, 韓 턱밑까지 왔다…CXMT ‘HBM3E’ 소량 생산 - 헤럴드경제 — *헤럴드경제*
-- `09-01 09:39` LH, “10월 용인 반도체 산단 1공구 조성 공사 착공” - 조선비즈 - biz.chosun.com — *biz.chosun.com*
-- `09-01 09:38` 8월 수출, 전년比 68.7% 늘어난 983억달러…반도체 ‘역대 최대’ - 매일일보 — *매일일보*
-- `09-01 09:33` 조선대 ‘반도체 인재 전초기지’로…소재·후공정 집중 - v.daum.net — *v.daum.net*
-- `09-01 09:32` AI 반도체 영토 넓히는 SK... 최태원 "일본 현지 투자 검토" - nbn 시사경제 — *nbn 시사경제*
-- `09-01 09:32` '데크플레이트 글로벌 1위' 덕신이피씨, 美반도체 공장까지 뚫었다…데이터센터 숨은 수혜주 - v.daum.net — *v.daum.net*
+- `09-01 17:22` [2027 예산] 내년 ‘반도체·AI’에 21.3조…생산기반 늘리고 독자모델 키운다 - 아시아투데이 — *아시아투데이*
+- `09-01 17:19` 중동발 악재에도 코스피 6830선 회복…삼성전자·SK하이닉스 자사주 매입 ‘효과’ - 인더스트리뉴스 — *인더스트리뉴스*
+- `09-01 17:17` AI 타고 기업용 SSD 시장 2배 성장…삼성·SK하이닉스 1·2위 - 뉴스핌 — *뉴스핌*
+- `09-01 17:15` "삼성 반도체 설계도 클로드로 자동화" - v.daum.net — *v.daum.net*
+- `09-01 17:13` HBM 수직으로 쌓는다…삼성전자, 3D 적층으로 메모리 한계 돌파 - 디일렉 — *디일렉*
+- `09-01 17:06` 전남광주시의회, 반도체 용수·댐 주민 상생 특위 구성 추진 - v.daum.net — *v.daum.net*
+- `09-01 17:06` 경기연구원, 반도체·AI·로봇 등 첨단산업 분야 12개 규제 개선 제안 - v.daum.net — *v.daum.net*
+- `09-01 17:06` 경기연구원, 반도체·AI·로봇 등 첨단산업 분야 12개 규제 개선 제안 - 경기일보 — *경기일보*
 
 ## 🇰🇷 금융주
-- `09-01 09:25` 한국금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-01 09:24` 메리츠금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-01 09:21` IFRS18 금융지주 영업익 계산법 바뀐다…과징금·기부금도 반영 - news.einfomax.co.kr — *news.einfomax.co.kr*
-- `09-01 09:03` 은행주, 韓 두달 연속 금리 인상, 美 연준 ‘매파적’ 기조에 강세 - 조선비즈 - biz.chosun.com — *biz.chosun.com*
-- `09-01 08:00` 금융지주 성과평가 핵심 'TSR' 비교해보니…올해는 하나금융이 선두 - fetv.co.kr — *fetv.co.kr*
-- `09-01 07:45` KB국민은행뿐 아니었다…캄보디아·인니도 세무조사, 이재명 경고 속 양종희 11일 연임 면접 - 뉴스필드 — *뉴스필드*
-- `09-01 06:03` 한일전 2배 점수차로 졌다…금융사 주가 저평가 이유 살펴보니 - v.daum.net — *v.daum.net*
-- `09-01 06:02` 한일전 2배 점수차로 졌다…금융사 주가 저평가 이유 살펴보니 - 네이트 — *네이트*
+- `09-01 17:27` 웰컴금융그룹, 방정환 장학생 341명 선정…누적 수혜 7000명 이상 [저축은행 돋보기] - 한국금융신문 — *한국금융신문*
+- `09-01 17:25` NH농협금융, ‘NH금융허브’ 출범…전북 미래 전략산업 지원 - 소년한국일보 — *소년한국일보*
+- `09-01 17:05` 국내 4대 금융지주 이어 NH농협금융도 전북 상륙…제3금융중심지 지정 탄력 - 전민일보 — *전민일보*
+- `09-01 17:05` 전북 금융허브에 NH농협금융 가세 - 전북제일신문 — *전북제일신문*
+- `09-01 17:03` NH농협금융, 전북에 'NH금융허브' 출범... 지역 균형발전 견인 - 뉴스락 — *뉴스락*
+- `09-01 16:56` [금융권 소식] 신한금융지주ㆍIBK기업은행ㆍiM뱅크(9.1) - 위클리오늘 — *위클리오늘*
+- `09-01 16:37` 진옥동 신한금융 회장 “신뢰 잃으면 성장 멈춰” - 소년한국일보 — *소년한국일보*
+- `09-01 16:37` iM금융지주, 일괄신고서 제출 소식에 2%대 강세 마감 : 기업주식정보 - 재경일보 — *재경일보*
 
 ## 🇰🇷 정책·거시
+- `09-01 15:56` "신용대출 대신 집단대출"…8·13 대책에 가계대출 흐름 바뀌었다 - 네이트 — *네이트*
+- `09-01 14:59` 수도권 13만 호 신속 공급! 달라지는 8.13 부동산 대책 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑 — *대한민국 정책브리핑*
+- `09-01 09:42` 부동산 대책, 이제 숫자 아닌 속도전…홍지선 앞에 놓인 ‘착공 숙제’ - hdnews.co.kr — *hdnews.co.kr*
 - `09-01 08:30` 813공급대책에서 가장 가능성 높은 입지는? - 네이버 프리미엄콘텐츠 — *네이버 프리미엄콘텐츠*
+- `09-01 08:00` 달라지는 부동산 셈법, 시장은 어디로 ① - 여성조선 — *여성조선*
 - `09-01 00:20` [사설] 지금 대통령이 집값 폭락할까 걱정할 때인가 - 조선일보 — *조선일보*
 - `08-31 19:01` [칼럼] 99번째 부동산 대책 정부는 100번째를 준비하나 - 네이트 — *네이트*
 - `08-31 18:01` 수도권 집값 잡으려 그린벨트 푸는 정부…대전은 '상대적 박탈감' - 대전일보 — *대전일보*
-- `08-31 17:36` 실러가 8·13 대책을 읽는다면...[서순탁의 파이데이아] - sedaily.com — *sedaily.com*
-- `08-31 17:04` 정부 8·13 부동산 공급 대책…"지역 특수성 반영한 맞춤형 대응 절실" - 대구일보 — *대구일보*
-- `08-31 16:17` [성명] "주택가격 폭락대비" 지시, 대통령은 시장을 제대로 보고 있는가 - 경제정의실천시민연합 — *경제정의실천시민연합*
-- `08-31 15:20` “그린벨트 풀린다” 기획부동산 적발…강동 임야 필지 168명에 쪼개 팔았다 - sedaily.com — *sedaily.com*
 
 ## 🌍 AI·빅테크
+- `09-01 17:05` Bullish extends $100M stablecoin debt facility to USD.AI for GPU-backed credit - CryptoRank — *CryptoRank*
+- `09-01 14:42` Nvidia's Credit Freeze: A $500 Billion Question Hangs Over the Chipmaker's Momentum - ad-hoc-news.de — *ad-hoc-news.de*
+- `09-01 14:35` Nvidia financing rethink may deflate business models of AI darlings - Stockhead — *Stockhead*
+- `09-01 12:57` Nvidia Just Paused Part of Its AI Financing Machine. The Timing Is Awkward - Yahoo Finance — *Yahoo Finance*
+- `09-01 08:40` Nvidia (NVDA) Invests $3.5 Billion in MediaTek. Is This the Next Leg of Its AI Growth? - Yahoo Finance — *Yahoo Finance*
+- `09-01 06:31` Nvidia Reports $96.2 Billion Revenue as AI Chip Demand Drives Growth - Межа. Новини України. — *Межа. Новини України.*
 - `09-01 04:44` OpenAI Holds $5.5B Warrants in SB Energy - Intellectia AI — *Intellectia AI*
 - `09-01 04:01` OpenAI Got $5.5B in SB Energy Warrants to Lease Nvidia-Backed AI Data Centers - Benzinga — *Benzinga*
-- `09-01 03:23` Hundreds of Billions in Loans and Record Purchase Orders — Nvidia Bets on AI's Future - finance.biggo.com — *finance.biggo.com*
-- `09-01 02:10` Here comes the AI capex shocker, Goldman Sachs says - finance.yahoo.com — *finance.yahoo.com*
-- `09-01 00:51` Amazon’s Appeal Is More About This Than The AI Capex Fear Discount - finance.yahoo.com — *finance.yahoo.com*
-- `09-01 00:40` Gorilla Surges 5% as AI Infrastructure Spending Ramps: Is a B- Credit Rating Enough to Fund It? - 24/7 Wall St. — *24/7 Wall St.*
-- `09-01 00:30` Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns - Benzinga — *Benzinga*
-- `09-01 00:15` Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout - TechCrunch — *TechCrunch*
 
 ## 🌍 연준·금리
-- `09-01 08:55` Trump Claims U.S. GDP Could Grow 20%, Urges Fed to Cut Rates Rather Than Hike on Growth - finance.biggo.com — *finance.biggo.com*
-- `09-01 06:20` WATCH: Trump says Fed Chair Warsh will 'do what he has to do' on possible rate hikes - PBS — *PBS*
-- `09-01 06:19` Wall Street rocked as US Iran strikes send oil surging - The Nightly — *The Nightly*
-- `09-01 05:50` Trump says U.S. growth could hit 20%. It’s happened only once since WWII - CNBC — *CNBC*
-- `09-01 05:35` Why interest rate expectations are pointing north - marketplace.org — *marketplace.org*
-- `09-01 05:28` Oil prices surge on renewed fighting in US-Iran war - Yahoo Finance Singapore — *Yahoo Finance Singapore*
-- `09-01 05:16` Gold Steadies After Tumbling as Warsh Spurs Fed Rate-Hike Bets - Bloomberg.com — *Bloomberg.com*
-- `09-01 04:56` News | Mortgage rates hit highest level of 2026 after Fed chief's inflation warning - CoStar — *CoStar*
+- `09-01 17:22` Global Bond Yields Surge as Oil Prices Fuel Inflation Worries - WSJ — *WSJ*
+- `09-01 17:10` The Odds of a September Rate Hike Have Nearly Doubled, Courtesy of Fed Chair Kevin Warsh -- Here's What He Just Said - fool.com — *fool.com*
+- `09-01 15:23` EXCLUSIVE: September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflatio - Benzinga — *Benzinga*
+- `09-01 14:32` CICC: How to Interpret Warsh's Shift in Stance? The Federal Reserve Faces a "Triple Constraint" - 富途牛牛 — *富途牛牛*
+- `09-01 14:32` CICC: How to Interpret Waller’s Shift in Stance? The Federal Reserve Faces a “Triple Constraint” - 富途牛牛 — *富途牛牛*
+- `09-01 14:26` Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance - The Japan Times — *The Japan Times*
+- `09-01 13:20` Global Bond Yields Surge to 3.72%: Oil Prices, Fed Rate Hike Expectations Drive Rally - News and Statistics - IndexBox — *IndexBox*
+- `09-01 13:00` Rate rise expectations mount in Hong Kong following Fed chief’s comments - South China Morning Post — *South China Morning Post*
 
 ## 🌍 유가·지정학
-- `09-01 09:33` What the U.S.-Iran strikes mean for oil, maritime safety - THIRTEEN - New York Public Media — *THIRTEEN - New York Public Media*
-- `09-01 09:17` Trump warns Iran as Strait of Hormuz tensions drive up oil prices - CBS News — *CBS News*
-- `09-01 09:07` Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `09-01 09:00` New Tech Breakthrough Aims To Solve The World's Plastic Waste Problem - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-01 08:58` Dark transits and tanker relays: Oil producers workarounds to keep oil moving past Hormuz - investingLive — *investingLive*
-- `09-01 08:02` Oil Extends Rally, WTI Tops $86 as U.S.-Iran Clashes Resume - bloomingbit — *bloomingbit*
-- `09-01 08:00` Why More Venezuelan Oil Won't Solve America's Gasoline Problem - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-01 07:32` Oil rises more than 2% after US attack on Iranian island - Santa Clarita Valley Signal — *Santa Clarita Valley Signal*
+- `09-01 17:15` Europe's Wind Power Buildout Jumps 30% in First Half - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-01 17:07` Two Oil Supertankers Hit By Projectiles In Hormuz, Marisks Says - Forex Factory — *Forex Factory*
+- `09-01 17:06` Two Oil Supertankers Hit by Projectiles in Hormuz, Marisks Says - Bloomberg.com — *Bloomberg.com*
+- `09-01 16:53` Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `09-01 16:23` Global oil prices rise amid escalating tensions in the Strait of Hormuz - صوت الإمارات — *صوت الإمارات*
+- `09-01 16:22` Hormuz Crisis Redirects Global Oil Trade Toward the Americas - Межа. Новини України. — *Межа. Новини України.*
+- `09-01 16:04` Oil tanker hit by three unknown projectiles near Strait of Hormuz, crew remains safe - Межа. Новини України. — *Межа. Новини України.*
+- `09-01 15:55` CCTV Script 01/09/26 - CNBC — *CNBC*
 
 ## 🌍 시장 전반
-- `09-01 09:12` Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily — *Investor's Business Daily*
+- `09-01 16:11` European stocks flat as bond sell-off and fresh Middle East strikes rattles market - Investing.com — *Investing.com*
+- `09-01 16:09` Bond selloff deepens as rising energy prices stoke inflation fears - Reuters — *Reuters*
+- `09-01 15:11` Oil Rises, Triggering Broad Selloff Across Equity, Bond Markets in Asia -- Update - marketscreener.com — *marketscreener.com*
+- `09-01 14:48` Korea’s AI rally must go beyond chips: Societe Generale - The Korea Herald — *The Korea Herald*
+- `09-01 12:39` India's Biggest Stock Market Booms And Busts - Rediff — *Rediff*
+- `09-01 11:20` Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily — *Investor's Business Daily*
+- `09-01 09:35` Stock Market Rally Fuels 'Sell Stocks, Buy a Home' Trend — Funds Top ₩8 Trillion in Just 7 Months - finance.biggo.com — *finance.biggo.com*
 - `09-01 07:00` Tom Lee Says September Crash Fear Could Trigger a Stock Rally, Push Bitcoin 2x - BeInCrypto — *BeInCrypto*
-- `09-01 03:00` Will the Stock Market Crash in 2027? Here's What We Know. - The Motley Fool — *The Motley Fool*
-- `09-01 02:20` Will the Stock Market Crash in 2027? Here's What We Know. - finance.yahoo.com — *finance.yahoo.com*
-- `09-01 01:12` Ferreycorp stock trades close to 52-week high as Lima market rally lifts valuation - AD HOC NEWS — *AD HOC NEWS*
-- `09-01 00:31` PCG, EIX Stocks Crash As Wall Street Warns Of Liability Exposure On California’s Latest Wildfire Legislation – Retail Calls Selloff An ‘Overreaction’ - Stocktwits — *Stocktwits*
-- `08-31 23:03` Tom Lee Sees 'Very Strong' September Market Rally If Fed Holds Rates – Says Bitcoin’s ‘First Leg Up’ Has Begun - finance.yahoo.com — *finance.yahoo.com*
-- `08-31 22:11` The markets could rally 'very strongly' if the Fed holds rates in September: Fundstrat's Tom Lee - CNBC — *CNBC*
