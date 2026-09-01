@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-01 17:53 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-01 18:24 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -22,81 +22,25 @@
 - **D-29** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-01 17:51` [속보]힘없는 코스피 '거래대금 급감', 이틀 연속 강보합 마감했지만... - KBC광주방송 — *KBC광주방송*
-- `09-01 17:41` [亞증시-종합] 장기 국채 금리 상승 속 전반적으로 하락 - KB Think — *KB Think*
-- `09-01 17:32` 개인·외인·기관 다 팔았는데…삼전닉스 '자사주 수급'이 또 코스피 살렸다 - hidomin.com — *hidomin.com*
-- `09-01 17:25` 코스피 6,835.80 코스닥 821.25 - KBS 뉴스 — *KBS 뉴스*
-- `09-01 17:19` 중동발 악재에도 코스피 6830선 회복…삼성전자·SK하이닉스 자사주 매입 ‘효과’ - 인더스트리뉴스 — *인더스트리뉴스*
-- `09-01 17:15` [0901마감체크] 코스피, 상승 전환하며 강보합… 코스닥은 1%대 하락 - 인포스탁데일리 — *인포스탁데일리*
-- `09-01 17:11` [코스피·코스닥 붐업이 남긴 것] ①코스피5000 선언, 무엇이 바뀌었나 - 스트레이트뉴스 — *스트레이트뉴스*
-- `09-01 17:08` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🇰🇷 반도체·HBM
-- `09-01 17:39` 민형배 전남광주특별시장, SK하이닉스 이천캠퍼스 방문 “호남권 반도체 클러스터 원팀…기업보다 한발 앞서 준비” - news21tongsin.co.kr — *news21tongsin.co.kr*
-- `09-01 17:36` “성과급 배분하라”…SK하이닉스 하청노조, 원청 교섭 요구 [MTN리포트-시험대 오른 노봉법 ①] - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `09-01 17:29` 8월 수출 1000억 달러 육박…반도체 역대 최대 기록 경신 - donga.com — *donga.com*
-- `09-01 17:27` ‘AI 시대’ 올라탄 제엠제코, 전력반도체 실적 신기록 행진 - v.daum.net — *v.daum.net*
-- `09-01 17:22` [2027 예산] 내년 ‘반도체·AI’에 21.3조…생산기반 늘리고 독자모델 키운다 - 아시아투데이 — *아시아투데이*
-- `09-01 17:19` 중동발 악재에도 코스피 6830선 회복…삼성전자·SK하이닉스 자사주 매입 ‘효과’ - 인더스트리뉴스 — *인더스트리뉴스*
-- `09-01 17:19` 8월 수출 982.5억 달러로 68.7%↑…반도체 수출 467억 달러로 ‘역대 최대’ - KBS 뉴스 — *KBS 뉴스*
-- `09-01 17:15` "삼성 반도체 설계도 클로드로 자동화" - v.daum.net — *v.daum.net*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🇰🇷 금융주
-- `09-01 17:34` iM금융지주, 1,000억 원 상각형 조건부자본증권 발행조건 정정...자금용도 채무상환으로 변경 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-01 17:30` 반도체 주춤할 때 은행주 나 홀로 3.4%↑… 한미 금리가 가른 희비 - 한국일보 — *한국일보*
-- `09-01 17:27` 웰컴금융그룹, 방정환 장학생 341명 선정…누적 수혜 7000명 이상 [저축은행 돋보기] - fntimes.com — *fntimes.com*
-- `09-01 17:25` NH농협금융, ‘NH금융허브’ 출범…전북 미래 전략산업 지원 - 소년한국일보 — *소년한국일보*
-- `09-01 17:05` 국내 4대 금융지주 이어 NH농협금융도 전북 상륙…제3금융중심지 지정 탄력 - 전민일보 — *전민일보*
-- `09-01 17:03` NH농협금융, 전북에 'NH금융허브' 출범... 지역 균형발전 견인 - 뉴스락 — *뉴스락*
-- `09-01 16:56` [금융권 소식] 신한금융지주ㆍIBK기업은행ㆍiM뱅크(9.1) - 위클리오늘 — *위클리오늘*
-- `09-01 16:37` 진옥동 신한금융 회장 “신뢰 잃으면 성장 멈춰” - 소년한국일보 — *소년한국일보*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🇰🇷 정책·거시
-- `09-01 15:56` "신용대출 대신 집단대출"…8·13 대책에 가계대출 흐름 바뀌었다 - 네이트 — *네이트*
-- `09-01 14:59` 수도권 13만 호 신속 공급! 달라지는 8.13 부동산 대책 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑 — *대한민국 정책브리핑*
-- `09-01 09:42` 부동산 대책, 이제 숫자 아닌 속도전…홍지선 앞에 놓인 ‘착공 숙제’ - hdnews.co.kr — *hdnews.co.kr*
-- `09-01 08:30` 813공급대책에서 가장 가능성 높은 입지는? - 네이버 프리미엄콘텐츠 — *네이버 프리미엄콘텐츠*
-- `09-01 08:00` 달라지는 부동산 셈법, 시장은 어디로 ① - 여성조선 — *여성조선*
-- `08-31 19:01` [칼럼] 99번째 부동산 대책 정부는 100번째를 준비하나 - 네이트 — *네이트*
-- `08-31 18:01` 수도권 집값 잡으려 그린벨트 푸는 정부…대전은 '상대적 박탈감' - 대전일보 — *대전일보*
-- `08-31 17:36` 실러가 8·13 대책을 읽는다면...[서순탁의 파이데이아] - 서울경제 — *서울경제*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🌍 AI·빅테크
-- `09-01 17:05` Bullish extends $100M stablecoin debt facility to USD.AI for GPU-backed credit - CryptoRank — *CryptoRank*
-- `09-01 14:42` Nvidia's Credit Freeze: A $500 Billion Question Hangs Over the Chipmaker's Momentum - ad-hoc-news.de — *ad-hoc-news.de*
-- `09-01 14:35` Nvidia financing rethink may deflate business models of AI darlings - Stockhead — *Stockhead*
-- `09-01 12:57` Nvidia Just Paused Part of Its AI Financing Machine. The Timing Is Awkward - finance.yahoo.com — *finance.yahoo.com*
-- `09-01 08:40` Nvidia (NVDA) Invests $3.5 Billion in MediaTek. Is This the Next Leg of Its AI Growth? - finance.yahoo.com — *finance.yahoo.com*
-- `09-01 06:31` Nvidia Reports $96.2 Billion Revenue as AI Chip Demand Drives Growth - Межа. Новини України. — *Межа. Новини України.*
-- `09-01 04:44` OpenAI Holds $5.5B Warrants in SB Energy - Intellectia AI — *Intellectia AI*
-- `09-01 04:01` OpenAI Got $5.5B in SB Energy Warrants to Lease Nvidia-Backed AI Data Centers - Benzinga — *Benzinga*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🌍 연준·금리
-- `09-01 17:36` The Odds of a September Rate Hike Have Nearly Doubled, Courtesy of Fed Chair Kevin Warsh -- Here's What He Just Said - The Motley Fool — *The Motley Fool*
-- `09-01 17:21` Global Bond Yields Surge as Oil Prices Fuel Inflation Worries - WSJ — *WSJ*
-- `09-01 15:23` EXCLUSIVE: September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflatio - Benzinga — *Benzinga*
-- `09-01 14:32` CICC: How to Interpret Warsh's Shift in Stance? The Federal Reserve Faces a "Triple Constraint" - news.futunn.com — *news.futunn.com*
-- `09-01 14:32` CICC: How to Interpret Waller’s Shift in Stance? The Federal Reserve Faces a “Triple Constraint” - news.futunn.com — *news.futunn.com*
-- `09-01 13:20` Global Bond Yields Surge to 3.72%: Oil Prices, Fed Rate Hike Expectations Drive Rally - News and Statistics - IndexBox — *IndexBox*
-- `09-01 13:00` Rate rise expectations mount in Hong Kong following Fed chief’s comments - South China Morning Post — *South China Morning Post*
-- `09-01 09:42` Silver Pressured by Fed Rate Hike Bets - TradingView — *TradingView*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🌍 유가·지정학
-- `09-01 17:49` Iran Ready to Join Construction of Oil Refinery in Kyrgyzstan - Caspian Post — *Caspian Post*
-- `09-01 17:48` Brent crude rises above $91 as US-Iran tensions escalate - Anadolu Ajansı — *Anadolu Ajansı*
-- `09-01 17:33` Oil prices rise amid latest US-Iran fighting - Mehr News Agency — *Mehr News Agency*
-- `09-01 17:15` Europe's Wind Power Buildout Jumps 30% in First Half - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-01 17:06` Two Oil Supertankers Hit by Projectiles in Hormuz, Marisks Says - Bloomberg.com — *Bloomberg.com*
-- `09-01 16:53` Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `09-01 16:23` Global oil prices rise amid escalating tensions in the Strait of Hormuz - صوت الإمارات — *صوت الإمارات*
-- `09-01 16:22` Hormuz Crisis Redirects Global Oil Trade Toward the Americas - Межа. Новини України. — *Межа. Новини України.*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🌍 시장 전반
-- `09-01 16:11` European stocks flat as bond sell-off and fresh Middle East strikes rattles market - Investing.com — *Investing.com*
-- `09-01 15:13` Bond selloff deepens as rising energy prices stoke inflation fears - finance.yahoo.com — *finance.yahoo.com*
-- `09-01 15:11` Oil Rises, Triggering Broad Selloff Across Equity, Bond Markets in Asia -- Update - marketscreener.com — *marketscreener.com*
-- `09-01 14:48` Korea’s AI rally must go beyond chips: Societe Generale - The Korea Herald — *The Korea Herald*
-- `09-01 12:39` India's Biggest Stock Market Booms And Busts - Rediff — *Rediff*
-- `09-01 11:20` Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily — *Investor's Business Daily*
-- `09-01 09:35` Stock Market Rally Fuels 'Sell Stocks, Buy a Home' Trend — Funds Top ₩8 Trillion in Just 7 Months - finance.biggo.com — *finance.biggo.com*
-- `09-01 07:00` Tom Lee Says September Crash Fear Could Trigger a Stock Rally, Push Bitcoin 2x - BeInCrypto — *BeInCrypto*
+- ⚠️ 수집 실패: HTTPError
