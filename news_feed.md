@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-02 17:07 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-02 17:46 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -22,34 +22,34 @@
 - **D-28** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-02 17:00` 코스피, 사흘 만에 내림세… 코스닥, 3거래일 연속 하락 - 천지일보 — *천지일보*
-- `09-02 16:56` 중동 쇼크에 코스피 4% 급락…삼전닉스 자사주 매입도 못 막았다 - hidomin.com — *hidomin.com*
-- `09-02 16:49` 코스피, 유가·금리 불안에 6500선 마감…삼전·하닉 4%대 하락 - 시사저널 — *시사저널*
-- `09-02 16:46` [속보]'미·이란 충돌·금리·유가 공포' 코스피 3.99%↓… 6,500선 급락 - KBC광주방송 — *KBC광주방송*
-- `09-02 16:40` [증시 인사이트] 기타법인 방어막에도 코스피 약세…느는 건 빚투뿐? - v.daum.net — *v.daum.net*
-- `09-02 16:39` [뉴욕증시 전략] 국채수익률·국제유가 상승…뉴욕증시 이중 부담 - v.daum.net — *v.daum.net*
-- `09-02 16:38` 美·이란 재공습에 ‘유가·금리 쇼크’까지 코스피 덮쳤다…매도 사이트카 턱밑에서 멈춰 - 이코노미스트 — *이코노미스트*
-- `09-02 16:33` 중동발 충격에 코스피 4% 급락…외국인·기관 4조원 ‘매물 폭탄’ - 산경투데이 — *산경투데이*
+- `09-02 17:38` 코스피 시총 상위 30종목 일제히 ‘파란불’...외인·기관 4조원 던졌다 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `09-02 17:31` 외국인·기관 4조원 ‘팔자’…코스피 4% 급락, 6600선 붕괴 - 굿모닝경제 — *굿모닝경제*
+- `09-02 17:30` 코스피 6,562.72 코스닥 803.98 - v.daum.net — *v.daum.net*
+- `09-02 17:28` [퇴근길머니] 코스피 거래대금 ’뚝’…하나·신한, 대출문 다시 연다 - 연합뉴스TV — *연합뉴스TV*
+- `09-02 17:22` [마감시황] 코스피, 외인·기관 '팔자'에 4% 급락…6600선으로 후퇴 - v.daum.net — *v.daum.net*
+- `09-02 17:17` [0902마감체크] 코스피, 중동 리스크 고조에 4% 급락… 6500선 후퇴 - 인포스탁데일리 — *인포스탁데일리*
+- `09-02 17:05` 유가·금리 불안에 코스피 4% 털썩, 6500선…“고금리 장기화 대비해야” - 한겨레 — *한겨레*
+- `09-02 17:05` 증시 결제 주기 'T+1' 전환에…"공감하나 충분한 시간 필요" - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
+- `09-02 17:26` 동탄 집값 떠받치는 '반도체 파워'… 29조 자금 풀린다 - 국토일보 — *국토일보*
+- `09-02 17:21` 동서발전, 용인 반도체 산단 전력 인프라 구축 점검 - 천지일보 — *천지일보*
+- `09-02 17:18` 최태원 “일본 반도체공장 건설 검토”…일 키오시아와 공동생산도 언급 - 한겨레 — *한겨레*
+- `09-02 17:14` 고려아연 반도체황산 생산능력 연 32만톤, 최대 50만톤까지 확대 추진 - 비즈니스포스트 — *비즈니스포스트*
+- `09-02 17:14` 동서발전 권명호 사장, 용인 반도체 클러스터 전력공급 ‘첫 단추’ 점검 - energydaily.co.kr — *energydaily.co.kr*
+- `09-02 17:06` 한국 '소버린 AI' 선두 국가로 평가, "엔비디아 수혜 커지고 삼성전자 SK하이닉스는 불리" - 비즈니스포스트 — *비즈니스포스트*
 - `09-02 17:03` 장세일 영광군수, 민형배 시장에 서부권 반도체 산업 연계구상 제안 - 프레시안 — *프레시안*
-- `09-02 16:53` 서남권 반도체 물 65만t 해법 ‘복잡’…전북 용담댐·만경강 경쟁력 부상 - 전북일보 인터넷신문 — *전북일보 인터넷신문*
-- `09-02 16:53` 서남권 반도체 물 65만t 해법 ‘복잡’…전북 용담댐·만경강 경쟁력 부상 - v.daum.net — *v.daum.net*
-- `09-02 16:45` LH, 광명시흥·용인 반도체 산단 조성 속도낸다 - 인천일보 — *인천일보*
-- `09-02 16:43` OKX, 삼성전자·SK하이닉스 2배 ETF 무기한선물 상장 돌연 연기 - 디지털애셋 — *디지털애셋*
-- `09-02 16:43` [경제 이슈] 중국 반도체 수출 대폭발? 알고보니…"한국산 메모리 훈풍 타고 날았다" - 프리진경제 — *프리진경제*
-- `09-02 16:41` 최태원 회장 "키옥시아와 공동생산도 선택지"…日 반도체 투자 가능성 열어 By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `09-02 16:40` [증시 인사이트] 기타법인 방어막에도 코스피 약세…느는 건 빚투뿐? - v.daum.net — *v.daum.net*
+- `09-02 17:02` 코스피 4% 급락 6,562…삼성전자·SK하이닉스도 못 버틴 중동 충격 - 톱스타뉴스 — *톱스타뉴스*
 
 ## 🇰🇷 금융주
+- `09-02 17:13` NH농협금융, 전북 전략산업 지원 위한 금융허브 출범 - 이코리아 — *이코리아*
+- `09-02 17:06` [더밸류 브리핑] 오늘의 금융계 소식…우리금융그룹· 신용보증기금 - 더밸류뉴스 — *더밸류뉴스*
 - `09-02 16:42` 하나금융지주, 환율 10원에 손익 93억 움직인다…3분기 1500억 ‘환율 효과’ 기대 - PRESS9 — *PRESS9*
 - `09-02 16:41` 신한금융지주에 다시 베팅한 美 캐피털그룹…지분 5.02% - PRESS9 — *PRESS9*
-- `09-02 16:09` 금리인상 모멘텀에 웃는 은행주 기지개 - hankyung.com — *hankyung.com*
-- `09-02 16:04` '신의직장' 삼전닉스 아니었어?…올 상반기 급여 1위 한국금융지주 - hankyung.com — *hankyung.com*
+- `09-02 16:33` 1360원대 환율 급락에 방긋 웃는 4대 금융지주... 주주환원·실적 청신호 - 글로벌이코노믹 — *글로벌이코노믹*
+- `09-02 16:09` 금리인상 모멘텀에 웃는 은행주 기지개 - 한국경제 — *한국경제*
+- `09-02 16:04` SK하이닉스도 제쳤다…상반기 급여 '1.8억' 1위 회사 어디 - 한국경제 — *한국경제*
 - `09-02 15:50` 한국금융지주 1억8400만원…이랜드월드는 1700만원 - 자본시장뉴스 — *자본시장뉴스*
-- `09-02 15:47` 한국금융지주 주가 5,600원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-02 15:41` ‘기업가치 제고 의지’ 재천명…임종룡 우리금융 회장, 자사주 5000주 매입했다 - 위키트리 — *위키트리*
-- `09-02 15:30` 4대 금융그룹, 보험 경쟁 확대…비은행 수익원 확보 속도 - 라이센스뉴스 — *라이센스뉴스*
 
 ## 🇰🇷 정책·거시
 - `09-02 05:41` 국힘 국토위, 오세훈과 만찬…부동산 정책현안 논의 - 네이트 — *네이트*
@@ -64,39 +64,39 @@
 ## 🌍 AI·빅테크
 - `09-02 03:40` Anthropic Locks In $35 Billion in AI Computing. Nvidia Backs the Massive Cloud Expansion. - International Business Times — *International Business Times*
 - `09-02 03:33` Anthropic Strikes $35 Billion Cloud Deal as Nvidia Deepens AI Infrastructure Role - PYMNTS.com — *PYMNTS.com*
-- `09-02 02:37` Nvidia CEO Jensen Huang Drops a Bombshell on AI Spending - finance.yahoo.com — *finance.yahoo.com*
+- `09-02 02:37` Nvidia CEO Jensen Huang Drops a Bombshell on AI Spending - Yahoo Finance — *Yahoo Finance*
 - `09-02 02:27` Nvidia Slips As AI Circular Financing Fears Rise Amid $3.5 Billion Deal; Is Nvidia A Buy Now? - Investor's Business Daily — *Investor's Business Daily*
 - `09-02 00:32` Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI - CNBC — *CNBC*
 - `09-02 00:01` Inside OpenAI’s experiment with AI coding in finance - CFO Dive — *CFO Dive*
 - `09-01 14:12` Bullish Commits $100 Million To GPU-Backed AI Loans Via USD.AI - Crowdfund Insider — *Crowdfund Insider*
-- `09-01 12:57` Nvidia Just Paused Part of Its AI Financing Machine. The Timing Is Awkward - finance.yahoo.com — *finance.yahoo.com*
+- `09-01 12:57` Nvidia Just Paused Part of Its AI Financing Machine. The Timing Is Awkward - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `09-02 17:23` US dollar hits 7-week high, Middle East conflict and rate paths in focus - The Straits Times — *The Straits Times*
+- `09-02 16:00` Chicago Fed President Austan Goolsbee on inflation, unemployment, and data centers - Fortune — *Fortune*
 - `09-02 15:17` Jobs Data Could Complicate the Fed’s Rate Hike Plans - Barron's — *Barron's*
+- `09-02 14:09` Gold Rates Today: Yellow Metal Prices Fall By Rs 1,600 To Rs 1,50,000 On MCX - ndtvprofit.com — *ndtvprofit.com*
 - `09-02 13:12` Dollar steadies near two-week high as Middle East hostilities lift oil - WTVB — *WTVB*
 - `09-02 12:56` Bitcoin Faces September Fed Rate Hike Clouds After August's 25% Surge - finance.biggo.com — *finance.biggo.com*
+- `09-02 12:42` Ethereum declines as expectations of higher Fed interest rates intensify - equiti.com — *equiti.com*
 - `09-02 11:24` Dollar Strengthens on Fed Rate Hike Bets - TradingView — *TradingView*
-- `09-02 10:22` Northeast Ohio Deal Activity, September 2026: The Federal Reserve and the cost of dealmaking - sbnonline.com — *sbnonline.com*
-- `09-02 04:12` Rising bond yields threaten to push up U.S. borrowing costs. Here's what to know. - CBS News — *CBS News*
-- `09-02 03:02` Gold Drops for Third Day on Bond Selloff, Fed Rate Hike Bets - News and Statistics - IndexBox — *IndexBox*
-- `09-02 01:46` FOMC Must Hike Rates if Elevated Inflation Persists, Fed Governor Barr Says - finance.yahoo.com — *finance.yahoo.com*
 
 ## 🌍 유가·지정학
+- `09-02 17:39` IRGC claims that another two oil tankers have been disabled after hitting mines in the Strait of Hormuz - investinglive.com — *investinglive.com*
+- `09-02 17:37` Saudi Bahri: Two dead after Monday attack on oil tanker in Hormuz - Arab News — *Arab News*
+- `09-02 17:26` Gulf oil firms to target VLCC resales in battle to get oil through Hormuz, Capital chief says - TradeWinds News — *TradeWinds News*
 - `09-02 16:15` Oil Prices Rise as Hormuz Shipping Falls After US-Iran Strikes - The Media Line — *The Media Line*
 - `09-02 16:15` Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-02 16:04` US Energy Secretary: 17 Million Oil Barrels Crossed Hormuz on Monday - Fana News - — *Fana News -*
 - `09-02 15:51` The US military targets Iranian oil tankers while they are docked... a new escalation threatens maritime security - صوت الإمارات — *صوت الإمارات*
 - `09-02 15:50` BP Names Ian Tyler Permanent Chair After Manifold's Abrupt Exit - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-02 15:01` Oil Prices Rise as US-Iran Strikes Resume... - jordannews.jo — *jordannews.jo*
-- `09-02 14:40` Oil Price Shock Puts Granite Ridge Resources Stock And Energy Peers In Focus - simplywall.st — *simplywall.st*
-- `09-02 14:28` US-Iran conflict intensifies as Trump downplays desire for deal - Luxembourg Times — *Luxembourg Times*
 
 ## 🌍 시장 전반
-- `09-02 16:28` Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5% - economictimes.com — *economictimes.com*
+- `09-02 16:28` Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5% - The Economic Times — *The Economic Times*
+- `09-02 15:36` The bond market has a supply problem — and it’s pushing yields higher - Business Insider — *Business Insider*
 - `09-02 15:15` Asian shares decline, stocks slip on Wall St, while global bond sell-off intensifies - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
-- `09-02 14:58` Multibagger Smallcap Stock Jumps Over 15% In Trade. Here's Why - ndtvprofit.com — *ndtvprofit.com*
-- `09-02 14:43` Global Market: China, Hong Kong stocks fall as global bond selloff, oil surge weigh on sentiment - economictimes.com — *economictimes.com*
-- `09-02 13:36` Stock Market Crash: Sensex Plunges 800 Points, Nifty Falls Over 250 Points Amid Global Sell-Off - News18 — *News18*
+- `09-02 15:06` Bond selloff deepens as inflation risks, oil prices jolt markets - Reuters — *Reuters*
+- `09-02 14:43` Global Market: China, Hong Kong stocks fall as global bond selloff, oil surge weigh on sentiment - The Economic Times — *The Economic Times*
+- `09-02 13:36` Stock Market Crash: Sensex Plunges 800 Points, Nifty Falls Over 250 Points Amid Global Sell-Off - news18.com — *news18.com*
 - `09-02 13:25` Stock Market Crash: Sensex Sides, Nifty Below 24,000 — Three Reasons Why Dalal Street Is Under Pressure - ndtvprofit.com — *ndtvprofit.com*
 - `09-02 13:08` Bessent downplays bond market concerns amid global sell-off - The Washington Post — *The Washington Post*
-- `09-02 12:58` Why is market falling today? Sensex, Nifty selloff wipes out Rs 5 lakh crore investor wealth: 5 key factor - economictimes.com — *economictimes.com*
