@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-03 08:32 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-03 16:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -21,78 +21,75 @@
 - **D-27** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-03 08:24` 코스피, 3.99% 급락 딛고 반등할까…美반도체주 강세 ‘훈풍’ - 경북매일 — *경북매일*
-- `09-03 08:23` [굿모닝 증시]美, 국채 금리 진정에 델 실적 업고 강세…韓도 반등 전망 - 아시아경제 — *아시아경제*
-- `09-03 08:17` [브라질증시] '초박빙' 대선판세 주목하며 3% 급등…헤알화 강세 - 뉴스핌 — *뉴스핌*
-- `09-03 08:01` 삼성전자·SK하이닉스가 이끈 올해 코스피…코스닥은 소외 심화 [1분 브리프] - v.daum.net — *v.daum.net*
-- `09-03 07:59` [속보] 美 국채금리 진정에 AI株 훈풍 … 뉴욕증시 반등, 삼전닉스 프리장 1%대 강세 - 뉴데일리 — *뉴데일리*
-- `09-03 07:47` 뉴욕증시, 3거래일 하락 끊고 반등 … 다우 0.56%↑ - 뉴데일리 — *뉴데일리*
-- `09-03 07:43` [0903개장체크] 美 증시, 뉴욕 연은 총재 금리 인상 신중론 발언 속 일제히 반등 - 인포스탁데일리 — *인포스탁데일리*
-- `09-03 07:27` 증시 오늘 '핫이슈' "뉴욕증시, 국채금리 숨고르기에 4일만에 반등" - stock.mk.co.kr — *stock.mk.co.kr*
+- `09-03 16:54` [마감] 코스피, 장중 '널뛰기' 끝 6579선 강보합 마감 - 알파경제 — *알파경제*
+- `09-03 16:46` 오후 2시 증시에 무슨 일이?…코스피, 10분 만에 고점대비 4%p 급락 - 아주경제 — *아주경제*
+- `09-03 16:42` ‘이유 없이 뚝’ 코스피…개인·외국인·기관 모두 던져 - 한겨레 — *한겨레*
+- `09-03 16:31` [표] 코스피 지수선물·옵션 시세표(3일)-2 - 매일경제 마켓 — *매일경제 마켓*
+- `09-03 16:31` [표] 코스피 지수선물·옵션 시세표(3일)-3 - 매일경제 마켓 — *매일경제 마켓*
+- `09-03 16:29` [마감시황] 코스피, 장중 출렁임 끝 보합권 마감…외인·기관 매도에 상승폭 반납 - v.daum.net — *v.daum.net*
+- `09-03 16:29` [마감시황] 코스피, 6500대 강보합…자사주 매입 '버팀목' - newspim.com — *newspim.com*
+- `09-03 16:28` 오후 2시 갑자기 급락?…'수급 절벽' 코스피 6600선 아래로[시황종합] - 뉴스1 — *뉴스1*
 
 ## 🇰🇷 반도체·HBM
-- `09-03 08:20` 곽노정 SK하이닉스 사장, "성과급은 정당한 보상, 지킬 것" - 글로벌E — *글로벌E*
-- `09-03 08:16` 에이텀, '알짜 자회사' 청한전자 성장 본격화…AI MLCC·반도체로 재평가 기대 - 아시아경제 — *아시아경제*
-- `09-03 08:15` [뉴욕증시] 국채금리 급등 진정·AI 반도체 강세 힘입어 반등…다우지수 0.56%↑ - 신아일보 — *신아일보*
-- `09-03 08:14` "티씨케이, SiC 포커스링 세계 1위…中 반도체 부상도 기회"-IBK - 한국경제 — *한국경제*
-- `09-03 08:07` 고려아연, 제조사 수요 선제 대응..반도체황산 생산능력 28만t→32만t 확대 - 한국정경신문 — *한국정경신문*
-- `09-03 08:03` 미국, 반도체 표적 관세 예고…"미국서 만들어야" - 더팩트 — *더팩트*
-- `09-03 08:01` 삼성전자·SK하이닉스가 이끈 올해 코스피…코스닥은 소외 심화 [1분 브리프] - v.daum.net — *v.daum.net*
-- `09-03 08:00` 서플러스글로벌, ‘세미콘 인디아 2026’ 3년 연속 참가… 인도 반도체 시장 공략 강화 - 투데이안 — *투데이안*
+- `09-03 16:53` SK하이닉스, 글로벌 HBM 점유율 50% ‘1위’ 수성 - 충청일보 — *충청일보*
+- `09-03 16:49` 아주대 연구팀, 차세대 반도체 공정을 위한 하이브리드 新소재 개발 - 한국대학신문 — *한국대학신문*
+- `09-03 16:44` 삼성전자, HBM 점유율 33%로 껑충…SK하이닉스와 격차 좁혔다 - v.daum.net — *v.daum.net*
+- `09-03 16:43` 삼성전자, 2분기 HBM 점유율 33%로 급등…SK하이닉스와 격차 축소 - 지디넷코리아 — *지디넷코리아*
+- `09-03 16:36` 반도체 검사장비 1위 TSE, 대구에 디자인센터 설립 - kyongbuk.co.kr — *kyongbuk.co.kr*
+- `09-03 16:35` 수도권 넘어 대구로… 반도체 1위 ㈜티에스이, 300억 R&D 센터 짓는다 - 이로운넷 — *이로운넷*
+- `09-03 16:30` 500여 광주시민 운집, 뜨거운 관심 속 「용인 반도체 산단 광주시 상생발전 범시민연대」 출범 - 세계환경신문 — *세계환경신문*
+- `09-03 16:26` 삼성 2분기 HBM 점유율 21→33%…SK하이닉스 50%로 1위 - KBS 뉴스 — *KBS 뉴스*
 
 ## 🇰🇷 금융주
-- `09-03 07:30` 환율하락 등으로 호실적…주주환원율 51% 기대되는 이 은행주[클릭 e종목] - 네이트 — *네이트*
-- `09-03 06:10` 시중은행 전환 성과 낸 황병우 iM금융 회장, 연임 고지 넘을까…실적·비은행 '성적표'가 변수 - 소비자가 만드는 신문 — *소비자가 만드는 신문*
-- `09-03 06:03` "금융의 기회를 넓히고, 혁신과 성장을 이끌겠습니다" - 네이트 — *네이트*
-- `09-02 23:24` 임종룡 우리금융 회장, 자사주 매입 '기업가치 제고 의지' 재천명 - 마일드경제 — *마일드경제*
-- `09-02 18:14` 상반기 평균급여 1억8400만원 ‘1위’ 한국금융지주…최저와 10.8배 - 조세일보 — *조세일보*
-- `09-02 18:00` "하나금융지주, 3분기 실적 기대...목표가↑"-신한證 - 베타뉴스 — *베타뉴스*
-- `09-02 17:57` 체력 확충나선 금융지주…신종자본증권 발행 잇따라 - 네이트 — *네이트*
-- `09-02 17:13` NH농협금융, 전북 전략산업 지원 위한 금융허브 출범 - 이코리아 — *이코리아*
+- `09-03 16:42` 제7회 지니포럼 개막…임종룡 우리금융그룹 회장 '지니어워드' 수상 - v.daum.net — *v.daum.net*
+- `09-03 16:17` “우린 지수가 아니라 금리 따라간다” 순환매 주인공 된 은행주 - 한국경제 — *한국경제*
+- `09-03 15:45` [표] 거래소 외국인 순매수도 상위종목(3일) - 매일경제 마켓 — *매일경제 마켓*
+- `09-03 15:23` [연봉탐색] 한국금융지주 1억8400만원 vs 이랜드 1700만원...대기업 직장인 상반기 평균급여 차이 - 데일리팝 — *데일리팝*
+- `09-03 15:10` '전자 삼성' 넘어 '금융 삼성'으로...금융그룹 재편 나선 이재용 - 뉴스웨이 — *뉴스웨이*
+- `09-03 14:55` 제7회 지니포럼 개막…전북, 글로벌 자산운용 중심도시 도약 모색 - 뉴스홈(newshome) — *뉴스홈(newshome)*
+- `09-03 14:51` 글로벌 자산운용 중심도시로 비상...제7회 지니포럼(GENIE Forum) 개막 - 무진장인터넷뉴스 — *무진장인터넷뉴스*
+- `09-03 14:31` 우리금융지주, '디노랩 테크' 출범…AI 스타트업과 금융 혁신 - PRESS9 — *PRESS9*
 
 ## 🇰🇷 정책·거시
+- `09-03 14:04` [브릿지 칼럼] 8·13 대책, '공급'보다 '현실성'부터 - 네이트 — *네이트*
 - `09-02 05:41` 국힘 국토위, 오세훈과 만찬…부동산 정책현안 논의 - 네이트 — *네이트*
-- `09-01 15:55` "신용대출 대신 집단대출"…8·13 대책에 가계대출 흐름 바뀌었다 - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-01 14:42` 8.3 대책 국민 반발에 한 달 만에 일부 후퇴…세금폭탄 논란 불씨 여전 - 땅집고 — *땅집고*
-- `09-01 12:11` [아유경제_부동산] LH, 하반기 주택매입 사업설명회 개최… 8ㆍ13 부동산 대책 안내 - areyou.co.kr — *areyou.co.kr*
-- `09-01 09:42` 부동산 대책, 이제 숫자 아닌 속도전…홍지선 앞에 놓인 ‘착공 숙제’ - ccmetro.co.kr — *ccmetro.co.kr*
 
 ## 🌍 AI·빅테크
-- `09-02 23:34` NVIDIA and Equinix Deepen Their AI Inference Partnership. Here’s What It Means for Both Stocks - Yahoo Finance — *Yahoo Finance*
+- `09-03 12:23` Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips? - Yahoo Finance — *Yahoo Finance*
+- `09-03 06:51` Nvidia Fiscal Q2: The AI Giant Answers To Losing Market Share (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
+- `09-03 02:10` Wall Street Is Obsessing Over Nvidia's $105 Billion Circular Financing Structure With OpenAI. Here's the More Important Deal No One Is Talking About. - The Motley Fool — *The Motley Fool*
 - `09-02 20:43` The antitrust question is moving up the stack: What California’s new push and NVIDIA’s retreat mean for finance - Tearsheet — *Tearsheet*
-- `09-02 19:20` Microsoft’s AI Capex Problem Just Got Harder for Bears to Defend - Yahoo Finance — *Yahoo Finance*
+- `09-02 20:00` Nvidia forecasts 70% revenue jump fueled by exclusive SpaceX deal as Bank of England warns of AI bubble risk - Yahoo Finance — *Yahoo Finance*
 - `09-02 18:02` What Dell and Nvidia just proved to the AI stock haters - Yahoo Finance — *Yahoo Finance*
 - `09-02 07:07` SoftBank's SB Energy Files for IPO While Admitting It Needs OpenAI to Pay Up - Startup Fortune — *Startup Fortune*
 - `09-02 05:31` Anthropic's $35 Billion Cloud Deal Comes With an Nvidia Twist - TradingView — *TradingView*
-- `09-02 04:32` Anthropic Inks $35B Deal With Nvidia-Backed AI Cloud Provider - Bisnow — *Bisnow*
-- `09-02 03:33` Anthropic Strikes $35 Billion Cloud Deal as Nvidia Deepens AI Infrastructure Role - PYMNTS.com — *PYMNTS.com*
 
 ## 🌍 연준·금리
-- `09-03 05:38` Trump Wants Lower Rates. That Won’t Stop a Fed Rate Hike. - Barron's — *Barron's*
-- `09-03 02:18` NY Fed's John Williams signals openness to September rate hike - qz.com — *qz.com*
-- `09-03 01:45` Iran war is testing how long the Fed can look past higher energy prices - KEYE — *KEYE*
-- `09-03 00:41` Federal Reserve Inflation Concerns Are Muting the Payrolls Reaction - stonex.com — *stonex.com*
-- `09-02 23:10` Dollar to hold gains, but stuck on sparse Fed rate guidance – Reuters poll - KELO-AM — *KELO-AM*
-- `09-02 22:45` New York Fed's Williams says yield surge due to strong economic prospects - CNBC — *CNBC*
-- `09-02 22:43` US August Nonfarm Payrolls Preview: How Much Will It Impact the Fed's September Rate Hike Decision? - TradingKey — *TradingKey*
-- `09-02 21:52` Gold Stabilizes as Markets Reassess Fed Rate Outlook - TradingView — *TradingView*
+- `09-03 16:18` US August Nonfarm Payrolls Preview: Will the Labor Market Quell Fed Rate Hike Expectations? US Stocks, Dollar, and Gold Face Key Test - TradingKey — *TradingKey*
+- `09-03 15:11` The U.S. Federal Reserve (Fed) assessed that the U.S. economy has continued to grow slowly since ear.. - 매일경제 — *매일경제*
+- `09-03 14:01` Likely increase in US interest rates would impact Cayman - Cayman Compass — *Cayman Compass*
+- `09-03 08:57` Stock-Bond Decline Fueled by Triple Pressure - 조선일보 — *조선일보*
+- `09-03 08:05` Business Advisory Council member talks interest rates - Spectrum News NY1 — *Spectrum News NY1*
+- `09-03 05:42` What rising global bond yields mean for your wallet - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
+- `09-03 05:21` Bond yields are climbing — but Fed's Williams calls it good news - mpamag.com — *mpamag.com*
+- `09-03 02:53` Why Friday’s Jobs Report Could Surprise the Fed and Shock Markets - Barron's — *Barron's*
 
 ## 🌍 유가·지정학
-- `09-03 08:12` Oil Rally Pauses After 9% Three-Day Surge as Trump Says Iran Strikes Won’t Last Long - bloomingbit — *bloomingbit*
-- `09-03 07:33` Crossing Hormuz in the dark: The secret oil operation testing Trump’s claims - Ynetnews — *Ynetnews*
-- `09-03 07:07` Stock Market Today: Treasury Selloff Pauses While Wall Street Stocks Rise, Oil price at $94 - Eurasia Business News — *Eurasia Business News*
-- `09-03 07:01` Stocks climb and US yields ease; yen jumps against dollar - Reuters — *Reuters*
-- `09-03 07:00` White Hydrogen Drilling Push Gains Momentum Across Three Continents - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-03 06:55` Trump Warns Oil Execs About Price Gouging - Newsradio WFLA Orlando — *Newsradio WFLA Orlando*
-- `09-03 06:33` Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters — *Reuters*
-- `09-03 06:27` Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `09-03 16:34` Oil Edges Down Amid Uncertainty Over US-Iran Strikes - Fana News - — *Fana News -*
+- `09-03 16:30` OPINION | The Americas’ oil bonanza will outlast the Iran conflict - news24.com — *news24.com*
+- `09-03 16:30` Asian LNG Prices Surge to Highest Since 2022 as Iran War Escalates - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-03 16:10` Natural Gas and Oil Forecast: Iran Escalation Tightens Hormuz as WTI Holds Breakout - FXEmpire — *FXEmpire*
+- `09-03 16:02` Asia Moves to Strengthen Oil and Gas Reserves After Strait of Hormuz Crisis - politicstoday.org — *politicstoday.org*
+- `09-03 15:51` China’s support for Iran shows its limits as US ramps up pressure on Tehran - Al Jazeera — *Al Jazeera*
+- `09-03 15:44` US escorts 40 tankers carrying 18M barrels of oil through Hormuz: Report - Türkiye Today — *Türkiye Today*
+- `09-03 15:43` Middle East - MUFG Research — *MUFG Research*
 
 ## 🌍 시장 전반
-- `09-03 08:28` El-Sayed blames Trump for global bond market sell-off - washingtonpost.com — *washingtonpost.com*
-- `09-03 07:07` Stock Market Today: Treasury Selloff Pauses While Wall Street Stocks Rise, Oil price at $94 - Eurasia Business News — *Eurasia Business News*
-- `09-03 06:33` Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters — *Reuters*
-- `09-03 05:53` Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending - Investor's Business Daily — *Investor's Business Daily*
-- `09-03 05:38` Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - BNN Bloomberg — *BNN Bloomberg*
-- `09-03 03:45` What the big bond sell-off means for your wallet - businessinsider.com — *businessinsider.com*
-- `09-03 03:37` United Utilities returns to market with accelerated equity raise — and shares rally - Dealroom — *Dealroom*
-- `09-03 02:27` Why bond yields are rising and why everyone should care - PBS — *PBS*
+- `09-03 16:37` Shares, bonds rally as markets await Fed signals; yen jumps - Reuters — *Reuters*
+- `09-03 14:56` Asian markets trade mixed despite Wall Street tech rally and easing oil prices - Seeking Alpha — *Seeking Alpha*
+- `09-03 14:53` Nominal GDP growth set to surge to 12%. Why the stock market may still struggle to rally - The Economic Times — *The Economic Times*
+- `09-03 13:24` US Stocks Rebound After Three-Day Selloff as Investors Target Oversold Sectors - mezha.net — *mezha.net*
+- `09-03 11:46` Shares, bonds rally as markets await signals for Fed rates By Reuters - Investing.com Australia — *Investing.com Australia*
+- `09-03 10:58` El-Sayed blames Trump for global bond market sell-off - The Washington Post — *The Washington Post*
+- `09-03 07:24` Wall Street Market Sell-Off Amid Stock Market Losing Streak - Tekedia — *Tekedia*
+- `09-03 07:15` Broadcom Just Posted 221% AI Growth; Buy This Selloff (NASDAQ:AVGO) - Seeking Alpha — *Seeking Alpha*
