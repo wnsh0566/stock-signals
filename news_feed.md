@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-04 20:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-04 21:06 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -21,6 +21,7 @@
 - **D-26** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-04 20:59` [올댓차이나] 홍콩 증시, 저가 매수세로 반등 마감… H주 2.03%↑ - 뉴시스 — *뉴시스*
 - `09-04 20:16` 캐나다 증시 선물 보합세…BoC 금리 동결 후 주간 거래 마무리 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-04 20:04` 하반기 코스피 -21% 찍을때 은행주는 11% '쑥'…주가방어에 배당 매력 - 한국경제 — *한국경제*
 - `09-04 19:57` '롤러코스피 끝났나'…'68→97→39' 반년 만에 떨어졌다 - v.daum.net — *v.daum.net*
@@ -28,27 +29,26 @@
 - `09-04 19:25` 베트남 증시] 저가 매수세 유입에 상승...대형주에 매수세 집중, 지수 상승 견인 - 뉴스핌 — *뉴스핌*
 - `09-04 19:24` 연준이 9월에 금리를 인상한다면 유럽 증시는? - Investing.com 한국어 — *Investing.com 한국어*
 - `09-04 18:46` 코스피 1%대 올라 6,680선…코스닥도 반등 - 연합뉴스TV — *연합뉴스TV*
-- `09-04 18:36` [더나은미래 경제브리핑] 코스피·코스닥 시총 상폐기준 강화 6개월 유예...“지방이전 반대·주 4.5일제 도입하라” 금융노조 총파업 - 더나은미래 — *더나은미래*
 
 ## 🇰🇷 반도체·HBM
 - `09-04 20:19` 고령 반도체 공장서 불···소방당국 진화 중 - 경향신문 — *경향신문*
 - `09-04 20:02` 김정관 "반도체 관세, 경쟁국에 불리하지 않게 논의…대미투자 9월 중 발표" [이상은의 워싱턴나우] - 한국경제 — *한국경제*
 - `09-04 20:00` 충북대 반도체공학부 윤의철씨 '이공분야 박사과정생연구장려금 지원사업' 선정.. '고이동도 이종집적 소자 개발' - 베리타스알파 — *베리타스알파*
 - `09-04 19:54` 삼성·SK하이닉스 찍어 "반도체 관세" 협박‥파병이 협상카드? - MBC 뉴스 — *MBC 뉴스*
-- `09-04 19:32` 남부권 반도체 설계인재 양성 거점 'GIST-Arm 스쿨' 개교 - 한국방송뉴스 — *한국방송뉴스*
+- `09-04 19:32` 남부권 반도체 설계인재 양성 거점 'GIST-Arm 스쿨' 개교 - ikbn.news — *ikbn.news*
 - `09-04 19:31` [亞증시-종합] 日·港·臺, AI·반도체 반등에 상승 - 연합인포맥스 — *연합인포맥스*
-- `09-04 19:23` 노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다” - kyeonggi.com — *kyeonggi.com*
+- `09-04 19:23` 노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다” - 경기일보 — *경기일보*
 - `09-04 19:23` 경기 광주, 반도체 배후 도시 인정받나?...'달리는 시장실' 가동 - YTN — *YTN*
 
 ## 🇰🇷 금융주
 - `09-04 18:38` [표] 주간 거래소 기관 순매수도 상위종목 - 매일경제 마켓 — *매일경제 마켓*
 - `09-04 18:30` 1300원대로 낮아진 환율에…금융지주 3분기 실적도 ‘맑음’ - 아시아투데이 — *아시아투데이*
-- `09-04 18:07` 미국 운용사 캐피털그룹, 신한금융 3대 주주로…JB도 8% 육박 - 화이트페이퍼 — *화이트페이퍼*
 - `09-04 17:18` 금리·환율·주주환원 '삼박자'…금융지주 회장 자사주 매입에 담긴 '시그널' - v.daum.net — *v.daum.net*
 - `09-04 17:14` 외국인·기관, KB·신한·하나·우리 6900억 순매수 … 금리·환율 호재 기대감 반영 - v.daum.net — *v.daum.net*
 - `09-04 17:09` 메리츠금융지주, 신규 임원 선임에 최대주주 소유주식 191주 증가 - 데이터투자 — *데이터투자*
 - `09-04 16:55` [창간특집] 역대 최대 이익 금융지주…"돈은 이제 어디로 가나" - 이지경제 — *이지경제*
-- `09-04 16:10` iM금융그룹, 스타트업 14곳 투자유치 지원...‘피움랩 IR데이’ 개최 - youthdaily.co.kr — *youthdaily.co.kr*
+- `09-04 16:10` iM금융그룹, 스타트업 14곳 투자유치 지원...‘피움랩 IR데이’ 개최 - 청년일보 — *청년일보*
+- `09-04 16:06` 메리츠금융지주 주가 1,400원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
 
 ## 🇰🇷 정책·거시
 - `09-04 18:00` [함영진의 부동산화수분] 연이은 부동산대책 발표…내 자산관리는? - 주간한국 — *주간한국*
@@ -57,13 +57,13 @@
 
 ## 🌍 AI·빅테크
 - `09-04 20:22` AI capex set to hit $31.6tn by 2050 as chips overtake concrete - capacityglobal.com — *capacityglobal.com*
-- `09-04 19:03` Nvidia’s AI Sector Equity Stakes Grow, SEC Filing Shows - Unite.AI — *Unite.AI*
 - `09-04 17:08` Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies - CNBC — *CNBC*
-- `09-04 06:42` OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny - Yahoo Finance — *Yahoo Finance*
+- `09-04 15:01` Nvidia’s $12.9B Hugging Face buy puts a European-founded AI pillar fully in US hands - Tech Funding News — *Tech Funding News*
+- `09-04 06:42` OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny - finance.yahoo.com — *finance.yahoo.com*
 - `09-04 03:25` Broadcom CEO Compares OpenAI, Anthropic to 'Geniuses' Needing a Ride to College - finance.biggo.com — *finance.biggo.com*
 - `09-04 03:11` Nvidia's Quiet Transformation: From Chip Seller to AI's Financial Architect - AD HOC NEWS — *AD HOC NEWS*
 - `09-04 03:00` OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times — *Financial Times*
-- `09-04 02:56` Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow - Yahoo Finance — *Yahoo Finance*
+- `09-04 02:56` Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow - finance.yahoo.com — *finance.yahoo.com*
 
 ## 🌍 연준·금리
 - `09-04 20:35` Ringgit ends lower against US dollar as US rate hike debate persists - The Malaysian Reserve — *The Malaysian Reserve*
@@ -71,26 +71,26 @@
 - `09-04 20:05` Barclays: Market Has Fully Priced in Fed's Hawkish Stance; Nonfarm Payrolls and CPI Are Key Inflection Points - finance.biggo.com — *finance.biggo.com*
 - `09-04 20:01` Gold to End Volatile Week Higher as Fedspeak Trims Rate-Hike Bet - Bloomberg.com — *Bloomberg.com*
 - `09-04 19:54` Bitcoin jumps over 4% to $81,069 as Fed signals steady rates and ETF inflows hit $730M. - Pluang — *Pluang*
-- `09-04 18:34` Singapore Shares Surge, Track Regional Gains as US Fed Reserve Rate Hike Chances Drop - Yahoo Finance Singapore — *Yahoo Finance Singapore*
+- `09-04 18:34` Singapore Shares Surge, Track Regional Gains as US Fed Reserve Rate Hike Chances Drop - sg.finance.yahoo.com — *sg.finance.yahoo.com*
 - `09-04 17:16` U.S. Federal Reserve Chairman Kevin Wash's Jackson Hole debut stage speech is a big variable, reduci.. - 매일경제 — *매일경제*
 - `09-04 16:53` Bitcoin jumps 6.8% to $82,200 on eased Fed rate hike fears, hitting a four-month high. - Pluang — *Pluang*
 
 ## 🌍 유가·지정학
 - `09-04 19:50` U.S. Diesel Prices Hit All-Time High as Global Fuel Squeeze Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-04 19:17` Oil futures: Crude steadies as Iran tensions drive weekly surge - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
+- `09-04 18:59` US diesel prices hit an all-time-high - BBC — *BBC*
 - `09-04 18:45` Argentina Targets Falklands Oil Drillers With Tougher Sanctions - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-04 18:34` The coming verdict on Trump's Strait of Hormuz strategy - Axios — *Axios*
 - `09-04 18:29` New fears of oil supply disruption as US-Iran hostilities resume - France 24 — *France 24*
 - `09-04 18:28` Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high - The Globe and Mail — *The Globe and Mail*
 - `09-04 18:01` ‘Astronomical’ fuel price surge hits farmers in UK and US - The Guardian — *The Guardian*
-- `09-04 17:53` Oil Edges Lower as Strait of Hormuz Risks Keep Weekly Gains Intact - Yahoo Finance UK — *Yahoo Finance UK*
 
 ## 🌍 시장 전반
 - `09-04 20:32` Six reasons that the risk of a stock-market selloff is rising. Here’s what investors should be doing. - MarketWatch — *MarketWatch*
+- `09-04 20:30` FTSE Russell index stocks boost early trading rally on NGX - Business News Nigeria — *Business News Nigeria*
 - `09-04 19:38` Wall Street Today: Jobs Data, US-Iran Tensions To Chips Rally — Five Factors That May Impact US Stock Market On Sept 4 - NDTV Profit — *NDTV Profit*
 - `09-04 19:06` Sensex zooms 730 pts intraday, Nifty reclaims 24K: What's driving markets? - Business Standard — *Business Standard*
 - `09-04 18:56` Global benchmarks trade mixed following rally on Wall Street led by technology issues - LancasterOnline — *LancasterOnline*
 - `09-04 18:41` Japanese trading house stocks reverse course after Berkshire-driven rally - Investing.com India — *Investing.com India*
 - `09-04 17:36` Futures: Tesla Leads Movers On News - Investor's Business Daily — *Investor's Business Daily*
 - `09-04 16:01` Asian benchmarks trade mixed following rally on Wall Street led by technology issues - LancasterOnline — *LancasterOnline*
-- `09-04 15:59` Market Quick Take - Markets rally as Waller turns dovish, jobs report takes centre stage - 04 September 2026 - Saxo — *Saxo*
