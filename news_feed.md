@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-04 08:29 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-04 16:56 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -21,74 +21,75 @@
 - **D-26** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-04 08:25` 뉴욕증시 3대 지수 일제히 1%대 상승…금리 인상 우려 완화 - 서울경제TV — *서울경제TV*
-- `09-04 08:12` [아주경제 코이너스 브리핑] 美 증시 강세·금리인상 우려 완화에…비트코인 8만달러 돌파 - v.daum.net — *v.daum.net*
-- `09-04 08:08` 뉴욕 증시, 금리 인상 우려 완화에 동반 상승 마감 - YTN — *YTN*
-- `09-04 08:06` 한투증권 "9월 코스피 6,200∼7,400 전망…삼중고에 노출" - 연합뉴스 — *연합뉴스*
-- `09-04 08:00` [시황] 미국증시, 월러 비둘기 발언·국채금리 하락에 3대 지수 상승 - 버핏연구소 — *버핏연구소*
-- `09-04 08:00` [아주증시포커스] 규정강화 후 상폐 1호 '코이즈'…시총 미달·동전주 84곳 퇴출 경고등 外 - v.daum.net — *v.daum.net*
-- `09-04 07:57` [애프터마켓 리뷰] 수급 공백에 흔들린 증시…삼전닉스 또 하락 - v.daum.net — *v.daum.net*
-- `09-04 07:55` [오늘의 증시]금리동결 기대에 나스닥 1.4%↑…코스피 상승 기대감 - 뉴시스 — *뉴시스*
+- `09-04 16:48` 코스피, 반도체주 강세에 6687.21 마감…코스닥 5거래일 만에 반등 - 더나은미래 — *더나은미래*
+- `09-04 16:40` 코스피, 1.64% 오른 6600대 마감…반도체株 강세 - 서울경제TV — *서울경제TV*
+- `09-04 16:36` 정부, 증시 냉각에 상폐 시총 300억 상향 6개월 유예 - intn.co.kr — *intn.co.kr*
+- `09-04 16:36` 코스피-코스닥, 상승 마감 - 뉴스핌 — *뉴스핌*
+- `09-04 16:34` 코스피, 1.6% 넘게 올라...6,680대 마감 - news.bbsi.co.kr — *news.bbsi.co.kr*
+- `09-04 16:31` [표] 코스피 지수선물·옵션 시세표(4일)-3 - 매일경제 마켓 — *매일경제 마켓*
+- `09-04 16:30` [표] 코스피 지수선물·옵션 시세표(4일)-2 - 매일경제 마켓 — *매일경제 마켓*
+- `09-04 16:27` 美 금리 동결 기대감에 반도체 투심 회복···코스피 1%대 상승 마감 - 서울파이낸스 — *서울파이낸스*
 
 ## 🇰🇷 반도체·HBM
-- `09-04 08:21` 7월 경상수지 421억달러 흑자…반도체 수출에 동월 최대 - 블루밍비트 — *블루밍비트*
-- `09-04 08:11` [2026 국감 미리보기①] “성장률 3.3%라는데”…반도체 호황 뒤에 가려진 내수·민생, 국감서 따진다 - 뉴시안 — *뉴시안*
-- `09-04 08:11` [속보]반도체 호황 지속...7월 경상수지 420.8억 달러 흑자 ‘역대 2위’ - 이코노미스트 — *이코노미스트*
-- `09-04 08:05` “미국에 공장 안 지으면 대가 치른다”… 트럼프 2기 ‘반도체 표적 관세’에 흔들리는 K반도체 - 경북매일 — *경북매일*
-- `09-04 08:05` [증시키워드] 조선·원전주 급등…반도체 관망 - 이투데이 — *이투데이*
-- `09-04 08:02` 7월 경상수지 421억 달러 흑자 '역대 2위'…반도체가 견인 - v.daum.net — *v.daum.net*
-- `09-04 08:01` [속보] 7월 경상수지 421억달러 흑자…반도체 호황에 동월 역대 최대 - 한국경제 — *한국경제*
-- `09-04 08:00` 7월 경상수지 420.8억달러 흑자…반도체 호황에 동월 역대 최대 - 연합뉴스 — *연합뉴스*
+- `09-04 16:48` 반도체 지수 SOX, 포물선 상승 이후 조정 국면 진입 - dentalnews.or.kr — *dentalnews.or.kr*
+- `09-04 16:40` 코스피, 1.64% 오른 6600대 마감…반도체株 강세 - 서울경제TV — *서울경제TV*
+- `09-04 16:26` “현장 전문기술인재 확보”… 조선이공대, ‘반도체’ 새 비전 선포[현장] - 한국대학신문 — *한국대학신문*
+- `09-04 16:21` 강경화 주미대사, 인디애나 퍼듀대와 반도체 연구시설 방문 - 월드코리안뉴스 — *월드코리안뉴스*
+- `09-04 16:19` 반도체 기술 유출에 대만은 징역 10년·미국은 벌금 6천만 달러, 한국은 고작 징역 1년6개월 - 비즈니스포스트 — *비즈니스포스트*
+- `09-04 16:15` [2026 국감] AI·반도체 ‘3대 메가프로젝트’…탄소중립과 양립 가능한가 - 에너지데일리 — *에너지데일리*
+- `09-04 16:07` 코스피, 美 금리 부담 완화·반도체株 강세에 '6600선 회복'…코스닥 2.95%↑ - newsprime.co.kr — *newsprime.co.kr*
+- `09-04 16:05` 반도체가 밀어올린 경상수지 흑자…올해 신기록 쓴다 - newstomato.com — *newstomato.com*
 
 ## 🇰🇷 금융주
-- `09-04 07:58` [iM금융 이사회③] 종합금융그룹? 이사진은 내내 '대구경북' - 데일리브리프 — *데일리브리프*
-- `09-04 07:52` 금리 상승에 은행 ETF 강세…NIM 개선·주주환원 기대 - 컨슈머타임스 — *컨슈머타임스*
-- `09-04 07:02` [N2 포커스] 환율 14개월 만에 최저…금융지주, 불어난 RWA 부담 덜까 - 뉴스투데이 — *뉴스투데이*
-- `09-04 05:56` KB는 삼성·하나는 한화…금융지주 '기업 베팅' 갈렸다 - 네이트 — *네이트*
-- `09-04 05:47` “금리·환율까지 우주의 기운이 모이는중”…금융지주 주가 ‘불기둥’ - 매일경제 마켓 — *매일경제 마켓*
-- `09-04 04:10` 불안한 증시엔 은행주 '방패' … 금리·실적·배당까지 '3박자' - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-04 00:34` 한국투자금융그룹 김남구 회장① 성장 경력 - 후계자의 첫 교실은 바다였다.. 회장실보다 먼저 원양어선으로 - 뉴스투데이 — *뉴스투데이*
-- `09-03 20:41` 하나금융지주, 하반기 실적 개선 기대… 목표주가 16만원으로 상향 - 신한투자증권 - S저널 — *S저널*
+- `09-04 16:10` iM금융그룹, 스타트업 14곳 투자유치 지원...‘피움랩 IR데이’ 개최 - 청년일보 — *청년일보*
+- `09-04 16:06` 메리츠금융지주 주가 1,400원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-04 16:01` 한국금융지주 주가 2,200원 상승 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-04 15:45` [표] 거래소 외국인 순매수도 상위종목(4일) - 매일경제 마켓 — *매일경제 마켓*
+- `09-04 15:41` 하나금융, '하나금융그룹 챔피언십' 개최…리디아 고·이민지 출격 - 이지경제 — *이지경제*
+- `09-04 14:02` 하나은행, 소상공인 디지털 전환 돕는다…최대 200만원 지원 - 이지경제 — *이지경제*
+- `09-04 10:53` iM금융그룹, 핀테크 육성프로그램 ‘피움랩 8기 IR데이’ 성료 - 한국경제 — *한국경제*
+- `09-04 10:50` 한국투자금융그룹 김남구 회장① 성장 경력 - 후계자의 첫 교실은 바다였다.. 회장실보다 먼저 원양어선으로 - 뉴스투데이 — *뉴스투데이*
 
 ## 🇰🇷 정책·거시
-- `09-03 14:04` [브릿지 칼럼] 8·13 대책, '공급'보다 '현실성'부터 - 네이트 — *네이트*
+- `09-04 13:08` ‘8·13 대책’ 먹통에 멈춰 선 거래…서울 집값, ‘공급 가뭄’에 매수심리만 ‘폭발’ - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
+- `09-04 08:15` "책상서만 일하다 보니 현실 몰라"...8.3 부동산 대책 철회 일침 [굿모닝경제] - YTN — *YTN*
 
 ## 🌍 AI·빅테크
+- `09-04 07:24` Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters — *Reuters*
+- `09-04 06:42` OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny - Yahoo Finance — *Yahoo Finance*
 - `09-04 05:18` Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance — *Yahoo Finance*
+- `09-04 03:25` Broadcom CEO Compares OpenAI, Anthropic to 'Geniuses' Needing a Ride to College - finance.biggo.com — *finance.biggo.com*
 - `09-04 03:11` Nvidia's Quiet Transformation: From Chip Seller to AI's Financial Architect - AD HOC NEWS — *AD HOC NEWS*
 - `09-04 03:00` OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times — *Financial Times*
 - `09-04 02:56` Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow - Yahoo Finance — *Yahoo Finance*
 - `09-04 02:32` Cramer Urges Nvidia to Launch $500bn Buyback as AI Growth Fails to Lift Shares - Tekedia — *Tekedia*
-- `09-04 01:41` Nvidia's Dividend Discipline and Capital Web: A Study in Two-Speed Strategy - AD HOC NEWS — *AD HOC NEWS*
-- `09-04 00:47` ChatGPT down: OpenAI chatbot not working in major outage - Yahoo Finance UK — *Yahoo Finance UK*
-- `09-04 00:10` Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion - WSJ — *WSJ*
 
 ## 🌍 연준·금리
-- `09-04 07:48` Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters — *Reuters*
-- `09-04 07:46` Did Chris Waller just torpedo a Fed rate hike in September? - Scotsman Guide — *Scotsman Guide*
-- `09-04 07:13` Minnesota unemployment rate rises above national rate for first time since 2007 - MPR News — *MPR News*
-- `09-04 07:01` Average rate on a 30-year mortgage climbs to highest level in 13 months - WHEC.com — *WHEC.com*
-- `09-04 06:37` Vance pushes Fed to lower rates despite Warsh’s inflation concerns - MS NOW — *MS NOW*
-- `09-04 04:52` Mortgage Rates Rise This Week as Markets Anticipate Fed Hike - kten.com — *kten.com*
-- `09-04 04:48` Odds of a rate hike now 50-50 following Fed governor's speech - RealEstateNews.com — *RealEstateNews.com*
-- `09-04 04:41` Will Federal Reserve hike rates later this month? Waller muddies the outlook - Prescott Daily Courier — *Prescott Daily Courier*
+- `09-04 16:53` Bitcoin jumps 6.8% to $82,200 on eased Fed rate hike fears, hitting a four-month high. - Pluang — *Pluang*
+- `09-04 16:30` Bitcoin Jumps 6.8% to Four-Month High as Waller Eases Fed Rate-Hike Fears - DailyCoin — *DailyCoin*
+- `09-04 15:54` Long-term home loan rate reaches 13-month record - The Arkansas Democrat-Gazette — *The Arkansas Democrat-Gazette*
+- `09-04 15:38` South African rand treads water before U.S. jobs data as markets assess Fed rate path - Reuters — *Reuters*
+- `09-04 15:15` Fed Rate Hikes In 2026: What Retail Investors And Markets Expect - Stocktwits — *Stocktwits*
+- `09-04 15:13` How Many Times Will The Fed Hike Rates This Year? What Retail Traders Think Happens Next - TradingView — *TradingView*
+- `09-04 14:57` Stocks Rise as Fed Hike Bets Ease, Dollar Steadies: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `09-04 14:02` Gold consolidates below $4,500 as bulls look to US NFP for Fed rate cues - tmgm.com — *tmgm.com*
 
 ## 🌍 유가·지정학
-- `09-04 08:00` Why Oil Majors Don't Want to Build New U.S. Refineries - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-04 07:17` Oil edges down as investors weigh uncertainty over US-Iran strikes - Arab News — *Arab News*
-- `09-04 07:09` Trump Says Oil Is Flowing Through Hormuz. Independent Trackers Show a Different Picture. - ibtimes.com — *ibtimes.com*
-- `09-04 07:07` J.D. Vance speaks on oil prices, Iran War, affordability in White House press briefing - KCENTV.com — *KCENTV.com*
-- `09-04 07:00` AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-04 06:15` Trump May End Iran War: What It Means for Oil, Bitcoin and Markets - CryptoRank — *CryptoRank*
-- `09-04 06:12` WTI Crude Oil Price Forecast: Channel Breakout Targets $94 and Higher - FXEmpire — *FXEmpire*
-- `09-04 05:47` Stock Market Today: Stocks Jump After Fed Official Says He Could Back Rate Hold, Oil price at $92 - Eurasia Business News — *Eurasia Business News*
+- `09-04 16:43` Oil transiting Strait of Hormuz nearing pre-war daily average - The Black Chronicle — *The Black Chronicle*
+- `09-04 16:41` U.S. Diesel Prices Set New High - The New York Times — *The New York Times*
+- `09-04 16:00` ADNOC Keeps Loading LNG as Hormuz Risks Intensify - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-04 15:54` Azerbaijan's Azeri Light Oil Price Surges Above $104 on Global Markets - Caspian Post — *Caspian Post*
+- `09-04 15:48` Oil: Elevated prices face fragile support – ING - FXStreet — *FXStreet*
+- `09-04 15:00` Save the Children aid for 1.5 million in need wiped out by Iran war oil shock - The Guardian — *The Guardian*
+- `09-04 14:59` Natural Gas and Oil Forecast: Hormuz Risks Lift WTI as U.S. Crude Stocks Fall - FXEmpire — *FXEmpire*
+- `09-04 14:52` Crude Oil Steadies as Hormuz Eases Supply Fears - tradingpedia.com — *tradingpedia.com*
 
 ## 🌍 시장 전반
-- `09-04 07:49` Tech stocks lead a rally on Wall Street as bond yields ease some more - Pittsburgh Post-Gazette — *Pittsburgh Post-Gazette*
-- `09-04 07:48` Stock Market Jumps As Snowflake Lights Up Software Rally; Yields Drop Before Jobs Report - Investor's Business Daily — *Investor's Business Daily*
-- `09-04 07:13` Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets - CNA — *CNA*
-- `09-04 07:03` Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets - Yahoo Finance — *Yahoo Finance*
-- `09-04 06:22` Fed Rate Decision: Waller's Stance Drives Markets, Yen Strongest Since Iran War - News and Statistics - indexbox.io — *indexbox.io*
-- `09-04 06:19` SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence - Stocktwits — *Stocktwits*
-- `09-04 06:10` Bond markets settle down as Fed’s Waller says hike not done deal - National Business Review — *National Business Review*
-- `09-04 05:52` 'Fall From Grace' — Biotech Crashes 44% To A Record Low - Investor's Business Daily — *Investor's Business Daily*
+- `09-04 16:21` Sensex zooms 730 pts intraday, Nifty reclaims 24K: What's driving markets? - Business Standard — *Business Standard*
+- `09-04 16:01` Asian benchmarks trade mixed following rally on Wall Street led by technology issues - lancasteronline.com — *lancasteronline.com*
+- `09-04 15:59` Market Quick Take - Markets rally as Waller turns dovish, jobs report takes centre stage - 04 September 2026 - Saxo — *Saxo*
+- `09-04 15:53` Dow stock gains as chemicals group rides market rally - AD HOC NEWS — *AD HOC NEWS*
+- `09-04 15:20` Global Market: China stocks rebound, but weekly loss looms as AI rally cools - The Economic Times — *The Economic Times*
+- `09-04 14:41` Global Market: Japan stocks rebound on Wall Street boost, SoftBank rally - The Economic Times — *The Economic Times*
+- `09-04 13:42` Tech Stocks Rebound on Easing U.S. Yields - 조선일보 — *조선일보*
+- `09-04 13:27` Japanese trading house stocks reverse course after Berkshire-driven rally By Investing.com - Investing.com India — *Investing.com India*
