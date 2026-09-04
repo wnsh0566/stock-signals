@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-04 18:38 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-04 18:55 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -21,8 +21,8 @@
 - **D-26** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-04 18:36` [더나은미래 경제브리핑] 코스피·코스닥 시총 상폐기준 강화 6개월 유예...“지방이전 반대·주 4.5일제 도입하라” 금융노조 총파업 - 더나은미래 — *더나은미래*
 - `09-04 18:12` [중국증시-마감] 기술주 약세에 하락 반전 - 연합인포맥스 — *연합인포맥스*
-- `09-04 18:07` 코스피 반등에 변동성도 진정…VKOSPI 40선 아래로 - v.daum.net — *v.daum.net*
 - `09-04 17:56` [도쿄증시-마감] AI·반도체 강세 힘입어 닛케이 5거래일 만에 상승 - 연합인포맥스 — *연합인포맥스*
 - `09-04 17:31` [亞증시-종합] 日·港·臺, AI·반도체 반등에 상승 - KB Think — *KB Think*
 - `09-04 17:24` 코스피 6,687.21 코스닥 813.50 - KBS 뉴스 — *KBS 뉴스*
@@ -32,13 +32,13 @@
 
 ## 🇰🇷 반도체·HBM
 - `09-04 18:30` 전문가가 밝힌 'K반도체 신화' 진짜 배경은 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `09-04 18:25` [수급분석] 삼성전기·한미반도체 쌍끌이, 외국인 SK하이닉스 5,272억 매수 (2026.09.04) - 네이버 프리미엄콘텐츠 — *네이버 프리미엄콘텐츠*
-- `09-04 18:24` 예림당, 본업 부진 속 152억 배당…반도체서 돌파구? - sentv.co.kr — *sentv.co.kr*
-- `09-04 18:22` AI·반도체·로봇·바이오, 정부가 직접 투자하는 이유 - 영상 | 멀티미디어 - 대한민국 정책브리핑 — *대한민국 정책브리핑*
-- `09-04 18:00` [박진영의 비즈+] 마이크론·中까지 뛰어든 'HBM 전쟁'…SK하이닉스 50%·삼성 33% 격차 줄어 - v.daum.net — *v.daum.net*
+- `09-04 18:25` [수급분석] 삼성전기·한미반도체 쌍끌이, 외국인 SK하이닉스 5,272억 매수 (2026.09.04) - contents.premium.naver.com — *contents.premium.naver.com*
+- `09-04 18:24` 예림당, 본업 부진 속 152억 배당…반도체서 돌파구? - 서울경제TV — *서울경제TV*
+- `09-04 18:11` AI·반도체·로봇·바이오, 정부가 직접 투자하는 이유 - 대한민국 정책브리핑 — *대한민국 정책브리핑*
 - `09-04 17:57` "美 반도체 투자는 대미펀드와 완전 별개" - 매일경제 — *매일경제*
 - `09-04 17:56` [도쿄증시-마감] AI·반도체 강세 힘입어 닛케이 5거래일 만에 상승 - 연합인포맥스 — *연합인포맥스*
-- `09-04 17:41` 영광, 18GW 에너지 기반… 서부권 반도체 소부장 거점 제안 - 천지일보 — *천지일보*
+- `09-04 17:41` 영광, 18GW 에너지 기반… 서부권 반도체 소부장 거점 제안 - newscj.com — *newscj.com*
+- `09-04 17:35` 전북자치도, 반도체 소부장 특화단지 지정 박차 - 전북도민일보 — *전북도민일보*
 
 ## 🇰🇷 금융주
 - `09-04 18:30` 1300원대로 낮아진 환율에…금융지주 3분기 실적도 ‘맑음’ - 아시아투데이 — *아시아투데이*
@@ -52,22 +52,22 @@
 
 ## 🇰🇷 정책·거시
 - `09-04 18:00` [함영진의 부동산화수분] 연이은 부동산대책 발표…내 자산관리는? - 주간한국 — *주간한국*
-- `09-04 13:08` ‘8·13 대책’ 먹통에 멈춰 선 거래…서울 집값, ‘공급 가뭄’에 매수심리만 ‘폭발’ - econovill.com — *econovill.com*
-- `09-04 08:15` "책상서만 일하다 보니 현실 몰라"...8.3 부동산 대책 철회 일침 [굿모닝경제] - YTN — *YTN*
+- `09-04 13:08` ‘8·13 대책’ 먹통에 멈춰 선 거래…서울 집값, ‘공급 가뭄’에 매수심리만 ‘폭발’ - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
+- `09-04 08:15` "책상서만 일하다 보니 현실 몰라"...8.3 부동산 대책 철회 일침 [굿모닝경제] - ytn.co.kr — *ytn.co.kr*
 
 ## 🌍 AI·빅테크
 - `09-04 17:08` Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion - CNBC — *CNBC*
 - `09-04 07:24` Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters — *Reuters*
 - `09-04 06:42` OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny - Yahoo Finance — *Yahoo Finance*
+- `09-04 03:38` Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times — *The New York Times*
 - `09-04 03:25` Broadcom CEO Compares OpenAI, Anthropic to 'Geniuses' Needing a Ride to College - finance.biggo.com — *finance.biggo.com*
 - `09-04 03:11` Nvidia's Quiet Transformation: From Chip Seller to AI's Financial Architect - AD HOC NEWS — *AD HOC NEWS*
 - `09-04 03:00` OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times — *Financial Times*
 - `09-04 02:56` Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow - Yahoo Finance — *Yahoo Finance*
-- `09-04 02:32` Cramer Urges Nvidia to Launch $500bn Buyback as AI Growth Fails to Lift Shares - Tekedia — *Tekedia*
 
 ## 🌍 연준·금리
 - `09-04 18:19` Gold Futures Drop: US Payrolls Data & Interest Rate Outlook - Rediff MoneyWiz — *Rediff MoneyWiz*
-- `09-04 18:09` Jobs report to show whether hiring bounced back from unexpected job loss - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
+- `09-04 18:11` Jobs report to show whether hiring bounced back from unexpected job loss - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
 - `09-04 17:16` Asian stocks rally as traders pare rate bets ahead of jobs data - Yahoo Finance Singapore — *Yahoo Finance Singapore*
 - `09-04 17:16` U.S. Federal Reserve Chairman Kevin Wash's Jackson Hole debut stage speech is a big variable, reduci.. - 매일경제 — *매일경제*
 - `09-04 16:53` Bitcoin jumps 6.8% to $82,200 on eased Fed rate hike fears, hitting a four-month high. - Pluang — *Pluang*
@@ -76,21 +76,21 @@
 - `09-04 15:38` South African rand treads water before U.S. jobs data as markets assess Fed rate path - Reuters — *Reuters*
 
 ## 🌍 유가·지정학
-- `09-04 18:28` Oil prices dip but set for weekly gain as U.S.-Iran hostilities intensify - The Globe and Mail — *The Globe and Mail*
+- `09-04 18:33` The coming verdict on Trump's Strait of Hormuz strategy - Axios — *Axios*
+- `09-04 18:28` Oil prices dip but set for weekly gain as U.S.-Iran hostilities intensify - theglobeandmail.com — *theglobeandmail.com*
 - `09-04 18:01` ‘Astronomical’ fuel price surge hits farmers in UK and US - The Guardian — *The Guardian*
 - `09-04 17:51` Oil Prices Ease Near Six-Week Highs as Hormuz Supply Risks Remain in Focus - Yahoo Finance — *Yahoo Finance*
 - `09-04 17:48` 40 Oil Tankers Loaded With 18 Million Barrels Of Oil For Asia Cross Hormuz Under U.S Naval Escort - Marine Insight — *Marine Insight*
 - `09-04 17:45` With the midterms looming, Trump has no real way out of his gas price problem - grist.org — *grist.org*
 - `09-04 17:21` Hormuz Oil Flow ‘Almost’ at Pre-War Levels: Vance - Al Arabiya English — *Al Arabiya English*
 - `09-04 17:21` Oil slips near six-week highs as Iran tensions keep Hormuz supply risks elevated - Investing.com — *Investing.com*
-- `09-04 17:15` UK Poised to Approve Jackdaw Gas Field as Energy Costs Soar - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
 - `09-04 16:21` Sensex zooms 730 pts intraday, Nifty reclaims 24K: What's driving markets? - Business Standard — *Business Standard*
 - `09-04 16:01` Asian benchmarks trade mixed following rally on Wall Street led by technology issues - LancasterOnline — *LancasterOnline*
 - `09-04 15:59` Market Quick Take - Markets rally as Waller turns dovish, jobs report takes centre stage - 04 September 2026 - Saxo — *Saxo*
 - `09-04 15:53` Dow stock gains as chemicals group rides market rally - AD HOC NEWS — *AD HOC NEWS*
-- `09-04 15:20` Global Market: China stocks rebound, but weekly loss looms as AI rally cools - economictimes.com — *economictimes.com*
-- `09-04 14:41` Global Market: Japan stocks rebound on Wall Street boost, SoftBank rally - economictimes.com — *economictimes.com*
+- `09-04 15:20` Global Market: China stocks rebound, but weekly loss looms as AI rally cools - The Economic Times — *The Economic Times*
+- `09-04 14:41` Global Market: Japan stocks rebound on Wall Street boost, SoftBank rally - The Economic Times — *The Economic Times*
 - `09-04 13:42` Tech Stocks Rebound on Easing U.S. Yields - 조선일보 — *조선일보*
 - `09-04 13:27` Japanese trading house stocks reverse course after Berkshire-driven rally By Investing.com - Investing.com India — *Investing.com India*
