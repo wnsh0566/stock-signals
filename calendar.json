@@ -1,6 +1,7 @@
 {
   "_comment": "이벤트 캘린더 — 정사는 signals.md §0-C. date=YYYY-MM-DD, tent=true면 추정일(~). fetch_news.py가 D-day 계산해 news_feed.md 상단에 출력. 지난 이벤트는 7일 후 자동 숨김.",
   "_sync": "2026-09-01 9월 이벤트 12건 등재(§0-C 동기) — 브로드컴·미 고용·옵션만기·CPI·CLARITY·FOMC·네마녀·추석 휴장·마이크론·PCE. 지난 금통위(8/27 통과) 제거. 로컬 정본 = _automation/calendar.json.",
+  "_date_convention": "[2026-09-08 명문화 — 외부 감사 ③] date = KST 발생일 단일 기준. 미국 발표가 KST 새벽이면 그 KST 날짜로 등재하고 현지 날짜는 label에 병기(예: 브로드컴 FQ3 현지 9/2 마감 후 → date 2026-09-03). D-day 계산기(fetch_news.py)가 KST 오늘과 비교하므로 현지 날짜 직접 등재 금지. 시각 확정 이벤트는 label에 HH:MM KST 병기. 9월분 12건은 규약 준수 확인 완료·7~8월 구항목은 지난 이벤트라 미수정.",
   "events": [
     {
       "date": "2026-07-29",

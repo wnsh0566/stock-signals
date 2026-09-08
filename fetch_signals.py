@@ -74,7 +74,7 @@ KST = timezone(timedelta(hours=9))
 def _px_frame(ticker: str):
     """가격 프레임(Close 필수, High/Low는 있으면). 한국물(.KS·^KS11)=FinanceDataReader
     (Naver 백엔드, 마감 직후 당일 종가 반영), 그 외=yfinance. FDR 실패 시 yfinance 폴백.
-    High/Low는 🕯️샹들리에(§9-B) ATR 계산용 — 없으면 Close로 대체(근사)."""
+    High/Low는 🕯️샹들리에(§9-B) ATR 계산용 — [2026-09-08 수정] 없으면 청산선 미산출(None)."""
     if ticker.endswith(".KS") or ticker == "^KS11":
         code = "KS11" if ticker == "^KS11" else ticker[:-3]
         start = (datetime.now(KST) - timedelta(days=420)).strftime("%Y-%m-%d")  # 200일선+버퍼
@@ -104,10 +104,14 @@ def analyze(ticker: str):
         vol20 = c.pct_change().dropna().iloc[-20:].std() * (252 ** 0.5) * 100  # 20일 연율화 변동성 (§3-②)
 
         # 🕯️ 샹들리에 청산선 (§9-B, 2026-07-22): 22일 최고종가 − 3×ATR22. 종가 기준.
-        # High/Low 결측 시 Close로 대체(근사) — 이 칸 실패는 행 전체를 죽이지 않음.
+        # [2026-09-08 수정] High/Low 컬럼 자체가 없으면 청산선 = 사용 불가(None) 처리.
+        # 구식은 Close로 대체(근사)를 표시 없이 출력 — TR이 일중 변동을 못 봐 청산선이
+        # 실제보다 높게(타이트하게) 계산되는 왜곡. 근사값을 정상 신호처럼 쓰지 않는다(P12).
         try:
-            hi = px["High"].reindex(c.index).fillna(c) if "High" in px else c
-            lo = px["Low"].reindex(c.index).fillna(c) if "Low" in px else c
+            if "High" not in px or "Low" not in px:
+                raise ValueError("High/Low 결측 — 청산선 산출 불가")
+            hi = px["High"].reindex(c.index).fillna(c)
+            lo = px["Low"].reindex(c.index).fillna(c)
             pc = c.shift(1)
             tr = (hi - lo).combine((hi - pc).abs(), max).combine((lo - pc).abs(), max)
             atr22 = tr.rolling(22).mean().iloc[-1]
@@ -146,7 +150,9 @@ def fmt_price(v: float) -> str:
 def foreign_flow():
     """네이버 금융 투자자별 매매동향(일별) → KOSPI 외국인·기관 순매수(억원). §14-3 입력.
     pykrx의 KRX 수급 엔드포인트 파손(2026-07-15) 대체. 반환 (rows, err).
-    rows=[(MM-DD, 외국인억, 기관억)...] 오름차순 / err=실패사유(정상 시 None).
+    rows=[(YYYY-MM-DD, 외국인억, 기관억)...] 오름차순 / err=실패사유(정상 시 None).
+    [2026-09-08 수정] 내부 날짜 = YYYY-MM-DD(연말 정렬 오류 방지 — MM-DD 문자열 정렬은
+    12월>1월로 역전됨) / 화면 표시만 MM-DD(출력부에서 절단).
     단위=억원(네이버 원자료가 이미 억원 — 2026-07-15 확정치 대조로 검증). 당일분은 장중 잠정."""
     now = datetime.now(KST)
     url = ("https://finance.naver.com/sise/investorDealTrendDay.naver"
@@ -194,13 +200,15 @@ def foreign_flow():
         if fv is None:
             continue
         # 네이버 값 = 이미 억원 단위(2026-07-15 검증: 07-10 −3,226·07-13 −16,700 확정치 일치). 변환 불필요.
-        rows.append((f"{int(m.group(2)):02d}-{int(m.group(3)):02d}", fv,
+        y = int(m.group(1))
+        y = y + 2000 if y < 100 else y  # 2자리 연도 방어
+        rows.append((f"{y:04d}-{int(m.group(2)):02d}-{int(m.group(3)):02d}", fv,
                      iv if iv is not None else None))
     if not rows:
         return [], f"데이터 행 파싱 0 · 컬럼={cols}", False
     rows = sorted(rows, key=lambda x: x[0])[-6:]  # 네이버 최신일 상단 → 오름차순 후 최근 6일
     # 최신 행이 '오늘'이고 장 마감(15:30) 전이면 장중 잠정 → 자동 트리거 카운트에서 제외.
-    prov = bool(rows) and rows[-1][0] == now.strftime("%m-%d") and (now.hour, now.minute) < (15, 30)
+    prov = bool(rows) and rows[-1][0] == now.strftime("%Y-%m-%d") and (now.hour, now.minute) < (15, 30)
     return rows, None, prov
 
 
@@ -250,7 +258,9 @@ def sector_rotation(results_by_tk):
         gate = sum(1 for t in tks if results_by_tk.get(t)
                    and results_by_tk[t]["above50"] > 0 and results_by_tk[t]["cross"] == "5>20")
         total = sum(1 for t in tks if results_by_tk.get(t))
-        rows.append((sec, _median(rets), gate, total))
+        # [2026-09-08 수정] planned(예정 종목 수) 병기 — 수집 실패가 분모에서 빠져
+        # "한 종목만 수집돼도 통과"하던 경로 차단(결측 시 판정 보류).
+        rows.append((sec, _median(rets), gate, total, len(tks)))
     if not rows:
         return [], "섹터 데이터 없음"
     rows.sort(key=lambda x: x[1], reverse=True)
@@ -259,7 +269,9 @@ def sector_rotation(results_by_tk):
     note = f"리더={order[0]}"
     if "반도체" in d and "금융" in d:
         semi, fin = d["반도체"], d["금융"]
-        semi_gate_ok = semi[3] > 0 and semi[2] * 2 >= semi[3]  # 반도체 추세게이트 과반
+        # [2026-09-08 수정] 과반 = 엄격 부등호(2종목 중 1종목=절반은 미통과) + 전 멤버 수집 필수
+        # (구식 gate*2 >= total은 절반 통과·결측 시 분모 축소 — 오탐 경로 2건 차단)
+        semi_gate_ok = semi[3] == semi[4] and semi[2] * 2 > semi[3]
         if semi[1] > fin[1] and semi_gate_ok:
             note += " · 🟢 본대 교차확인 켜짐(반도체 RS>금융 + 추세게이트) — 양일·심판A·하이닉스 3종과 교차"
         elif semi[1] > fin[1]:
@@ -360,7 +372,8 @@ def main():
             lines.append("| 날짜 | 외국인 | 기관 |")
             lines.append("|------|--:|--:|")
             for i, (disp, fval, ival) in enumerate(flow):
-                label = f"{disp}(잠정)" if (prov and i == len(flow) - 1) else disp
+                disp_md = disp[5:] if len(disp) == 10 else disp  # 내부 YYYY-MM-DD → 표시 MM-DD
+                label = f"{disp_md}(잠정)" if (prov and i == len(flow) - 1) else disp_md
                 fs = f"{fval:+,.0f}" if fval is not None else "—"
                 is_ = f"{ival:+,.0f}" if ival is not None else "—"
                 lines.append(f"| {label} | {fs} | {is_} |")
@@ -378,8 +391,13 @@ def main():
         if srows:
             lines.append("| 섹터 | RS(60일) | 추세게이트 |")
             lines.append("|------|--:|:--:|")
-            for sec, rs, gate, total in srows:
-                lines.append(f"| {sec} | {rs:+.1f}% | {gate}/{total} {'✅' if total and gate * 2 >= total else '❌'} |")
+            for sec, rs, gate, total, planned in srows:
+                # [2026-09-08 수정] 결측 시 ⏸️보류(수집 성공 ≠ 판정 가능·P12)·과반은 엄격 부등호
+                if total < planned:
+                    mark = f"⏸️보류(결측 {planned - total})"
+                else:
+                    mark = "✅" if gate * 2 > total else "❌"
+                lines.append(f"| {sec} | {rs:+.1f}% | {gate}/{total}(예정 {planned}) {mark} |")
             lines.append(f"> 🔎 로테이션(1차 참고): {snote} · ⚠️ 양일 유지·본대 판정은 §14(심판A+하이닉스 3종)와 교차확인")
         else:
             lines.append(f"> ⚠️ 섹터 RS 실패 — {snote}")
