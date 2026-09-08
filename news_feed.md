@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-08 20:43 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-08 21:07 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,28 +18,28 @@
 - **D-22** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-08 20:46` 외인 찔끔 사고, 개미 확 팔고…‘7100’ 찍고 미끄럼 탄 코스피 - v.daum.net — *v.daum.net*
+- `09-08 20:37` 외인 찔끔 사고, 개미 확 팔고…‘7100’ 찍고 미끄럼 탄 코스피 - 경향신문 — *경향신문*
 - `09-08 20:03` 코스피 ‘7000’ 턱밑서 주춤… 개미 이탈 지속 - v.daum.net — *v.daum.net*
 - `09-08 19:27` 개인 매물 폭탄에…코스피 7,000선 탈환 무산 - 연합뉴스TV — *연합뉴스TV*
 - `09-08 19:23` [亞증시-종합] 기술주 약세 속 대부분 하락…中만 혼조 - 연합인포맥스 — *연합인포맥스*
 - `09-08 19:16` [베트남 증시] 유동성 감소 속 변동성 보이다 상승...고유가 지속에 석유·가스株 ↑ - 뉴스핌 — *뉴스핌*
 - `09-08 18:47` [이슈플러스] 코스피 문 두드린 무신사…8조원 안팎 몸값 주목 - 서울경제TV — *서울경제TV*
 - `09-08 18:38` [오늘의증시] 코스피, 6954 마감…‘7천피’ 안착 또 실패 - 경인방송 뉴스 — *경인방송 뉴스*
-- `09-08 18:30` '7천피' 찍고 6955로 밀린 코스피…장중 221p 출렁 - 코리아리포트 — *코리아리포트*
-- `09-08 18:24` 외국인 돌아왔지만 개미 3조 던져 뒷심 빠진 코스피 7100 찍고 하락 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `09-08 20:29` 구미시, 반도체 인재 매칭…기업·청년 한자리 - 아시아경제 — *아시아경제*
+- `09-08 20:41` SK하이닉스 298만원에 물렸는데, 어떡해? ‘엔비디아도 같은 늪 건넜다’ [투자360] - v.daum.net — *v.daum.net*
+- `09-08 20:40` 의대·반도체는 시장 직할…전남광주시 조직개편 ‘재설계’ - v.daum.net — *v.daum.net*
+- `09-08 20:37` 삼성전자, 내후년부터 ‘차세대 노광 장비’로 반도체 만든다 - 경향신문 — *경향신문*
 - `09-08 20:04` ASML과 손잡은 ‘초격차 삼성’… 반도체 공급 병목 뚫는다 - v.daum.net — *v.daum.net*
-- `09-08 19:45` Arm, 에이전트 AI 대비 'CSS 포 모바일 2' 출시 - thelec.kr — *thelec.kr*
-- `09-08 19:41` 앤시스 품은 시높시스, 칩부터 시스템까지 설계 통합 - thelec.kr — *thelec.kr*
+- `09-08 19:45` Arm, 에이전트 AI 대비 'CSS 포 모바일 2' 출시 - 디일렉 — *디일렉*
+- `09-08 19:41` 앤시스 품은 시높시스, 칩부터 시스템까지 설계 통합 - 디일렉 — *디일렉*
 - `09-08 19:40` ‘반도체 호황’에 올해 1인당 국민소득 4만달러 넘을 듯…한은 잠정치 - 한겨레 — *한겨레*
 - `09-08 19:39` [포토] 몸값 비싼 반도체 'Do dream' - 인천일보 — *인천일보*
-- `09-08 19:37` 메타·파네시아, CXL로 데이터센터 연결 - thelec.kr — *thelec.kr*
-- `09-08 19:36` 구미시, 「경상북도 반도체 인재 플랫폼-매칭 포럼」 개최 - 구미일보 — *구미일보*
 
 ## 🇰🇷 금융주
 - `09-08 18:06` “부산은행·경남은행 ‘전산 통합’ 검토해야” - 부산일보 — *부산일보*
-- `09-08 18:00` [보험 새판짜기] ‘비보험 확장전쟁’… ‘은행 없는’ 삼성금융 순이익 금융지주급 도약 - g-enews.com — *g-enews.com*
+- `09-08 18:00` [보험 새판짜기] ‘비보험 확장전쟁’… ‘은행 없는’ 삼성금융 순이익 금융지주급 도약 - 글로벌이코노믹 — *글로벌이코노믹*
 - `09-08 16:49` KB는 이천·신한은 송도…같은 날 티오프하는 금융지주 '골프전쟁' [경제 블로그] - 네이트 — *네이트*
 - `09-08 16:17` 금융주 랠리서 뒤처진 BNK금융…'밸류업 2.0' 통할까 - 네이트 — *네이트*
 - `09-08 16:15` 4대 금융, 외국인 지분율 과반↑⋯상승 폭 우리·신한·KB·하나 순 - 금융소비자뉴스 — *금융소비자뉴스*
@@ -58,41 +58,41 @@
 - `09-08 10:00` [토크ON] ② 대구 부동산 시장에 필요한 대책은? - 대구MBC — *대구MBC*
 
 ## 🌍 AI·빅테크
-- `09-08 20:03` OpenAI and Anthropic Seek Investment Rating for Cheaper Debt - Kryptomagazin — *Kryptomagazin*
 - `09-08 17:06` Nvidia-like Chinese AI chipmaker Moore Threads files for US$1b Hong Kong IPO : report - The Standard (HK) — *The Standard (HK)*
 - `09-08 16:33` Anthropic and OpenAI Seek Post-IPO Investment-Grade Ratings as Massive AI Compute Spending Fuels Financing Needs - TradingKey — *TradingKey*
 - `09-08 15:56` Nvidia's 3-Year-Old H100 Chip Is Still Getting the Market to Pay Up, Jensen Huang Says Compute Is 'Fungible, Durable and… - Longbridge — *Longbridge*
 - `09-08 15:42` OpenAI Signs Multi-Year Malaysia Compute Deal; Firmus to Deploy Nvidia Vera Rubin at Scale in Asia-Pacific - TradingKey — *TradingKey*
 - `09-08 14:34` Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times — *Financial Times*
 - `09-08 14:00` Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion - CNBC — *CNBC*
-- `09-08 09:39` NVIDIA's $99 Billion AI Portfolio: Every Major Investment in 2026 - memeburn.com — *memeburn.com*
+- `09-08 09:39` NVIDIA's $99 Billion AI Portfolio: Every Major Investment in 2026 - Memeburn — *Memeburn*
+- `09-08 06:23` Nvidia CEO Says Human-Level AI Is Here. He Sells the Chips. - BeInCrypto — *BeInCrypto*
 
 ## 🌍 연준·금리
-- `09-08 19:06` Trump’s Baffling Fed Threat May Be a Gift to Warsh - techflowpost.com — *techflowpost.com*
+- `09-08 19:06` Trump’s Baffling Fed Threat May Be a Gift to Warsh - 深潮TechFlow — *深潮TechFlow*
 - `09-08 18:55` Trump’s Rate Demands Could Give Fed Chair Kevin Warsh a Chance to Prove Independence - Межа. Новини України. — *Межа. Новини України.*
-- `09-08 18:35` US jobs report sends Bitcoin lower as Fed rate hike bets return - altcoinbuzz.io — *altcoinbuzz.io*
+- `09-08 18:35` US jobs report sends Bitcoin lower as Fed rate hike bets return - Altcoin Buzz — *Altcoin Buzz*
 - `09-08 18:29` Amid Trump’s threat of a "trade break," is Federal Reserve Chair Warsh seizing a prime opportunity? - 富途牛牛 — *富途牛牛*
 - `09-08 18:03` Federal Reserve Board Meeting Upcoming - Southeast AgNET — *Southeast AgNET*
 - `09-08 18:00` Readers sound off on interest rates, fall activities and Stacy Keach - New York Daily News — *New York Daily News*
 - `09-08 17:45` Dow Futures Fall as Markets Assess Fed Rate Expectations and Higher Oil Prices - Yahoo Finance — *Yahoo Finance*
-- `09-08 15:00` COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan - Reuters — *Reuters*
+- `09-08 15:00` COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan - reuters.com — *reuters.com*
 
 ## 🌍 유가·지정학
-- `09-08 20:25` Goldman Sachs, HSBC raise oil price forecasts on Gulf disruptions - marketscreener.com — *marketscreener.com*
+- `09-08 21:00` Gulf Producers Find Workarounds As Hormuz Tensions Persist - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-08 20:56` Oil: Supply shocks lift price risks – BNY - FXStreet — *FXStreet*
+- `09-08 20:52` Oil Price Surge Hits Stock Market Sentiment - DailyForex — *DailyForex*
+- `09-08 20:50` Iran-Backed Houthis Launched a Large-Scale Attack Against Saudi Arabia. Oil Is Nearing $100 Again. - International Business Times — *International Business Times*
+- `09-08 20:45` Oil Climbs Toward $100 a Barrel Following Houthi Attacks - The New York Times — *The New York Times*
+- `09-08 20:42` Hormuz showdown looms as oil nears $100 - agbi.com — *agbi.com*
+- `09-08 20:24` Goldman Sachs, HSBC raise oil price forecasts on Gulf disruptions - TradingView — *TradingView*
 - `09-08 20:16` Oil nears $100 a barrel after attacks by Yemen’s Houthis - Semafor — *Semafor*
-- `09-08 20:00` Vitol CEO Global Fuel Markets Are "Tight and Inflexible" - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-08 19:52` Oil near $100, Fed rate fears and Iran tensions - what’s moving markets - Investing.com — *Investing.com*
-- `09-08 19:52` Brent rises near $100/bbl after Iran threat to Gulf energy infrastructure - Investing.com — *Investing.com*
-- `09-08 19:41` Iran-backed Houthis attack Saudi oil facilities, injuring dozens - CBC — *CBC*
-- `09-08 19:37` U.S.-Iran War Updates: Oil nears $100 a barrel as Strait of Hormuz stalemate keeps ship traffic down - CBS News — *CBS News*
-- `09-08 19:21` U.S. Naval Blockade Dries Up Iran Oil Revenues, Stockpile Could Exhaust By Mid-October: how 12 outlets framed it - NewsCord — *NewsCord*
 
 ## 🌍 시장 전반
-- `09-08 19:45` London shares inch lower as oil rally fuels inflation concerns - Reuters — *Reuters*
+- `09-08 19:45` London shares inch lower as oil rally fuels inflation concerns - reuters.com — *reuters.com*
 - `09-08 18:35` If a Stock Market Crash Is Coming, Investors Will Want to Own This Dividend King - Yahoo Finance — *Yahoo Finance*
 - `09-08 18:07` JPY rallies in the FX market - FXStreet — *FXStreet*
+- `09-08 18:04` Why Stocks Are Defying Gravity and What Could Bring Them Down - The New York Times — *The New York Times*
 - `09-08 17:48` Is there a bubble in tech stocks? Summer sell-off was more technical than fundamental - The Business Times — *The Business Times*
 - `09-08 17:00` IFCI Share Price Today: Stock Falls 8% as NSE IPO-Linked Rally Faces Profit Booking; What Investors Should Know - India Infoline — *India Infoline*
 - `09-08 16:14` Global Market: Yen rally threatens to unravel lucrative carry trade ahead of BOJ rate decision - The Economic Times — *The Economic Times*
 - `09-08 14:15` A Stock Trader’s Guide to Europe’s Gas Rally - Bloomberg.com — *Bloomberg.com*
-- `09-08 14:04` Asian stocks mixed as chipmakers rally, oil and rate risks cap gains - Investing.com India — *Investing.com India*
