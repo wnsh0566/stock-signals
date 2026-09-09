@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-09 08:36 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-09 17:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -9,89 +9,92 @@
 - **D+5** (09/04) ⭐⭐⭐ 미 8월 고용보고서 21:30 KST — 9월 FOMC 인상 입력값
 - **D+2** (09/07) ⭐ 미 노동절 휴장
 - **D-1** (09/10) ⭐⭐ 한국 선물옵션 동시만기 — 수급 왜곡 주의
+- **D-1** (09/10) ⭐⭐ ECB 금리 결정 21:15 KST(회견 21:45) — 인상 2.50% 확률 ~99%(예측시장) [09-09 등재: 외부 브리핑 계기 캘린더 공백 발견]
+- **D-1** (09/10) ⭐⭐ 미 8월 PPI 21:30 KST — CPI 전야 파이프라인 물가(8/13 PPI 누락 전례 재발 방지·check_calendar 첫 실행에서 포착) ⚠️ ECB와 동일 밤 = 목요일 밤 물가+통화정책 이중 이벤트
 - **D-2** (09/11) ⭐⭐⭐ 미 8월 CPI 21:30 KST — 유가 재돌파로 헤드라인 상방·FOMC 직전 마지막 물가
 - **D-6** (09/15) ⭐ 미 상원 CLARITY 클로처 표결(60표)
 - **D-8** (09/17) ⭐⭐⭐ FOMC 결과 목 새벽 3:00 KST(회의 9/15~16) — 인상 확률 46%·점도표·워시 회견
+- **D-9** (09/18) ⭐⭐⭐ BOJ 금융정책회의 결과(회의 9/17~18·낮 발표) — 50bp 설·정부-BOJ 균열 관찰·엔 153→강세 전환 중. FOMC(목 새벽)→BOJ(금 낮)→네마녀 = 9/17~18 3연타 클러스터 [09-09 등재]
 - **D-9** (09/18) ⭐⭐ 미 네 마녀(선물옵션 동시만기)+S&P 리밸런싱
 - **D-15** (09/24) ⭐⭐ 추석 연휴 9/24(목)~27(일)·대체공휴일 없음 — 휴장 거래일 9/24~25 이틀·9/23(수) 마지막 거래·9/28(월) 재개·미국 2거래일 공백 [09-08 정정: 구 등재 9/24~28 휴장·9/29 재개는 오기]
 - **D-21** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-09 08:29` 중동 긴장감에 국제유가 100달러 육박…뉴욕증시 하락 - 연합뉴스TV — *연합뉴스TV*
-- `09-09 08:25` [증시 포인트] 7000선 앞두고 숨고르기 장세 이어질 듯 - 오피니언뉴스 — *오피니언뉴스*
-- `09-09 08:25` 유가는 뛰고 금리는 오르고…뉴욕증시, 중동 확전 우려에 일제히 하락 - 조세일보 — *조세일보*
-- `09-09 08:18` [밤 사이 해외뉴스] 美증시 '평온한 여름' 끝났다…Fed·인플레에 긴장하는 월가 - hankyung.com — *hankyung.com*
-- `09-09 08:18` [오늘의 투자전략 ]美 중동 불안에 흔들…코스피 7000선 공방 전망 - 이투데이 — *이투데이*
-- `09-09 08:17` 미 증시 하락에도 반도체 강세…삼전닉스 프리마켓서 1%대 상승 - 뉴스1 — *뉴스1*
-- `09-09 08:09` [마켓뷰] 중동 불안에도 반도체 훈풍…'7천피' 탈환 재시도하나 - 연합뉴스 — *연합뉴스*
-- `09-09 08:07` [굿모닝증시]중동 긴장·유가 급등 우려↑…韓증시 눈치보기 전망 - 아시아경제 — *아시아경제*
+- `09-09 16:50` [증시 인사이트] 기관·기타법인 사자…코스피 7000선 안착 성공? - v.daum.net — *v.daum.net*
+- `09-09 16:49` [뉴욕증시 전략] 지정학 리스크에 고유가…뉴욕증시 하락 마감 - v.daum.net — *v.daum.net*
+- `09-09 16:49` [애프터마켓 브리핑] 코스피, 33거래일만에 7000선 탈환 - v.daum.net — *v.daum.net*
+- `09-09 16:43` 삼성전자 제자리걸음에도 7000선 탈환한 코스피...다시 커진 'AI 확신론' - 한국경제 — *한국경제*
+- `09-09 16:34` 14일부터 저녁 8시까지 '코스피·코스닥' 주식 매매...ETF·ETN 제외 - ikbc.co.kr — *ikbc.co.kr*
+- `09-09 16:33` 코스피 7,051 마감…AI 훈풍에 33거래일 만에 7,000선 탈환 - 산경투데이 — *산경투데이*
+- `09-09 16:32` 코스피, AI 훈풍에 33거래일 만에 7000선 탈환 - 뉴스토마토 — *뉴스토마토*
+- `09-09 16:32` [표] 코스피 지수선물·옵션 시세표(9일)-3 - 매일경제 마켓 — *매일경제 마켓*
 
 ## 🇰🇷 반도체·HBM
-- `09-09 08:30` 최교진, 강원대 반도체공동연구소 착공식 참석…"강원권 인재양성 거점" - 뉴스핌 — *뉴스핌*
-- `09-09 08:29` 삼성전자, 미스트랄AI와 반도체 특화 AI 개발…지분 투자도 - 연합인포맥스 — *연합인포맥스*
-- `09-09 08:25` SK키파운드리, 차량용 반도체업체 엘모스와 130나노 협력 확대 - 연합뉴스 — *연합뉴스*
-- `09-09 08:21` 삼성전자, 유럽 AI 기업 미스트랄에 전략적 투자…반도체 제조 AI 만든다 - 라이센스뉴스 — *라이센스뉴스*
-- `09-09 08:21` 권형택 기보 이사장, 전력반도체 제조기업 방문해 규제애로 청취 - 매일일보 — *매일일보*
-- `09-09 08:20` 주도주 장세 당분간 어려워..."실적주 트레이딩·반도체 중장기 투자 유효” - 조세일보 — *조세일보*
-- `09-09 08:18` SK하이닉스, 대형 운용사에 RFP 발송…채권 투자방식 바꿔 들어오나 - KB Think — *KB Think*
-- `09-09 08:17` 미 증시 하락에도 반도체 강세…삼전닉스 프리마켓서 1%대 상승 - 뉴스1 — *뉴스1*
+- `09-09 16:57` SK하이닉스 3.51% 급등…삼성전자는 상승분 반납해 26만9500원 - v.daum.net — *v.daum.net*
+- `09-09 16:54` 심텍, '국제 반도체 기판 산업전' 참가…AI 기판 기술로 산업부장관상 등 3관왕 - v.daum.net — *v.daum.net*
+- `09-09 16:50` [포토뉴스] 삼성·SK하이닉스도 참여한 국제물주간 찾은 추경호 대구시장 - 매일신문 — *매일신문*
+- `09-09 16:48` 청주대, 세종·충북 '반도체 인재 2000명' 양성 나선다 - 뉴스핌 — *뉴스핌*
+- `09-09 16:47` 서서히 드러나는 ‘반도체 달러’의 위력…원화값 1300원이 보인다 - v.daum.net — *v.daum.net*
+- `09-09 16:46` SK하이닉스, 키옥시아 지분 연결에도 공동생산은 없다 - PRESS9 — *PRESS9*
+- `09-09 16:45` 서서히 드러나는 ‘반도체 달러’의 위력…원화값 1300원이 보인다 - joongang.co.kr — *joongang.co.kr*
+- `09-09 16:45` 최태원, 해외 반도체 공장 검토 속 “국내 변수 줄여달라” - PRESS9 — *PRESS9*
 
 ## 🇰🇷 금융주
-- `09-09 06:53` ‘피난주’ 넘어 우량주?…은행주에 주목하는 증권가 - 뉴스투데이 — *뉴스투데이*
-- `09-09 06:40` [금융현미경]금리에 환율까지 '겹호재'…금융지주 3분기 최대 실적 넘보나 - Nate News — *Nate News*
-- `09-09 06:00` 환율 1300원대로 ‘뚝’…금융지주 주주환원 기대감 ‘쑥’ - 쿠키뉴스 — *쿠키뉴스*
-- `09-09 06:00` 두 번의 한끗 승부…한투 금융제국 세웠다 - 한경매거진&북 — *한경매거진&북*
-- `09-09 05:55` 성과급 주총 결의 논의…김기홍 JB금융 회장 '22억 장기보상' 주목 - 뉴스저널리즘 — *뉴스저널리즘*
-- `09-09 05:03` KB·신한 같은 날 티오프…금융지주 '골프전쟁' [경제 블로그] - Nate News — *Nate News*
-- `09-08 18:06` “부산은행·경남은행 ‘전산 통합’ 검토해야” - 부산일보 — *부산일보*
-- `09-08 18:00` [보험 새판짜기] ‘비보험 확장전쟁’… ‘은행 없는’ 삼성금융 순이익 금융지주급 도약 - 글로벌이코노믹 — *글로벌이코노믹*
+- `09-09 16:49` 금융지주 전환 앞둔 수협은행…'4표의 벽' 넘을 선장은 - v.daum.net — *v.daum.net*
+- `09-09 16:45` 하나금융지주, 은행보다 비은행이 더 빨리 컸다 - PRESS9 — *PRESS9*
+- `09-09 16:40` BS그룹·KB금융그룹, 부동산개발·AI 데이터센터 금융협력 - 문화일보 — *문화일보*
+- `09-09 16:31` KB금융, BS그룹과 생산적금융 확대 및 동반성장 MOU - 데일리한국 — *데일리한국*
+- `09-09 16:20` KB금융지주, BS그룹과 신재생에너지·AI 데이터센터 협력 - PRESS9 — *PRESS9*
+- `09-09 16:19` 흔들리는 의결권 자문사···'외인 지분율 과반' 금융지주엔 득일까 실일까 - 서울파이낸스 — *서울파이낸스*
+- `09-09 16:12` BS그룹-KB금융그룹, 생산적금융 확대·동반성장 업무협약 체결 - lawissue.co.kr — *lawissue.co.kr*
+- `09-09 16:09` 대통령은 금융권 ‘이너서클’ 깬다는데…국민연금, 들쭉날쭉 잣대에 ‘묵인’ 논란 - 이코노미트리뷴 — *이코노미트리뷴*
 
 ## 🇰🇷 정책·거시
-- `09-08 23:05` 한국부동산원장 이헌욱, 정부 주택공급 대책의 신속한 실행 지원 강조 !! - 내외일보 — *내외일보*
-- `09-08 15:48` 이헌욱 부동산원장, “공급대책, 현장에서 실제 이어져야” - metroseoul.co.kr — *metroseoul.co.kr*
-- `09-08 13:25` 이헌욱 부동산원장 “정부 공급대책 신속한 현장 실행 지원” - 쿠키뉴스 — *쿠키뉴스*
-- `09-08 13:17` “지방 부동산 ‘미분양 늪’ 깊어지나…이성권 ‘수도권 중심 대책에 지역은 소외’” - ppss.kr — *ppss.kr*
-- `09-08 11:22` 국회서 9일 지방 부동산 위기 해소방안 모색 토론회 - 연합뉴스 — *연합뉴스*
-- `09-08 11:11` 여야 7개 정당, 9일 부동산 정책토론…공급대책 등 논의 - 뉴시스 — *뉴시스*
-- `09-08 10:49` 여야 7개 정당, 9일 부동산 정책토론…집값·공급대책 논의 - 뉴스1 — *뉴스1*
-- `09-08 10:00` [토크ON] ② 대구 부동산 시장에 필요한 대책은? - 대구MBC — *대구MBC*
+- `09-09 16:26` 금융위, 8·13 공급대책 세부과제 점검‥"PF 보증 확대·이주비대출 개선 등 완료" - MBC 뉴스 — *MBC 뉴스*
+- `09-09 16:17` 부동산 공급 대책 토론회…與 "공공 주도 공급" VS 野 "민간 중심 개발" - Nate News — *Nate News*
+- `09-09 15:43` 가계대출 증가폭 줄었지만 주담대 4조원 늘어···부동산 대책 영향 더 지켜봐야 - 여성경제신문 — *여성경제신문*
+- `09-09 14:48` 여야, 부동산 공급 대책 공개 토론…與 “공공 주도” vs 野 “민간 주도” - 서울신문 — *서울신문*
+- `09-09 14:17` 부동산 공급 대책 뜨거운 논쟁, 각 당의 전략은 무엇인가 - 공감신문 — *공감신문*
+- `09-09 13:56` 오피스텔·도생 PF 자기자본비율 강화 2년 유예…금융권 서울 수도권 PF 집중된다 - 대한경제 — *대한경제*
+- `09-09 12:13` 금융당국, 주택공급 금융지원 속도…매주 점검회의 개최 - Nate News — *Nate News*
+- `09-09 12:12` 여야, 부동산 이견 여전…"공공이 마중물"·"민간 고밀개발로" - 연합뉴스 — *연합뉴스*
 
 ## 🌍 AI·빅테크
-- `09-09 04:59` SoftBank plans up to $20 billion junk bond sale to refinance OpenAI debt - The Cryptonomist — *The Cryptonomist*
+- `09-09 14:43` Jim Chanos Questions Nvidia’s AI Chip Economics After Jensen Huang Says Nvidia Chips Are 'Highly Rentable' - tradingview.com — *tradingview.com*
+- `09-09 13:43` European OpenAI Success Story: $23.5B Financing Secured, 80% Valuation Surge in 12 Months - 36 Kr — *36 Kr*
+- `09-09 04:59` SoftBank plans up to $20 billion junk bond sale to refinance OpenAI debt - en.cryptonomist.ch — *en.cryptonomist.ch*
 - `09-09 01:14` Funding grants for new research into AI and teen development - OpenAI — *OpenAI*
 - `09-09 00:34` Nvidia’s New Partner Says Banks Want AI on Machines They Can Unplug - 24/7 Wall St. — *24/7 Wall St.*
-- `09-08 21:56` Morgan Stanley: AI Investment Returns Reach Up to 46%; Capex Growth to Slam the Brakes in 2028 - finance.biggo.com — *finance.biggo.com*
 - `09-08 21:10` OpenAI, Anthropic Seek Investment-Grade Ratings Post Potential IPOs to Cut AI Borrowing Costs: Report - Yahoo Finance — *Yahoo Finance*
-- `09-08 17:06` Nvidia-like Chinese AI chipmaker Moore Threads files for US$1b Hong Kong IPO : report - The Standard (HK) — *The Standard (HK)*
-- `09-08 16:33` Anthropic and OpenAI Seek Post-IPO Investment-Grade Ratings as Massive AI Compute Spending Fuels Financing Needs - tradingkey.com — *tradingkey.com*
-- `09-08 14:00` Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion - CNBC — *CNBC*
+- `09-08 16:33` Anthropic and OpenAI Seek Post-IPO Investment-Grade Ratings as Massive AI Compute Spending Fuels Financing Needs - TradingKey — *TradingKey*
+- `09-08 14:34` Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times — *Financial Times*
 
 ## 🌍 연준·금리
-- `09-09 08:17` UBS doubles down on Fed rate-hike forecast for 2026 - thestreet.com — *thestreet.com*
-- `09-09 05:44` Investors shrug off Trump trade threat over interest rates - Washington Examiner — *Washington Examiner*
-- `09-09 05:20` Kevin Warsh Inherited the Most Divided Fed in Half a Century. Here Is the Number That Proves It. - 24/7 Wall St. — *24/7 Wall St.*
-- `09-09 05:16` FOMC September 2026 Odds for a Rate Hike Surpass 50% - Cryptonews — *Cryptonews*
-- `09-09 04:25` 2 savings accounts to consider if the Fed raises rates this September (and one to avoid) - cbsnews.com — *cbsnews.com*
-- `09-09 03:52` Bitcoin Flows Now Hinge on Fed Rate Bets, Not Crypto News, CoinShares Says - finance.biggo.com — *finance.biggo.com*
-- `09-09 03:35` Why the Fed's interest rate call could come down to a few hundredths of a percentage point - CNBC — *CNBC*
-- `09-09 01:28` Oil prices keep rising and weigh on Wall Street - mccookgazette.com — *mccookgazette.com*
+- `09-09 16:30` A September Rate Hike: The Fed's Least Bad Option? - 深潮TechFlow — *深潮TechFlow*
+- `09-09 16:01` Blondie & Garfield - September 10, 2026 - The Korea Times — *The Korea Times*
+- `09-09 14:40` USD strength delayed, not derailed - CommBank — *CommBank*
+- `09-09 14:35` Oil Approaches $100 Mark as Strategist Warns Fed Rate Hikes Could Repeat 2008 Policy Disaster - finance.biggo.com — *finance.biggo.com*
+- `09-09 14:31` Bitcoin Reclaims $79,000 as Inflation Data Looms Ahead of FOMC - finance.biggo.com — *finance.biggo.com*
+- `09-09 13:42` Swiss Franc strengthens as US Dollar holds losses despite Fed rate hike odds - FXStreet — *FXStreet*
+- `09-09 12:27` United States Dollar Index weakens despite rising inflation concerns, Fed rate hike bets - FXStreet — *FXStreet*
+- `09-09 12:19` Gold Price Forecast: Stronger-Than-Expected Payrolls Weigh on Gold as Market Eyes August CPI; Can Gold Still Rally? - TradingKey — *TradingKey*
 
 ## 🌍 유가·지정학
-- `09-09 08:19` Houthis Attack Saudi Energy Facilities, Pushing Oil Near $100 as Dow Jones Falls: 11 outlets compared - NewsCord — *NewsCord*
-- `09-09 08:17` Shafaq News..US strikes five Iran-linked oil tankers - شفق نيوز — *شفق نيوز*
-- `09-09 08:09` War expands as Houthis attack Saudi cities and US strikes Iranian tankers - Reuters — *Reuters*
-- `09-09 08:09` US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship - WGN-TV — *WGN-TV*
-- `09-09 08:08` U.S. says it destroyed five Iran oil tankers after attacks on American warship - The Japan Times — *The Japan Times*
-- `09-09 08:00` Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-09 07:49` US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship - FOX 8 News — *FOX 8 News*
-- `09-09 07:46` Saudi oil attacked, US strikes Iran’s tankers and more - CNN — *CNN*
+- `09-09 16:50` Oil prices rise above $100 a barrel for first time since July as Iran war escalates - The Guardian — *The Guardian*
+- `09-09 16:50` Oil hits $100 for first time since July as chaos continues in Strait of Hormuz - The Independent — *The Independent*
+- `09-09 16:42` Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters — *Reuters*
+- `09-09 16:42` Brent Breaks $100 for the First Time in Nearly Two Months - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-09 16:33` Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East - The New York Times — *The New York Times*
+- `09-09 16:29` Brent Marches Toward $100 As U.S.-Iran Attacks Escalate - WSJ — *WSJ*
+- `09-09 16:22` Brent nears $100 as US-Iran tensions stoke supply concerns - Anadolu Ajansı — *Anadolu Ajansı*
+- `09-09 16:19` Oil hits $100 for first time since July - Financial Times — *Financial Times*
 
 ## 🌍 시장 전반
+- `09-09 15:59` Japan and South Korea Stocks Trim Gains After Surge; Kospi Holds 7,000 as SoftBank, SK Hynix Jump Over 3% - TradingKey — *TradingKey*
+- `09-09 15:34` Beyond the rally: Can Korea build a lasting premium? - koreaherald.com — *koreaherald.com*
+- `09-09 14:15` ESDS Software shares rally 10%, skyrocket 235% from IPO price in 4 days. Should you buy or sell? - The Economic Times — *The Economic Times*
+- `09-09 13:21` Global Market: South Korean shares surge as Samsung, SK Hynix rally on AI optimism - The Economic Times — *The Economic Times*
+- `09-09 13:04` Asian stocks mixed as chip rally offsets oil-fueled inflation concerns - Investing.com — *Investing.com*
+- `09-09 04:21` Citi boosts chip sector outlook as semiconductor stocks rally - Investing.com — *Investing.com*
 - `09-09 04:07` ‘Black Swan’ investor shares market crash prediction - thestreet.com — *thestreet.com*
 - `09-09 04:05` What happens if the US 10-year Treasury yield hits 5%? Why stocks could be at risk | Business News - Hindustan Times — *Hindustan Times*
-- `09-09 04:00` Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6% - 24/7 Wall St. — *24/7 Wall St.*
-- `09-09 02:04` BTBT, WULF Stocks Defy Market Sell-Off After Bullish Wall Street Backing On Pivot Away From Bitcoin Mining - TradingView — *TradingView*
-- `09-09 01:42` Why is Tesla stock rallying today? - Investing.com — *Investing.com*
-- `09-09 01:35` London shares inch lower as oil rally fuels inflation concerns - Reuters — *Reuters*
-- `09-09 00:39` If you’re afraid the trade war will crash stocks, you’ve failed financial planning - The Globe and Mail — *The Globe and Mail*
-- `09-09 00:16` Missed Bitcoin Rally? Wintermute Outlines Scenarios to Catch Next Move - TradingView — *TradingView*
