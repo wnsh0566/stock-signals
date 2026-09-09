@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-09 19:05 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-09 20:17 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -20,26 +20,27 @@
 - **D-21** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-09 19:25` 중동·관세 악재에도…코스피, 33거래일 만에 7천피 탈환 - 연합뉴스TV — *연합뉴스TV*
 - `09-09 18:30` ‘AI 훈풍’에 코스피, 33거래일 만에 7000선 회복…장중 7112선 터치 - 인더스트리뉴스 — *인더스트리뉴스*
 - `09-09 18:30` 코스피 33거래일만에 7000선 회복… 기관 '매수세' - v.daum.net — *v.daum.net*
 - `09-09 18:12` 뉴욕증시 하락에도 코스피 7천선 탈환...반도체 강세 - YTN — *YTN*
-- `09-09 18:02` 코스피, 한 달 만에 7000선 탈환···심리적 저항선 깨고 더 오를까 - khan.co.kr — *khan.co.kr*
+- `09-09 18:10` 7100만 가면 미끄러지는 코스피…증권가는 어디까지 보나 - v.daum.net — *v.daum.net*
+- `09-09 18:02` 코스피, 한 달 만에 7000선 탈환···심리적 저항선 깨고 더 오를까 - 경향신문 — *경향신문*
 - `09-09 18:00` 7000선 찍은 코스피, 개미 3조 팔았다…‘추격매수’보다 본전 심리 - 한양경제 — *한양경제*
 - `09-09 18:00` 코스피, 7000 고지 탈환...14일 애프터마켓 가동 '시너지' - 전자신문 — *전자신문*
-- `09-09 17:57` 코스피 한달반 만에 7000 탈환…“반도체 사이클 구조적 변화” - 서울경제 — *서울경제*
-- `09-09 17:54` 코스피, 33거래일만에 7000선 재돌파…코스닥도 2% 상승 - fetv.co.kr — *fetv.co.kr*
 
 ## 🇰🇷 반도체·HBM
+- `09-09 19:36` 조선대, 저전력·지능형 반도체 산화물 메모리 연구성과 발표 - 전자신문 — *전자신문*
+- `09-09 19:36` 대한민국 국제물주간 대구서 개막…반도체 기업관에 ‘삼전닉스’도 참여 - v.daum.net — *v.daum.net*
+- `09-09 19:17` 신한자산운용 'SOL AI반도체소부장', 수익률 23.14% 달성 - 비즈월드 — *비즈월드*
+- `09-09 19:01` 강원대 ‘반도체공동연구소’ 착공 - v.daum.net — *v.daum.net*
+- `09-09 18:53` 강원대학교 ‘반도체공동연구소 착공식’ - 프레시안 — *프레시안*
 - `09-09 18:42` 삼성·SK하이닉스도 주목한 ‘물산업’…대구서 AI·반도체와 융합 - kyongbuk.co.kr — *kyongbuk.co.kr*
-- `09-09 18:29` “메모리 시장은 곡선도로”… SK하닉, 설계부터 함께하는 ‘풀스택 AI 메모리’ 승부 - v.daum.net — *v.daum.net*
 - `09-09 18:26` SK하이닉스 노조, 다음주 임단협 재투표…추석 전 타결 시도 - v.daum.net — *v.daum.net*
-- `09-09 18:15` 반도체 호황에 기업 실적 역대급…中企와 수익성 격차 확대 - 아시아투데이 — *아시아투데이*
 - `09-09 18:12` 뉴욕증시 하락에도 코스피 7천선 탈환...반도체 강세 - YTN — *YTN*
-- `09-09 18:08` 곽동신 한미반도체 회장 잇딴 자사주 매입…장비 다변화로 ‘TC본더 이후’ 관건 - 아시아투데이 — *아시아투데이*
-- `09-09 18:00` AI·미세공정·패키징 총력… 삼성 ‘반도체 초격차’ 재건 나선다 - 아시아투데이 — *아시아투데이*
-- `09-09 18:00` 반도체 3강 열도 상륙...北·中·南 근거지 확보전 치열 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
+- `09-09 19:10` 메리츠금융지주 주가 5,800원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
 - `09-09 18:16` [클릭 e종목]"하나금융지주, 최대실적 전망…목표가 상향" - core.asiae.co.kr — *core.asiae.co.kr*
 - `09-09 18:05` BS그룹-KB금융 '맞손'…솔라시도·AI 데이터센터 금융 협력 - ebn.co.kr — *ebn.co.kr*
 - `09-09 17:38` 롯데손보 공개매각 시동 … 물밑경쟁 예고 - 매일경제 마켓 — *매일경제 마켓*
@@ -47,11 +48,10 @@
 - `09-09 17:08` KB금융, BS그룹과 미래성장 분야 전략적 협업 강화 - 소년한국일보 — *소년한국일보*
 - `09-09 16:49` 금융지주 전환 앞둔 수협은행…'4표의 벽' 넘을 선장은 - v.daum.net — *v.daum.net*
 - `09-09 16:45` 하나금융지주, 은행보다 비은행이 더 빨리 컸다 - PRESS9 — *PRESS9*
-- `09-09 16:40` BS그룹·KB금융그룹, 부동산개발·AI 데이터센터 금융협력 - 문화일보 — *문화일보*
 
 ## 🇰🇷 정책·거시
-- `09-09 17:22` 하남 감북·초이동 주민들 “8·13 부동산대책 신규택지에 포함해 달라” - 경인일보 — *경인일보*
-- `09-09 16:26` 금융위, 8·13 공급대책 세부과제 점검‥"PF 보증 확대·이주비대출 개선 등 완료" - imnews.imbc.com — *imnews.imbc.com*
+- `09-09 17:22` 하남 감북·초이동 주민들 “8·13 부동산대책 신규택지에 포함해 달라” - kyeongin.com — *kyeongin.com*
+- `09-09 16:26` 금융위, 8·13 공급대책 세부과제 점검‥"PF 보증 확대·이주비대출 개선 등 완료" - MBC 뉴스 — *MBC 뉴스*
 - `09-09 16:17` 부동산 공급 대책 토론회…與 "공공 주도 공급" VS 野 "민간 중심 개발" - Nate News — *Nate News*
 - `09-09 15:43` 가계대출 증가폭 줄었지만 주담대 4조원 늘어···부동산 대책 영향 더 지켜봐야 - 여성경제신문 — *여성경제신문*
 - `09-09 14:48` 여야, 부동산 공급 대책 공개 토론…與 “공공 주도” vs 野 “민간 주도” - 서울신문 — *서울신문*
@@ -60,41 +60,41 @@
 - `09-09 12:12` 여야, 부동산 이견 여전…"공공이 마중물"·"민간 고밀개발로" - 연합뉴스 — *연합뉴스*
 
 ## 🌍 AI·빅테크
-- `09-09 18:59` Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform - marketscreener.com — *marketscreener.com*
+- `09-09 19:44` Nvidia-backed firm in Indonesia signs US$3.1b GPU loan - theedgemalaysia.com — *theedgemalaysia.com*
+- `09-09 19:40` Ooredoo-backed Zankore secures $3.1bln financing for Nvidia AI cloud platform - Zawya — *Zawya*
 - `09-09 18:27` Nvidia-Backed Firm in Indonesia Signs $3.1 Billion GPU Loan - Bloomberg.com — *Bloomberg.com*
 - `09-09 14:43` Jim Chanos Questions Nvidia’s AI Chip Economics After Jensen Huang Says Nvidia Chips Are 'Highly Rentable' - TradingView — *TradingView*
 - `09-09 13:43` European OpenAI Success Story: $23.5B Financing Secured, 80% Valuation Surge in 12 Months - 36Kr — *36Kr*
 - `09-09 08:53` OpenAI faces competing claims around maths breakthrough - Financial Times — *Financial Times*
-- `09-09 04:59` SoftBank plans up to $20 billion junk bond sale to refinance OpenAI debt - en.cryptonomist.ch — *en.cryptonomist.ch*
 - `09-09 01:14` Funding grants for new research into AI and teen development - OpenAI — *OpenAI*
 - `09-09 00:34` Nvidia’s New Partner Says Banks Want AI on Machines They Can Unplug - 24/7 Wall St. — *24/7 Wall St.*
 
 ## 🌍 연준·금리
 - `09-09 19:00` Market Minute: Inflation data set to support Fed rate hike - The Real Economy Blog — *The Real Economy Blog*
 - `09-09 18:30` Interest rates and the problem with ‘forward guidance’ from the US Federal Reserve - The Straits Times — *The Straits Times*
-- `09-09 18:00` More tariffs costs are being passed on to consumers - mprnews.org — *mprnews.org*
+- `09-09 18:01` Gundlach Warns: If the Fed Holds Rates Steady Next Week, the 30-Year Treasury Selloff Could Intensify - finance.biggo.com — *finance.biggo.com*
+- `09-09 18:00` More tariffs costs are being passed on to consumers - MPR News — *MPR News*
 - `09-09 16:30` A September Rate Hike: The Fed's Least Bad Option? - 深潮TechFlow — *深潮TechFlow*
 - `09-09 14:40` USD strength delayed, not derailed - CommBank — *CommBank*
 - `09-09 14:35` Oil Approaches $100 Mark as Strategist Warns Fed Rate Hikes Could Repeat 2008 Policy Disaster - finance.biggo.com — *finance.biggo.com*
 - `09-09 13:42` Swiss Franc strengthens as US Dollar holds losses despite Fed rate hike odds - FXStreet — *FXStreet*
-- `09-09 12:27` United States Dollar Index weakens despite rising inflation concerns, Fed rate hike bets - FXStreet — *FXStreet*
 
 ## 🌍 유가·지정학
-- `09-09 18:47` Oil hits $100 a barrel for first time since July after US and Houthi strikes - BBC — *BBC*
-- `09-09 18:45` Brent Oil Price Breaks $100 Per Barrel - Rigzone — *Rigzone*
-- `09-09 18:36` Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation - The Washington Post — *The Washington Post*
-- `09-09 18:35` Shipping traffic via Strait of Hormuz stays below 10-day average, data shows - Reuters — *Reuters*
-- `09-09 18:34` Oil Above $100 Puts Trump on Two Timers Before the Midterms - Newsweek — *Newsweek*
-- `09-09 18:30` Iraq Pushes OPEC for a Huge Increase in Its Oil Quota - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-09 18:13` European Midday Briefing : Shares Fall, Oil Tops $100 as U.S.-Iran Attacks Escalate - marketscreener.com — *marketscreener.com*
-- `09-09 18:10` Brent crude rises above $100 a barrel as Middle East conflict intensifies - Reuters — *Reuters*
+- `09-09 20:06` Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation - The Washington Post — *The Washington Post*
+- `09-09 20:03` Brent Oil Hits $100 as US-Iran War Shows Little Sign of Abating - Bloomberg.com — *Bloomberg.com*
+- `09-09 20:00` Current price of oil as of Sept. 9, 2026 - Fortune — *Fortune*
+- `09-09 19:51` Brent crude rises above $100 a barrel as Middle East conflict intensifies - Reuters — *Reuters*
+- `09-09 19:47` Morning Business Report: Oil prices could reach $120 as U.S.-Iran war escalates - 41NBC News — *41NBC News*
+- `09-09 19:47` Bitcoin trades with gold, not equities, as Brent crude breaks $100: Crypto Markets Today - CoinDesk — *CoinDesk*
+- `09-09 19:45` Brent oil price crosses $100: Why Middle East conflict is driving crude prices higher | Business News - Hindustan Times — *Hindustan Times*
+- `09-09 19:37` Oil prices climb over $100 per barrel as US war in Iran continues - ABC7 Los Angeles — *ABC7 Los Angeles*
 
 ## 🌍 시장 전반
-- `09-09 15:59` Japan and South Korea Stocks Trim Gains After Surge; Kospi Holds 7,000 as SoftBank, SK Hynix Jump Over 3% - TradingKey — *TradingKey*
+- `09-09 19:15` Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nif - The Economic Times — *The Economic Times*
+- `09-09 19:01` AGI Arms Race Ignites Taiwan Stock Market Peak-Season Rally; Semiconductor ETF Band Returns Near 80% - finance.biggo.com — *finance.biggo.com*
 - `09-09 15:34` Beyond the rally: Can Korea build a lasting premium? - The Korea Herald — *The Korea Herald*
 - `09-09 14:15` ESDS Software shares rally 10%, skyrocket 235% from IPO price in 4 days. Should you buy or sell? - The Economic Times — *The Economic Times*
 - `09-09 13:21` Global Market: South Korean shares surge as Samsung, SK Hynix rally on AI optimism - The Economic Times — *The Economic Times*
 - `09-09 13:04` Asian stocks mixed as chip rally offsets oil-fueled inflation concerns - Investing.com — *Investing.com*
 - `09-09 04:21` Citi boosts chip sector outlook as semiconductor stocks rally - Investing.com — *Investing.com*
 - `09-09 04:07` ‘Black Swan’ investor shares market crash prediction - thestreet.com — *thestreet.com*
-- `09-09 04:05` What happens if the US 10-year Treasury yield hits 5%? Why stocks could be at risk | Business News - Hindustan Times — *Hindustan Times*
