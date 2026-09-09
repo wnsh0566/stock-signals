@@ -124,3 +124,19 @@ jobs:
           git diff --cached --quiet || git commit -m "news: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main || true
           git push || true
+
+      # ── 매크로 캘린더 공백 감시 (2026-09-09 신설 — ECB·BOJ 미등재 사고 계기) ──
+      # ForexFactory 주간 피드 vs calendar.json 날짜 대조 → calendar_check.md (소싱 전용·격리 방어)
+      - name: Check macro calendar
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        run: python check_calendar.py
+
+      - name: Commit calendar check
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        run: |
+          git add calendar_check.md
+          git diff --cached --quiet || git commit -m "calcheck: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main || true
+          git push || true
