@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-09 17:22 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-09 17:58 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -20,74 +20,74 @@
 - **D-21** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-09 17:32` "AI 훈풍에 유가 부담 극복"…코스피, 7000선 안착...33거래일만 - 주간한국 — *주간한국*
+- `09-09 17:20` [0910마감체크] 코스피, 33거래일 만에 7000선 탈환... AI 훈풍 지속 - 인포스탁데일리 — *인포스탁데일리*
+- `09-09 17:19` [亞증시-종합] 중동 불안 속 대부분 하락…中 혼조·臺만 상승 - 연합인포맥스 — *연합인포맥스*
+- `09-09 17:08` 코스피, 1.4% 상승해 33거래일만에 '7천피' 탈환 - BBS불교방송 — *BBS불교방송*
+- `09-09 17:04` 코스피, ‘5수’ 끝 7천선 탈환…단타 몰린 ‘개미’ 되돌리고 안착할까 - 한겨레 — *한겨레*
 - `09-09 17:03` 코스피, 기관 ‘쌍끌이’ 매수에 중동 악재 뚫고 7000선 탈환 - 더나은미래 — *더나은미래*
+- `09-09 17:01` '반도체의 힘으로' 코스피, 33일 만에 7천피 회복···코스닥 830선 마감 - 서울파이낸스 — *서울파이낸스*
 - `09-09 16:56` 코스피, AI 모멘텀에 '7천피' 탈환…33거래일만 - 매일경제 마켓 — *매일경제 마켓*
-- `09-09 16:55` 코스피 2차전지 급등에 33거래일만에 7천선 회복 - 매일경제 마켓 — *매일경제 마켓*
-- `09-09 16:50` [증시 인사이트] 기관·기타법인 사자…코스피 7000선 안착 성공? - v.daum.net — *v.daum.net*
-- `09-09 16:49` [뉴욕증시 전략] 지정학 리스크에 고유가…뉴욕증시 하락 마감 - v.daum.net — *v.daum.net*
-- `09-09 16:49` [애프터마켓 브리핑] 코스피, 33거래일만에 7000선 탈환 - v.daum.net — *v.daum.net*
-- `09-09 16:43` 삼성전자 제자리걸음에도 7000선 탈환한 코스피...다시 커진 'AI 확신론' - 한국경제 — *한국경제*
-- `09-09 16:42` [포토] 코스피 33거래일 만에 7000천피 회복 - dnews.co.kr — *dnews.co.kr*
 
 ## 🇰🇷 반도체·HBM
-- `09-09 17:12` 춘천, 반도체 설계 '팹리스 특화도시' 첫발…공동연구소 착공 - v.daum.net — *v.daum.net*
-- `09-09 17:06` SK하이닉스, ‘2026 미래포럼’ 개최…곽노정 "메모리 경쟁, 유연한 적응 필요" - 매일일보 — *매일일보*
-- `09-09 17:03` 곽신 작가, 한미반도체에 `ENDLESS LOVE` 5점 기증 - 디지털데일리 — *디지털데일리*
-- `09-09 16:56` SK하이닉스 3.51% 급등…삼성전자는 상승분 반납해 26만9500원 - 강원도민일보 — *강원도민일보*
-- `09-09 16:54` 심텍, '국제 반도체 기판 산업전' 참가…AI 기판 기술로 산업부장관상 등 3관왕 - v.daum.net — *v.daum.net*
-- `09-09 16:50` [포토뉴스] 삼성·SK하이닉스도 참여한 국제물주간 찾은 추경호 대구시장 - 매일신문 — *매일신문*
-- `09-09 16:48` 청주대, 세종·충북 '반도체 인재 2000명' 양성 나선다 - 뉴스핌 — *뉴스핌*
-- `09-09 16:47` 서서히 드러나는 ‘반도체 달러’의 위력…원화값 1300원이 보인다 - v.daum.net — *v.daum.net*
+- `09-09 17:44` 반도체 효과에 기업 실적 신기록…삼전·닉스 빼도 영업이익률 6.2% - v.daum.net — *v.daum.net*
+- `09-09 17:43` 심텍, 'KPCA Show 2026'서 AI 반도체 기판 공개 - 뉴스핌 — *뉴스핌*
+- `09-09 17:40` 이근우 브리즈바이오 대표 “신약개발도 반도체처럼…韓 엄청난 기회”[K바이오 딜 써밋] - pharm.edaily.co.kr — *pharm.edaily.co.kr*
+- `09-09 17:38` [기업] DB하이텍, 8인치 차세대 전력반도체 공정 검증...내년 양산 - YTN — *YTN*
+- `09-09 17:37` [환경톡톡] 호남 반도체 클러스터, ‘지산지소’의 시험대 - hkbs.co.kr — *hkbs.co.kr*
+- `09-09 17:33` SK하이닉스, 2026 미래포럼 개최…AI 시대 메모리 전략 나눴다 - 한국경제 — *한국경제*
+- `09-09 17:30` 강원대, 전국 첫 반도체공동연구소 착공…'설계·테스트' 특화 거점 짓는다 - 교수신문 — *교수신문*
+- `09-09 17:29` 전남광주, 2030년까지 반도체 인재 2.7만명 육성 - 한국경제 — *한국경제*
 
 ## 🇰🇷 금융주
-- `09-09 17:09` BS그룹 KB금융그룹과 업무협약, 에너지·AI 분야 협력 강화 - businesspost.co.kr — *businesspost.co.kr*
+- `09-09 17:38` 롯데손보 공개매각 시동 … 물밑경쟁 예고 - 매일경제 마켓 — *매일경제 마켓*
+- `09-09 17:09` BS그룹 KB금융그룹과 업무협약, 에너지·AI 분야 협력 강화 - 비즈니스포스트 — *비즈니스포스트*
 - `09-09 17:08` KB금융, BS그룹과 미래성장 분야 전략적 협업 강화 - 소년한국일보 — *소년한국일보*
 - `09-09 16:49` 금융지주 전환 앞둔 수협은행…'4표의 벽' 넘을 선장은 - v.daum.net — *v.daum.net*
 - `09-09 16:45` 하나금융지주, 은행보다 비은행이 더 빨리 컸다 - PRESS9 — *PRESS9*
 - `09-09 16:40` BS그룹·KB금융그룹, 부동산개발·AI 데이터센터 금융협력 - 문화일보 — *문화일보*
 - `09-09 16:31` KB금융, BS그룹과 생산적금융 확대 및 동반성장 MOU - 데일리한국 — *데일리한국*
 - `09-09 16:20` KB금융지주, BS그룹과 신재생에너지·AI 데이터센터 협력 - PRESS9 — *PRESS9*
-- `09-09 16:19` 흔들리는 의결권 자문사···'외인 지분율 과반' 금융지주엔 득일까 실일까 - 서울파이낸스 — *서울파이낸스*
 
 ## 🇰🇷 정책·거시
+- `09-09 17:22` 하남 감북·초이동 주민들 “8·13 부동산대책 신규택지에 포함해 달라” - 경인일보 — *경인일보*
 - `09-09 16:26` 금융위, 8·13 공급대책 세부과제 점검‥"PF 보증 확대·이주비대출 개선 등 완료" - MBC 뉴스 — *MBC 뉴스*
 - `09-09 16:17` 부동산 공급 대책 토론회…與 "공공 주도 공급" VS 野 "민간 중심 개발" - Nate News — *Nate News*
 - `09-09 15:43` 가계대출 증가폭 줄었지만 주담대 4조원 늘어···부동산 대책 영향 더 지켜봐야 - 여성경제신문 — *여성경제신문*
 - `09-09 14:48` 여야, 부동산 공급 대책 공개 토론…與 “공공 주도” vs 野 “민간 주도” - 서울신문 — *서울신문*
 - `09-09 14:17` 부동산 공급 대책 뜨거운 논쟁, 각 당의 전략은 무엇인가 - 공감신문 — *공감신문*
-- `09-09 13:56` 오피스텔·도생 PF 자기자본비율 강화 2년 유예…금융권 서울 수도권 PF 집중된다 - dnews.co.kr — *dnews.co.kr*
+- `09-09 13:56` 오피스텔·도생 PF 자기자본비율 강화 2년 유예…금융권 서울 수도권 PF 집중된다 - 대한경제 — *대한경제*
 - `09-09 12:13` 금융당국, 주택공급 금융지원 속도…매주 점검회의 개최 - Nate News — *Nate News*
-- `09-09 12:12` 여야, 부동산 이견 여전…"공공이 마중물"·"민간 고밀개발로" - 연합뉴스 — *연합뉴스*
 
 ## 🌍 AI·빅테크
 - `09-09 14:43` Jim Chanos Questions Nvidia’s AI Chip Economics After Jensen Huang Says Nvidia Chips Are 'Highly Rentable' - TradingView — *TradingView*
-- `09-09 13:43` European OpenAI Success Story: $23.5B Financing Secured, 80% Valuation Surge in 12 Months - 36 Kr — *36 Kr*
+- `09-09 13:43` European OpenAI Success Story: $23.5B Financing Secured, 80% Valuation Surge in 12 Months - 36Kr — *36Kr*
 - `09-09 04:59` SoftBank plans up to $20 billion junk bond sale to refinance OpenAI debt - en.cryptonomist.ch — *en.cryptonomist.ch*
 - `09-09 01:14` Funding grants for new research into AI and teen development - OpenAI — *OpenAI*
 - `09-09 00:34` Nvidia’s New Partner Says Banks Want AI on Machines They Can Unplug - 24/7 Wall St. — *24/7 Wall St.*
 - `09-08 21:10` OpenAI, Anthropic Seek Investment-Grade Ratings Post Potential IPOs to Cut AI Borrowing Costs: Report - Yahoo Finance — *Yahoo Finance*
 - `09-08 16:33` Anthropic and OpenAI Seek Post-IPO Investment-Grade Ratings as Massive AI Compute Spending Fuels Financing Needs - tradingkey.com — *tradingkey.com*
-- `09-08 14:34` Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - ft.com — *ft.com*
+- `09-08 14:34` Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times — *Financial Times*
 
 ## 🌍 연준·금리
 - `09-09 16:30` A September Rate Hike: The Fed's Least Bad Option? - 深潮TechFlow — *深潮TechFlow*
-- `09-09 16:01` Blondie & Garfield - September 10, 2026 - The Korea Times — *The Korea Times*
 - `09-09 14:40` USD strength delayed, not derailed - CommBank — *CommBank*
 - `09-09 14:35` Oil Approaches $100 Mark as Strategist Warns Fed Rate Hikes Could Repeat 2008 Policy Disaster - finance.biggo.com — *finance.biggo.com*
-- `09-09 14:31` Bitcoin Reclaims $79,000 as Inflation Data Looms Ahead of FOMC - finance.biggo.com — *finance.biggo.com*
 - `09-09 13:42` Swiss Franc strengthens as US Dollar holds losses despite Fed rate hike odds - FXStreet — *FXStreet*
 - `09-09 12:27` United States Dollar Index weakens despite rising inflation concerns, Fed rate hike bets - FXStreet — *FXStreet*
-- `09-09 12:19` Gold Price Forecast: Stronger-Than-Expected Payrolls Weigh on Gold as Market Eyes August CPI; Can Gold Still Rally? - tradingkey.com — *tradingkey.com*
+- `09-09 12:15` Fed Chairman Kevin Warsh Called Inflation 'More Concerning' at His First Jackson Hole Speech. Does That Signal a Rate Hike Is Coming? - The Motley Fool — *The Motley Fool*
+- `09-09 11:35` Fed Chairman Kevin Warsh Called Inflation 'More Concerning' at His First Jackson Hole Speech. Does That Signal a Rate Hike Is Coming? - The Globe and Mail — *The Globe and Mail*
+- `09-09 10:33` Tidal Files for Two Prediction-Market ETFs Tied to Fed FOMC Rate Decisions - bloomingbit — *bloomingbit*
 
 ## 🌍 유가·지정학
-- `09-09 17:16` Oil surges past $100 a barrel again as US-Iran clashes intensify - Euronews.com — *Euronews.com*
-- `09-09 17:14` Global oil prices hit $100 per barrel as Middle East conflict roils markets - CNN — *CNN*
-- `09-09 17:04` Oil hits $100 for first time since July as chaos continues in Strait of Hormuz - The Independent — *The Independent*
-- `09-09 16:50` Oil prices rise above $100 a barrel for first time since July as Iran war escalates - The Guardian — *The Guardian*
-- `09-09 16:42` Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters — *Reuters*
-- `09-09 16:42` Brent Breaks $100 for the First Time in Nearly Two Months - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-09 16:33` Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East - The New York Times — *The New York Times*
-- `09-09 16:29` Brent Marches Toward $100 As U.S.-Iran Attacks Escalate - WSJ — *WSJ*
+- `09-09 17:44` Oil Crosses $100 A Barrel As Iran Conflict Intensifies - Forbes — *Forbes*
+- `09-09 17:43` Oil hits $100 a barrel for first time in months as Middle East conflict intensifies again - NBC News — *NBC News*
+- `09-09 17:39` Oil jumps above $100 a barrel as US-Iran fighting raises Strait of Hormuz disruption fears - businessinsider.com — *businessinsider.com*
+- `09-09 17:38` Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation - The Washington Post — *The Washington Post*
+- `09-09 17:36` Oil Price Hits $100 a Barrel, Sending Bond Yields Higher - Barron's — *Barron's*
+- `09-09 17:34` Dax under pressure, oil price rises to $100 - marketscreener.com — *marketscreener.com*
+- `09-09 17:25` Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters — *Reuters*
+- `09-09 17:22` Oil surges past $100 a barrel again as US-Iran clashes intensify - Yahoo Finance UK — *Yahoo Finance UK*
 
 ## 🌍 시장 전반
 - `09-09 15:59` Japan and South Korea Stocks Trim Gains After Surge; Kospi Holds 7,000 as SoftBank, SK Hynix Jump Over 3% - tradingkey.com — *tradingkey.com*
