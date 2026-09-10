@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-10 08:29 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-10 17:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -20,81 +20,81 @@
 - **D-20** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-10 08:17` [AI MY 증시전망] AI 모멘텀 이어가는 코스피…유가 100달러 돌파 변수 - 뉴스핌 — *뉴스핌*
-- `09-10 08:14` 2분기 증시 활황에 증권사 순이익 5조 2000억원…두 분기 연속 역대 최대 - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `09-10 08:10` 엔고(高) 우려에 日증시 외면하는 글로벌 자금 - 한국경제 — *한국경제*
-- `09-10 08:04` [오늘의 투자전략] 코스피, 유가·금리 급등에 숨 고르기…7000선 지지력 시험 - 이투데이 — *이투데이*
-- `09-10 07:56` [마켓뷰] 중동 불안 vs 반도체 훈풍…'7천피' 지켜낼까 - 연합뉴스 — *연합뉴스*
-- `09-10 07:56` 유가 100달러·美국채금리 상승…국내 증시 하락 출발 전망[굿모닝 증시] - 아시아경제 — *아시아경제*
-- `09-10 07:56` 유가 100달러·美국채금리 상승…국내 증시 하락 출발 전망[굿모닝 증시] - 아시아경제 — *아시아경제*
-- `09-10 07:54` 증시 상승 타고 증권사 실적 '쑥'…2분기 순이익 5조 상회 - 글로벌이코노믹 — *글로벌이코노믹*
+- `09-10 16:48` [뉴욕증시 전략] 고유가·고금리 부담에 美증시 사흘 연속 하락 - v.daum.net — *v.daum.net*
+- `09-10 16:43` [EBN 데이터센터] 코스피 7000선 방어 성공…외국인 2.5조원대 순매도 By EBN - kr.investing.com — *kr.investing.com*
+- `09-10 16:36` 중동 악재와 '네 마녀의 날'에…코스피 7천 겨우 사수 - v.daum.net — *v.daum.net*
+- `09-10 16:36` 코스피, 낙폭 줄여 다시 7천피...코스닥은 상승 마감 - YTN — *YTN*
+- `09-10 16:35` 코스피, 유가·금리 부담에 약보합…7000선은 방어 - 서울경제TV — *서울경제TV*
+- `09-10 16:34` [증시-마감] 중동 불안에도 '7천피' 사수…지수 리밸런싱에 '출렁' - 연합인포맥스 — *연합인포맥스*
+- `09-10 16:34` 코스피 '7천피' 탈환에…증시 대기자금 100조 회복 - BBS불교방송 — *BBS불교방송*
+- `09-10 16:33` 코스피, '7천피' 사수…'자사주 매입'이 하단 지지 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `09-10 08:25` SK하이닉스 ADR, 수요일 주가 7% 급등한 이유는? - Benzinga — *Benzinga*
-- `09-10 08:21` 주52시간 예외 ‘연봉 1.3억’ 기준…삼성전자 56%·SK하이닉스 82% 넘는다 - 헤럴드경제 — *헤럴드경제*
-- `09-10 08:10` AI 붐 속 메모리 반도체 시장 주도…올해 글로벌 매출 1조5000억달러 전망 - ebn.co.kr — *ebn.co.kr*
-- `09-10 08:07` [속보] 유가 '100달러' 급등에도 반도체 선방 … 삼전닉스 프리장 0~2%↑ - 뉴데일리 — *뉴데일리*
-- `09-10 08:07` "테스, 수주잔고 사상 최대…HBM·D램으로 장비 영토 확장"-IBK - 한국경제 — *한국경제*
-- `09-10 08:05` LG전자 반도체 SoC 승부수, '세바' SW 탑재하고 차세대 UWB 시장 '선전포고' - 더구루 — *더구루*
-- `09-10 08:01` [속보] 삼전 프리장 0.5%, 하닉 2.5% 강세 출발 … 美 반도체 선방 - 뉴데일리 — *뉴데일리*
-- `09-10 08:00` AI·반도체 대신 1481억 베팅…서학개미 몰린 이 종목[1분 브리프] - 아시아경제 — *아시아경제*
+- `09-10 16:59` 조용호 시장, 어플라이드 머티어리얼즈 코리아 대표와 반도체 협력 논의 - 아시아경제 — *아시아경제*
+- `09-10 16:55` SK하이닉스, 반도체 배관 유지보수 '최저가 입찰' 논란 - OhmyNews — *OhmyNews*
+- `09-10 16:49` "반도체 개미 설렌다" 유가·금리 뛰어도 다시 들썩...7천피 방어 - 머니투데이 - 머니투데이 — *머니투데이*
+- `09-10 16:46` 삼전닉스·마이크론 담은 'PLUS 글로벌HBM반도체'…상장 후 950%↑ - 뉴스1 — *뉴스1*
+- `09-10 16:40` AI 반도체 '언제 꺾이나' 보려면…한신평 "금융지표까지 살펴야" - v.daum.net — *v.daum.net*
+- `09-10 16:36` SK하이닉스 ‘이천시 기업열전’ 행사에 ‘하이로컬이천’ 청년 창업기업 참여 - 충북데일리 — *충북데일리*
+- `09-10 16:35` 삼성·SK가 `물주간` 찾은 이유…반도체 경쟁력, 이제 `물`이 가른다 - 매일신문 — *매일신문*
+- `09-10 16:34` [SK포커스] SK하이닉스 노사, 임단협 수정안 도출…성과급 현금 몫 50%로 확대 - 더밸류뉴스 — *더밸류뉴스*
 
 ## 🇰🇷 금융주
-- `09-10 07:03` 금융지주 회장들 올해도 연차총회 향하나…국감과 겹친 해외 일정 - 뉴스투데이 — *뉴스투데이*
-- `09-10 06:00` 나신평 "주주환원에 생산적금융까지…은행 자본관리 부담 가중" - 뉴시스 — *뉴시스*
-- `09-09 20:40` 금융지주 주주환원 확대에 은행 자본축적 '제약' - 세이프머니 — *세이프머니*
-- `09-09 20:26` BS그룹-KB금융, 에너지·AI 사업 협력…금융지원 확대 - 코리아리포트 — *코리아리포트*
-- `09-09 18:16` [클릭 e종목]"하나금융지주, 최대실적 전망…목표가 상향" - 아시아경제 — *아시아경제*
-- `09-09 18:07` [법안돋보기] 금융지주 회장 장기연임 손본다···임기 제한부터 주주 견제까지 - 여성경제신문 — *여성경제신문*
-- `09-09 18:05` BS그룹-KB금융 '맞손'…솔라시도·AI 데이터센터 금융 협력 - ebn.co.kr — *ebn.co.kr*
-- `09-09 17:38` 롯데손보 공개매각 시동 … 물밑경쟁 예고 - 매일경제 마켓 — *매일경제 마켓*
+- `09-10 16:52` 글로벌 '빅머니'의 리밸런싱…캐피털그룹도 반한 신한금융지주 - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
+- `09-10 16:40` ‘비은행 빌드업’ 끝낸 임종룡...우리금융지주 ‘은행株 할인’ 벗는다 - 에너지경제신문 — *에너지경제신문*
+- `09-10 16:00` 신한금융지주, 외국계 기관 매수세 유입…8만4207주 확보 - 파이낸스투데이 — *파이낸스투데이*
+- `09-10 15:31` “거래대금 급감에 3분기 수수료 -39% 직격탄…한국금융지주, 단기 숨고르기” - 뉴스퀘스트 — *뉴스퀘스트*
+- `09-10 15:28` KB금융그룹-블룸버그, 글로벌 자본시장 협력 '강화' - 한국NGO신문 — *한국NGO신문*
+- `09-10 15:20` KB금융-블룸버그, 데이터·기술 협력 맞손...글로벌 사업 확장 - 청년일보 — *청년일보*
+- `09-10 15:14` '금리·환율·실적' 삼박자에 사상 최고가…은행주 나홀로 랠리 - 한국경제 — *한국경제*
+- `09-10 14:55` KB금융, 블룸버그와 업무협약…자본시장 역량 강화 - 핀포인트뉴스 — *핀포인트뉴스*
 
 ## 🇰🇷 정책·거시
+- `09-10 12:22` 이광수 “이대로면 부동산 폭등”…李정부 대책 ‘작심 비판’ - 인디포커스 — *인디포커스*
+- `09-10 12:00` 대출 조여도 집값·가계대출↑…한은 "금융불균형 위험" - 연합뉴스 — *연합뉴스*
 - `09-09 17:22` 하남 감북·초이동 주민들 “8·13 부동산대책 신규택지에 포함해 달라” - 경인일보 — *경인일보*
 - `09-09 16:26` 금융위, 8·13 공급대책 세부과제 점검‥"PF 보증 확대·이주비대출 개선 등 완료" - MBC 뉴스 — *MBC 뉴스*
-- `09-09 16:17` 부동산 공급 대책 토론회…與 "공공 주도 공급" VS 野 "민간 중심 개발" - Nate News — *Nate News*
+- `09-09 16:17` 부동산 공급 대책 토론회…與 "공공 주도 공급" VS 野 "민간 중심 개발" - 머니투데이 - 머니투데이 — *머니투데이*
 - `09-09 15:43` 가계대출 증가폭 줄었지만 주담대 4조원 늘어···부동산 대책 영향 더 지켜봐야 - 여성경제신문 — *여성경제신문*
 - `09-09 14:48` 여야, 부동산 공급 대책 공개 토론…與 “공공 주도” vs 野 “민간 주도” - 서울신문 — *서울신문*
-- `09-09 14:17` 부동산 공급 대책 뜨거운 논쟁, 각 당의 전략은 무엇인가 - 공감신문 — *공감신문*
 - `09-09 13:56` 오피스텔·도생 PF 자기자본비율 강화 2년 유예…금융권 서울 수도권 PF 집중된다 - 대한경제 — *대한경제*
-- `09-09 12:12` 여야, 부동산 이견 여전…"공공이 마중물"·"민간 고밀개발로" - 연합뉴스 — *연합뉴스*
 
 ## 🌍 AI·빅테크
+- `09-10 16:55` Zankore builds 100 MW NVIDIA AI infrastructure in Indonesia, secures USD 3.1 billion financing - Telecompaper — *Telecompaper*
+- `09-10 16:36` S2W Joins OpenAI Security Ecosystem, Expands AI Red Teaming Business - finance.biggo.com — *finance.biggo.com*
+- `09-10 14:11` Zankore lands US$3.1b loan facility to finance Nvidia-powered AI platform - Developing Telecoms — *Developing Telecoms*
+- `09-10 09:52` US DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `09-10 09:24` [Broadcom Q3 2026 Earnings Call] Broadcom Lays Out $40B AI Roadmap Through 2028 on Anthropic, OpenAI Deals - finance.biggo.com — *finance.biggo.com*
+- `09-10 03:36` Indonesia's Zankore Lands $3.1 Billion Loan for Nvidia AI Data Center Buildout - finance.biggo.com — *finance.biggo.com*
 - `09-10 03:30` Could IREN Become the Next Nvidia-Backed AI Winner? - 24/7 Wall St. — *24/7 Wall St.*
-- `09-10 01:33` Nvidia Just Found Another Way to Finance the AI Boom - TradingView — *TradingView*
-- `09-10 01:32` NTT IOWN AI Fund Joins NVIDIA in $125 Million iPronics Round - International Business Times — *International Business Times*
-- `09-09 22:25` OpenAI and Samsung deepen chip and enterprise AI cooperation - qz.com — *qz.com*
-- `09-09 20:21` Nvidia-backed Zankore raises a $3.1bn loan to buy Nvidia GPUs for Indonesia - The Next Web — *The Next Web*
-- `09-09 20:00` Zankore Signs $3.1 Billion Loan Deal to Finance Nvidia GPU Deployment at AI Factory in Indonesia - marketscreener.com — *marketscreener.com*
-- `09-09 19:44` Nvidia-backed firm in Indonesia signs US$3.1b GPU loan - The Edge Malaysia — *The Edge Malaysia*
-- `09-09 19:10` Zankore Lines Up $3.1 Billion Loan For Nvidia AI Compute - Finimize — *Finimize*
+- `09-10 01:33` Nvidia Just Found Another Way to Finance the AI Boom - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `09-10 08:00` Warsh is talking like a hawk. But he might not be ready to deliver a rate hike - The Business Times — *The Business Times*
-- `09-10 07:05` Push to Cut Fed's Rate-Setting Meetings From Eight to Six a Year Gains Traction, With Six Regional Chiefs on Board - finance.biggo.com — *finance.biggo.com*
-- `09-10 07:03` ‘It’s Time for the Fed to Raise Interest Rates’: Ex-Fed President Defies Trump’s Ultimatum - 24/7 Wall St. — *24/7 Wall St.*
-- `09-10 05:14` August CPI Report: Will It Trigger a Fed Rate Hike in September 2026? - News and Statistics - IndexBox — *IndexBox*
-- `09-10 04:21` This Week's Inflation Data Could Decide The Fed's Next Move - Inman Real Estate News — *Inman Real Estate News*
-- `09-10 04:18` August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike? - Morningstar — *Morningstar*
-- `09-10 03:42` Trump hired Kevin Warsh to lower interest rates. Will he raise them instead? - The Week — *The Week*
-- `09-10 02:37` Should you wait until after the September Fed meeting to invest in gold? - CBS News — *CBS News*
+- `09-10 15:24` Gold, silver trade mixed ahead of US inflation data, Fed Reserve decision - Telangana Today — *Telangana Today*
+- `09-10 15:20` Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path - Bloomberg.com — *Bloomberg.com*
+- `09-10 12:44` US August CPI Preview: Will Inflation Reaccelerate? US Stocks, Dollar and Gold Face Key Test - TradingKey — *TradingKey*
+- `09-10 12:27` Will the Federal Reserve raise interest rates next week? Two major inflation reports released over the next two days will set the tone. - 富途牛牛 — *富途牛牛*
+- `09-10 11:28` Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed - The Mighty 790 KFGO — *The Mighty 790 KFGO*
+- `09-10 10:51` Gold steadies near US$4,400 as traders weigh Fed rate hike path - businesstimes.com.sg — *businesstimes.com.sg*
+- `09-10 10:51` Gold edges higher on weaker greenback, US inflation data in focus - businesstimes.com.sg — *businesstimes.com.sg*
+- `09-10 10:26` Warsh’s Hawkish Background And The Federal Reserve’s Policy Orientation – Analysis - Eurasia Review — *Eurasia Review*
 
 ## 🌍 유가·지정학
-- `09-10 08:26` More Iran War Strikes, Higher Oil Prices; Why an Algorithm is Cutting Disability Benefits | Sept. 9 - Modern Ghana — *Modern Ghana*
-- `09-10 08:22` ExxonMobil Holdings (XOM) Following The Oil Price Spike, Is Valuation Still Supportive - simplywall.st — *simplywall.st*
-- `09-10 08:00` Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-10 07:57` Oil price spike from Iran attacks intrudes on GOP’s midterm convention - The Washington Post — *The Washington Post*
-- `09-10 07:17` Oil tops $100 as US-Iran fight escalates - KHOU — *KHOU*
-- `09-10 07:08` WATCH: Trump says oil prices will come down after midterm elections - PBS — *PBS*
-- `09-10 07:00` The Commodity Bull Market Just Entered a Dangerous New Phase - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-10 06:37` Oil prices hit very unwelcome levels - thestreet.com — *thestreet.com*
+- `09-10 16:50` Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post — *The Washington Post*
+- `09-10 16:41` FAO Vegetable Oil Price Index rises for third consecutive month - Oils & Fats International — *Oils & Fats International*
+- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - WAFB — *WAFB*
+- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - kptv.com — *kptv.com*
+- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - WTVM.com — *WTVM.com*
+- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE — *KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE*
+- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - WCJB — *WCJB*
+- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - KKTV — *KKTV*
 
 ## 🌍 시장 전반
-- `09-10 07:13` Commodity rally heightens inflation risks for stocks and consumer spending - UA.NEWS — *UA.NEWS*
-- `09-10 05:48` Uganda’s stock market records strong rally - ntv.co.ug — *ntv.co.ug*
+- `09-10 16:30` If a Stock Market Crash Is Coming, Smart Investors Might Want to Buy This Growth Stock on the Dip - The Motley Fool — *The Motley Fool*
+- `09-10 12:40` Japan’s Discipline Contrasts with NPS’s Inaction - 조선일보 — *조선일보*
+- `09-10 12:33` Vertiv Stock Drops 9.6% and Erases 82% of Its Post-Deal Rally - TechStock² — *TechStock²*
+- `09-10 12:18` The weakest link in the U.S. stock market’s AI rally? Oracle is set to report its earnings tonight. - Moomoo — *Moomoo*
+- `09-10 11:57` Memory chip stocks rally! SK Hynix hits record high on U.S. market; Goldman Sachs declares the worst is over - 富途牛牛 — *富途牛牛*
+- `09-10 05:33` Bond selloff: What has been causing it and what to know - fidelity.com — *fidelity.com*
 - `09-10 03:14` Bond sell-off, stock boom: Why rebalancing is a good strategy right now - CNBC — *CNBC*
-- `09-10 03:07` CMPS Stock Defies Market Selloff After Compass Pathways Psilocybin Trial Success Pointing To 2027 Launch - Stocktwits — *Stocktwits*
 - `09-10 01:26` KEEL Stock On Track To Break 4-Day Rally: PowerSecure AI Data Center Deal Fails To Prevent Pull Back - Stocktwits — *Stocktwits*
-- `09-10 00:54` Healey in line for £5.6bn boost from stock market rally - msn.com — *msn.com*
-- `09-10 00:20` Memory Stocks Rally as Goldman Says the Worst May Be Over: SK Hynix Climbs 5%, SanDisk Advances 3%, Micron Gains 2% - 24/7 Wall St. — *24/7 Wall St.*
-- `09-09 23:35` Market Factors: Nine reasons the rally has powered through every obstacle - The Globe and Mail — *The Globe and Mail*
