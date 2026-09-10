@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-10 18:43 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-10 19:01 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -20,27 +20,27 @@
 - **D-20** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-10 18:41` 6,800선까지 밀린 코스피…’7천피’는 사수 - yonhapnewstv.co.kr — *yonhapnewstv.co.kr*
+- `09-10 18:40` 코스피 7000선 회복에 예탁금 100조 돌파…'빚투'는 감소세 - 신아일보 — *신아일보*
 - `09-10 18:30` 코스피, ‘네 마녀의 날’ 외인 2.5조 매도에도 7000선 유지 - 더나은미래 — *더나은미래*
 - `09-10 18:10` 코스피, 국제 유가 급등 여파에 소폭 하락…‘7천피’는 지켜 - v.daum.net — *v.daum.net*
 - `09-10 18:09` 코스피, 국제 유가 급등 여파에 소폭 하락…‘7천피’는 지켜 - KBS 뉴스 — *KBS 뉴스*
+- `09-10 18:03` 코스피, ‘네 마녀의 날’에 7000선 겨우 사수 - 아시아투데이 — *아시아투데이*
 - `09-10 18:01` 겨우 지킨 코스피 7000선…전문가 "지수 천천히 올라간다" - v.daum.net — *v.daum.net*
 - `09-10 17:59` ‘네 마녀의 날’ 코스피 장 중 6900선까지 하락…막판 낙폭 줄여 7000선 방어 - 인더스트리뉴스 — *인더스트리뉴스*
-- `09-10 17:54` [도쿄증시-마감] 막판 상승 전환…SQ 산출·트럼프 배당 지급 발언 영향 - 연합인포맥스 — *연합인포맥스*
-- `09-10 17:48` 유가·금리·동시만기 부담에도…코스피 7천선 버텼다 - 매일경제 마켓 — *매일경제 마켓*
-- `09-10 17:47` 삼성·SK하이닉스 130조 원 쐈는데… 코스피는 왜 여전히 제자리일까 - 글로벌이코노믹 — *글로벌이코노믹*
 
 ## 🇰🇷 반도체·HBM
-- `09-10 18:34` 서남권 반도체 클러스터 구축 요건, “정격용량 아닌 ‘실효용량’ 기준으로 계획 수립돼야” - epj.co.kr — *epj.co.kr*
+- `09-10 18:51` 김기현 의원 “中 반도체 추격.. 반도체 원팀으로 해결해야” - v.daum.net — *v.daum.net*
+- `09-10 18:46` "임직원 1만명이면 AI 라이선스 수백억"...SK하이닉스가 찾은 해법은 '나임' - zdnet.co.kr — *zdnet.co.kr*
+- `09-10 18:45` 한신평 “AI 반도체 수요 둔화, 금리·유동성에서 먼저 감지” - 뉴스톱 — *뉴스톱*
+- `09-10 18:34` 서남권 반도체 클러스터 구축 요건, “정격용량 아닌 ‘실효용량’ 기준으로 계획 수립돼야” - 일렉트릭파워 — *일렉트릭파워*
 - `09-10 18:21` 대구대, 삼성전자 협력사와 AI·반도체 인재 양성 맞손 - kyongbuk.co.kr — *kyongbuk.co.kr*
 - `09-10 18:20` 네 마녀의 날·반도체 리밸런싱에도 7천피 지켰다 - 한국경제 — *한국경제*
 - `09-10 18:14` 폼팩터 진화한 '아이폰 듀오'…속 채운 건 K-반도체·디스플레이 - v.daum.net — *v.daum.net*
 - `09-10 18:13` 반도체 ETF 날아도 개미는 팔자…돈 몰린 곳은 - v.daum.net — *v.daum.net*
-- `09-10 18:02` 이천·청주 잇는 ‘고향사랑기부’…SK하이닉스 가교 - 경기신문 — *경기신문*
-- `09-10 18:00` [사설] 반도체 초격차 종결판은 패키징이다 - 전자신문 — *전자신문*
-- `09-10 17:58` `물`이 첨단산업 입지 가른다…대구경북, 반도체·AI 거점 기회 잡아야 - 매일신문 — *매일신문*
 
 ## 🇰🇷 금융주
-- `09-10 18:15` 모닥불에너지, 금융지주 계열사서 '히트펌프 구독' 자금 조달 - 머니투데이 - mt.co.kr — *mt.co.kr*
+- `09-10 18:15` 모닥불에너지, 금융지주 계열사서 '히트펌프 구독' 자금 조달 - 머니투데이 - 머니투데이 — *머니투데이*
 - `09-10 17:31` [금융 게시판] KB금융, 블룸버그와 자본시장 협력…하나금융, 지역 상생 강화 - 라이센스뉴스 — *라이센스뉴스*
 - `09-10 17:11` 모닥불에너지, 금융지주 계열사와 국내 첫 ‘히트펌프 구독’ 금융조달 성사 - 냉동공조저널 — *냉동공조저널*
 - `09-10 16:52` 글로벌 '빅머니'의 리밸런싱…캐피털그룹도 반한 신한금융지주 - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
@@ -52,8 +52,8 @@
 ## 🇰🇷 정책·거시
 - `09-10 12:00` 대출 조여도 집값·가계대출↑…한은 "금융불균형 위험" - 연합뉴스 — *연합뉴스*
 - `09-09 17:22` 하남 감북·초이동 주민들 “8·13 부동산대책 신규택지에 포함해 달라” - 경인일보 — *경인일보*
-- `09-09 16:26` 금융위, 8·13 공급대책 세부과제 점검‥"PF 보증 확대·이주비대출 개선 등 완료" - MBC 뉴스 — *MBC 뉴스*
-- `09-09 16:17` 부동산 공급 대책 토론회…與 "공공 주도 공급" VS 野 "민간 중심 개발" - 머니투데이 - mt.co.kr — *mt.co.kr*
+- `09-09 16:26` 금융위, 8·13 공급대책 세부과제 점검‥"PF 보증 확대·이주비대출 개선 등 완료" - imnews.imbc.com — *imnews.imbc.com*
+- `09-09 16:17` 부동산 공급 대책 토론회…與 "공공 주도 공급" VS 野 "민간 중심 개발" - 머니투데이 - 머니투데이 — *머니투데이*
 - `09-09 15:43` 가계대출 증가폭 줄었지만 주담대 4조원 늘어···부동산 대책 영향 더 지켜봐야 - 여성경제신문 — *여성경제신문*
 - `09-09 13:56` 오피스텔·도생 PF 자기자본비율 강화 2년 유예…금융권 서울 수도권 PF 집중된다 - 대한경제 — *대한경제*
 - `09-09 12:12` 여야, 부동산 이견 여전…"공공이 마중물"·"민간 고밀개발로" - 연합뉴스 — *연합뉴스*
@@ -66,35 +66,35 @@
 - `09-10 09:52` US DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - Yahoo! Finance Canada — *Yahoo! Finance Canada*
 - `09-10 09:24` [Broadcom Q3 2026 Earnings Call] Broadcom Lays Out $40B AI Roadmap Through 2028 on Anthropic, OpenAI Deals - finance.biggo.com — *finance.biggo.com*
 - `09-10 03:36` Indonesia's Zankore Lands $3.1 Billion Loan for Nvidia AI Data Center Buildout - finance.biggo.com — *finance.biggo.com*
-- `09-10 03:30` Could IREN Become the Next Nvidia-Backed AI Winner? - 24/7 Wall St. — *24/7 Wall St.*
-- `09-10 01:33` Nvidia Just Found Another Way to Finance the AI Boom - TradingView — *TradingView*
+- `09-10 03:30` Could IREN Become the Next Nvidia-Backed AI Winner? - 247wallst.com — *247wallst.com*
+- `09-10 01:33` Nvidia Just Found Another Way to Finance the AI Boom - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
 - `09-10 18:25` Kevin Warsh should raise interest rates - The Economist — *The Economist*
 - `09-10 17:56` Rates at a crossroads: focus turns to Fed and BoE decisions - IFA Magazine — *IFA Magazine*
-- `09-10 17:35` The Odds of a Rate Hike Are Soaring Ahead of the Sept. 16 FOMC Meeting - fool.com — *fool.com*
-- `09-10 17:26` The Odds of a Rate Hike Are Soaring Ahead of the Sept. 16 FOMC Meeting - Currently.com — *Currently.com*
+- `09-10 17:35` The Odds of a Rate Hike Are Soaring Ahead of the Sept. 16 FOMC Meeting - The Motley Fool — *The Motley Fool*
+- `09-10 17:26` The Odds of a Rate Hike Are Soaring Ahead of the Sept. 16 FOMC Meeting - currently.att.yahoo.com — *currently.att.yahoo.com*
 - `09-10 16:53` UBS Group states that "gold prices have fully priced in Federal Reserve policy": a September rate hike would lead to a slight decline, while no hike would trigger a significant surge. - 富途牛牛 — *富途牛牛*
-- `09-10 16:23` Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path - Bloomberg.com — *Bloomberg.com*
 - `09-10 12:27` Will the Federal Reserve raise interest rates next week? Two major inflation reports released over the next two days will set the tone. - 富途牛牛 — *富途牛牛*
 - `09-10 10:51` Gold steadies near US$4,400 as traders weigh Fed rate hike path - The Business Times — *The Business Times*
+- `09-10 10:51` Gold edges higher on weaker greenback, US inflation data in focus - The Business Times — *The Business Times*
 
 ## 🌍 유가·지정학
+- `09-10 18:50` Oil price forecasts climb as Wall Street gives up on a quick end to the global oil shock - Business Insider — *Business Insider*
 - `09-10 18:30` India Calls for Bigger Biofuel Push as Oil Prices Soar - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-10 18:20` Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post — *The Washington Post*
+- `09-10 18:20` Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - washingtonpost.com — *washingtonpost.com*
+- `09-10 18:11` Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar - CNBC — *CNBC*
 - `09-10 17:25` Oil Prices Hold Above $100 as Iran Tightens Grip on Strait of Hormuz - Kurdistan24 — *Kurdistan24*
 - `09-10 17:15` Global Clean Investment Falls 17% as China Pullback Takes Its Toll - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-10 16:41` FAO Vegetable Oil Price Index rises for third consecutive month - Oils & Fats International — *Oils & Fats International*
 - `09-10 16:32` US EIA raises oil price forecasts amid Middle East supply disruptions - Anadolu Ajansı — *Anadolu Ajansı*
-- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - FOX5 Vegas — *FOX5 Vegas*
-- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - KJCT — *KJCT*
 
 ## 🌍 시장 전반
 - `09-10 17:56` J.Jill Stock Jumps 9.6%—Can 0.5% Sales Growth Sustain the Rally? - TechStock² — *TechStock²*
 - `09-10 17:41` Don’t Panic About a Bond Market Selloff. It Could Be a Sign of Economic Strength - Morningstar — *Morningstar*
-- `09-10 16:30` If a Stock Market Crash Is Coming, Smart Investors Might Want to Buy This Growth Stock on the Dip - fool.com — *fool.com*
+- `09-10 16:30` If a Stock Market Crash Is Coming, Smart Investors Might Want to Buy This Growth Stock on the Dip - The Motley Fool — *The Motley Fool*
 - `09-10 12:40` Japan’s Discipline Contrasts with NPS’s Inaction - 조선일보 — *조선일보*
 - `09-10 12:33` Vertiv Stock Drops 9.6% and Erases 82% of Its Post-Deal Rally - TechStock² — *TechStock²*
 - `09-10 12:18` The weakest link in the U.S. stock market’s AI rally? Oracle is set to report its earnings tonight. - Moomoo — *Moomoo*
 - `09-10 11:57` Memory chip stocks rally! SK Hynix hits record high on U.S. market; Goldman Sachs declares the worst is over - 富途牛牛 — *富途牛牛*
-- `09-10 05:33` Bond selloff: What has been causing it and what to know - fidelity.com — *fidelity.com*
+- `09-10 05:33` Bond selloff: What has been causing it and what to know - Fidelity Investments — *Fidelity Investments*
