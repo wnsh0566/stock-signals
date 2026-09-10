@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-10 17:57 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-10 18:12 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -20,24 +20,24 @@
 - **D-20** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-10 18:03` 코스피, ‘네 마녀의 날’에 7000선 겨우 사수 - 아시아투데이 — *아시아투데이*
+- `09-10 17:59` ‘네 마녀의 날’ 코스피 장 중 6900선까지 하락…막판 낙폭 줄여 7000선 방어 - 인더스트리뉴스 — *인더스트리뉴스*
+- `09-10 17:54` [도쿄증시-마감] 막판 상승 전환…SQ 산출·트럼프 배당 지급 발언 영향 - 연합인포맥스 — *연합인포맥스*
 - `09-10 17:48` 유가·금리·동시만기 부담에도…코스피 7천선 버텼다 - 매일경제 마켓 — *매일경제 마켓*
 - `09-10 17:47` 삼성·SK하이닉스 130조 원 쐈는데… 코스피는 왜 여전히 제자리일까 - 글로벌이코노믹 — *글로벌이코노믹*
 - `09-10 17:34` 코스피 7,033.92 코스닥 836.92 - v.daum.net — *v.daum.net*
 - `09-10 17:28` 코스피 지수, 네 마녀의 날·ETF리밸런싱에도 7000선 방어 - 한국경제 — *한국경제*
 - `09-10 17:25` 코스피 7,033.92 코스닥 836.92 - KBS 뉴스 — *KBS 뉴스*
-- `09-10 17:12` ‘네 마녀의 날’ 코스피 출렁…반도체 낙폭 만회로 7000선 사수 - ddaily.co.kr — *ddaily.co.kr*
-- `09-10 17:11` [0910마감체크] 코스피, 외국인 2.5억원 순매도에 약보합... 7000선은 사수 - 인포스탁데일리 — *인포스탁데일리*
-- `09-10 17:11` ‘네 마녀의 날’..코스피 7천 사수 마감 - 매일경제 마켓 — *매일경제 마켓*
 
 ## 🇰🇷 반도체·HBM
-- `09-10 17:49` 직업계고 77명 대기업 뚫었다…전남광주, 반도체 인재 직접 키운다 - 아시아경제 — *아시아경제*
-- `09-10 17:47` 삼성·SK하이닉스 130조 원 쐈는데… 코스피는 왜 여전히 제자리일까 - 글로벌이코노믹 — *글로벌이코노믹*
-- `09-10 17:44` 퀄컴 "새로운 하이퍼스케일러와 맞춤형 AI 가속기 협력" - 디일렉 — *디일렉*
-- `09-10 17:38` "호남을 반도체·AI 중심축으로"…전남광주특별시 국제포럼 열려 - 아시아경제 — *아시아경제*
-- `09-10 17:34` NH아문디, ‘HANARO Fn K-반도체 ETF’ 연초 이후 수익률 1위 - 농민신문 — *농민신문*
-- `09-10 17:30` 비레버리지 ETF ‘톱10’ 반도체·IT 싹쓸이…HANARO Fn K-반도체 1위 - 뉴스투데이 — *뉴스투데이*
-- `09-10 17:28` 청주·이천·SK하이닉스, 고향사랑기부로 상생 협력 - v.daum.net — *v.daum.net*
-- `09-10 17:22` 대우건설 정원주 회장, 호남 반도체에 100억 기부 - v.daum.net — *v.daum.net*
+- `09-10 18:02` 이천·청주 잇는 ‘고향사랑기부’…SK하이닉스 가교 - 경기신문 — *경기신문*
+- `09-10 18:00` [사설] 반도체 초격차 종결판은 패키징이다 - 전자신문 — *전자신문*
+- `09-10 17:58` `물`이 첨단산업 입지 가른다…대구경북, 반도체·AI 거점 기회 잡아야 - 매일신문 — *매일신문*
+- `09-10 17:58` 이천시, SK하이닉스·청주시 고향사랑기부 협약…‘전국 최초’ 상호 기부 체결 - 인천일보 — *인천일보*
+- `09-10 17:57` 그래비티PE, ‘반도체 냉각장비’ 디이에스 투자 회수 완료 - 매일경제 마켓 — *매일경제 마켓*
+- `09-10 17:54` 더 거세진 中공습 …"K반도체 원팀 대응 시급" - v.daum.net — *v.daum.net*
+- `09-10 17:53` 더 거세진 中공습 …"K반도체 원팀 대응 시급" - 매일경제 — *매일경제*
+- `09-10 17:49` 직업계고 77명 대기업 뚫었다…전남광주, 반도체 인재 직접 키운다 - asiae.co.kr — *asiae.co.kr*
 
 ## 🇰🇷 금융주
 - `09-10 17:31` [금융 게시판] KB금융, 블룸버그와 자본시장 협력…하나금융, 지역 상생 강화 - 라이센스뉴스 — *라이센스뉴스*
@@ -63,13 +63,14 @@
 - `09-10 16:55` Zankore builds 100 MW NVIDIA AI infrastructure in Indonesia, secures USD 3.1 billion financing - Telecompaper — *Telecompaper*
 - `09-10 16:36` S2W Joins OpenAI Security Ecosystem, Expands AI Red Teaming Business - finance.biggo.com — *finance.biggo.com*
 - `09-10 14:11` Zankore lands US$3.1b loan facility to finance Nvidia-powered AI platform - Developing Telecoms — *Developing Telecoms*
-- `09-10 09:52` US DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - ca.finance.yahoo.com — *ca.finance.yahoo.com*
+- `09-10 09:52` US DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - Yahoo! Finance Canada — *Yahoo! Finance Canada*
 - `09-10 09:24` [Broadcom Q3 2026 Earnings Call] Broadcom Lays Out $40B AI Roadmap Through 2028 on Anthropic, OpenAI Deals - finance.biggo.com — *finance.biggo.com*
 - `09-10 03:36` Indonesia's Zankore Lands $3.1 Billion Loan for Nvidia AI Data Center Buildout - finance.biggo.com — *finance.biggo.com*
-- `09-10 03:30` Could IREN Become the Next Nvidia-Backed AI Winner? - 24/7 Wall St. — *24/7 Wall St.*
+- `09-10 03:30` Could IREN Become the Next Nvidia-Backed AI Winner? - 247wallst.com — *247wallst.com*
 - `09-10 01:33` Nvidia Just Found Another Way to Finance the AI Boom - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `09-10 17:56` Rates at a crossroads: focus turns to Fed and BoE decisions - IFA Magazine — *IFA Magazine*
 - `09-10 17:35` The Odds of a Rate Hike Are Soaring Ahead of the Sept. 16 FOMC Meeting - The Motley Fool — *The Motley Fool*
 - `09-10 17:26` The Odds of a Rate Hike Are Soaring Ahead of the Sept. 16 FOMC Meeting - Currently.com — *Currently.com*
 - `09-10 16:53` UBS Group states that "gold prices have fully priced in Federal Reserve policy": a September rate hike would lead to a slight decline, while no hike would trigger a significant surge. - 富途牛牛 — *富途牛牛*
@@ -77,19 +78,19 @@
 - `09-10 15:24` Gold, silver trade mixed ahead of US inflation data, Fed Reserve decision - Telangana Today — *Telangana Today*
 - `09-10 12:27` Will the Federal Reserve raise interest rates next week? Two major inflation reports released over the next two days will set the tone. - 富途牛牛 — *富途牛牛*
 - `09-10 10:51` Gold steadies near US$4,400 as traders weigh Fed rate hike path - The Business Times — *The Business Times*
-- `09-10 10:51` Gold edges higher on weaker greenback, US inflation data in focus - The Business Times — *The Business Times*
 
 ## 🌍 유가·지정학
 - `09-10 17:18` Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post — *The Washington Post*
 - `09-10 17:15` Global Clean Investment Falls 17% as China Pullback Takes Its Toll - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-10 16:41` FAO Vegetable Oil Price Index rises for third consecutive month - ofimagazine.com — *ofimagazine.com*
+- `09-10 16:41` FAO Vegetable Oil Price Index rises for third consecutive month - Oils & Fats International — *Oils & Fats International*
 - `09-10 16:32` US EIA raises oil price forecasts amid Middle East supply disruptions - Anadolu Ajansı — *Anadolu Ajansı*
-- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - WAFB — *WAFB*
+- `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - FOX5 Vegas — *FOX5 Vegas*
 - `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - WGEM — *WGEM*
 - `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - WTVM.com — *WTVM.com*
 - `09-10 16:30` Oil prices surge amid escalation in fighting between US and Iran - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE — *KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE*
 
 ## 🌍 시장 전반
+- `09-10 17:56` J.Jill Stock Jumps 9.6%—Can 0.5% Sales Growth Sustain the Rally? - TechStock² — *TechStock²*
 - `09-10 17:41` Don’t Panic About a Bond Market Selloff. It Could Be a Sign of Economic Strength - Morningstar — *Morningstar*
 - `09-10 16:30` If a Stock Market Crash Is Coming, Smart Investors Might Want to Buy This Growth Stock on the Dip - The Motley Fool — *The Motley Fool*
 - `09-10 12:40` Japan’s Discipline Contrasts with NPS’s Inaction - 조선일보 — *조선일보*
@@ -97,4 +98,3 @@
 - `09-10 12:18` The weakest link in the U.S. stock market’s AI rally? Oracle is set to report its earnings tonight. - Moomoo — *Moomoo*
 - `09-10 11:57` Memory chip stocks rally! SK Hynix hits record high on U.S. market; Goldman Sachs declares the worst is over - 富途牛牛 — *富途牛牛*
 - `09-10 05:33` Bond selloff: What has been causing it and what to know - Fidelity Investments — *Fidelity Investments*
-- `09-10 03:14` Bond sell-off, stock boom: Why rebalancing is a good strategy right now - CNBC — *CNBC*
