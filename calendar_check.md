@@ -1,6 +1,6 @@
 # 📅 매크로 캘린더 대조 (자동 수집)
 
-> 생성: 2026-09-11 21:11 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
+> 생성: 2026-09-12 08:30 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
 > ⚠️ 소싱 전용 — 등재 여부 판단·실제 등재는 사람이(정본 = _automation/calendar.json → 리포 붙여넣기).
 > ✓ = 같은 KST 날짜에 등재 이벤트 있음(내용 일치까지 보장 안 함 — 라벨 육안 대조) / ⚠️ = 그 날짜에 등재 0건.
 
@@ -19,7 +19,7 @@
 | 2026-09-11 | 21:30 | USD | High | Core CPI m/m | ✓ |
 | 2026-09-11 | 21:30 | USD | High | Core CPI y/y | ✓ |
 | 2026-09-11 | 23:00 | EUR | Medium | ECB President Lagarde Speaks | ✓ |
-| 2026-09-12 | 03:00 | USD | Low | Federal Budget Balance | ⚠️ 미등재 후보 |
+| 2026-09-12 | 02:58 | USD | Low | Federal Budget Balance | ⚠️ 미등재 후보 |
 | 2026-09-12 | 17:00 | EUR | Medium | ECB President Lagarde Speaks | ⚠️ 미등재 후보 |
 
 ## 다음 주
