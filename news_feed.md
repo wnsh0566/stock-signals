@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-11 18:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-11 20:15 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -19,76 +19,78 @@
 - **D-19** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-11 18:41` 겹악재에 출렁인 코스피…7,000선 반납 - 연합뉴스TV — *연합뉴스TV*
+- `09-11 19:42` [증시 예보] 7000 찍고 다시 밀린 코스피…이번주 꼭 챙겨야 할 이슈 - v.daum.net — *v.daum.net*
+- `09-11 19:29` 거래소, 11월부터 저PBR기업 공개…코스피 하위 25% 대상 - 한국경제 — *한국경제*
+- `09-11 19:29` [베트남 증시] 유가·美 국채 금리 급등에 투심 약화, 하락...빈그룹 주식 등 대형주 약세 - 뉴스핌 — *뉴스핌*
+- `09-11 19:07` 요란했던 한주 증시 결국은 박스권으로 마치다 - Investing.com 한국어 — *Investing.com 한국어*
+- `09-11 18:41` 겹악재에 출렁인 코스피…7,000선 반납 - yonhapnewstv.co.kr — *yonhapnewstv.co.kr*
 - `09-11 18:39` [중국증시-마감] 중동 우려에 하락…반도체 약세 - 연합인포맥스 — *연합인포맥스*
+- `09-11 17:49` 변동성 잦아든 증시…유가·금리 쇼크에도 9월 사이드카 ‘0’ - 서울경제 — *서울경제*
 - `09-11 17:41` 코스피, 다음주 '슈퍼위크 시험대' [한경 프리미엄9 TODAY] - 한국경제 — *한국경제*
-- `09-11 17:41` 코스피, 3거래일 만에 7000선 하회…외인·기관 매도에 1.76% 급락 - 인더스트리뉴스 — *인더스트리뉴스*
-- `09-11 17:41` 증시 떠나는 개인투자자, ‘삼전닉스’ 9조3000억 순매도… 외국인도 2조6000억 팔아치워 - 주간동아 — *주간동아*
-- `09-11 17:38` 불붙은 중동에 긴축 가속 … 6500~7000 '박스피' 갇힌 코스피 - 매일경제 마켓 — *매일경제 마켓*
-- `09-11 17:31` [마감시황] 코스피, 장 초반 3%대 급락 후 낙폭 축소…6900선 마감 - v.daum.net — *v.daum.net*
-- `09-11 17:31` 금감원장 “韓 증시 저평가 탈출”…외국인 자금유입 속도 낸다 - 재외동포신문 — *재외동포신문*
 
 ## 🇰🇷 반도체·HBM
+- `09-11 20:04` JP모건, KLA를 반도체 장비 최선호주로 선정…WFE 전망 상향 - Investing.com 한국어 — *Investing.com 한국어*
+- `09-11 19:23` [반도체포커스] HBM 수율 20%대인데 수익성은 1위…중국 CXMT에 무슨 일이 - 이코노미트리뷴 — *이코노미트리뷴*
+- `09-11 19:04` 일 라피더스 "2040년쯤 달에 반도체 공장 짓겠다...진지한 계획" - YTN — *YTN*
 - `09-11 18:44` 호남 반도체 '先예산 後설계' 논란…"공무원 면책 조항도 꼼수" - v.daum.net — *v.daum.net*
+- `09-11 18:43` 호남 반도체 '先예산 後설계' 논란…"공무원 면책 조항도 꼼수" - MTN 머니투데이방송 — *MTN 머니투데이방송*
 - `09-11 18:42` '열 감옥' 족쇄 3D 반도체…혁신 냉각솔루션이 양산 물꼬 트나 - v.daum.net — *v.daum.net*
-- `09-11 18:41` '열 감옥' 족쇄 3D 반도체…냉각 솔루션이 양산 물꼬 트나 - 지디넷코리아 — *지디넷코리아*
+- `09-11 18:41` '열 감옥' 족쇄 3D 반도체…냉각 솔루션이 양산 물꼬 트나 - zdnet.co.kr — *zdnet.co.kr*
 - `09-11 18:39` [중국증시-마감] 중동 우려에 하락…반도체 약세 - 연합인포맥스 — *연합인포맥스*
-- `09-11 18:34` SK하이닉스 재투표…성과급 ‘현금 50%’ 이정표 되나 - 서울경제TV — *서울경제TV*
-- `09-11 18:30` ASML 막힌 중국 반도체…권석준 교수 "2031년이 분기점" - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `09-11 18:10` 대동, 국산 AI반도체 개발로 농업 AI 전환 앞장선다 - 농수축산신문 — *농수축산신문*
-- `09-11 18:09` ‘호남 반도체 전력원’ 한빛2호기, 수명 다 해 가동중지… 계속운전 심사 - 한겨레 — *한겨레*
 
 ## 🇰🇷 금융주
-- `09-11 18:43` ‘세대교체’ 택한 KB금융…차기 회장 최종 후보에 이재근 - 녹색경제신문 — *녹색경제신문*
-- `09-11 18:37` "왜 바뀐 거야?"…KB금융 양종희 회장 연임 무산에 금융권 '술렁' - 뉴스1 — *뉴스1*
-- `09-11 18:32` [표] 주간 거래소 외국인 순매수도 상위종목 - 매일경제 마켓 — *매일경제 마켓*
-- `09-11 18:30` 최대 실적에도 양종희 연임 불발...KB금융, 차기 회장에 이재근 낙점(종합) - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `09-11 18:19` 양종희 연임 왜 실패했나…금융권, 보이지않는 손 작용 의심 - KB Think — *KB Think*
-- `09-11 18:19` “양종희 아니었다”...KB금융지주, 이재근 차기 회장 ‘깜짝 발탁’ - 에너지경제신문 — *에너지경제신문*
-- `09-11 18:17` 역대급 실적에도 ‘세대교체’ 택한 KB… 4대 금융 리더십 새 판 - IT조선 — *IT조선*
-- `09-11 18:13` 세대교체 택한 KB금융…차기 회장 이재근 과제는 - 아주경제 — *아주경제*
+- `09-11 19:46` KB금융, 차기 회장에 이재근 낙점...양종희 연임 대신 세대교체 선택 - 디지털포스트(PC사랑) — *디지털포스트(PC사랑)*
+- `09-11 19:35` ‘최대 실적’ 양종희 대신 이재근…KB금융 차기 회장 세대교체 - 더리브스 — *더리브스*
+- `09-11 19:29` [S-이슈] KB금융, 차기 회장에 이재근 부문장 낙점… ‘연임’ 대신 세대교체 선택 - S저널 — *S저널*
+- `09-11 19:25` 연임론 깨고 '세대교체' 택한 KB금융…최연소 행장 출신 이재근 발탁 - 뉴시스 — *뉴시스*
+- `09-11 19:04` KB금융, 차기 회장후보에 이재근... "세대교체" - 데일리브리프 — *데일리브리프*
+- `09-11 19:02` KB금융 회추위, 차기 회장 후보에 이재근 선정 - 포인트경제 — *포인트경제*
+- `09-11 19:02` KB금융 차기 회장 후보에 양종희 회장 대신 이재근 부문장 - 경북매일 — *경북매일*
+- `09-11 19:01` 양종희 대신 이재근 택한 KB…금융지주 ‘연임 공식’ 깨져 - 오피니언뉴스 — *오피니언뉴스*
 
 ## 🇰🇷 정책·거시
+- `09-11 20:05` "일방통보식 주택공급 철회하라"…8·13 대책 염창공원 설명회 시작도 못했다 - chosun.com — *chosun.com*
 - `09-11 07:30` "집값 잡을 생각 없구나"...李정부 지지하던 한문도도 한탄 - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `09-11 05:00` 국회 대정부질문 사흘째…여야, '부동산·세제 개편' 격돌 전망 - 연합뉴스 — *연합뉴스*
-- `09-10 12:00` 대출 조여도 집값·가계대출↑…한은 "금융불균형 위험" - 연합뉴스 — *연합뉴스*
+- `09-11 05:00` 국회 대정부질문 사흘째…여야, '부동산·세제 개편' 격돌 전망 - yna.co.kr — *yna.co.kr*
+- `09-11 00:06` [사설] 대통령 픽 ‘이광수 선생’도 포기했다는 ‘부실 공급’ 집값 대책 - chosun.com — *chosun.com*
+- `09-10 12:00` 대출 조여도 집값·가계대출↑…한은 "금융불균형 위험" - yna.co.kr — *yna.co.kr*
 
 ## 🌍 AI·빅테크
 - `09-11 18:51` OpenAI Launches ChatGPT for Financial Services - digit.fyi — *digit.fyi*
+- `09-11 17:57` ChatGPT for Financial Services Launched With Financial Data, AI Reasoning and Enterprise Controls - Gadgets 360 — *Gadgets 360*
 - `09-11 16:41` OpenAI Launched ChatGPT for Financial Sector - Incrypted — *Incrypted*
 - `09-11 12:45` OpenAI Rolls Out ChatGPT Built for Financial Services - Fintech Singapore — *Fintech Singapore*
 - `09-11 08:03` Palantir Technologies Showcases Sovereign AI Wins With NVIDIA, Cisco and FAA - Yahoo Finance — *Yahoo Finance*
 - `09-11 07:54` OpenAI Focuses On Investment Banking Ahead of Wider Financial Services Rollout - PYMNTS.com — *PYMNTS.com*
 - `09-11 07:53` OpenAI Launches ChatGPT for Financial Services, Takes Aim at Wall Street's Junior Analysts - Wowtale — *Wowtale*
 - `09-11 07:33` Nvidia's Huang rejects circular financing claims as investment scrutiny grows - investingLive — *investingLive*
-- `09-11 07:03` OpenAI targets junior bankers with new ChatGPT tool - The American Bazaar — *The American Bazaar*
 
 ## 🌍 연준·금리
+- `09-11 20:00` Economists see Fed defying expectations for rate hikes - The Business Times — *The Business Times*
+- `09-11 19:46` The Week Ahead: UK Inflation, US Federal Reserve, Bank of Japan - CMC Markets — *CMC Markets*
+- `09-11 19:40` Trump's proposal to tie trade policy to Federal Reserve rate cuts could face long-term economic challenges - Yahoo Finance — *Yahoo Finance*
 - `09-11 18:23` Take Five: Rates, risks and rivalries - Reuters — *Reuters*
 - `09-11 18:16` Why Stocks Could Weather Coming Rate Hikes Just Fine - Business Insider — *Business Insider*
 - `09-11 18:05` Sticky PCE Inflation May Already Have Sealed the Fed's Rate Decision for Sept. 16 - finance.biggo.com — *finance.biggo.com*
-- `09-11 18:00` August inflation data could set the course for interest rates, affordability - NBC News — *NBC News*
-- `09-11 18:00` Economists See Fed Defying Expectations for Rate Hikes: Survey - Bloomberg.com — *Bloomberg.com*
-- `09-11 17:32` Forget Today's Inflation Report: Fed Chair Kevin Warsh and His Colleagues Have Likely Already Made Up Their Mind for the Sept. 16 FOMC Meeting - fool.com — *fool.com*
-- `09-11 17:04` USD/JPY signal: forecast ahead of US inflation data, BoJ, and Fed decisions - TradingView — *TradingView*
-- `09-11 16:29` Will the Federal Reserve raise interest rates next week? The U.S. August CPI data will be released at 20:30 tonight, marking a pivotal moment for the markets. - 富途牛牛 — *富途牛牛*
+- `09-11 18:04` XRP dips 6.45% weekly amid Fed rate hike fears and Senate vote uncertainty - Pluang — *Pluang*
+- `09-11 18:00` August inflation report could set the course for interest rates, affordability crisis - NBC News — *NBC News*
 
 ## 🌍 유가·지정학
-- `09-11 18:30` China's 70% EV Target Deals Another Blow to Oil Demand - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-11 18:22` IEA Further Cuts Oil Demand Forecast for 2026 as US-Iran Negotiations Remain Stalled - marketscreener.com — *marketscreener.com*
-- `09-11 18:22` JCI Drops 0.73% as Oil Prices, US-Iran War Weigh on Stocks - Jakarta Globe — *Jakarta Globe*
-- `09-11 18:18` Banks hike oil price forecasts on prolonged Gulf disruptions - marketscreener.com — *marketscreener.com*
-- `09-11 18:11` Oil Keeps Rising and Diesel Hits $6 a Gallon as Middle East Tensions Mount - The New York Times — *The New York Times*
-- `09-11 18:03` Greenpeace says oil slick in Strait of Hormuz spreading rapidly - Yahoo — *Yahoo*
-- `09-11 18:01` Oil could hit $200 if Hormuz stays shut, UBS economist warns - SWI swissinfo.ch — *SWI swissinfo.ch*
-- `09-11 17:52` IEA warns 2026 oil supply gap will widen on delayed return of normal Gulf flows - Reuters — *Reuters*
+- `09-11 19:56` IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market - CNBC — *CNBC*
+- `09-11 19:48` IEA warns 2026 oil supply gap will widen on delayed return of normal Gulf flows - Reuters — *Reuters*
+- `09-11 19:43` Trump says war to end "immediately" after midterms as Iran damages U.S. jets in strikes - CBS News — *CBS News*
+- `09-11 19:39` Oil prices fall sharply after double-digit weekly gains above $100 - CNBC — *CNBC*
+- `09-11 19:38` Oil price takes a breather, as we wait for CPI - FXStreet — *FXStreet*
+- `09-11 19:30` Hormuz Shipping Traffic Plunges as Middle East War Escalates - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-11 19:30` Oil prices set to end the week above $100 as Houthis seize key port city - thenationalnews.com — *thenationalnews.com*
+- `09-11 19:15` Saudi oil output plunges to lowest since 1990 amid fallout from US-Iran war - Anadolu Ajansı — *Anadolu Ajansı*
 
 ## 🌍 시장 전반
+- `09-11 19:58` The four reasons stocks are about to embark on a ‘face-ripper rally’ - MarketWatch — *MarketWatch*
+- `09-11 19:35` Investors brace for possible rate hike at uncertain Fed meeting - WTVB — *WTVB*
 - `09-11 18:15` Premarket: Bonds, stocks selloff pauses as oil retreats from multi-month high - The Globe and Mail — *The Globe and Mail*
-- `09-11 16:54` Fed rate hikes may not end the bull market rally! Historical data reveals: what the market truly fears is "a cycle of tightening" - Moomoo — *Moomoo*
-- `09-11 16:10` ASX wipes months of gains as recession odds ‘increase by the day’ - AFR — *AFR*
-- `09-11 14:29` ESDS Software Solution jumps 5%, extends 6-session rally; shares up 287% from IPO price - The Economic Times — *The Economic Times*
+- `09-11 16:54` Fed rate hikes may not end the bull market rally! Historical data reveals: what the market truly fears is "a cycle of tightening" - moomoo.com — *moomoo.com*
+- `09-11 16:10` ASX wipes months of gains as recession odds ‘increase by the day’ - afr.com — *afr.com*
 - `09-11 13:11` Market crash explained: Sensex dives 700 pts intraday; Nifty below 23,250 - Business Standard — *Business Standard*
 - `09-11 11:36` India’s Small-Cap Boom Draws Record Fund Inflows - Bloomberg.com — *Bloomberg.com*
 - `09-11 10:30` Global bond sell-off resumes as surging oil prices stoke fears about inflation - The Guardian — *The Guardian*
-- `09-11 09:56` Bonds, stocks selloff pauses as oil retreats from multi-month high - Reuters — *Reuters*
