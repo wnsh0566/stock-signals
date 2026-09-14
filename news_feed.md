@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-14 18:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-14 19:08 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,6 +17,7 @@
 - **D-16** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-14 18:55` [중국증시-마감] AI 경계·유가 급등 속 저가 매수로 보합 - 연합인포맥스 — *연합인포맥스*
 - `09-14 18:41` [채권-마감] 중단기 금리 약보합…外人 매수·코스피 급락에 선방 - 연합인포맥스 — *연합인포맥스*
 - `09-14 18:27` 코스피, 3%대 급락…미 FOMC 경계감 - 연합뉴스TV — *연합뉴스TV*
 - `09-14 18:22` 유럽증시 대체로 하락 출발…유로스톡스50, 0.56%↓ - 연합인포맥스 — *연합인포맥스*
@@ -24,17 +25,16 @@
 - `09-14 17:52` [마감] 코스피, AI 속도조절론에 3.26% 급락…6600대로 후퇴 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
 - `09-14 17:52` [0914마감체크] 코스피, AI 속도조절론에 6600선 마감... 반도체 급락 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-14 17:49` [도쿄증시-마감] AI 속도조절론에 닛케이 갭다운 후 관망세 - 연합인포맥스 — *연합인포맥스*
-- `09-14 17:35` 코스피, AI 속도조절론에 3%대 급락 마감 - 팍스경제TV — *팍스경제TV*
 
 ## 🇰🇷 반도체·HBM
+- `09-14 18:38` [이슈콘서트] 삼성전자·SK하이닉스 주가 다시 불붙나…반도체 수요 새 국면? - v.daum.net — *v.daum.net*
 - `09-14 18:37` [이슈콘서트] 삼성전자·SK하이닉스 주가 다시 불붙나…반도체 수요 새 국면? - KBS 뉴스 — *KBS 뉴스*
 - `09-14 18:33` 에코프로에이치엔, 올해 수주 1914억원…반도체 투자 확대 수혜 - kyongbuk.co.kr — *kyongbuk.co.kr*
 - `09-14 18:18` 삼성·SK하이닉스 美 'AI 인프라 서밋' 출격…LA선 젠슨 황·나델라 뜬다 - 아이뉴스24 — *아이뉴스24*
-- `09-14 18:17` 추미애, 미시간과 '미래차 동맹' 제안…"반도체·배터리·소프트웨어 결합, 공급망 주도" - v.daum.net — *v.daum.net*
 - `09-14 18:15` SK하이닉스, 美 HBM 생산기지 본궤도…1477억 인프라 계약 - PRESS9 — *PRESS9*
+- `09-14 18:13` 전북자치도 1호 반도체고 탄생…정읍제일고, 내년 3월 전환 개교 - 전북도민일보 — *전북도민일보*
 - `09-14 18:11` "반도체 증설 본격화에 배관·덕트 등 인프라 수요 증가" - snmnews.com — *snmnews.com*
 - `09-14 18:10` 월가의 새로운 페어 트레이드: 소프트웨어 매수, 반도체 매도 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-14 18:05` "韓-中 반도체 기술격차, 해마다 2년씩 단축" - 한국경제 — *한국경제*
 
 ## 🇰🇷 금융주
 - `09-14 18:21` [금융지주 승계전] ‘연령 컷’ 없다…KB금융 사장단 연말 인선 촉각 - 조세금융신문 — *조세금융신문*
@@ -52,6 +52,7 @@
 - `09-13 13:53` 오세훈 "李 대통령, 8.13 부동산 대책 효과 있다 믿고 있나"…서울 아파트 86주 상승 - pressian.com — *pressian.com*
 
 ## 🌍 AI·빅테크
+- `09-14 18:11` OpenAI CEO Sam Altman on AI: We may lose control - Yahoo Finance — *Yahoo Finance*
 - `09-14 15:27` SoftBank gets $11.87B loan for OpenAI bet, AI concerns hit shares - report (SFTBY:OTCMKTS) - Seeking Alpha — *Seeking Alpha*
 - `09-14 15:27` SoftBank gets $11.87B loan for OpenAI bet, AI concerns hit shares - report - TradingView — *TradingView*
 - `09-14 13:25` SoftBank Secures $11.87 Billion Loan to Double Down on OpenAI Bet - finance.biggo.com — *finance.biggo.com*
@@ -59,27 +60,26 @@
 - `09-14 12:09` SoftBank gets upsized US$11.9 bil loan in OpenAI funding push — Bloomberg - The Edge Malaysia — *The Edge Malaysia*
 - `09-14 12:04` Japan’s SoftBank secures $11.87 billion loan for investments in OpenAI - UA.NEWS — *UA.NEWS*
 - `09-14 11:55` SoftBank gets upsized $11.9 billion loan in OpenAI funding push - The Japan Times — *The Japan Times*
-- `09-14 10:42` SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 연준·금리
-- `09-14 18:30` Wall Street Stays Bullish on Stocks Despite Near-Certain Fed Rate Hike, Citing Strong Earnings - en.bloomingbit.io — *en.bloomingbit.io*
+- `09-14 19:02` Analysis-Biggest risk for sinking bond market is Fed standing pat - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `09-14 19:02` Fed's table is set for a rate hike, a first under Warsh - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `09-14 19:02` Global banks expect Fed rate hike after inflation surprises - The Edge Malaysia — *The Edge Malaysia*
+- `09-14 18:54` Fed rate hike on Wednesday now likely, say economists, and at least one more to follow - reuters.com — *reuters.com*
 - `09-14 18:29` Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead - CoinDesk — *CoinDesk*
 - `09-14 18:18` Overseas Research Daily 0914 | Goldman Sachs: The Federal Reserve is expected to raise interest rates by 25 basis points in September, but may not signal a consecutive hiking cycle. - Moomoo — *Moomoo*
 - `09-14 18:08` Is it finally time? Why the Fed may raise rates for first time since 2023. - USA Today — *USA Today*
-- `09-14 18:04` Why the Odds of a US Fed Interest Rate Hike Just Shot Higher - global.morningstar.com — *global.morningstar.com*
-- `09-14 17:43` Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus - TradingView — *TradingView*
-- `09-14 17:43` Euro drops against Canadian Dollar amid energy shocks, growing Fed rate hike pressures - FXStreet — *FXStreet*
-- `09-14 17:26` Fed Rate Hike Gold Impact: Market Reaction to Inflation Data - en.cryptonomist.ch — *en.cryptonomist.ch*
+- `09-14 18:04` Why the Odds of a US Fed Interest Rate Hike Just Shot Higher - Morningstar — *Morningstar*
 
 ## 🌍 유가·지정학
+- `09-14 18:48` Oil prices rise by almost 3% after new strikes on Saudi Arabia - The Independent — *The Independent*
 - `09-14 18:45` Iran unveils homegrown catalysts for oil, gas industries - Mehr News Agency — *Mehr News Agency*
-- `09-14 18:26` Trump says the Strait of Hormuz is open. But how much oil is really going through? - The Washington Post — *The Washington Post*
+- `09-14 18:35` Oil Prices Jump on Energy Supply Worries - The New York Times — *The New York Times*
+- `09-14 18:19` Iran: Strait of Hormuz to stay closed as Saudi pipeline shutdown adds pressure - newsnationnow.com — *newsnationnow.com*
 - `09-14 18:15` Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-14 18:09` Oil rises again as Hormuz talks get postponed and Saudi pipeline shutdown deepens energy crisis - investingLive — *investingLive*
 - `09-14 18:04` Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline - The Guardian — *The Guardian*
-- `09-14 17:56` Global Financial Markets Impacted by AI Concerns and Oil Price Surge - Devdiscourse — *Devdiscourse*
-- `09-14 17:55` Could Diplomacy Fail to Reopen the Strait of Hormuz as Oil Supply Risks Grow? - Modern Diplomacy — *Modern Diplomacy*
-- `09-14 17:51` Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz - cnbc.com — *cnbc.com*
+- `09-14 18:03` Trump says the Strait of Hormuz is open. But how much oil is really going through? - The Washington Post — *The Washington Post*
 
 ## 🌍 시장 전반
 - `09-14 17:41` UBS upgrades Allegiant Travel to Buy, sees 35% upside after sell-off - Investing.com — *Investing.com*
@@ -87,6 +87,6 @@
 - `09-14 17:07` Bitcoin rises as AI stocks decline, Brent crude climbs to $107 - CoinDesk — *CoinDesk*
 - `09-14 17:00` AI stocks slide after major CEOs unite to urge slowdown - cnbc.com — *cnbc.com*
 - `09-14 14:51` Major negative factors are intensifying, can the A-share market turn positive today? - 36Kr — *36Kr*
+- `09-14 10:55` Wall Street Warns AI-Fueled Rally May Peak With 21% S&P 500 Drop in 2027 - finance.biggo.com — *finance.biggo.com*
 - `09-14 09:57` Stocks Rallied Facing A Fed Hike Decision, Here's What It Means (NDX) - Seeking Alpha — *Seeking Alpha*
 - `09-14 08:25` Bloomberg Strategist: Bitcoin Could Plunge to $10,000 in a Stock Market Crash - finance.biggo.com — *finance.biggo.com*
-- `09-14 07:06` Stocks are in a late-stage bubble and poised to crash 21% next year, while Treasury yields above 5% will signal a new era of tight money, analysts say - Yahoo Finance — *Yahoo Finance*
