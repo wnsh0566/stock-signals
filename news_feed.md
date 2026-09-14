@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-14 19:08 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-14 19:37 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,76 +17,76 @@
 - **D-16** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-14 19:21` [亞증시-종합] AI 속도조절론 등에 기술주 중심 약세 - 연합인포맥스 — *연합인포맥스*
+- `09-14 19:13` [주간증시전망] 오늘부터 퇴근 후 8시까지 주식 매매…KRX, 애프터마켓 개장 첫날부터 '널뛰기 장세' - v.daum.net — *v.daum.net*
+- `09-14 19:12` ‘AI 속도조절론’ 악재 속 코스피 ‘3%대 급락’ - v.daum.net — *v.daum.net*
+- `09-14 19:06` 마통 잔액 6조 늘어 70조 육박…증시로 몰린 ‘빚투’ - 한겨레 — *한겨레*
 - `09-14 18:55` [중국증시-마감] AI 경계·유가 급등 속 저가 매수로 보합 - 연합인포맥스 — *연합인포맥스*
 - `09-14 18:41` [채권-마감] 중단기 금리 약보합…外人 매수·코스피 급락에 선방 - 연합인포맥스 — *연합인포맥스*
+- `09-14 18:30` [뉴스브리핑] 여객선 침몰·증시 급락…국회 '청문회 슈퍼위크' 돌입 - BBS불교방송 — *BBS불교방송*
 - `09-14 18:27` 코스피, 3%대 급락…미 FOMC 경계감 - 연합뉴스TV — *연합뉴스TV*
-- `09-14 18:22` 유럽증시 대체로 하락 출발…유로스톡스50, 0.56%↓ - 연합인포맥스 — *연합인포맥스*
-- `09-14 18:18` 외국인 3.3조 매도에 7000선 대기매물까지…코스피 6600선 후퇴 - 아시아투데이 — *아시아투데이*
-- `09-14 17:52` [마감] 코스피, AI 속도조절론에 3.26% 급락…6600대로 후퇴 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `09-14 17:52` [0914마감체크] 코스피, AI 속도조절론에 6600선 마감... 반도체 급락 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-14 17:49` [도쿄증시-마감] AI 속도조절론에 닛케이 갭다운 후 관망세 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
+- `09-14 19:11` 자람테크놀로지, 유럽 통신 고객사용 반도체 설계 계약 해지 - 디일렉 — *디일렉*
 - `09-14 18:38` [이슈콘서트] 삼성전자·SK하이닉스 주가 다시 불붙나…반도체 수요 새 국면? - v.daum.net — *v.daum.net*
 - `09-14 18:37` [이슈콘서트] 삼성전자·SK하이닉스 주가 다시 불붙나…반도체 수요 새 국면? - KBS 뉴스 — *KBS 뉴스*
 - `09-14 18:33` 에코프로에이치엔, 올해 수주 1914억원…반도체 투자 확대 수혜 - kyongbuk.co.kr — *kyongbuk.co.kr*
 - `09-14 18:18` 삼성·SK하이닉스 美 'AI 인프라 서밋' 출격…LA선 젠슨 황·나델라 뜬다 - 아이뉴스24 — *아이뉴스24*
 - `09-14 18:15` SK하이닉스, 美 HBM 생산기지 본궤도…1477억 인프라 계약 - PRESS9 — *PRESS9*
 - `09-14 18:13` 전북자치도 1호 반도체고 탄생…정읍제일고, 내년 3월 전환 개교 - 전북도민일보 — *전북도민일보*
-- `09-14 18:11` "반도체 증설 본격화에 배관·덕트 등 인프라 수요 증가" - snmnews.com — *snmnews.com*
-- `09-14 18:10` 월가의 새로운 페어 트레이드: 소프트웨어 매수, 반도체 매도 - Investing.com 한국어 — *Investing.com 한국어*
+- `09-14 18:11` "반도체 증설 본격화에 배관·덕트 등 인프라 수요 증가" - 철강금속신문 — *철강금속신문*
 
 ## 🇰🇷 금융주
+- `09-14 19:27` 환율 하락에 금융지주 주주환원 기대감 '솔솔'…건전성·달러 향방은 변수 - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
+- `09-14 19:13` 황병우 iM금융지주 회장, 시중은행 전환 성과 딛고 '첫 연임' 시험대 - 피플투데이 — *피플투데이*
 - `09-14 18:21` [금융지주 승계전] ‘연령 컷’ 없다…KB금융 사장단 연말 인선 촉각 - 조세금융신문 — *조세금융신문*
 - `09-14 18:13` 대세론 깬 이재근…금융지주 보장된 연임 없다 - supple.kr — *supple.kr*
 - `09-14 18:09` KB금융지주, NIM 내려도 이익은 뛴다…하나증권 “3분기 순익 2.06조” - PRESS9 — *PRESS9*
-- `09-14 18:01` 실적 1등도 바꾼 KB...이찬우·황병우 회장, ‘연임 셈법’ 달라지나 - 에너지경제신문 — *에너지경제신문*
+- `09-14 18:01` 실적 1등도 바꾼 KB...이찬우·황병우 회장, ‘연임 셈법’ 달라지나 - ekn.kr — *ekn.kr*
 - `09-14 18:00` "국내 금융그룹 1등 무의미 韓 넘어 글로벌서 자리매김" - 매일경제 — *매일경제*
 - `09-14 17:44` 양종희 회장, 이사회 표심 못 잡았다…'야구회동' 허사였나 - 톱데일리 — *톱데일리*
-- `09-14 17:31` [단독] 금융지주 ‘연임 동맹’ 제동…회장·사외이사 ‘성적표’ 받는다 - 서울신문 — *서울신문*
-- `09-14 17:27` ‘연임 대세’ 깬 KB금융… 이재근 선택한 배경은 - ekoreanews.co.kr — *ekoreanews.co.kr*
 
 ## 🇰🇷 정책·거시
-- `09-14 14:05` 투기 세력의 배제’라는 편견에 박제된 부동산정책 - 하우징헤럴드 — *하우징헤럴드*
+- `09-14 14:05` 투기 세력의 배제’라는 편견에 박제된 부동산정책 - housingherald.co.kr — *housingherald.co.kr*
 - `09-13 18:36` [사설] 최악 치닫는 서울 아파트값… 특단의 공급 대책 왜 없나 - 서울신문 — *서울신문*
-- `09-13 13:53` 오세훈 "李 대통령, 8.13 부동산 대책 효과 있다 믿고 있나"…서울 아파트 86주 상승 - pressian.com — *pressian.com*
+- `09-13 13:53` 오세훈 "李 대통령, 8.13 부동산 대책 효과 있다 믿고 있나"…서울 아파트 86주 상승 - 프레시안 — *프레시안*
 
 ## 🌍 AI·빅테크
-- `09-14 18:11` OpenAI CEO Sam Altman on AI: We may lose control - Yahoo Finance — *Yahoo Finance*
+- `09-14 19:14` OpenAI CEO Sam Altman on AI: We may lose control - Yahoo Finance — *Yahoo Finance*
+- `09-14 18:56` Tech stocks fall after big AI groups call for slowdown - ft.com — *ft.com*
 - `09-14 15:27` SoftBank gets $11.87B loan for OpenAI bet, AI concerns hit shares - report (SFTBY:OTCMKTS) - Seeking Alpha — *Seeking Alpha*
 - `09-14 15:27` SoftBank gets $11.87B loan for OpenAI bet, AI concerns hit shares - report - TradingView — *TradingView*
 - `09-14 13:25` SoftBank Secures $11.87 Billion Loan to Double Down on OpenAI Bet - finance.biggo.com — *finance.biggo.com*
-- `09-14 13:09` SoftBank reportedly secures $11.87B for OpenAI - NeoTeo — *NeoTeo*
+- `09-14 13:09` SoftBank reportedly secures $11.87B for OpenAI - neoteo.com — *neoteo.com*
 - `09-14 12:09` SoftBank gets upsized US$11.9 bil loan in OpenAI funding push — Bloomberg - The Edge Malaysia — *The Edge Malaysia*
 - `09-14 12:04` Japan’s SoftBank secures $11.87 billion loan for investments in OpenAI - UA.NEWS — *UA.NEWS*
-- `09-14 11:55` SoftBank gets upsized $11.9 billion loan in OpenAI funding push - The Japan Times — *The Japan Times*
 
 ## 🌍 연준·금리
-- `09-14 19:02` Analysis-Biggest risk for sinking bond market is Fed standing pat - Yahoo! Finance Canada — *Yahoo! Finance Canada*
-- `09-14 19:02` Fed's table is set for a rate hike, a first under Warsh - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `09-14 19:24` CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week - Cryptonews.net — *Cryptonews.net*
+- `09-14 19:17` Fed's table is set for a rate hike, a first under Warsh - reuters.com — *reuters.com*
+- `09-14 19:15` Federal Reserve Chair Warsh Holds News Conference on Interest Rates - C-SPAN — *C-SPAN*
+- `09-14 19:10` Biggest risk for sinking bond market is Fed standing pat - reuters.com — *reuters.com*
+- `09-14 19:08` With the Federal Reserve poised to raise interest rates, is the U.S. stock market bull run at risk? Goldman Sachs counters: Earnings growth is the key! - 富途牛牛 — *富途牛牛*
 - `09-14 19:02` Global banks expect Fed rate hike after inflation surprises - The Edge Malaysia — *The Edge Malaysia*
 - `09-14 18:54` Fed rate hike on Wednesday now likely, say economists, and at least one more to follow - reuters.com — *reuters.com*
-- `09-14 18:29` Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead - CoinDesk — *CoinDesk*
-- `09-14 18:18` Overseas Research Daily 0914 | Goldman Sachs: The Federal Reserve is expected to raise interest rates by 25 basis points in September, but may not signal a consecutive hiking cycle. - Moomoo — *Moomoo*
-- `09-14 18:08` Is it finally time? Why the Fed may raise rates for first time since 2023. - USA Today — *USA Today*
-- `09-14 18:04` Why the Odds of a US Fed Interest Rate Hike Just Shot Higher - Morningstar — *Morningstar*
+- `09-14 18:46` Fed’s Warsh poised to pull trigger and raise rates for the first time under his watch - The Business Times — *The Business Times*
 
 ## 🌍 유가·지정학
-- `09-14 18:48` Oil prices rise by almost 3% after new strikes on Saudi Arabia - The Independent — *The Independent*
-- `09-14 18:45` Iran unveils homegrown catalysts for oil, gas industries - Mehr News Agency — *Mehr News Agency*
-- `09-14 18:35` Oil Prices Jump on Energy Supply Worries - The New York Times — *The New York Times*
-- `09-14 18:19` Iran: Strait of Hormuz to stay closed as Saudi pipeline shutdown adds pressure - newsnationnow.com — *newsnationnow.com*
-- `09-14 18:15` Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-14 18:09` Oil rises again as Hormuz talks get postponed and Saudi pipeline shutdown deepens energy crisis - investingLive — *investingLive*
-- `09-14 18:04` Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline - The Guardian — *The Guardian*
-- `09-14 18:03` Trump says the Strait of Hormuz is open. But how much oil is really going through? - The Washington Post — *The Washington Post*
+- `09-14 19:33` Trump says the Strait of Hormuz is open. But how much oil is really going through? - The Washington Post — *The Washington Post*
+- `09-14 19:30` Asian Refiners Seek Answers After Saudi Pipeline Shutdown - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-14 19:10` Sterling hits one-month low as oil price jump boosts dollar - reuters.com — *reuters.com*
+- `09-14 19:02` Gulf Tensions Flare Amid Yemen Conflict and Oil Price Surge - Devdiscourse — *Devdiscourse*
+- `09-14 18:58` Middle East Escalation Sparks Oil Price Frenzy - EBC Financial Group — *EBC Financial Group*
+- `09-14 18:57` Iran live updates: Oil prices rise after strikes in Saudi Arabia, Strait of Hormuz - ca.news.yahoo.com — *ca.news.yahoo.com*
+- `09-14 18:48` Oil prices rise by almost 3% after new strikes on Saudi Arabia - independent.co.uk — *independent.co.uk*
+- `09-14 18:38` Oil Above $107: India Faces Massive Import Bill On Iran War Flare-Up As Crude On Track To Hit $115 - NDTV Profit — *NDTV Profit*
 
 ## 🌍 시장 전반
+- `09-14 19:25` Stock Market Today: Equity Futures Retreat as AI Concerns and Rising Oil Pressure Investors - Eurasia Business News — *Eurasia Business News*
 - `09-14 17:41` UBS upgrades Allegiant Travel to Buy, sees 35% upside after sell-off - Investing.com — *Investing.com*
+- `09-14 17:40` Wall Street Strategists See Stock Rally Surviving Fed Rate Hike - Bloomberg.com — *Bloomberg.com*
 - `09-14 17:19` Patrick Bet-David Warns Of A Stock Market 'Bloodbath' Rattled By AI Safety Jitters - NVIDIA (NASDAQ:NVDA) - Benzinga — *Benzinga*
 - `09-14 17:07` Bitcoin rises as AI stocks decline, Brent crude climbs to $107 - CoinDesk — *CoinDesk*
-- `09-14 17:00` AI stocks slide after major CEOs unite to urge slowdown - cnbc.com — *cnbc.com*
+- `09-14 17:00` AI stocks slide after major CEOs unite to urge slowdown - CNBC — *CNBC*
 - `09-14 14:51` Major negative factors are intensifying, can the A-share market turn positive today? - 36Kr — *36Kr*
 - `09-14 10:55` Wall Street Warns AI-Fueled Rally May Peak With 21% S&P 500 Drop in 2027 - finance.biggo.com — *finance.biggo.com*
-- `09-14 09:57` Stocks Rallied Facing A Fed Hike Decision, Here's What It Means (NDX) - Seeking Alpha — *Seeking Alpha*
-- `09-14 08:25` Bloomberg Strategist: Bitcoin Could Plunge to $10,000 in a Stock Market Crash - finance.biggo.com — *finance.biggo.com*
