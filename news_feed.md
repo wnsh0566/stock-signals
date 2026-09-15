@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-15 18:24 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-15 18:36 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,6 +16,7 @@
 - **D-15** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-15 18:21` [중국증시-마감] 실물지표 부진·유가 부담에 하락 - 연합인포맥스 — *연합인포맥스*
 - `09-15 18:10` 3중고에 나흘간 주르륵…코스피 6600선도 위태 - v.daum.net — *v.daum.net*
 - `09-15 18:04` 코스피, 4거래일 연속 하락…코스닥은 사흘 만에 반등 - 더나은미래 — *더나은미래*
 - `09-15 18:02` [도쿄증시-마감] 'AI 우려완화 vs 미 금리 급등'에 닛케이 갈팡질팡 - 연합인포맥스 — *연합인포맥스*
@@ -23,9 +24,9 @@
 - `09-15 17:42` 2022년엔 25% 급락…미국 기준금리 인상 앞둔 K-증시 이번엔 어디로? - v.daum.net — *v.daum.net*
 - `09-15 17:39` 한 달 사이 270조 증발한 국내증시···금리인상 가능성에 경계감 고조 By 투데이코리아 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-15 17:36` [0915마감체크] 코스피, 고금리·고유가에 4거래일 연속 하락... 코스닥은 상승 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-15 17:35` [마감] 코스피, 미 금리·유가 동반 급등에 6620대로 후퇴 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
+- `09-15 18:27` 뱅크오브아메리카, 미국 반도체 산업 전망 연간 18% 성장으로 상향 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-15 18:18` 삼성·SK 호남 반도체…광주 군공항 '이전비용·한미협의·작전공백' 변수 - 아이뉴스24 — *아이뉴스24*
 - `09-15 18:08` 中 "2030년 반도체 산업망 난관 돌파 추진…고밀도 메모리 발전" - v.daum.net — *v.daum.net*
 - `09-15 18:07` [퇴근길 애프터 시황] 이차전지 강세·반도체 약세…VI 발동도 '빈번' - v.daum.net — *v.daum.net*
@@ -33,13 +34,12 @@
 - `09-15 18:02` ICT R&D '2조원 시대'…피지컬AI·AI반도체 집중 투자 - v.daum.net — *v.daum.net*
 - `09-15 17:51` SK하이닉스, 임단협 재투표 ‘돌입’…가결 땐 ‘자사주 매입’·부결 땐 ‘3차 협상’ - 아시아투데이 — *아시아투데이*
 - `09-15 17:45` [다산칼럼] 반도체 세제, 감가상각 단축 허용해야 - 한국경제 — *한국경제*
-- `09-15 17:37` AI 개발 속도 조절론에 미 국채금리 5%까지…반도체 투자 향방은 - 한양경제 — *한양경제*
 
 ## 🇰🇷 금융주
 - `09-15 18:17` 현직 프리미엄 약화되나… 농협·iM지주 회장 인선 '안갯속' - v.daum.net — *v.daum.net*
 - `09-15 18:06` 황병우 iM금융 회장, 실적 둔화 속 연임 ‘안갯속’ - 아시아투데이 — *아시아투데이*
+- `09-15 18:06` KB금융그룹서 돌출한 '세대교체' 흐름, '실적 부진' KB손해보험 구본욱 연임 노란불 켜졌다 - 허프포스트코리아 — *허프포스트코리아*
 - `09-15 17:29` "초저금리·디플레 시대 끝났다" BOJ 긴축에 날개 단 日 은행주, 가계·채권시장엔 '후폭풍' - The Economy Korea — *The Economy Korea*
-- `09-15 17:23` iM금융그룹, ESG 경영 부문 ‘산업통상부 장관상’ 수상 - 프레시안 — *프레시안*
 - `09-15 17:14` KB 세대교체 인선 후폭풍...농협·iM금융도 새판 짤까 - 톱데일리 — *톱데일리*
 - `09-15 17:06` 이찬진 금감원장 "금융지주 자회사 승계 절차 미흡" 경고 - 데일리안 — *데일리안*
 - `09-15 17:03` 이찬진 “금융지주 자회사 CEO 승계절차 미흡…공정성 강화해야” - 동아일보 — *동아일보*
@@ -61,15 +61,15 @@
 ## 🌍 연준·금리
 - `09-15 18:17` What if the Federal Reserve doesn't hike rates? - CNBC TV18 — *CNBC TV18*
 - `09-15 18:16` Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - The Motley Fool — *The Motley Fool*
-- `09-15 18:15` Markets are bracing for a rate hike this week. Here's what investors need to know. - businessinsider.com — *businessinsider.com*
+- `09-15 18:16` Markets are bracing for a rate hike this week. Here's what investors need to know. - businessinsider.com — *businessinsider.com*
+- `09-15 18:15` How Should the Federal Reserve Deal With the AI Bubble? - The American Prospect — *The American Prospect*
+- `09-15 18:04` Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates - The New York Times — *The New York Times*
 - `09-15 18:00` The Rationale for Raising Rates Is Crystal Clear - Bloomberg.com — *Bloomberg.com*
 - `09-15 17:50` Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice - The Motley Fool — *The Motley Fool*
-- `09-15 17:37` Federal Reserve: Rate hiking path and global yields – BNY - fxstreet.com — *fxstreet.com*
-- `09-15 17:36` Dollar-Yen Battles at 155 as U.S. 10-Year Yield Tops 5% Ahead of FOMC Rate Decision - finance.biggo.com — *finance.biggo.com*
-- `09-15 17:30` Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice - The Globe and Mail — *The Globe and Mail*
+- `09-15 17:37` Federal Reserve: Rate hiking path and global yields – BNY - FXStreet — *FXStreet*
 
 ## 🌍 유가·지정학
-- `09-15 17:40` South African rand slides as oil price surge pressures emerging market currencies - Reuters — *Reuters*
+- `09-15 18:32` East-West pipeline shutdown narrows Saudi oil export routes amid Hormuz constraints - Anadolu Ajansı — *Anadolu Ajansı*
 - `09-15 17:40` South African rand slides as oil price surge pressures emerging market currencies - marketscreener.com — *marketscreener.com*
 - `09-15 17:34` US seeks $61 million in cryptocurrency tied to Iran oil sales - iranintl.com — *iranintl.com*
 - `09-15 17:31` Oil prices climb as Iran talks fade, Saudi supply risks grow - Anadolu Ajansı — *Anadolu Ajansı*
@@ -79,11 +79,11 @@
 - `09-15 16:05` U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers - CNBC — *CNBC*
 
 ## 🌍 시장 전반
-- `09-15 16:53` US Bond Selloff Pushes 10-Year Yield Above 5%, Rattling Global Stocks - Global Banking & Finance Review — *Global Banking & Finance Review*
 - `09-15 16:47` Global stock rally at risk as AI investment concerns mount: BIS - The Economic Times — *The Economic Times*
 - `09-15 16:23` HFCL share price falls over 4% today despite stock market rally | What's behind the plunge? - TradingView — *TradingView*
 - `09-15 15:57` Chip sell-off drags down Kospi - The Korea Herald — *The Korea Herald*
 - `09-15 15:19` Don’t Panic About a US Bond Market Selloff - Morningstar — *Morningstar*
 - `09-15 14:12` Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff - The Economic Times — *The Economic Times*
-- `09-15 14:12` Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff - The Economic Times — *The Economic Times*
 - `09-15 12:50` Rubrik: Plenty Of Steam In This Rally As AI Security Concerns Grow - Seeking Alpha — *Seeking Alpha*
+- `09-15 07:41` Jim Cramer explains why the stock market avoided a dramatic sell-off on AI concerns - CNBC — *CNBC*
+- `09-15 07:19` Asian Stocks to Fall on AI, Key US Yield Tops 5%: Markets Wrap - Bloomberg.com — *Bloomberg.com*
