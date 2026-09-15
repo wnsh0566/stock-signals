@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-15 17:57 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-15 18:24 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,34 +16,34 @@
 - **D-15** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-15 18:10` 3중고에 나흘간 주르륵…코스피 6600선도 위태 - v.daum.net — *v.daum.net*
+- `09-15 18:04` 코스피, 4거래일 연속 하락…코스닥은 사흘 만에 반등 - 더나은미래 — *더나은미래*
+- `09-15 18:02` [도쿄증시-마감] 'AI 우려완화 vs 미 금리 급등'에 닛케이 갈팡질팡 - 연합인포맥스 — *연합인포맥스*
+- `09-15 17:46` '코스피 줄다리기' 속 시총 순위 지각변동…현대차 밀어낸 '이 종목' - 한국경제 — *한국경제*
 - `09-15 17:42` 2022년엔 25% 급락…미국 기준금리 인상 앞둔 K-증시 이번엔 어디로? - v.daum.net — *v.daum.net*
 - `09-15 17:39` 한 달 사이 270조 증발한 국내증시···금리인상 가능성에 경계감 고조 By 투데이코리아 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-15 17:36` [0915마감체크] 코스피, 고금리·고유가에 4거래일 연속 하락... 코스닥은 상승 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-15 17:35` [마감] 코스피, 미 금리·유가 동반 급등에 6620대로 후퇴 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `09-15 17:20` [亞증시-종합] 美금리 급등에 일제히 하락 - KB Think — *KB Think*
-- `09-15 17:07` 코스피, '금리.유가.환율' 3중고에 6,620선 후퇴 - 매일경제 마켓 — *매일경제 마켓*
-- `09-15 16:40` 코스피 나흘째 하락...원·달러 환율 1,359원까지 상승 - YTN — *YTN*
-- `09-15 16:40` 미국 10년물 국채금리 5% 돌파에도 코스피, 이 정도면 ‘선방’? - 경향신문 — *경향신문*
 
 ## 🇰🇷 반도체·HBM
+- `09-15 18:18` 삼성·SK 호남 반도체…광주 군공항 '이전비용·한미협의·작전공백' 변수 - 아이뉴스24 — *아이뉴스24*
+- `09-15 18:08` 中 "2030년 반도체 산업망 난관 돌파 추진…고밀도 메모리 발전" - v.daum.net — *v.daum.net*
+- `09-15 18:07` [퇴근길 애프터 시황] 이차전지 강세·반도체 약세…VI 발동도 '빈번' - v.daum.net — *v.daum.net*
+- `09-15 18:03` 삼성, 천안 HBM 생산거점 재편 가속…AP 후공정 자원도 투입 - 조선일보 — *조선일보*
+- `09-15 18:02` ICT R&D '2조원 시대'…피지컬AI·AI반도체 집중 투자 - v.daum.net — *v.daum.net*
 - `09-15 17:51` SK하이닉스, 임단협 재투표 ‘돌입’…가결 땐 ‘자사주 매입’·부결 땐 ‘3차 협상’ - 아시아투데이 — *아시아투데이*
 - `09-15 17:45` [다산칼럼] 반도체 세제, 감가상각 단축 허용해야 - 한국경제 — *한국경제*
-- `09-15 17:25` 안성시의회 “지역 희생 안 돼”…송전망·반도체 처리수 대책 촉구 - 서울경제TV — *서울경제TV*
-- `09-15 17:22` AI 개발 늦춰도 사용은 늘어난다⋯HBM 넘어 서버 D램·낸드로 번지는 수요 [AI 속도조절론] - 이투데이 — *이투데이*
-- `09-15 17:16` 반도체 부산물서 핵심광물 회수…정부, 규제특례 추진 - 철강금속신문 — *철강금속신문*
-- `09-15 17:12` 글로벌 1위 반도체 소재 기업 TOK, 평택 포승에 1천억대 공장 신설 - 경기일보 — *경기일보*
-- `09-15 17:05` 안성 고삼면 주민들, SK하이닉스 오폐수 직방류 철회 요구…3보1배 행진 - 기호일보 — *기호일보*
-- `09-15 17:03` 역시 반도체‥8월 수출 '역대 최대' - MBC 뉴스 — *MBC 뉴스*
+- `09-15 17:37` AI 개발 속도 조절론에 미 국채금리 5%까지…반도체 투자 향방은 - 한양경제 — *한양경제*
 
 ## 🇰🇷 금융주
+- `09-15 18:17` 현직 프리미엄 약화되나… 농협·iM지주 회장 인선 '안갯속' - v.daum.net — *v.daum.net*
+- `09-15 18:06` 황병우 iM금융 회장, 실적 둔화 속 연임 ‘안갯속’ - 아시아투데이 — *아시아투데이*
 - `09-15 17:29` "초저금리·디플레 시대 끝났다" BOJ 긴축에 날개 단 日 은행주, 가계·채권시장엔 '후폭풍' - The Economy Korea — *The Economy Korea*
-- `09-15 17:23` iM금융그룹, ESG 경영 부문 ‘산업통상부 장관상’ 수상 - pressian.com — *pressian.com*
+- `09-15 17:23` iM금융그룹, ESG 경영 부문 ‘산업통상부 장관상’ 수상 - 프레시안 — *프레시안*
 - `09-15 17:14` KB 세대교체 인선 후폭풍...농협·iM금융도 새판 짤까 - 톱데일리 — *톱데일리*
 - `09-15 17:06` 이찬진 금감원장 "금융지주 자회사 승계 절차 미흡" 경고 - 데일리안 — *데일리안*
 - `09-15 17:03` 이찬진 “금융지주 자회사 CEO 승계절차 미흡…공정성 강화해야” - 동아일보 — *동아일보*
 - `09-15 17:00` 금감원장 이찬진 " 금융지주 자회사 CEO 승계절차 미흡, 공정성 높여야" - 비즈니스포스트 — *비즈니스포스트*
-- `09-15 16:58` 금감원장 '금융지주 자회사 CEO 승계절차 미흡' - 데일리한국 — *데일리한국*
-- `09-15 16:56` 이찬진, 23일 금융지주 회장과 조찬 회동…CEO 승계절차 보완 주문 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 정책·거시
 - `09-14 14:05` 투기 세력의 배제’라는 편견에 박제된 부동산정책 - 하우징헤럴드 — *하우징헤럴드*
@@ -59,31 +59,31 @@
 - `09-15 02:03` Anthropic, OpenAI CEOs driven by 'Machiavellian' motives, tech analyst says - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `09-15 18:17` What if the Federal Reserve doesn't hike rates? - CNBC TV18 — *CNBC TV18*
+- `09-15 18:16` Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - The Motley Fool — *The Motley Fool*
+- `09-15 18:15` Markets are bracing for a rate hike this week. Here's what investors need to know. - businessinsider.com — *businessinsider.com*
+- `09-15 18:00` The Rationale for Raising Rates Is Crystal Clear - Bloomberg.com — *Bloomberg.com*
 - `09-15 17:50` Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice - The Motley Fool — *The Motley Fool*
-- `09-15 17:37` Federal Reserve: Rate hiking path and global yields – BNY - FXStreet — *FXStreet*
+- `09-15 17:37` Federal Reserve: Rate hiking path and global yields – BNY - fxstreet.com — *fxstreet.com*
 - `09-15 17:36` Dollar-Yen Battles at 155 as U.S. 10-Year Yield Tops 5% Ahead of FOMC Rate Decision - finance.biggo.com — *finance.biggo.com*
-- `09-15 17:26` Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice - Yahoo Finance — *Yahoo Finance*
-- `09-15 17:04` Trump is learning he can't bully Fed into lower interest rates | Opinion - USA Today — *USA Today*
-- `09-15 16:59` S&P 500 faces 8%-10% pullback risk as Fed rate hikes loom, strategist says - Seeking Alpha — *Seeking Alpha*
-- `09-15 16:41` Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move - Reuters — *Reuters*
-- `09-15 16:30` Stocks drop, oil climbs and Treasury yields hit 19-year high - Yahoo Finance Singapore — *Yahoo Finance Singapore*
+- `09-15 17:30` Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice - The Globe and Mail — *The Globe and Mail*
 
 ## 🌍 유가·지정학
 - `09-15 17:40` South African rand slides as oil price surge pressures emerging market currencies - Reuters — *Reuters*
-- `09-15 17:34` US seeks $61 million in cryptocurrency tied to Iran oil sales - Iran International — *Iran International*
-- `09-15 17:31` Oil prices climb as Iran talks fade, Saudi supply risks grow - aa.com.tr — *aa.com.tr*
-- `09-15 17:30` LNG Demand in China and India Could Surge When Prices Normalize - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-15 17:40` South African rand slides as oil price surge pressures emerging market currencies - marketscreener.com — *marketscreener.com*
+- `09-15 17:34` US seeks $61 million in cryptocurrency tied to Iran oil sales - iranintl.com — *iranintl.com*
+- `09-15 17:31` Oil prices climb as Iran talks fade, Saudi supply risks grow - Anadolu Ajansı — *Anadolu Ajansı*
+- `09-15 17:30` LNG Demand in China and India Could Surge When Prices Normalize - oilprice.com — *oilprice.com*
 - `09-15 16:33` Greenpeace says five larger oil slicks in Strait of Hormuz - Yahoo — *Yahoo*
-- `09-15 16:15` Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-15 16:15` Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack - oilprice.com — *oilprice.com*
 - `09-15 16:05` U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers - CNBC — *CNBC*
-- `09-15 15:51` Analysts warn of 'uncontrolled demand destruction' as oil forecast to hit record high - ABC News & Headlines – Australian Broadcasting Corporation — *ABC News & Headlines – Australian Broadcasting Corporation*
 
 ## 🌍 시장 전반
+- `09-15 16:53` US Bond Selloff Pushes 10-Year Yield Above 5%, Rattling Global Stocks - Global Banking & Finance Review — *Global Banking & Finance Review*
 - `09-15 16:47` Global stock rally at risk as AI investment concerns mount: BIS - The Economic Times — *The Economic Times*
 - `09-15 16:23` HFCL share price falls over 4% today despite stock market rally | What's behind the plunge? - TradingView — *TradingView*
 - `09-15 15:57` Chip sell-off drags down Kospi - The Korea Herald — *The Korea Herald*
-- `09-15 15:17` Don’t Panic About a US Bond Market Selloff - Morningstar — *Morningstar*
+- `09-15 15:19` Don’t Panic About a US Bond Market Selloff - Morningstar — *Morningstar*
 - `09-15 14:12` Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff - The Economic Times — *The Economic Times*
 - `09-15 14:12` Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff - The Economic Times — *The Economic Times*
 - `09-15 12:50` Rubrik: Plenty Of Steam In This Rally As AI Security Concerns Grow - Seeking Alpha — *Seeking Alpha*
-- `09-15 07:41` Jim Cramer explains why the stock market avoided a dramatic sell-off on AI concerns - CNBC — *CNBC*
