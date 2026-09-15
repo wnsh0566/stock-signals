@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-15 19:25 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-15 20:40 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,37 +16,37 @@
 - **D-15** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
-- `09-15 18:23` 유럽증시, 유가 우려 지속에 일제히 하락 출발…유로스톡스50 0.60%↓ - news.einfomax.co.kr — *news.einfomax.co.kr*
-- `09-15 18:21` [중국증시-마감] 실물지표 부진·유가 부담에 하락 - news.einfomax.co.kr — *news.einfomax.co.kr*
+- `09-15 19:20` [亞증시-종합] 美금리 급등에 일제히 하락 - 연합인포맥스 — *연합인포맥스*
+- `09-15 18:23` 유럽증시, 유가 우려 지속에 일제히 하락 출발…유로스톡스50 0.60%↓ - 연합인포맥스 — *연합인포맥스*
+- `09-15 18:21` [중국증시-마감] 실물지표 부진·유가 부담에 하락 - 연합인포맥스 — *연합인포맥스*
 - `09-15 18:10` 3중고에 나흘간 주르륵…코스피 6600선도 위태 - v.daum.net — *v.daum.net*
 - `09-15 18:04` 코스피, 4거래일 연속 하락…코스닥은 사흘 만에 반등 - 더나은미래 — *더나은미래*
-- `09-15 18:02` [도쿄증시-마감] 'AI 우려완화 vs 미 금리 급등'에 닛케이 갈팡질팡 - news.einfomax.co.kr — *news.einfomax.co.kr*
+- `09-15 18:02` [도쿄증시-마감] 'AI 우려완화 vs 미 금리 급등'에 닛케이 갈팡질팡 - 연합인포맥스 — *연합인포맥스*
 - `09-15 17:42` 2022년엔 25% 급락…미국 기준금리 인상 앞둔 K-증시 이번엔 어디로? - v.daum.net — *v.daum.net*
 - `09-15 17:39` 한 달 사이 270조 증발한 국내증시···금리인상 가능성에 경계감 고조 By 투데이코리아 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-15 17:36` [0915마감체크] 코스피, 고금리·고유가에 4거래일 연속 하락... 코스닥은 상승 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
+- `09-15 20:27` 삼성전자·SK하이닉스 애프터마켓서 소폭 반등 - MTN 머니투데이방송 — *MTN 머니투데이방송*
+- `09-15 20:21` 반도체가 쓴 對中 역전극…3년 적자 끊고 277억 달러 흑자 - 대한경제 — *대한경제*
+- `09-15 20:19` 인천 대학, 반도체·바이오 학과 수험생 몰린다 - 경인일보 — *경인일보*
+- `09-15 20:08` [경인어젠다] “용인 반도체클러스터 가동, 속도내야” - 경인일보 — *경인일보*
+- `09-15 19:58` 대입판에도 ‘하이닉스’ 열풍…‘대기업 계약학과’ 수시 지원자 ‘역대 최고’ - 농민신문 — *농민신문*
+- `09-15 19:33` SK하이닉스 'ICT 해피에이징 서포터즈' 3기 출범…"노노케어 확산" - v.daum.net — *v.daum.net*
+- `09-15 19:11` 높아지는 반도체 이익 공유 목소리…조정 역할 중요 - KBS 뉴스 — *KBS 뉴스*
 - `09-15 18:45` 중국 “2030년 반도체 산업망 발전 계획 추진…고밀도 메모리 발전” - KBS 뉴스 — *KBS 뉴스*
-- `09-15 18:36` 中 반도체 자립 ‘총력전’...HBM부터 첨단공정·EDA까지 육성 - M이코노미뉴스 — *M이코노미뉴스*
-- `09-15 18:27` 뱅크오브아메리카, 미국 반도체 산업 전망 연간 18% 성장으로 상향 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-15 18:18` 삼성·SK 호남 반도체…광주 군공항 '이전비용·한미협의·작전공백' 변수 - 아이뉴스24 — *아이뉴스24*
-- `09-15 18:13` [포토] "고삼저수지 오폐수 직방류 반대"… 안성시민들, 용인 반도체 클러스터 오폐수 방류 저지 3보1배 투쟁 - 경기신문 — *경기신문*
-- `09-15 18:08` 中 "2030년 반도체 산업망 난관 돌파 추진…고밀도 메모리 발전" - v.daum.net — *v.daum.net*
-- `09-15 18:07` [퇴근길 애프터 시황] 이차전지 강세·반도체 약세…VI 발동도 '빈번' - v.daum.net — *v.daum.net*
-- `09-15 18:03` 삼성, 천안 HBM 생산거점 재편 가속…AP 후공정 자원도 투입 - 조선일보 — *조선일보*
 
 ## 🇰🇷 금융주
+- `09-15 20:32` 이찬진 "금융지주 자회사 CEO 승계절차 미흡…공정성 강화해야"(종합2보) - v.daum.net — *v.daum.net*
+- `09-15 20:26` “금융지주의 자회사 CEO, 승계 절차 공정성 강화를” - 경향신문 — *경향신문*
+- `09-15 19:22` 9월 15일 증시: 은행주와 석유·가스주 급등, 순외국인자본유입. - Vietnam.vn — *Vietnam.vn*
 - `09-15 19:01` 이찬진 금감원장 “금융지주 자회사 CEO 승계절차 미흡”… 지배구조 선진화 TF서 개선 논의 - 이즈보험 — *이즈보험*
 - `09-15 18:56` JPM, NatWest를 영국 최선호 은행주로 선정한 이유 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-15 18:45` 이찬진 “금융지주 자회사 CEO 승계절차 미흡…공정성 강화해야” - v.daum.net — *v.daum.net*
 - `09-15 18:33` [더나은미래 경제브리핑] 이찬진 “금융지주 CEO 승계절차 미흡, 투명성·공정성 강화해야”...아시아나 마일리지, 통합 대한항공서도 그대로 쓴다 - 더나은미래 — *더나은미래*
-- `09-15 18:27` 이찬진 금감원장, 23일 금융지주 회장과 조찬…"은행장 선임 절차 점검 논의" - v.daum.net — *v.daum.net*
+- `09-15 18:25` 이찬진 금감원장, 23일 금융지주 회장과 조찬…"은행장 선임 절차 점검 논의" - 파이낸셜뉴스 — *파이낸셜뉴스*
 - `09-15 18:19` 5대 금융 ‘인사 태풍’ 불까…금감원 “경영승계 투명·공정성 강화해야” - v.daum.net — *v.daum.net*
-- `09-15 18:17` 현직 프리미엄 약화되나… 농협·iM지주 회장 인선 '안갯속' - v.daum.net — *v.daum.net*
-- `09-15 18:06` 실적·주가 주춤한 iM금융, 황병우 회장 연임 ‘안갯속’ - 아시아투데이 — *아시아투데이*
 
 ## 🇰🇷 정책·거시
-- `09-14 14:05` 투기 세력의 배제’라는 편견에 박제된 부동산정책 - 하우징헤럴드 — *하우징헤럴드*
+- `09-14 14:05` 투기 세력의 배제’라는 편견에 박제된 부동산정책 - housingherald.co.kr — *housingherald.co.kr*
 - `09-14 00:40` [사설] 최악 치닫는 서울 아파트값… 특단의 공급 대책 왜 없나 - 서울신문 — *서울신문*
 
 ## 🌍 AI·빅테크
@@ -60,31 +60,31 @@
 - `09-15 02:03` Anthropic, OpenAI CEOs driven by 'Machiavellian' motives, tech analyst says - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `09-15 19:11` Why Homebuyers Should Root for a Fed Rate Hike - Newsweek — *Newsweek*
-- `09-15 19:01` Top CD rates Tuesday, Sept. 15, 2026: Lock in up to up to 4.60% - fortune.com — *fortune.com*
-- `09-15 19:00` The Federal Reserve Must Not Hike Rates This Week - Forbes — *Forbes*
-- `09-15 18:50` Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - The Motley Fool — *The Motley Fool*
-- `09-15 18:46` How Fed interest rate increases could raise your household debt - The South Dakota Standard — *The South Dakota Standard*
-- `09-15 18:33` Gold prices fall as markets await the US Federal Reserve’s interest rate decision - صوت الإمارات — *صوت الإمارات*
-- `09-15 18:16` Markets are bracing for a rate hike this week. Here's what investors need to know. - Business Insider — *Business Insider*
-- `09-15 18:15` How Should the Federal Reserve Deal With the AI Bubble? - prospect.org — *prospect.org*
+- `09-15 20:28` Global bond yields hit 2008 highs, raising stakes for big borrowers - Reuters — *Reuters*
+- `09-15 20:25` Federal Reserve expected to raise benchmark rate, despite Trump's call for cut - The Tribune-Democrat — *The Tribune-Democrat*
+- `09-15 20:16` Fed Rate Shock Could Squeeze U.S. Farmers as Borrowing Costs Rise Again - AgroLatam — *AgroLatam*
+- `09-15 19:58` Fed Rate Hike Looms: Is the U.S. Stock Bull Market About to End? - NAI500 — *NAI500*
+- `09-15 19:50` Fed expected to raise interest rates yet again, timing questioned by Trump administration - KTSA — *KTSA*
+- `09-15 19:39` Sterling pinned at one-month lows as oil stays high, Fed rate hike expected - Reuters — *Reuters*
+- `09-15 19:35` A Fed Rate Hike Could Be the First of Many. Stocks Are on Red Alert. - Barron's — *Barron's*
+- `09-15 19:12` Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - fool.com — *fool.com*
 
 ## 🌍 유가·지정학
-- `09-15 19:19` From Gas to Groceries: How Oil Price Swings Impacted Your Budget So Far This Year - MoneyLion — *MoneyLion*
-- `09-15 19:00` Iran bet that $100 oil would break American voters. Trump is proving them right - washingtonexaminer.com — *washingtonexaminer.com*
-- `09-15 18:58` Oil’s next test: Saudi Arabia races to restore a key safety valve for prices - CNBC — *CNBC*
-- `09-15 18:37` Brent Rises as Diesel Crunch Tightens Market. Forecast as of 15.09.2026 - LiteFinance — *LiteFinance*
-- `09-15 18:32` East-West pipeline shutdown narrows Saudi oil export routes amid Hormuz constraints - Anadolu Ajansı — *Anadolu Ajansı*
-- `09-15 18:30` UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-15 18:11` Keybanc raises price targets on oil producers amid market shifts - Investing.com — *Investing.com*
-- `09-15 17:40` South African rand slides as oil price surge pressures emerging market currencies - marketscreener.com — *marketscreener.com*
+- `09-15 20:31` Oil Climbs as Saudi Pipeline Remains Offline and Hormuz Traffic Slumps - EnergyNow.com — *EnergyNow.com*
+- `09-15 20:30` Australia's Energy Minister Heads to Saudi Arabia for Pipeline Answers - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-15 20:04` Amount of oil transported through the Strait of Hormuz and Bab el-Mandeb Strait - Anadolu Ajansı — *Anadolu Ajansı*
+- `09-15 20:00` Iran is now threatening world’s largest oil facility and vast pipeline after Houthi attacks escalate - nypost.com — *nypost.com*
+- `09-15 19:50` Oman tows oil tanker attacked off its coast, two crew missing - jpost.com — *jpost.com*
+- `09-15 19:30` Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-15 19:29` Iran gains leverage with Bab al-Mandab Strait under Houthi control - The Washington Post — *The Washington Post*
+- `09-15 19:19` From Gas to Groceries: How Oil Price Swings Impacted Your Budget So Far This Year - moneylion.com — *moneylion.com*
 
 ## 🌍 시장 전반
+- `09-15 19:33` Global selloff in stocks as bond market enters ‘new era’ of risk - fortune.com — *fortune.com*
+- `09-15 19:09` Zensar Technologies share price jumps over 13% amid stock market rally. Do you own? - TradingView — *TradingView*
+- `09-15 18:44` Sensex crashes over 1,400 pts from day’s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times — *The Economic Times*
 - `09-15 18:39` Stock Market Crash: Sensex Falls Over 1,200 Points From Day's High — Three Reasons Why - NDTV Profit — *NDTV Profit*
 - `09-15 18:26` Milan stock market sharply lower, summer rally wiped out, banks down with UniCredit, Gas Plus strong - marketscreener.com — *marketscreener.com*
-- `09-15 18:22` Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture - The Motley Fool — *The Motley Fool*
-- `09-15 16:53` US Bond Selloff Pushes 10-Year Yield Above 5%, Rattling Global Stocks - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `09-15 18:22` Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture - fool.com — *fool.com*
+- `09-15 18:20` Defence stocks tank up to 14%, index down 5%; analysts flag downside risks - Business Standard — *Business Standard*
 - `09-15 16:47` Global stock rally at risk as AI investment concerns mount: BIS - The Economic Times — *The Economic Times*
-- `09-15 16:23` HFCL share price falls over 4% today despite stock market rally | What's behind the plunge? - TradingView — *TradingView*
-- `09-15 15:57` Chip sell-off drags down Kospi - The Korea Herald — *The Korea Herald*
-- `09-15 15:19` Don’t Panic About a US Bond Market Selloff - Morningstar — *Morningstar*
