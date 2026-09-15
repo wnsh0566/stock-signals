@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-15 20:40 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-15 21:03 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -26,17 +26,17 @@
 - `09-15 17:39` 한 달 사이 270조 증발한 국내증시···금리인상 가능성에 경계감 고조 By 투데이코리아 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
-- `09-15 20:27` 삼성전자·SK하이닉스 애프터마켓서 소폭 반등 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `09-15 20:21` 반도체가 쓴 對中 역전극…3년 적자 끊고 277억 달러 흑자 - 대한경제 — *대한경제*
+- `09-15 20:48` 이상일 용인특례시장, “삼성전자와 SK하이닉스의 용인 반도체 산단 조성에 약 1600조원 투자 전망” - 전국안전신문 — *전국안전신문*
+- `09-15 20:28` 삼성전자·SK하이닉스 애프터마켓서 소폭 반등 - v.daum.net — *v.daum.net*
+- `09-15 20:21` 반도체가 쓴 對中 역전극…3년 적자 끊고 277억 달러 흑자 - dnews.co.kr — *dnews.co.kr*
 - `09-15 20:19` 인천 대학, 반도체·바이오 학과 수험생 몰린다 - 경인일보 — *경인일보*
 - `09-15 20:08` [경인어젠다] “용인 반도체클러스터 가동, 속도내야” - 경인일보 — *경인일보*
 - `09-15 19:58` 대입판에도 ‘하이닉스’ 열풍…‘대기업 계약학과’ 수시 지원자 ‘역대 최고’ - 농민신문 — *농민신문*
 - `09-15 19:33` SK하이닉스 'ICT 해피에이징 서포터즈' 3기 출범…"노노케어 확산" - v.daum.net — *v.daum.net*
 - `09-15 19:11` 높아지는 반도체 이익 공유 목소리…조정 역할 중요 - KBS 뉴스 — *KBS 뉴스*
-- `09-15 18:45` 중국 “2030년 반도체 산업망 발전 계획 추진…고밀도 메모리 발전” - KBS 뉴스 — *KBS 뉴스*
 
 ## 🇰🇷 금융주
-- `09-15 20:32` 이찬진 "금융지주 자회사 CEO 승계절차 미흡…공정성 강화해야"(종합2보) - v.daum.net — *v.daum.net*
+- `09-15 20:31` 이찬진 "금융지주 자회사 CEO 승계절차 미흡…공정성 강화해야"(종합2보) - 매일경제 마켓 — *매일경제 마켓*
 - `09-15 20:26` “금융지주의 자회사 CEO, 승계 절차 공정성 강화를” - 경향신문 — *경향신문*
 - `09-15 19:22` 9월 15일 증시: 은행주와 석유·가스주 급등, 순외국인자본유입. - Vietnam.vn — *Vietnam.vn*
 - `09-15 19:01` 이찬진 금감원장 “금융지주 자회사 CEO 승계절차 미흡”… 지배구조 선진화 TF서 개선 논의 - 이즈보험 — *이즈보험*
@@ -60,31 +60,31 @@
 - `09-15 02:03` Anthropic, OpenAI CEOs driven by 'Machiavellian' motives, tech analyst says - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `09-15 20:58` Warsh’s First Test: Will the Fed Follow the Rules? - The Daily Economy — *The Daily Economy*
+- `09-15 20:31` Gold struggles below $4,300 as 10-year US Treasury yield reaches 2007 high - FXStreet — *FXStreet*
 - `09-15 20:28` Global bond yields hit 2008 highs, raising stakes for big borrowers - Reuters — *Reuters*
 - `09-15 20:25` Federal Reserve expected to raise benchmark rate, despite Trump's call for cut - The Tribune-Democrat — *The Tribune-Democrat*
 - `09-15 20:16` Fed Rate Shock Could Squeeze U.S. Farmers as Borrowing Costs Rise Again - AgroLatam — *AgroLatam*
+- `09-15 20:09` Federal Reserve is expected to raise its benchmark rate, defying Trump's demands - Palestineherald.com — *Palestineherald.com*
 - `09-15 19:58` Fed Rate Hike Looms: Is the U.S. Stock Bull Market About to End? - NAI500 — *NAI500*
 - `09-15 19:50` Fed expected to raise interest rates yet again, timing questioned by Trump administration - KTSA — *KTSA*
-- `09-15 19:39` Sterling pinned at one-month lows as oil stays high, Fed rate hike expected - Reuters — *Reuters*
-- `09-15 19:35` A Fed Rate Hike Could Be the First of Many. Stocks Are on Red Alert. - Barron's — *Barron's*
-- `09-15 19:12` Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - fool.com — *fool.com*
 
 ## 🌍 유가·지정학
-- `09-15 20:31` Oil Climbs as Saudi Pipeline Remains Offline and Hormuz Traffic Slumps - EnergyNow.com — *EnergyNow.com*
+- `09-15 20:59` Why Houthi control of the ‘Gate of Tears’ may be Iran’s biggest victory yet - The Washington Post — *The Washington Post*
+- `09-15 20:42` Benchmark US government bond yield hits 19-year peak as oil prices surge - Al Jazeera — *Al Jazeera*
 - `09-15 20:30` Australia's Energy Minister Heads to Saudi Arabia for Pipeline Answers - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-15 20:25` Oil remains supported as supply risks intensify and diplomatic progress stalls - investingLive — *investingLive*
 - `09-15 20:04` Amount of oil transported through the Strait of Hormuz and Bab el-Mandeb Strait - Anadolu Ajansı — *Anadolu Ajansı*
-- `09-15 20:00` Iran is now threatening world’s largest oil facility and vast pipeline after Houthi attacks escalate - nypost.com — *nypost.com*
+- `09-15 20:00` Iran is now threatening world’s largest oil facility and vast pipeline after Houthi attacks escalate - New York Post — *New York Post*
 - `09-15 19:50` Oman tows oil tanker attacked off its coast, two crew missing - jpost.com — *jpost.com*
 - `09-15 19:30` Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-15 19:29` Iran gains leverage with Bab al-Mandab Strait under Houthi control - The Washington Post — *The Washington Post*
-- `09-15 19:19` From Gas to Groceries: How Oil Price Swings Impacted Your Budget So Far This Year - moneylion.com — *moneylion.com*
 
 ## 🌍 시장 전반
 - `09-15 19:33` Global selloff in stocks as bond market enters ‘new era’ of risk - fortune.com — *fortune.com*
 - `09-15 19:09` Zensar Technologies share price jumps over 13% amid stock market rally. Do you own? - TradingView — *TradingView*
 - `09-15 18:44` Sensex crashes over 1,400 pts from day’s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times — *The Economic Times*
-- `09-15 18:39` Stock Market Crash: Sensex Falls Over 1,200 Points From Day's High — Three Reasons Why - NDTV Profit — *NDTV Profit*
+- `09-15 18:39` Stock Market Crash: Sensex Falls Over 1,200 Points From Day's High — Three Reasons Why - ndtvprofit.com — *ndtvprofit.com*
 - `09-15 18:26` Milan stock market sharply lower, summer rally wiped out, banks down with UniCredit, Gas Plus strong - marketscreener.com — *marketscreener.com*
-- `09-15 18:22` Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture - fool.com — *fool.com*
-- `09-15 18:20` Defence stocks tank up to 14%, index down 5%; analysts flag downside risks - Business Standard — *Business Standard*
+- `09-15 18:22` Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture - The Motley Fool — *The Motley Fool*
 - `09-15 16:47` Global stock rally at risk as AI investment concerns mount: BIS - The Economic Times — *The Economic Times*
+- `09-15 16:23` HFCL share price falls over 4% today despite stock market rally | What's behind the plunge? - TradingView — *TradingView*
