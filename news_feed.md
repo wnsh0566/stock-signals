@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-16 17:49 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-16 18:17 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,34 +16,34 @@
 - **D-14** (~09/30) ⭐⭐ 마이크론 FQ4 실적(9/29~30·확정 시 갱신) + 미 8월 PCE
 
 ## 🇰🇷 증시·코스피
+- `09-16 18:04` 韓증시에 유입된 일본자금, 2024년보다 250% 증가..."공포 과도vs 위기는 시작" - v.daum.net — *v.daum.net*
+- `09-16 17:48` [도쿄증시-마감] FOMC 대기 속 중간 배당 노린 매수세에 상승 - news.einfomax.co.kr — *news.einfomax.co.kr*
 - `09-16 17:32` 코스피, 5거래일 만에 상승 마감…6,700대 회복 - KBS 뉴스 — *KBS 뉴스*
 - `09-16 17:25` 코스피 6,717.97 코스닥 815.98 - KBS 뉴스 — *KBS 뉴스*
-- `09-16 17:24` '美 금리 초긴장' 속 코스피 닷새 만에 반등…'삼전닉스' 견인 - KBC광주방송 — *KBC광주방송*
+- `09-16 17:24` '美 금리 초긴장' 속 코스피 닷새 만에 반등…'삼전닉스' 견인 - ikbc.co.kr — *ikbc.co.kr*
+- `09-16 17:23` [오늘의증시] 코스피 6700선 안착…FOMC 경계 속 반도체가 지수 끌었다 - 경인방송 뉴스 — *경인방송 뉴스*
 - `09-16 17:20` “코스피 역사적 저평가…美·日·中보다 지나치게 싸” - 전자신문 — *전자신문*
 - `09-16 17:19` [0916마감체크] 코스피, 반도체주 강세에 5거래일만 상승... 6700선 회복 - infostockdaily.co.kr — *infostockdaily.co.kr*
-- `09-16 17:13` 코스피, 반도체주 반등에 6700선 안착 - 매일경제 마켓 — *매일경제 마켓*
-- `09-16 17:00` 50조 웃돌던 코스피 일평균 거래대금, 올해 최저치 기록 - 매일경제 마켓 — *매일경제 마켓*
-- `09-16 17:00` 코스피, 닷새 만에 반등...6,700대 안착 - YTN — *YTN*
 
 ## 🇰🇷 반도체·HBM
-- `09-16 17:37` SK하이닉스, AI 시대 고속 메모리 기술 발굴…산학특허 5건 시상 - newspim.com — *newspim.com*
-- `09-16 17:34` 최태원 발언 현실로?…"SK하이닉스, 美서 메모리 첫 생산 검토" - 한국경제 — *한국경제*
-- `09-16 17:32` 로이터 "SK하이닉스, 인텔 손잡고 '美 첫 메모리 생산' 타진…오하이오 팹 임대 유력" - 인더스트리뉴스 — *인더스트리뉴스*
-- `09-16 17:29` 로이터 "SK하이닉스, 인텔과 美서 메모리 생산 협의…합작사 설립 검토" - 한국경제 — *한국경제*
-- `09-16 17:28` 로이터 "SK하이닉스, 인텔과 美서 메모리 생산 협의…합작사 설립 검토" - 블루밍비트 — *블루밍비트*
-- `09-16 17:25` SK하이닉스 주가, 오늘 왜 급등하나? - kr.investing.com — *kr.investing.com*
-- `09-16 17:22` 반도체가 이끈 반등…FOMC 앞두고 경계심리 여전 - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-16 17:13` 로이터 "SK하이닉스, 인텔과 美서 메모리 생산 협상" - 매일일보 — *매일일보*
+- `09-16 18:09` "SK하이닉스, 인텔과 美 메모리칩 생산 협의" - v.daum.net — *v.daum.net*
+- `09-16 18:08` SK하이닉스, 美 메모리 생산 검토…인텔 오하이오 공장 활용 거론 - 신아일보 — *신아일보*
+- `09-16 18:08` "SK하이닉스, 인텔과 美 메모리칩 생산 협의" - 연합뉴스TV — *연합뉴스TV*
+- `09-16 18:07` “SK하이닉스·인텔, 美 메모리 생산 협의 중”…오하이오 공장 유력 - 중앙일보 — *중앙일보*
+- `09-16 18:06` “SK하이닉스, 인텔과 미국서 메모리 생산 협상 중” - 경향신문 — *경향신문*
+- `09-16 17:52` 로이터 “SK하이닉스, 인텔과 협력해 美서 메모리 생산”…SK하이닉스 “결정된 바 없다” - 전자신문 — *전자신문*
+- `09-16 17:46` SK하이닉스, 인텔과 미국서 메모리 직접 생산 협상…"다양한 선택지 검토" - 뉴데일리 — *뉴데일리*
+- `09-16 17:46` SK하이닉스, 美서 메모리 만드나…인텔 공장 임대 검토 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
+- `09-16 18:10` iM금융그룹, 국가공헌대상 ESG 경영 부문 산업통상부 장관상 - kyongbuk.co.kr — *kyongbuk.co.kr*
+- `09-16 18:02` [취재후일담]이찬진 금감원장 금융사 승계절차 미흡 지적에 고민 커진 금융지주 - 아시아투데이 — *아시아투데이*
+- `09-16 17:51` 금융지주 회장도 외부평가 … 공시통해 결과 공개 추진 - v.daum.net — *v.daum.net*
+- `09-16 17:42` NH농협금융, 제3차 준법감시협의회 개최…책무구조도 운영 성과 점검 - 포인트경제 — *포인트경제*
 - `09-16 17:36` 교보생명, 라이프플래닛 흡수...금융지주 전환 앞두고 '군살빼기' - 톱데일리 — *톱데일리*
 - `09-16 17:29` “추석 소비 잡아라” 카드사, 할인·무이자 앞세워 ‘고객 락인’ 총력 - 이지경제 — *이지경제*
 - `09-16 17:22` 이찬진 "금융지주 자회사 CEO 승계 절차 미흡"…투명성 강화 주문 - 컨슈머타임스 — *컨슈머타임스*
 - `09-16 17:15` NH금융그룹, 책무구조도 운영 실효성 점검 - 파이낸셜포스트 — *파이낸셜포스트*
-- `09-16 17:05` NH농협금융지주, 책무구조도 운영 실효성 점검…책임경영문화 내재화 속도 - 데일리e뉴스 — *데일리e뉴스*
-- `09-16 17:00` "얼마나 후진적이냐"...이찬진 금감원장이 임원회의서 꺼낸 말 [금융당국 백브리핑] - 한국경제 — *한국경제*
-- `09-16 17:00` [KB금융 세대교체] ⑤국내 리딩그룹vs해외 경쟁열위…해법찾기 '총력' - fetv.co.kr — *fetv.co.kr*
-- `09-16 16:58` iM금융지주, 회추위 구성 초읽기…황병우 회장 연임 가능성은? - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 정책·거시
 - `09-16 15:47` [기획] 규제에도 오르는 서울 집값…文정부와 다른 점은 - 매일일보 — *매일일보*
@@ -59,14 +59,14 @@
 - `09-16 12:24` Rumored Round of Funding Could Make OpenAI More Valuable Than Anthropic Again. Perhaps Briefly - Gizmodo — *Gizmodo*
 
 ## 🌍 연준·금리
+- `09-16 18:16` The Fed Could Be About to Raise Rates for the First Time Since 2023. Here's What History Says Happens to Stocks Next. - The Motley Fool — *The Motley Fool*
+- `09-16 18:04` Fed Readies for Momentous Rate Decision - The New York Times — *The New York Times*
+- `09-16 18:02` Bitcoin Price Prediction: As CLARITY Act Stalls and Fed Decision Looms, Will Bitcoin Price Continue to Fall? - TradingKey — *TradingKey*
+- `09-16 18:00` The Fed is expected to raise interest rates for the first time in 3 years - NPR — *NPR*
+- `09-16 17:58` Oil Pares Gains, Stock Futures Steady as Cautious Optimism Heralds Fed Day - WSJ — *WSJ*
+- `09-16 17:56` News Flash: 70% of Wall Street Institutions Are Calling for at Least a 50-Basis-Point Fed Rate Hike in 2026 - The Motley Fool — *The Motley Fool*
 - `09-16 17:44` GBP/USD, EUR/USD Forecast: Two trades to watch - FOREX.com — *FOREX.com*
-- `09-16 17:22` Fed Expected To Raise Interest Rates Today - 700WLW — *700WLW*
-- `09-16 17:20` News Flash: 70% of Wall Street Institutions Are Calling for at Least a 50-Basis-Point Fed Rate Hike in 2026 - The Motley Fool — *The Motley Fool*
-- `09-16 17:03` FOMC preview: The question is not whether the Fed hikes today, but how much tightening it signals - investinglive.com — *investinglive.com*
-- `09-16 16:59` Fed, BOJ rate hikes this week: Will the yen rally? - Altcoin Buzz — *Altcoin Buzz*
-- `09-16 16:40` Asian stocks mostly higher ahead of Fed's interest rate decision - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
-- `09-16 16:39` Federal Reserve Rate Decision: Is the Bad News Priced In or Just Beginning? - Investing.com — *Investing.com*
-- `09-16 16:35` Stocks head higher as traders prepare for Fed decision - Yahoo Finance Singapore — *Yahoo Finance Singapore*
+- `09-16 17:42` Oil Prices Edge Lower Ahead of Fed Decision - WSJ — *WSJ*
 
 ## 🌍 유가·지정학
 - `09-16 17:15` Japan's Oil Import Bill Soars 59% as Trade Deficit Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
@@ -82,8 +82,8 @@
 - `09-16 16:29` FTSE 100 today: Stocks edge higher as miners rally; Beijing presses U.S.-Iran talk - Investing.com — *Investing.com*
 - `09-16 15:56` Can the S&P 500 Rally as Treasury Yields Rise? - Goldman Sachs — *Goldman Sachs*
 - `09-16 15:00` Tom Lee Sees Fed Rate Hike Today: Predicts a Big Equity Rally - BeInCrypto — *BeInCrypto*
-- `09-16 14:41` Futures Rise, Fed Looms; Will Rally Say Bond Voyage? - Investor's Business Daily — *Investor's Business Daily*
 - `09-16 12:56` Asian stocks edge higher as Fed decision looms, oil rally pauses - Investing.com — *Investing.com*
-- `09-16 11:32` Indian shares tad higher after selloff; elevated oil, Fed caution cap gains - Reuters — *Reuters*
 - `09-16 11:18` South Korean retail traders’ scam losses rose to $250 million amid market swing - The Japan Times — *The Japan Times*
-- `09-16 06:30` HOOD stock slides 6% as market sell-off tests Robinhood’s rally - AMBCrypto — *AMBCrypto*
+- `09-16 06:30` HOOD stock slides 6% as market sell-off tests Robinhood’s rally - ambcrypto.com — *ambcrypto.com*
+- `09-16 05:31` Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily — *Investor's Business Daily*
+- `09-16 05:22` Will the housing market crash this year? - Yahoo Finance — *Yahoo Finance*
