@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-17 18:40 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-17 18:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -21,25 +21,25 @@
 - `09-17 18:36` 코스피 전망 '1만2600→8400' 확 낮춘 삼성증권…"조정땐 매수" - 한국경제 — *한국경제*
 - `09-17 18:28` 코스피199·코스닥149?…거래소 예비종목제도 폐지 추진 - v.daum.net — *v.daum.net*
 - `09-17 18:23` 유럽증시, 유가 하락에 상승 출발…유로스톡스50 0.72%↑ - 연합인포맥스 — *연합인포맥스*
+- `09-17 18:17` [중국증시-마감] 연준 금리인상 여파에 하락 - 연합인포맥스 — *연합인포맥스*
 - `09-17 18:16` 코스피 7000선서 멈칫…실적 시즌에 외인 돌아올까 - v.daum.net — *v.daum.net*
 - `09-17 18:16` 코스피, 매파적 FOMC에도 방어…소폭 하락 마감 - 연합뉴스TV — *연합뉴스TV*
 - `09-17 18:11` 증시 자금 : 개인 자금의 이탈 추세가 시작된 걸까? - Investing.com 한국어 — *Investing.com 한국어*
-- `09-17 18:02` [오늘의증시] 코스피, 매파 FOMC·외국인 2.3조 매도에 약보합…방산·조선은 강세 - 경인방송 뉴스 — *경인방송 뉴스*
-- `09-17 17:52` [도쿄증시-마감] FOMC 소화하며 상승…일부 AI·반도체주 약세 - 연합인포맥스 — *연합인포맥스*
+- `09-17 18:02` [오늘의증시] 코스피, 매파 FOMC·외국인 2.3조 매도에 약보합…방산·조선은 강세 - news.ifm.kr — *news.ifm.kr*
 
 ## 🇰🇷 반도체·HBM
+- `09-17 18:48` "美日, 일본의 대미투자금으로 미국에 반도체 공장 건설 협의 중" - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
+- `09-17 18:47` 日, 대미투자로 반도체 공장 논의…2조~3조엔 규모 - 연합인포맥스 — *연합인포맥스*
+- `09-17 18:45` AI 붐 올라탄 두산, 반도체 소재에 1조 투자 - 한국경제 — *한국경제*
 - `09-17 18:37` SK하이닉스, 美 AI 서밋서 HBF·PIM 등 차세대 AI 메모리 설루션 공개 - v.daum.net — *v.daum.net*
 - `09-17 18:28` [매크로 인사이트] “아스트라로 ‘Q사이클’ 전환…내년 반도체·광인터커넥트 폭발적 성장” - v.daum.net — *v.daum.net*
+- `09-17 18:25` 호남 반도체클러스터 용수 댐 유량 논란…전문가들 "변동 크고 부족" - v.daum.net — *v.daum.net*
 - `09-17 18:22` 철강 부산물이 반도체 공장 도로로…SG, 친환경 '에코스틸아스콘' 공급 - 철강금속신문 — *철강금속신문*
-- `09-17 18:22` 호남 반도체클러스터 용수 댐 유량 논란…전문가들 "변동 크고 부족" - DongA Science — *DongA Science*
-- `09-17 18:16` 반도체 호황 속 벌어진 체감경기… 고금리 버틸 체력도 '바닥' - v.daum.net — *v.daum.net*
-- `09-17 18:10` DGIST 대학원생, 유럽 반도체학회 수상 쾌거 - 한국경제 — *한국경제*
-- `09-17 18:00` 소문만 무성한 SK하이닉스 해외 공장···"미국·일본, 어디든 지어야" - 서울파이낸스 — *서울파이낸스*
-- `09-17 18:00` 美 금리 인상 파고 튕겨낸 K-반도체…3중 방어막에 이상 무 - 아주경제 — *아주경제*
+- `09-17 18:20` SK하이닉스, 협력사 감사 행사 마련 - 충청매일 — *충청매일*
 
 ## 🇰🇷 금융주
 - `09-17 18:19` 김기홍 3기 JB금융, AI 수익화 속도…건전성은 시험대 - 서울경제TV — *서울경제TV*
-- `09-17 18:13` 웰컴금융그룹, 지역사회 곳곳서 임직원 봉사활동 펼쳐 - 비즈월드 — *비즈월드*
+- `09-17 18:13` 웰컴금융그룹, 지역사회 곳곳서 임직원 봉사활동 펼쳐 - bizwnews.com — *bizwnews.com*
 - `09-17 18:12` 금리 상승기엔 은행주 주목 [한경 프리미엄9 TODAY] - 한국경제 — *한국경제*
 - `09-17 18:08` "회장님 ‘참호’ 깨졌다"… 권력 쥔 임추위, 금융지주 CEO 인사 ‘새 판’ - v.daum.net — *v.daum.net*
 - `09-17 17:50` [창간특집] 은행 넘어 증권·보험까지…5대 금융지주 실적 공식 바뀐다 - 이지경제 — *이지경제*
@@ -52,14 +52,14 @@
 - `09-17 14:25` 8·13 부동산대책 한 달…주민반발에 '닥공' 차질 - 매일일보 — *매일일보*
 
 ## 🌍 AI·빅테크
-- `09-17 17:20` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Bloomberg.com — *Bloomberg.com*
+- `09-17 17:20` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Bloomberg — *Bloomberg*
 - `09-17 15:17` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Yahoo! Finance Canada — *Yahoo! Finance Canada*
-- `09-17 10:54` Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site - Bloomberg.com — *Bloomberg.com*
-- `09-17 09:18` Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner - Yahoo Finance — *Yahoo Finance*
+- `09-17 10:54` Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site - Bloomberg — *Bloomberg*
+- `09-17 09:18` Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner - finance.yahoo.com — *finance.yahoo.com*
 - `09-17 09:05` NVIDIA becomes the "central bank of AI," dominating industry capital flows with over $70 billion in investments - finance.biggo.com — *finance.biggo.com*
-- `09-17 08:07` OpenAI to regularly disclose AI misbehaviour, warns safety challenges remain - The Business Times — *The Business Times*
-- `09-17 05:41` Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - Yahoo Finance — *Yahoo Finance*
-- `09-17 04:10` OpenAI weighs $1.2 trillion funding round before IPO - betanews.com — *betanews.com*
+- `09-17 05:41` Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - finance.yahoo.com — *finance.yahoo.com*
+- `09-17 04:10` OpenAI weighs $1.2 trillion funding round before IPO - BetaNews — *BetaNews*
+- `09-16 22:16` OpenAI investors have approached the company about a new funding round - CNBC — *CNBC*
 
 ## 🌍 연준·금리
 - `09-17 18:08` Business - US Federal Reserve hikes interest rates for the first time in three years - France 24 — *France 24*
@@ -72,21 +72,21 @@
 - `09-17 13:46` Trump adviser blasts Fed rate increase, questions Warsh - NewsNation — *NewsNation*
 
 ## 🌍 유가·지정학
+- `09-17 18:45` From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes - Al Jazeera — *Al Jazeera*
 - `09-17 18:30` Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-17 17:15` India Pushes Back on U.S. Tariff Threat Over Russian Oil - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-17 16:52` Oil Price Forecast: WTI Nears $100 as Saudi Arabia Reroutes Crude - fxempire.com — *fxempire.com*
+- `09-17 16:52` Oil Price Forecast: WTI Nears $100 as Saudi Arabia Reroutes Crude - FXEmpire — *FXEmpire*
+- `09-17 16:43` India warns new US tariffs over Russian oil could impact ties - Al Jazeera — *Al Jazeera*
 - `09-17 16:41` Silver Price Forecast: XAG/USD jumps to near $64.40 as rally in oil prices hit a pause - FXStreet — *FXStreet*
-- `09-17 16:18` Natural Gas and Oil Forecast: Saudi Rerouting Eases Supply Risk as Hormuz Traffic Slumps - fxempire.com — *fxempire.com*
+- `09-17 16:18` Natural Gas and Oil Forecast: Saudi Rerouting Eases Supply Risk as Hormuz Traffic Slumps - FXEmpire — *FXEmpire*
 - `09-17 15:40` Soaring LNG Prices Push Asian Demand Toward Second Annual Decline - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-17 15:22` 200 days of Iran-US war: Gas prices at 4-year high with bills & inflation set to rise - Energy & Climate Intelligence Unit | ECIU — *Energy & Climate Intelligence Unit | ECIU*
-- `09-17 15:19` Trump Says Iran War May End Soon as Yemen Front Widens and Oil Risks Grow | Ukraine news - #Mezha - Межа. Новини України. — *Межа. Новини України.*
 
 ## 🌍 시장 전반
-- `09-17 17:47` Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood - wsj.com — *wsj.com*
+- `09-17 17:47` Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood - WSJ — *WSJ*
 - `09-17 16:50` European stock market open: Stocks rally as bond yields ease after Fed hike - investingLive — *investingLive*
 - `09-17 16:50` Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed - MarketWatch — *MarketWatch*
 - `09-17 14:07` Glass Wall Systems shares rally 32% in 2 days after IPO. What should investors do? - The Economic Times — *The Economic Times*
 - `09-17 12:36` UK investors are missing their own market rally - Citywire — *Citywire*
 - `09-17 11:08` Put it on the tab - roger montgomery — *roger montgomery*
-- `09-17 07:06` Stocks and Treasuries Get a Lift as Oil Retreats: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `09-17 06:55` U.S. Markets Sell Off After Fed’s Warsh Says Inflation Is Still ‘Too High’ - wsj.com — *wsj.com*
+- `09-17 07:06` Stocks and Treasuries Get a Lift as Oil Retreats: Markets Wrap - Bloomberg — *Bloomberg*
+- `09-17 06:55` U.S. Markets Sell Off After Fed’s Warsh Says Inflation Is Still ‘Too High’ - WSJ — *WSJ*
