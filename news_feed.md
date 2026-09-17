@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-17 17:53 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-17 18:26 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,75 +18,75 @@
 - **D-14** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-17 17:27` 코스피, 연준 금리 인상에도 6700선 사수 - newstomato.com — *newstomato.com*
+- `09-17 18:17` [중국증시-마감] 연준 금리인상 여파에 하락 - 연합인포맥스 — *연합인포맥스*
+- `09-17 18:16` 코스피, 매파적 FOMC에도 방어…소폭 하락 마감 - 연합뉴스TV — *연합뉴스TV*
+- `09-17 18:11` 증시 자금 : 개인 자금의 이탈 추세가 시작된 걸까? - Investing.com 한국어 — *Investing.com 한국어*
+- `09-17 18:02` [오늘의증시] 코스피, 매파 FOMC·외국인 2.3조 매도에 약보합…방산·조선은 강세 - news.ifm.kr — *news.ifm.kr*
+- `09-17 17:52` [도쿄증시-마감] FOMC 소화하며 상승…일부 AI·반도체주 약세 - 연합인포맥스 — *연합인포맥스*
+- `09-17 17:27` 코스피, 연준 금리 인상에도 6700선 사수 - 뉴스토마토 — *뉴스토마토*
 - `09-17 17:25` 코스피 6,715.41 코스닥 822.18 - KBS 뉴스 — *KBS 뉴스*
-- `09-17 17:22` 한국거래소, 내달 1일 '2026 건전증시포럼' 개최 - etnews.com — *etnews.com*
-- `09-17 17:21` [0917마감체크] 코스피, 美 금리 인상 여파에 약보합... 코스닥은 3거래일 연속 상승 - 인포스탁데일리 — *인포스탁데일리*
-- `09-17 17:20` [마감] 코스피, 美 금리인상 충격 덜고 6715선 약보합 마감 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `09-17 17:18` [亞증시-종합] FOMC 결과 소화하며 혼조 - KB Think — *KB Think*
-- `09-17 17:12` '매' 먼저 맞은 코스피, 약보합 방어…일본은행 행보 주목 - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-17 17:12` 연준 금리 인상에도 코스피 6700선 방어 마감 - 매일경제 마켓 — *매일경제 마켓*
+- `09-17 17:22` 한국거래소, 내달 1일 '2026 건전증시포럼' 개최 - 전자신문 — *전자신문*
 
 ## 🇰🇷 반도체·HBM
-- `09-17 17:33` "리벨리온 온다"… 코스닥 패권 반도체로 - 매일경제 마켓 — *매일경제 마켓*
+- `09-17 18:16` 반도체 호황 속 벌어진 체감경기… 고금리 버틸 체력도 '바닥' - v.daum.net — *v.daum.net*
+- `09-17 18:10` DGIST 대학원생, 유럽 반도체학회 수상 쾌거 - 한국경제 — *한국경제*
+- `09-17 18:00` 소문만 무성한 SK하이닉스 해외 공장···"미국·일본, 어디든 지어야" - 서울파이낸스 — *서울파이낸스*
+- `09-17 18:00` 美 금리 인상 파고 튕겨낸 K-반도체…3중 방어막에 이상 무 - 아주경제 — *아주경제*
+- `09-17 17:54` 전남광주, 반도체·에너지·모빌리티 R&D에 131억원 투입 - aitimes.com — *aitimes.com*
+- `09-17 17:41` 미일, 日대미투자 3차 사업으로 반도체 공장 건설 협의 - v.daum.net — *v.daum.net*
+- `09-17 17:28` 전북, 정부 반도체 소재·부품·장비 특화단지 선정…8300억 투자 ‘청신호’ - 전북일보 인터넷신문 — *전북일보 인터넷신문*
 - `09-17 17:21` [함께가자 우리ESG] SK하이닉스, 협력사 가족 초청 'ThanksFULL Day' 개최 - 뉴스락 — *뉴스락*
-- `09-17 17:19` 줬던 현금 줄인 SK하이닉스 vs 기존 룰 놔두고 주식 쏜 삼성전자…반도체 투톱 성과급 ‘동상이몽’ - 뉴스퀘스트 — *뉴스퀘스트*
-- `09-17 17:17` 전북, 반도체 핵심소재 생산기지로…'소부장 특화단지' 선정 - v.daum.net — *v.daum.net*
-- `09-17 17:17` 반도체 산단 ‘하수 처리수’ 공급…관건은 시간.수질.돈 - 강찬수의 에코파일 — *강찬수의 에코파일*
-- `09-17 17:08` "팹만 지어선 안 된다"…800조 반도체 투자에 글로벌 소부장 유치전[현장] - 아이뉴스24 — *아이뉴스24*
-- `09-17 17:08` 전북자치도, 반도체 소부장특화단지 통해 반도체 공급 핵심거점 도약한다 - 전북도민일보 — *전북도민일보*
-- `09-17 17:08` 주형철 경기도 부지사, SK하이닉스와 용인 일반산단 방류수 점검 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🇰🇷 금융주
+- `09-17 18:19` 김기홍 3기 JB금융, AI 수익화 속도…건전성은 시험대 - 서울경제TV — *서울경제TV*
+- `09-17 18:13` 웰컴금융그룹, 지역사회 곳곳서 임직원 봉사활동 펼쳐 - 비즈월드 — *비즈월드*
+- `09-17 18:08` "회장님 ‘참호’ 깨졌다"… 권력 쥔 임추위, 금융지주 CEO 인사 ‘새 판’ - v.daum.net — *v.daum.net*
+- `09-17 17:50` [창간특집] 은행 넘어 증권·보험까지…5대 금융지주 실적 공식 바뀐다 - 이지경제 — *이지경제*
 - `09-17 17:41` 한투 5천억 회사채 발행 잰걸음 … KDB생명 인수 실탄 마련 나서 - 매일경제 마켓 — *매일경제 마켓*
 - `09-17 16:35` BNK금융, 자회사 7곳 경영승계 절차 돌입…"공공·투명성 강화" - 연합뉴스 — *연합뉴스*
 - `09-17 16:30` 새마을금고, 제주 소상공인에 150억원 특별보증대출 - 이지경제 — *이지경제*
 - `09-17 16:07` 한국금융지주 주가 1,300원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-17 16:05` 메리츠금융지주 주가 1,400원 상승 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-17 16:03` 우리금융지주 주가 100원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-17 15:51` 신한금융, 중앙아시아 네트워크 확대…우즈벡에 최대 2억 달러 지원 추진 - 이지경제 — *이지경제*
-- `09-17 15:28` BNK금융그룹 CEO 선임 절차 개편 : 평가·검증 기간 2개월 연장하고 핵심 정보 사전 제공해 형평성 강화 - 허프포스트코리아 — *허프포스트코리아*
 
 ## 🇰🇷 정책·거시
 - `09-17 15:07` 부동산 혼선·레버리지 사태…李 대통령 지지율 '최저치' 대책은 - 이코노미스트 — *이코노미스트*
 - `09-17 14:25` 8·13 부동산대책 한 달…주민반발에 '닥공' 차질 - 매일일보 — *매일일보*
 
 ## 🌍 AI·빅테크
-- `09-17 15:17` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Bloomberg — *Bloomberg*
-- `09-17 10:54` Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site - Bloomberg — *Bloomberg*
+- `09-17 17:20` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Bloomberg.com — *Bloomberg.com*
+- `09-17 10:54` Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site - Bloomberg.com — *Bloomberg.com*
 - `09-17 09:18` Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner - Yahoo Finance — *Yahoo Finance*
 - `09-17 09:05` NVIDIA becomes the "central bank of AI," dominating industry capital flows with over $70 billion in investments - finance.biggo.com — *finance.biggo.com*
-- `09-17 08:07` OpenAI to regularly disclose AI misbehaviour, warns safety challenges remain - businesstimes.com.sg — *businesstimes.com.sg*
+- `09-17 08:07` OpenAI to regularly disclose AI misbehaviour, warns safety challenges remain - The Business Times — *The Business Times*
 - `09-17 05:41` Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - Yahoo Finance — *Yahoo Finance*
 - `09-17 04:10` OpenAI weighs $1.2 trillion funding round before IPO - BetaNews — *BetaNews*
 - `09-16 22:16` OpenAI investors have approached the company about a new funding round - CNBC — *CNBC*
 
 ## 🌍 연준·금리
+- `09-17 18:08` Business - US Federal Reserve hikes interest rates for the first time in three years - France 24 — *France 24*
 - `09-17 17:39` US Federal Reserve Raises Rates; We Expect Cuts Next Year - Morningstar — *Morningstar*
-- `09-17 15:49` What a Fed rate hike could mean for your money - kttc.com — *kttc.com*
 - `09-17 15:37` Federal Reserve raises interest rates for the 1st time since 2023 - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
+- `09-17 14:56` The Fed hiked rates for the first time in years. Here's what smart people in economics say comes next. - Business Insider — *Business Insider*
 - `09-17 14:18` US Federal Reserve raises key interest rate for first time in three years - Belga Share — *Belga Share*
-- `09-17 14:02` Fed builds credibility, but hawkish turn leaves investors edgy - reuters.com — *reuters.com*
+- `09-17 14:02` Fed builds credibility, but hawkish turn leaves investors edgy - Reuters — *Reuters*
 - `09-17 13:46` Trump adviser blasts Fed rate increase, questions Warsh - NewsNation — *NewsNation*
 - `09-17 13:40` A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets - CNBC — *CNBC*
-- `09-17 13:00` Donald Trump fails to bend the Federal Reserve to his will - ft.com — *ft.com*
 
 ## 🌍 유가·지정학
 - `09-17 17:15` India Pushes Back on U.S. Tariff Threat Over Russian Oil - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-17 16:52` Oil Price Forecast: WTI Nears $100 as Saudi Arabia Reroutes Crude - FXEmpire — *FXEmpire*
 - `09-17 16:41` Silver Price Forecast: XAG/USD jumps to near $64.40 as rally in oil prices hit a pause - FXStreet — *FXStreet*
 - `09-17 16:18` Natural Gas and Oil Forecast: Saudi Rerouting Eases Supply Risk as Hormuz Traffic Slumps - FXEmpire — *FXEmpire*
 - `09-17 15:40` Soaring LNG Prices Push Asian Demand Toward Second Annual Decline - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-17 15:22` 200 days of Iran-US war: Gas prices at 4-year high with bills & inflation set to rise - Energy & Climate Intelligence Unit | ECIU — *Energy & Climate Intelligence Unit | ECIU*
 - `09-17 15:19` Trump Says Iran War May End Soon as Yemen Front Widens and Oil Risks Grow | Ukraine news - #Mezha - Межа. Новини України. — *Межа. Новини України.*
 - `09-17 14:20` Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-17 13:32` Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates - Yahoo — *Yahoo*
 
 ## 🌍 시장 전반
-- `09-17 17:45` Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood - marketscreener.com — *marketscreener.com*
+- `09-17 17:47` Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood - WSJ — *WSJ*
+- `09-17 16:50` European stock market open: Stocks rally as bond yields ease after Fed hike - investingLive — *investingLive*
 - `09-17 16:50` Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed - MarketWatch — *MarketWatch*
-- `09-17 16:27` European stock market open: Stocks rally as bond yields ease after Fed hike - investingLive — *investingLive*
 - `09-17 14:07` Glass Wall Systems shares rally 32% in 2 days after IPO. What should investors do? - The Economic Times — *The Economic Times*
 - `09-17 12:36` UK investors are missing their own market rally - Citywire — *Citywire*
 - `09-17 11:08` Put it on the tab - roger montgomery — *roger montgomery*
+- `09-17 07:06` Stocks and Treasuries Get a Lift as Oil Retreats: Markets Wrap - Bloomberg.com — *Bloomberg.com*
 - `09-17 06:55` U.S. Markets Sell Off After Fed’s Warsh Says Inflation Is Still ‘Too High’ - WSJ — *WSJ*
-- `09-17 05:54` Stock Market Rises as Nasdaq and S&P 500 Rally Following Expected Fed Rate Hike - Norada Real Estate Investments — *Norada Real Estate Investments*
