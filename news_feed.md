@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-17 20:36 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-17 21:01 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,30 +18,30 @@
 - **D-14** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
+- `09-17 20:47` 금리 충격 비켜간 코스피…외국인 매도에 약보합 마감 - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
+- `09-17 20:47` 금리 충격 비켜간 코스피…외국인 매도에 약보합 마감 - 연합뉴스TV — *연합뉴스TV*
 - `09-17 19:55` 금리 인상에도 버틴 코스피‥장기금리 등 변수는 여전 - v.daum.net — *v.daum.net*
 - `09-17 19:48` 금리 인상에도 버틴 코스피‥장기금리 등 변수는 여전 - MBC 뉴스 — *MBC 뉴스*
-- `09-17 19:15` 증시 자금 : 개인 자금의 이탈 추세가 시작된 걸까? - Investing.com 한국어 — *Investing.com 한국어*
+- `09-17 19:47` 외국인 2.3조 팔아도 6700선 지켰다…코스피 0.04% 하락 - 경북매일 — *경북매일*
+- `09-17 19:15` 증시 자금 : 개인 자금의 이탈 추세가 시작된 걸까? - kr.investing.com — *kr.investing.com*
 - `09-17 19:01` [증시와이드] 역사적 엔화 약세…반등 따른 수익성 노려볼 때 - 국제신문 — *국제신문*
 - `09-17 19:00` 코스피, 美 금리인상 등 여파 오르내리다 약보합 마감 - 국제신문 — *국제신문*
-- `09-17 18:36` 코스피 전망 '1만2600→8400' 확 낮춘 삼성증권…"조정땐 매수" - 한국경제 — *한국경제*
-- `09-17 18:28` 코스피199·코스닥149?…거래소 예비종목제도 폐지 추진 - v.daum.net — *v.daum.net*
-- `09-17 18:17` [중국증시-마감] 연준 금리인상 여파에 하락 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
+- `09-17 20:36` 반도체 산단 되자 무너진 ‘8조원 공식’…5조원 누가 메우나 - v.daum.net — *v.daum.net*
 - `09-17 20:24` SK하이닉스, 협력사 구성원·가족 3만명 초청 'ThanksFULL Day' 실시 - 마일드경제 — *마일드경제*
 - `09-17 20:23` 삼성전자·SK하이닉스, 애프터마켓서 반등…각각 1.0%·0.4%↑ - MTN 머니투데이방송 — *MTN 머니투데이방송*
 - `09-17 20:00` 삼성·SK하이닉스, LTA가 바꾼 메모리 갑을관계…고객과 ‘깐부' : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `09-17 19:55` 전북, '소부장 특화단지' 선정…반도체 핵심 생산기지 - 신아일보 — *신아일보*
 - `09-17 19:51` 반도체에서 유럽 역사·문화예술까지…이상일 용인시장 ′지식 특강′ 갈채 - KPI뉴스 — *KPI뉴스*
+- `09-17 19:47` '램리서치와 특허분쟁' 월덱스 "반도체 고객, 원가절감 중요...애프터마켓 업체 써야" - 지디넷코리아 — *지디넷코리아*
 - `09-17 19:38` 이상일 용인시장 “반도체 투자 최대 1600조원…용인 발전 속도 높일 것” - asiae.co.kr — *asiae.co.kr*
-- `09-17 19:22` SK “하이닉스가 그룹 원톱” 선언...‘AI컴퍼니’로 인적·조직 쇄신 추진 - 서울경제 — *서울경제*
-- `09-17 19:03` [이슈] 삼성전자 반도체 하청노동자 "단기 도급계약에 고용불안"…산재 처리도 ‘눈치’ - 팍스경제TV — *팍스경제TV*
 
 ## 🇰🇷 금융주
-- `09-17 19:25` 자회사 인사권 힘 실은 BNK금융…김태한 경남은행장, 연임 ‘기로’ - 에너지경제신문 — *에너지경제신문*
+- `09-17 19:25` 자회사 인사권 힘 실은 BNK금융…김태한 경남은행장, 연임 ‘기로’ - ekn.kr — *ekn.kr*
 - `09-17 18:59` NH농협금융 ESG추진협의회 개최, "저탄소 전환 지원하는 기후금융 확대" - 비즈니스포스트 — *비즈니스포스트*
 - `09-17 18:19` 김기홍 3기 JB금융, AI 수익화 속도…건전성은 시험대 - 서울경제TV — *서울경제TV*
-- `09-17 18:13` 웰컴금융그룹, 지역사회 곳곳서 임직원 봉사활동 펼쳐 - bizwnews.com — *bizwnews.com*
+- `09-17 18:13` 웰컴금융그룹, 지역사회 곳곳서 임직원 봉사활동 펼쳐 - 비즈월드 — *비즈월드*
 - `09-17 18:12` 금리 상승기엔 은행주 주목 [한경 프리미엄9 TODAY] - 한국경제 — *한국경제*
 - `09-17 18:08` "회장님 ‘참호’ 깨졌다"… 권력 쥔 임추위, 금융지주 CEO 인사 ‘새 판’ - v.daum.net — *v.daum.net*
 - `09-17 17:50` [창간특집] 은행 넘어 증권·보험까지…5대 금융지주 실적 공식 바뀐다 - 이지경제 — *이지경제*
@@ -55,38 +55,38 @@
 - `09-17 17:20` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Bloomberg.com — *Bloomberg.com*
 - `09-17 15:17` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Yahoo! Finance Canada — *Yahoo! Finance Canada*
 - `09-17 10:54` Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site - Bloomberg.com — *Bloomberg.com*
-- `09-17 09:18` Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner - Yahoo Finance — *Yahoo Finance*
-- `09-17 05:41` Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - Yahoo Finance — *Yahoo Finance*
-- `09-17 04:10` OpenAI weighs $1.2 trillion funding round before IPO - betanews.com — *betanews.com*
-- `09-16 22:16` OpenAI investors have approached the company about a new funding round - cnbc.com — *cnbc.com*
+- `09-17 09:18` Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner - finance.yahoo.com — *finance.yahoo.com*
+- `09-17 05:41` Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - finance.yahoo.com — *finance.yahoo.com*
+- `09-17 04:10` OpenAI weighs $1.2 trillion funding round before IPO - BetaNews — *BetaNews*
+- `09-16 22:16` OpenAI investors have approached the company about a new funding round - CNBC — *CNBC*
 - `09-16 21:09` OpenAI is exploring a new funding round that would value it at $1.2 trillion - qz.com — *qz.com*
 
 ## 🌍 연준·금리
-- `09-17 20:01` Goldman's October hike call underscores renewed Fed tightening risks - Reuters — *Reuters*
+- `09-17 20:01` Goldman's October hike call underscores renewed Fed tightening risks - reuters.com — *reuters.com*
 - `09-17 19:54` The Fed raises interest rates. And, EU proposes Canada become an 'associate member' - NPR — *NPR*
-- `09-17 19:37` COMMENTARY: Morning Bid: A timely hike - Reuters — *Reuters*
-- `09-17 19:31` Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields - Yahoo Finance — *Yahoo Finance*
-- `09-17 18:23` Wall St futures rise as Fed rate hike lifts long-standing overhang - Reuters — *Reuters*
+- `09-17 19:37` COMMENTARY: Morning Bid: A timely hike - reuters.com — *reuters.com*
+- `09-17 19:31` Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields - finance.yahoo.com — *finance.yahoo.com*
+- `09-17 18:23` Wall St futures rise as Fed rate hike lifts long-standing overhang - reuters.com — *reuters.com*
 - `09-17 18:15` Fed Raises Rate Despite Trump’s Calls to Lower Them - Time Magazine — *Time Magazine*
 - `09-17 18:08` Business - US Federal Reserve hikes interest rates for the first time in three years - France 24 — *France 24*
 - `09-17 18:05` The Fed, After Raising Rates, Grapples With What Comes Next - The New York Times — *The New York Times*
 
 ## 🌍 유가·지정학
+- `09-17 20:49` Oil News: Saudi Crude Route via Oman Cuts Oil Premium, but Hormuz Traffic Stays Thin - FXEmpire — *FXEmpire*
+- `09-17 20:30` LNG Prices Could Jump Further as Hormuz Supply Crunch Persists - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-17 19:30` Gold Price Forecast: XAU/USD gains as oil rally eases, upside seems limited amid hawkish Fed bets - FXStreet — *FXStreet*
 - `09-17 19:30` Alberta Plans New Royalty Incentives to Spur Oil Production - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-17 18:45` From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes - Al Jazeera — *Al Jazeera*
 - `09-17 18:30` Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-17 17:15` India Pushes Back on U.S. Tariff Threat Over Russian Oil - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-17 17:00` Advertising Contracts with Big Oil Hit Record High as Profits Soar from War in Iran - DeSmog — *DeSmog*
-- `09-17 16:52` Oil Price Forecast: WTI Nears $100 as Saudi Arabia Reroutes Crude - FXEmpire — *FXEmpire*
-- `09-17 16:43` India warns new US tariffs over Russian oil could impact ties - Al Jazeera — *Al Jazeera*
+- `09-17 17:13` Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates - The Korea Times — *The Korea Times*
 
 ## 🌍 시장 전반
+- `09-17 20:47` Ratnaveer Precision Engineering share price hits 52-week high | What's behind the rally? - TradingView — *TradingView*
 - `09-17 19:38` Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool — *The Motley Fool*
 - `09-17 19:20` Fed rate hike, falling oil prices spur stock market rally: What’s ahead? - BusinessLine — *BusinessLine*
 - `09-17 19:16` Bond Market Sell-Off: Is It Really Safe to Invest Right Now? - The Globe and Mail — *The Globe and Mail*
-- `09-17 18:59` Turkiye Financial Committee Holds Emergency Meeting After Stock Market Selloff - businesstoday.com.my — *businesstoday.com.my*
+- `09-17 18:59` Turkiye Financial Committee Holds Emergency Meeting After Stock Market Selloff - BusinessToday Malaysia — *BusinessToday Malaysia*
 - `09-17 18:58` Bond Market Sell-Off: Is It Really Safe to Invest Right Now? - The Motley Fool — *The Motley Fool*
 - `09-17 17:52` Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood - WSJ — *WSJ*
 - `09-17 16:50` European stock market open: Stocks rally as bond yields ease after Fed hike - investingLive — *investingLive*
-- `09-17 16:50` Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed - MarketWatch — *MarketWatch*
