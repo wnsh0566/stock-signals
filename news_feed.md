@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-17 09:49 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-17 16:30 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,74 +18,76 @@
 - **D-14** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-17 09:47` 美증시 금리인상 충격에도 코스피 ‘꿋꿋’…0.9% 상승 출발 [투자360] - v.daum.net — *v.daum.net*
-- `09-17 09:43` 코스피, 美 매파적 금리인상에도 강보합…상승폭은 제한(종합) - v.daum.net — *v.daum.net*
-- `09-17 09:41` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
-- `09-17 09:40` [이 시각 시황] 美 금리 인상에도 코스피 상승…스페이스X發 우주항공株 급등 - v.daum.net — *v.daum.net*
-- `09-17 09:38` 코스피, FOMC 여진에도 보합권…6720선 등락 - newstomato.com — *newstomato.com*
-- `09-17 09:37` [개장시황] 코스피, 상승 출발 후 6720선으로 밀려…외인·기관 ‘팔자’ - 브릿지경제 — *브릿지경제*
-- `09-17 09:34` [개장시황] 코스피 1%대 상승…미 FOMC 소화하며 6780선 회복 - 뉴스핌 — *뉴스핌*
-- `09-17 09:33` 美 금리 인상 '선반영'…개인 매수세에 코스피 6730선[개장시황] - v.daum.net — *v.daum.net*
+- `09-17 16:24` 증시 대기자금 6일만에 100조원 하회…청약대금 반환 등 영향 - v.daum.net — *v.daum.net*
+- `09-17 16:23` [마켓뷰] 연준 금리 인상에도 선방한 코스피…6715.41 마감 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `09-17 16:21` 코스피, 美 금리 인상에도 보합 마감…6710선 유지 - 전자신문 — *전자신문*
+- `09-17 16:21` 코스피, 美 금리인상 경계에 약보합…6710선 마감 - 서울경제TV — *서울경제TV*
+- `09-17 16:20` 한국거래소, 내달 1일 '건전증시포럼' 개최 - 뉴스핌 — *뉴스핌*
+- `09-17 16:17` [중국증시-마감] 연준 금리인상 여파에 하락 - KB Think — *KB Think*
+- `09-17 16:17` 한국거래소, 내달 1일 ‘2026 건전증시포럼’ 개최 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `09-17 16:12` 코스피, 美 3년2개월 만의 금리 인상에도 '6700선 사수'…코스닥 0.76%↑ - 프라임경제 — *프라임경제*
 
 ## 🇰🇷 반도체·HBM
-- `09-17 09:42` SK하이닉스, 130여 협력사 직원·가족 사은행사 연다 - 문화일보 — *문화일보*
-- `09-17 09:39` 협력사 가족 3만명 서울랜드 모인다… SK하이닉스의 '스킨십 상생' - 파이낸셜포스트 — *파이낸셜포스트*
-- `09-17 09:37` 빅테크 자본지출 1조 달러 임박, 메모리 반도체 하방 방어력 입증 - 글로벌이코노믹 — *글로벌이코노믹*
-- `09-17 09:33` SK하이닉스 "미국 메모리 반도체 생산, 확정된 바 없어" - 뉴스포스트 — *뉴스포스트*
-- `09-17 09:32` SK하이닉스, 인텔과 미국 내 메모리 생산 협상 보도에 "확정된 사항 없다" - 비즈트리뷴 — *비즈트리뷴*
-- `09-17 09:30` SK하이닉스, ‘연산하는 메모리’ PIM 승부수…AI 데이터 병목 줄인다 - 산경투데이 — *산경투데이*
-- `09-17 09:29` SK하이닉스, 협력사 구성원·가족 3만명 초청…'ThanksFULL Day' 개최 - 더트래커 — *더트래커*
-- `09-17 09:29` SK하이닉스 “연산 메모리, AI 데이터 병목 해결할 것” - v.daum.net — *v.daum.net*
+- `09-17 16:16` 美日, 5500억달러 대미투자 다음 스텝은 반도체 공장 - 뉴스핌 — *뉴스핌*
+- `09-17 16:15` "일본 미국에 최대 3조 엔 반도체 공장 프로젝트 논의", 글로벌파운드리가 운영 - 비즈니스포스트 — *비즈니스포스트*
+- `09-17 16:10` "日 대미투자 3호 '반도체 파운드리' 건설논의"…최대 26조 규모 - 머니투데이 - 머니투데이 — *머니투데이*
+- `09-17 16:06` 과기부, 한양대 ‘AI반도체 혁신연구소’ 개소…”실전형 인재 매년 20명씩 양성” - AI타임스 — *AI타임스*
+- `09-17 15:56` "GPU-HBM 한계 돌파"…SK하이닉스, 차세대 AI 솔루션 제시 - 파이낸셜포스트 — *파이낸셜포스트*
+- `09-17 15:53` 피지컬 AI·반도체·보안·양자까지 한눈에...AI 대축제 열린다 - 지디넷코리아 — *지디넷코리아*
+- `09-17 15:48` 충북도·수출입은행, 3년간 5조 금융지원…반도체·바이오 기업 키운다 - 뉴스핌 — *뉴스핌*
+- `09-17 15:45` 일본·미국, 5500억 달러 투자 협약 일환으로 반도체 공장 건설 논의 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 금융주
-- `09-17 09:41` 우리금융지주, 통합 시너지 ‘영업’서 먼저…동양 GA에 ABL 전속조직 더한다 - PRESS9 — *PRESS9*
-- `09-17 09:32` NH농협금융, 그룹 'ESG추진협의회' 개최…전환금융 내재화 추진 - 뉴스핌 — *뉴스핌*
-- `09-17 09:30` 한국금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-17 09:29` 메리츠금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-17 09:26` BNK금융, 회장·자회사 대표 선임과정 공정성·투명성 강화(종합) - v.daum.net — *v.daum.net*
-- `09-17 09:16` 금융당국, 익명 금융지주 회장 도전 배제 검토…자발적 지양 권고 - 연합인포맥스 — *연합인포맥스*
-- `09-17 09:12` 농협금융, 그룹 ‘ESG추진협의회’ 개최…계열사별 기후금융 확대 - 디지털데일리 — *디지털데일리*
-- `09-17 09:11` 이찬진, 23일 금융지주 회장 회동…연말 CEO 54명 승계절차 겨눈다 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `09-17 16:07` 한국금융지주 주가 1,300원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-17 16:05` 메리츠금융지주 주가 1,400원 상승 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-17 16:03` 우리금융지주 주가 100원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-17 15:51` 신한금융, 중앙아시아 네트워크 확대…우즈벡에 최대 2억 달러 지원 추진 - 이지경제 — *이지경제*
+- `09-17 15:28` BNK금융그룹 CEO 선임 절차 개편 : 평가·검증 기간 2개월 연장하고 핵심 정보 사전 제공해 형평성 강화 - 허프포스트코리아 — *허프포스트코리아*
+- `09-17 15:24` 우리금융, “아이유와 아이치·나고야 아시안게임 응원해요” - 비즈월드 — *비즈월드*
+- `09-17 15:21` 우리금융지주, 생산적금융 25조3000억원 공급…지방·중소기업 지원 확대 - PRESS9 — *PRESS9*
+- `09-17 15:16` YB·QWER 공연 보며 나눔 체험…사랑의열매, 우리금융그룹 ‘우리 모모콘’ 참여 - 동아일보 — *동아일보*
 
 ## 🇰🇷 정책·거시
+- `09-17 15:07` 부동산 혼선·레버리지 사태…李 대통령 지지율 '최저치' 대책은 - 이코노미스트 — *이코노미스트*
+- `09-17 14:25` 8·13 부동산대책 한 달…주민반발에 '닥공' 차질 - 매일일보 — *매일일보*
 - `09-16 15:47` [기획] 규제에도 오르는 서울 집값…文정부와 다른 점은 - 매일일보 — *매일일보*
 
 ## 🌍 AI·빅테크
-- `09-17 09:18` Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner - Yahoo Finance Australia — *Yahoo Finance Australia*
+- `09-17 15:17` Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets - Bloomberg.com — *Bloomberg.com*
+- `09-17 10:54` Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site - Bloomberg.com — *Bloomberg.com*
+- `09-17 09:18` Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner - Yahoo Finance — *Yahoo Finance*
 - `09-17 09:05` NVIDIA becomes the "central bank of AI," dominating industry capital flows with over $70 billion in investments - finance.biggo.com — *finance.biggo.com*
-- `09-17 08:07` OpenAI plans regular reports on unexpected AI behaviour - The Business Times — *The Business Times*
-- `09-17 05:41` Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - finance.yahoo.com — *finance.yahoo.com*
+- `09-17 08:07` OpenAI to regularly disclose AI misbehaviour, warns safety challenges remain - The Business Times — *The Business Times*
+- `09-17 05:41` Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - Yahoo Finance — *Yahoo Finance*
 - `09-17 04:10` OpenAI weighs $1.2 trillion funding round before IPO - BetaNews — *BetaNews*
 - `09-17 02:03` OpenAI eyes $1.2 trillion funding round: report - The Express Tribune — *The Express Tribune*
-- `09-16 22:16` OpenAI investors have approached the company about a new funding round - CNBC — *CNBC*
-- `09-16 21:09` OpenAI is exploring a new funding round that would value it at $1.2 trillion - qz.com — *qz.com*
 
 ## 🌍 연준·금리
-- `09-17 09:30` Warsh Defies Trump’s Calls for Rate Cut as War Stokes Inflation - Bloomberg — *Bloomberg*
-- `09-17 09:28` Gold price drops to $4,310/oz as Fed votes 12-0 in favor of 25 bps rate hike, with 16 of 18 policymakers seeing another hike in 2026 - KITCO — *KITCO*
-- `09-17 09:26` Here’s what a Fed rate hike means for your mortgage, car loan and credit cards - The Washington Post — *The Washington Post*
-- `09-17 09:18` Fed raises interest rates by quarter point to tackle inflation - The Washington Post — *The Washington Post*
-- `09-17 09:06` News | Federal Reserve hikes interest rates for first time since 2023 - CoStar — *CoStar*
-- `09-17 09:01` Federal Reserve raises interest rates for the first time since 2023 - CBS News — *CBS News*
-- `09-17 08:59` US Fed raises interest rates for first time in three years - Al Jazeera — *Al Jazeera*
-- `09-17 08:42` Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - AP News — *AP News*
+- `09-17 15:49` What a Fed rate hike could mean for your money - KTTC | Rochester, MN — *KTTC | Rochester, MN*
+- `09-17 14:18` US Federal Reserve raises key interest rate for first time in three years - Belga Share — *Belga Share*
+- `09-17 14:02` Fed builds credibility, but hawkish turn leaves investors edgy - Reuters — *Reuters*
+- `09-17 13:46` Trump adviser blasts Fed rate increase, questions Warsh - NewsNation — *NewsNation*
+- `09-17 13:40` A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets - CNBC — *CNBC*
+- `09-17 13:00` Donald Trump fails to bend the Federal Reserve to his will - Financial Times — *Financial Times*
+- `09-17 12:59` Trump says he told Fed chief to ‘do what you want’ ahead of interest rate hike - The Washington Post — *The Washington Post*
+- `09-17 12:42` Heartland economic professor speaks out after Federal Reserve hikes interest rates - KFVS12 — *KFVS12*
 
 ## 🌍 유가·지정학
-- `09-17 09:00` StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-17 08:19` Costco nearly doubles price of store brand motor oil as global supply pressures heat up - newsday.com — *newsday.com*
-- `09-17 08:18` US military claims Strait of Hormuz remains open amid ongoing blockade - Al Jazeera — *Al Jazeera*
-- `09-17 08:13` Video shows Coast Guard, FBI boarding oil vessel suspected of being hacked by Iran - CBS News — *CBS News*
-- `09-17 08:00` Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-17 07:48` Any Iran Ceasefire Needs a Plan for the Ships and Oil Already Seized - Jurist.org — *Jurist.org*
-- `09-17 07:31` House passes Russia sanctions bill named for Lindsey Graham, sending it to Trump - NBC News — *NBC News*
-- `09-17 07:00` Oil Above $100 Pushes U.S. Fuel Prices to New Records - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-17 16:18` Natural Gas and Oil Forecast: Saudi Rerouting Eases Supply Risk as Hormuz Traffic Slumps - FXEmpire — *FXEmpire*
+- `09-17 15:40` Soaring LNG Prices Push Asian Demand Toward Second Annual Decline - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-17 15:22` 200 days of Iran-US war: Gas prices at 4-year high with bills & inflation set to rise - Energy & Climate Intelligence Unit | ECIU — *Energy & Climate Intelligence Unit | ECIU*
+- `09-17 15:19` Trump Says Iran War May End Soon as Yemen Front Widens and Oil Risks Grow | Ukraine news - #Mezha - Межа. Новини України. — *Межа. Новини України.*
+- `09-17 14:20` Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-17 13:32` Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates - Yahoo — *Yahoo*
+- `09-17 13:30` The Strait Of Hormuz And What Comes Next: Oil Market Outlook - Seeking Alpha — *Seeking Alpha*
+- `09-17 13:29` High crude oil price, high interest rate and higher chances of super El Nino, all these may drive CPO price higher. - Moomoo — *Moomoo*
 
 ## 🌍 시장 전반
+- `09-17 14:07` Glass Wall Systems shares rally 32% in 2 days after IPO. What should investors do? - The Economic Times — *The Economic Times*
+- `09-17 12:36` UK investors are missing their own market rally - Citywire — *Citywire*
+- `09-17 06:55` U.S. Markets Sell Off After Fed’s Warsh Says Inflation Is Still ‘Too High’ - WSJ — *WSJ*
 - `09-17 05:54` Stock Market Rises as Nasdaq and S&P 500 Rally Following Expected Fed Rate Hike - Norada Real Estate Investments — *Norada Real Estate Investments*
-- `09-17 03:20` Worried About a Market Crash? This Dividend Stock Outperformed as the S&P 500 Sank in Both 2008 and 2022 - finance.yahoo.com — *finance.yahoo.com*
-- `09-17 02:03` FTSE 100 today: Stocks climb as mining rally continues and oil prices ease - Investing.com — *Investing.com*
+- `09-17 03:20` Worried About a Market Crash? This Dividend Stock Outperformed as the S&P 500 Sank in Both 2008 and 2022 - Yahoo Finance — *Yahoo Finance*
+- `09-17 02:08` FTSE 100 today: Stocks climb as mining rally continues and oil prices ease - Investing.com — *Investing.com*
 - `09-16 23:46` Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3% - 24/7 Wall St. — *24/7 Wall St.*
 - `09-16 21:50` Red October Sell-Off Could Be Coming: 5 Warren Buffett Dividend Stocks Are Safe Havens - 24/7 Wall St. — *24/7 Wall St.*
-- `09-16 21:07` Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage? - Investor's Business Daily — *Investor's Business Daily*
-- `09-16 21:04` Bubble watch: Which global stocks are most exposed to a sell-off? - Investing.com — *Investing.com*
-- `09-16 12:56` Asian stocks edge higher as Fed decision looms, oil rally pauses - Investing.com — *Investing.com*
