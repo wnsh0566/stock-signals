@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-18 20:45 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-18 21:12 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -15,14 +15,14 @@
 - **D-13** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-18 19:37` "7천피 다시 가나요" 들썩…美·日 금리 올렸는데 '대반전' - 한국경제 — *한국경제*
+- `09-18 20:12` "불확실성 해소" 오히려 좋다?…금리 올렸는데 코스피 ‘쑥’ - JTBC — *JTBC*
 - `09-18 19:28` [亞증시-종합] 위험 선호 심리 부각에 일제 상승 - 연합인포맥스 — *연합인포맥스*
 - `09-18 19:21` 긴축·AI 공포 이겨낸 증시…다음주에는 이 둘의 만남이 기다린다 [다음주 주요 변수 미리보기] - 한국경제 — *한국경제*
 - `09-18 18:39` 유럽증시, 통신·에너지주 약세에 하락 출발…유로스톡스50 0.21%↓ - 연합인포맥스 — *연합인포맥스*
 - `09-18 18:33` [중국증시-마감] 반도체·소비주 동반 강세에 상승 - 연합인포맥스 — *연합인포맥스*
+- `09-18 18:19` 글로벌 긴축에도 오른 코스피…삼전·닉스 강세 - 연합뉴스TV — *연합뉴스TV*
 - `09-18 18:05` [0918마감체크] 코스피, 반도체 강세에 2%대 반등... 6900선 턱밑 마감 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-18 18:04` [마감] 코스피, 외국인 복귀·반도체 강세에 2.66% 상승…6894선 회복 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `09-18 17:56` [도쿄증시-마감] 예상대로 BOJ 기준금리 인상하자 닛케이 1%대↑ - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
 - `09-18 20:21` SK하이닉스, 인텔과 미국 메모리 생산 협의설 … '미확정' - 세이프타임즈 — *세이프타임즈*
@@ -62,25 +62,25 @@
 ## 🌍 연준·금리
 - `09-18 20:32` COMMENTARY: Global rates reset, AI angst and oil's long haul: The financial week in five charts - Reuters — *Reuters*
 - `09-18 20:31` Federal Reserve’s inflation fight shifts to how far rates will have to rise - Baltimore Sun — *Baltimore Sun*
+- `09-18 20:31` Wall Street thinks the stock market can handle a few hikes - axios.com — *axios.com*
 - `09-18 20:22` Stocks Just Had Their Best Day in 6 Weeks After the Fed Raised Rates - inc.com — *inc.com*
+- `09-18 20:21` Global rate-hike cycle in view as central banks take on inflation - Reuters — *Reuters*
 - `09-18 20:17` US equity funds post fourth weekly outflow on inflation worries, rate concerns - Reuters — *Reuters*
-- `09-18 20:16` Global rate-hike cycle in view as central banks take on inflation - Reuters — *Reuters*
-- `09-18 20:04` Goldman's October hike call underscores renewed Fed tightening risks - Reuters — *Reuters*
+- `09-18 20:00` Trump’s claim that ‘almost every item’ is getting cheaper comes up against a damning reality - CNN — *CNN*
 - `09-18 19:44` COMMENTARY: Morning Bid: Apocalypse later - Reuters — *Reuters*
-- `09-18 19:30` County housing market remains steady as Federal Reserve hikes interest rates - Lookout Santa Cruz — *Lookout Santa Cruz*
 
 ## 🌍 유가·지정학
+- `09-18 21:00` Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-18 20:58` Iran’s Attempts to Get Around the Hormuz Blockade Are Hitting a Wall - WSJ — *WSJ*
+- `09-18 20:54` JPMorgan is abandoning its Iran war oil forecast as economic redlines keep getting crossed - qz.com — *qz.com*
+- `09-18 20:53` Global oil price increases hit home in tri-state area - biztimes.biz — *biztimes.biz*
+- `09-18 20:46` Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post — *The Washington Post*
+- `09-18 20:42` How Can Traders Exploit Oil Price Correlations? - fxnewsgroup.com — *fxnewsgroup.com*
 - `09-18 20:30` WTI Crude Oil: Elliott Wave Analysis and Forecast for 18.09.26–25.09.26 - LiteFinance — *LiteFinance*
-- `09-18 20:27` How Can Traders Exploit Oil Price Correlations? - fxnewsgroup.com — *fxnewsgroup.com*
 - `09-18 20:26` Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - Reuters — *Reuters*
-- `09-18 20:17` What stages a slight comeback for Indian Rupee on Friday? - FXStreet — *FXStreet*
-- `09-18 19:49` Iran Says it Struck Togo-Flagged Oil Tanker in Strait of Hormuz - Kurdistan24 — *Kurdistan24*
-- `09-18 19:27` Government Freezes Petroleum Prices Despite Oil Surge - chosun.com — *chosun.com*
-- `09-18 19:16` Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post — *The Washington Post*
-- `09-18 19:12` Oil Traders Stymied by Iran War Stalemate: Evening Briefing Americas - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 시장 전반
-- `09-18 20:34` Warren Buffett's Top Advice for Protecting Your Portfolio Before a Market Crash - The Motley Fool — *The Motley Fool*
+- `09-18 20:52` Warren Buffett's Top Advice for Protecting Your Portfolio Before a Market Crash - The Motley Fool — *The Motley Fool*
 - `09-18 19:43` Tech Rally, Easing Oil Prices Lift Asian Stock Markets - marketscreener.com — *marketscreener.com*
 - `09-18 18:37` U.S. AI-Related Stocks Extend Rally Premarket -- Market Talk - Moomoo — *Moomoo*
 - `09-18 17:09` Stock futures rise after Wall Street rally; Fed speakers in focus (SPX:) - Seeking Alpha — *Seeking Alpha*
