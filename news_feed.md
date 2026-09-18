@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-18 10:23 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-18 17:11 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -15,75 +15,76 @@
 - **D-13** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-18 10:12` "연준 금리인상 후 증시 반등에도 저가매수 신중해야…추가 조정 가능" - 연합인포맥스 — *연합인포맥스*
-- `09-18 10:07` [포토타임] 코스피 2% 오른 6800대 회복하며 출발 - 중앙일보 — *중앙일보*
-- `09-18 10:00` 美증시 반등에 코스피 2%대 급등…반도체주 강세에 6800선 회복 - hidomin.com — *hidomin.com*
-- `09-18 09:53` 외국인, 8개월 만에 '사자' 전환…코스피 사고 코스닥 팔았다 - 신아일보 — *신아일보*
-- `09-18 09:50` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
-- `09-18 09:48` 코스피 2%대 상승해 6850선 출발…美 시장 훈풍 영향 - etnews.com — *etnews.com*
-- `09-18 09:46` 미 기술주 반등에 코스피 2%대 상승 출발…SK하이닉스 4%↑ - 서울경제TV — *서울경제TV*
-- `09-18 09:46` 미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN — *YTN*
+- `09-18 17:01` 코스피, 외국인 '사자'에 2%대 상승 마감 - 서울경제TV — *서울경제TV*
+- `09-18 16:56` 뉴욕증시, 나흘 만에 상승…금리인상 여파 소화 - 연합뉴스TV — *연합뉴스TV*
+- `09-18 16:47` 코스피, 2.66% 상승 마감…외국인, 8거래일 만에 ‘사자’ - KBS 뉴스 — *KBS 뉴스*
+- `09-18 16:44` [장마감] 코스피 2.66%↑(6894.23), 코스닥 0.60%↑(827.12) - 버핏연구소 — *버핏연구소*
+- `09-18 16:39` 미 금리인상 하루 만에 반등한 코스피…삼전·닉스 3~6% 급등 - 경향신문 — *경향신문*
+- `09-18 16:35` 코스피, 2% 올라 6890선 회복…외국인 8거래일만 순매수 전환 - 전자신문 — *전자신문*
+- `09-18 16:34` 외국인 8거래일 만에 ‘사자’… 코스피 2.66% 올라 6890선 회복 - 서울신문 — *서울신문*
+- `09-18 16:33` [중국증시-마감] 반도체·소비주 동반 강세에 상승 - KB Think — *KB Think*
 
 ## 🇰🇷 반도체·HBM
-- `09-18 10:13` SK그룹 전문 경영 부회장 3명 SK하이닉스로 일제히 이동 - 글로벌이코노믹 — *글로벌이코노믹*
-- `09-18 10:12` SK 부회장단 3인 SK하이닉스행…글로벌 네트워크 총동원 - 한경매거진&북 — *한경매거진&북*
-- `09-18 10:12` [1% 초고수의 개장 선택] 삼성전자 담고, 삼성SDI·SK하이닉스 줄인다 By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `09-18 10:11` [특징주] 삼성전자·SK하이닉스, 美 반도체 큰 폭 반등.. '강세' - 글로벌이코노믹 — *글로벌이코노믹*
-- `09-18 10:11` SK그룹 부회장 3인, SK하이닉스로 이동…그룹 중추에 힘 싣는다 - 아시아투데이 — *아시아투데이*
-- `09-18 10:11` [글로벌마켓노트]"10곳만 제대로 키우자"…일본 반도체 15년 승부 - 아시아경제 — *아시아경제*
-- `09-18 10:10` 삼성전자 SK하이닉스 미국 메모리반도체 투자에 '인력난' 변수, 트럼프 압박에 부담 가중 - 비즈니스포스트 — *비즈니스포스트*
-- `09-18 10:00` SK 핵심 부회장 3인, SK하이닉스 합류…250명 임원 1:1 심층 면담 - 동아일보 — *동아일보*
+- `09-18 16:57` 전북, 반도체 소재·케미컬 소부장 특화단지 선정…국가 공급망 거점 도약 - 뉴스핌 — *뉴스핌*
+- `09-18 16:55` SK하이닉스 솔리다임, 미국에 생산기지 짓나…“확정된 사안 없어” - 아시아투데이 — *아시아투데이*
+- `09-18 16:52` 전남광주시-장성군, '앰코 반도체 추가투자 지원' 업무협약 체결 - 머니투데이 - 머니투데이 — *머니투데이*
+- `09-18 16:52` SK하이닉스, 미국 낸드 생산 검토…메모리 영토 넓히나 - 뉴스저널리즘 — *뉴스저널리즘*
+- `09-18 16:47` 새만금·익산·완주 ‘반도체 소재벨트’로…소부장 특화단지 선정 - v.daum.net — *v.daum.net*
+- `09-18 16:41` SK하이닉스 손자회사 솔리다임, 美 동부에 낸드공장 구축 검토 - daily.hankooki.com — *daily.hankooki.com*
+- `09-18 16:37` 전남광주시-장성군, '앰코 반도체 추가투자 지원' 업무협약…공공폐수처리시설 적기 확충 협력 - 전자신문 — *전자신문*
+- `09-18 16:36` 입법조사처 "호남 반도체산단 용수공급 안정성 우려...기후부, 구체적 근거 제시 못해" - 조선일보 — *조선일보*
 
 ## 🇰🇷 금융주
-- `09-18 10:10` 신한, 15조 인천시금고 수성…하나 청라 공세 막아 - 자본시장뉴스 — *자본시장뉴스*
-- `09-18 09:55` 신한금융지주, 2026 한국IR대상 대상 금융위원장상 수상 - 스마트투데이 — *스마트투데이*
-- `09-18 09:53` 농협금융, NH투자증권 주식 1500억원어치 장내 매수 - 뉴시안 — *뉴시안*
-- `09-18 09:50` 신한금융지주·비츠로셀, ‘2026 한국IR대상’ 대상 수상 - edaily.co.kr — *edaily.co.kr*
-- `09-18 09:49` KB금융지주 이재근 후보, 분권형 KB 예고 [KB 지배구조의 변화④] - PRESS9 — *PRESS9*
-- `09-18 09:34` 한국금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-18 09:33` 메리츠금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `09-18 09:27` 우리금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-18 16:43` 카카오페이 ‘카드연구소’ 오픈…카드별 혜택 한눈에 비교 - 이지경제 — *이지경제*
+- `09-18 16:37` “이자 오르면 실적 커진다” 금리인상 훈풍 타고 은행주 인기 껑충 - 르데스크 — *르데스크*
+- `09-18 16:30` [은행업계기상도]9월 셋째주, 9곳 중 3곳 ‘맑음’…인천시금고 쟁탈전이 최대 변수 - NSP통신 — *NSP통신*
+- `09-18 16:23` 신한금융, '2026 한국IR대상' 대상…'밸류업 2.0' 호평 - 비욘드포스트 — *비욘드포스트*
+- `09-18 16:14` 금융지주 자본효율 갈렸다···위험가중자산이익률, 2배 격차 - 뉴스프리존 — *뉴스프리존*
+- `09-18 16:04` [금융지주 풍향계] 신한금융, ‘2026 한국IR대상’ 대상 수상 - 에너지경제신문 — *에너지경제신문*
+- `09-18 15:22` 원화 강세에 은행株 방긋…3분기 실적 기대도 커져 - 아주경제 — *아주경제*
+- `09-18 15:00` 신한금융, ‘한국IR대상’ 대상…밸류업·투자자 소통 성과 인정받아 - 팝콘뉴스 — *팝콘뉴스*
 
 ## 🇰🇷 정책·거시
+- `09-18 12:16` 2026년 제8차 정기 수요강좌 | 8·13 대책 및 대출규제 속 성공적인 정비사업 추진 전략 - 한국주택경제신문 — *한국주택경제신문*
 - `09-17 15:07` 부동산 혼선·레버리지 사태…李 대통령 지지율 '최저치' 대책은 - 이코노미스트 — *이코노미스트*
-- `09-17 14:32` 8·13 부동산대책 한 달…주민반발에 '닥공' 차질 - 매일일보 — *매일일보*
+- `09-17 14:25` 8·13 부동산대책 한 달…주민반발에 '닥공' 차질 - 매일일보 — *매일일보*
 
 ## 🌍 AI·빅테크
+- `09-18 15:05` AI capex will destroy capital, could trigger major credit event, says Chris Wood - Moneycontrol.com — *Moneycontrol.com*
+- `09-18 13:48` Nvidia invests $2 billion in Brookfield’s AI Fund - BusinessLine — *BusinessLine*
+- `09-18 12:31` OpenAI breached by researchers using Anthropic models - Financial Times — *Financial Times*
 - `09-18 07:35` Nvidia (NVDA) Expands Into Neoclouds And Takes On A Bank Of AI Role - simplywall.st — *simplywall.st*
 - `09-18 07:27` Nvidia backs Brookfield's $10B AI infrastructure fund with $2B pledge - Dealroom — *Dealroom*
-- `09-18 04:11` SoftBank Wants More Firepower For Its $64.6 Billion OpenAI Bet - Benzinga — *Benzinga*
+- `09-18 04:47` Nvidia Committed $2 Billion to Brookfield AI Infrastructure Fund - Bloomberg.com — *Bloomberg.com*
 - `09-18 02:56` Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz - The Motley Fool — *The Motley Fool*
 - `09-18 02:19` Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz - The Globe and Mail — *The Globe and Mail*
-- `09-18 02:17` Apollo Eyes $9B Loan to SoftBank Over OpenAI Bets - Briefs Finance — *Briefs Finance*
-- `09-18 02:17` Nvidia Committed $2 Billion to Brookfield AI Infrastructure Fund - Bloomberg.com — *Bloomberg.com*
-- `09-18 02:12` OpenAI tests sponsored AI agents inside ChatGPT ads - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `09-18 16:00` From US Fed rates to China’s global export share: 4 figures shaping markets - South China Morning Post — *South China Morning Post*
+- `09-18 16:00` The Markets See Rates Going Higher Than the Fed Does. Is Stagflation Ahead? - Barron's — *Barron's*
+- `09-18 15:01` The Federal Reserve begins raising interest rates, exacerbating challenges for private credit. - Moomoo — *Moomoo*
+- `09-18 13:30` What the Fed’s first rate hike since 2023 means for Nashville’s housing market - WZTV — *WZTV*
+- `09-18 11:56` Japan raises interest rate to new 31-year high to curb rising prices - BBC — *BBC*
+- `09-18 11:29` Trump adviser blasts Fed rate increase, questions Warsh - NewsNation — *NewsNation*
 - `09-18 09:48` Federal Reserve raises interest rates as inflation, energy prices remain high - 5newsonline.com — *5newsonline.com*
-- `09-18 08:36` COMMENTARY: Trump may not see another rate cut as president - Reuters — *Reuters*
-- `09-18 08:08` Goldman's October hike call underscores renewed Fed tightening risks - Reuters — *Reuters*
-- `09-18 07:58` Jim Cramer says history offers a playbook for navigating a Fed rate-hiking cycle - CNBC — *CNBC*
-- `09-18 07:43` Tech leads Wall St to higher close as oil eases, Treasury yields dip - Reuters — *Reuters*
-- `09-18 07:42` Federal Reserve rate hike could impact Anchorage housing market - Your Alaska Link — *Your Alaska Link*
-- `09-18 07:34` Trump backs Fed’s Warsh following rate hike - semafor.com — *semafor.com*
-- `09-18 07:26` What to know about the Federal Reserve rate hike - kaaltv.com — *kaaltv.com*
+- `09-18 08:36` COMMENTARY: Trump may not see another rate cut as president - reuters.com — *reuters.com*
 
 ## 🌍 유가·지정학
-- `09-18 10:01` Oil prices fall 1% on hopes of limited supply disruptions - Reuters — *Reuters*
-- `09-18 09:00` What Yemen Really Means to the U.S.-Iran War - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-18 08:56` Iran says struck oil tanker in Strait of Hormuz: state news agency - news.cgtn.com — *news.cgtn.com*
-- `09-18 08:54` Iran’s IRGC claims attack on Togolese oil tanker for 'illegal transit' in Strait of Hormuz - FXStreet — *FXStreet*
-- `09-18 08:00` Saudi Pipeline Outage Could Deepen the Global Fuel Crunch - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-18 07:17` Iran's IRGC says 'violating' oil tanker hit in Hormuz Strait - China Daily — *China Daily*
-- `09-18 07:12` Oil Traders Stymied by Iran War Stalemate: Evening Briefing Americas - Bloomberg.com — *Bloomberg.com*
-- `09-18 07:05` Oil Drops for Third Day as Supply Concerns Ease in Middle East - Bloomberg.com — *Bloomberg.com*
+- `09-18 16:42` Projectile Hits Oil Tanker in Strait of Hormuz - WANA News Agency — *WANA News Agency*
+- `09-18 16:35` Denmark Opens EU's First Full-Scale CO2 Storage Site - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-18 16:28` Saudi Arabia Has Another Option to Get Its Oil Out - WSJ — *WSJ*
+- `09-18 16:15` China Pushes Coal Miners to Lift Supply as Prices Climb - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-18 16:12` Oil Traders Stymied by Iran War Stalemate: Evening Briefing Americas - Bloomberg.com — *Bloomberg.com*
+- `09-18 16:05` Oil price surge raises fuel costs, inflation pressures in US - Anadolu Ajansı — *Anadolu Ajansı*
+- `09-18 15:57` Silver Price Forecast: XAG/USD rallies to near $66.80 amid correction in oil prices, US yields - FXStreet — *FXStreet*
+- `09-18 15:54` Iran says it strikes an oil tanker, and other Mideast developments - WPXI — *WPXI*
 
 ## 🌍 시장 전반
-- `09-18 08:55` Market Reverses Overnight After Fed Rate Hike: Chip Stocks Lead US Rally, Gold Reclaims $4,300 - finance.biggo.com — *finance.biggo.com*
-- `09-18 07:35` Tech-Led Rally Lifts S&P 500 To Best Day Since Early August - TheStreet Pro — *TheStreet Pro*
-- `09-18 07:15` US stocks rally to their best day in 6 weeks after oil prices and bond yields ease - Northeast Mississippi Daily Journal — *Northeast Mississippi Daily Journal*
-- `09-18 06:59` US Markets Rally as Tech Stocks Surge, Dow Jumps 316 Points - GuruFocus — *GuruFocus*
-- `09-18 06:48` Nasdaq Jumps 1.7% As Stock Market Gains Post-Fed: Intel, AMD Lead Chip Rally; What To Do Now - Investor's Business Daily — *Investor's Business Daily*
-- `09-18 05:36` Stocks Rally, Shaking Off Fed’s Rate Hike - wsj.com — *wsj.com*
-- `09-18 05:18` Stocks and bonds rally after Fed hikes rates and oil prices fall - NBC News — *NBC News*
-- `09-18 05:17` US stocks rally to their best day in 6 weeks after oil prices and bond yields ease | National News | 2news.com - KTVN — *KTVN*
+- `09-18 16:33` T-Mobile Stock Drops Nearly $10 a Share Despite a Broader Market Rally - TmoNews — *TmoNews*
+- `09-18 15:23` Asian shares mostly rise, cheered by a US rally and easing oil prices - AP News — *AP News*
+- `09-18 14:15` Global Market: Nikkei gains 1% as AI, chip stocks rally; BOJ hikes rates - The Economic Times — *The Economic Times*
+- `09-18 13:34` Global Market: South Korean shares jump nearly 2% as chip stocks rally - The Economic Times — *The Economic Times*
+- `09-18 12:25` Asian shares mostly rise, cheered by a US rally and easing oil prices - Bozeman Daily Chronicle — *Bozeman Daily Chronicle*
+- `09-18 12:25` Asian shares mostly rise, cheered by a US rally and easing oil prices - Audacy — *Audacy*
+- `09-18 12:09` Market Rebounds, But What Comes Next? SpaceX, AMD Flash Buy Signals - Investor's Business Daily — *Investor's Business Daily*
+- `09-18 10:41` Stock Market Today: Gift Nifty, US Tech Stocks Rally To Oil Prices — Five Key Factors For Sensex, Nifty 50 On Sept 18 - NDTV Profit — *NDTV Profit*
