@@ -1,90 +1,88 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-19 10:24 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-21 08:25 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+4** (09/15) ⭐ 미 상원 CLARITY 클로처 표결(60표)
-- **D+2** (09/17) ⭐⭐⭐ FOMC 결과 목 새벽 3:00 KST(회의 9/15~16) — 인상 확률 46%·점도표·워시 회견
-- **D+1** (09/18) ⭐⭐⭐ BOJ 금융정책회의 결과(회의 9/17~18·결과 발표 시각 미정 — 관례 정오 전후·확정 시각 아님)·총재 회견 15:30 KST — 25bp→1.25% 89%(CNBC 설문)·정부-BOJ 균열·엔 150 관찰선. FOMC(목 새벽)→BOJ(금)→네마녀 = 3연타 [09-09 등재·09-17 시각 정정(회견 14:30→15:30)]
-- **D+1** (09/18) ⭐⭐ 미 네 마녀(선물옵션 동시만기) — 만기일 규칙: 신규 진입·승급 보수, 가격 기록·보호주문·청산 규칙은 유지 [09-17: S&P 분기 변경은 9/21 개장 전 효력으로 분리 등재]
-- **D-2** (09/21) ⭐ S&P 분기 리밸런싱 효력(미국 9/21 개장 전) — 9/18 네마녀 거래와 구분 [09-17 등재]
-- **D-5** (09/24) ⭐⭐ 추석 연휴 9/24(목)~27(일)·대체공휴일 없음 — 휴장 거래일 9/24~25 이틀·9/23(수) 마지막 거래·9/28(월) 재개·미국 2거래일 공백 [09-08 정정: 구 등재 9/24~28 휴장·9/29 재개는 오기]
-- **D-11** (09/30) ⭐⭐ 미 8월 PCE 21:30 KST(연례 개정 동반) — PPI 세부 기반 근원 0.3% 추정 검증 [09-17 정정: 마이크론은 10/1 05:30로 분리]
-- **D-12** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
+- **D+6** (09/15) ⭐ 미 상원 CLARITY 클로처 표결(60표)
+- **D+4** (09/17) ⭐⭐⭐ FOMC 결과 목 새벽 3:00 KST(회의 9/15~16) — 인상 확률 46%·점도표·워시 회견
+- **D+3** (09/18) ⭐⭐⭐ BOJ 금융정책회의 결과(회의 9/17~18·결과 발표 시각 미정 — 관례 정오 전후·확정 시각 아님)·총재 회견 15:30 KST — 25bp→1.25% 89%(CNBC 설문)·정부-BOJ 균열·엔 150 관찰선. FOMC(목 새벽)→BOJ(금)→네마녀 = 3연타 [09-09 등재·09-17 시각 정정(회견 14:30→15:30)]
+- **D+3** (09/18) ⭐⭐ 미 네 마녀(선물옵션 동시만기) — 만기일 규칙: 신규 진입·승급 보수, 가격 기록·보호주문·청산 규칙은 유지 [09-17: S&P 분기 변경은 9/21 개장 전 효력으로 분리 등재]
+- **D-DAY** (09/21) ⭐ S&P 분기 리밸런싱 효력(미국 9/21 개장 전) — 9/18 네마녀 거래와 구분 [09-17 등재]
+- **D-3** (09/24) ⭐⭐ 추석 연휴 9/24(목)~27(일)·대체공휴일 없음 — 휴장 거래일 9/24~25 이틀·9/23(수) 마지막 거래·9/28(월) 재개·미국 2거래일 공백 [09-08 정정: 구 등재 9/24~28 휴장·9/29 재개는 오기]
+- **D-9** (09/30) ⭐⭐ 미 8월 PCE 21:30 KST(연례 개정 동반) — PPI 세부 기반 근원 0.3% 추정 검증 [09-17 정정: 마이크론은 10/1 05:30로 분리]
+- **D-10** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-19 10:03` 젠슨 황에 웃고 트럼프에 울고…이란 리스크와 국장 [주간 증시해설서] - 더스쿠프 — *더스쿠프*
-- `09-19 09:53` [해외시황] 뉴욕증시, 美 금리 상승 부담에도 '혼조 마감'…나스닥 0.39%↑ - 프라임경제 — *프라임경제*
-- `09-19 09:46` '엔비디아 투자' 英 AI인프라 기업 엔스케일, 美증시 상장 신청 - koreancenter.or.kr — *koreancenter.or.kr*
-- `09-19 09:11` 뉴욕증시, 美 국채금리 상승에도 반도체주 강세 - v.daum.net — *v.daum.net*
-- `09-19 09:04` 뉴욕증시 혼조 마감…미국 국채금리 상승에도 반도체주 강세 - 연합뉴스TV — *연합뉴스TV*
-- `09-19 09:01` [ETF워치]美 의료AI·사이버보안 날아…개인은 코스피 레버리지 베팅 - v.daum.net — *v.daum.net*
-- `09-19 09:00` ‘AI속도 조절론’에도…증권가 “코스피 7500까지 간다” 긍정 평가 - v.daum.net — *v.daum.net*
-- `09-19 09:00` [ETF워치]美 의료AI·사이버보안 날아…개인은 코스피 레버리지 베팅 - 비즈워치 — *비즈워치*
+- `09-21 08:21` [0921개장체크] 美 증시, 국채금리 상승에도 반도체주 강세보이며 혼조 마감 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
+- `09-21 08:18` [AI MY 증시전망] 코스피, 반도체 강세에 상승 시도…7000선 재진입 '주목' - 뉴스핌 — *뉴스핌*
+- `09-21 08:14` [밤 사이 해외 뉴스 영상] 빚투 열풍에 결국…한국 증시, '글로벌 위험 요소' 낙인 - 한국경제 — *한국경제*
+- `09-21 08:13` 뉴욕증시, 미중 정상회담ㆍ중동 정세 주목 [뉴욕인사이트] - 이투데이 — *이투데이*
+- `09-21 08:11` [굿모닝 증시]"이번주도 박스피…오는 30일 마이크론 실적까진 지켜보자" - v.daum.net — *v.daum.net*
+- `09-21 08:09` [오늘의 투자전략] 코스피 7000선 재진입 시도⋯추석 앞두고 ‘수급 공백’ 주의 - 이투데이 — *이투데이*
+- `09-21 08:06` 사흘만 장 열리는 코스피…미중 정상회담·미 금리 ‘촉각’ - v.daum.net — *v.daum.net*
+- `09-21 07:57` [오늘의 증시]美금리 5%에도 반도체는 훈풍…코스피, 7000선 되찾을까 - 뉴시스 — *뉴시스*
 
 ## 🇰🇷 반도체·HBM
-- `09-19 10:11` SK 전문경영인 부회장 3인, SK하이닉스 전격 집결…글로벌 반도체 ‘총력전’ 벌이나 - 더퍼블릭 — *더퍼블릭*
-- `09-19 10:01` 전북 반도체 소부장 특화단지 최종 지정…전북도·정치권 '원팀' 결실 - v.daum.net — *v.daum.net*
-- `09-19 09:33` "호남 반도체, '물 확보' 법적근거 마련해야…지역간 갈등 해소도 숙제" - v.daum.net — *v.daum.net*
-- `09-19 09:30` 삼성의 이례적인 AI 투자…유클리드서 '비욘드 HBM' 찾는다 [강경주의 테크X] - 한국경제 — *한국경제*
-- `09-19 09:26` 이익률 1위 뺏긴 K-반도체, 중·미 협공에 '샌드위치' 위기 - 이코노미스트 — *이코노미스트*
-- `09-19 09:20` 한국 메모리 시장 위협하는 미국과 중국의 급부상, 삼성과 SK하이닉스의 대응은 - 공감신문 — *공감신문*
-- `09-19 09:20` AI 속도조절론에도…'계속 배우는 AI'가 메모리 반도체 판 키운다 - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-19 09:03` 반도체 ‘조연’의 반전...“후공정 장비 재평가 기대” - v.daum.net — *v.daum.net*
+- `09-21 08:21` 한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 맡아 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `09-21 08:20` 삼성전자·SK하이닉스 자사주 매입 속도전…이르면 내달 중순 종료 - sentv.co.kr — *sentv.co.kr*
+- `09-21 08:18` [AI MY 증시전망] 코스피, 반도체 강세에 상승 시도…7000선 재진입 '주목' - 뉴스핌 — *뉴스핌*
+- `09-21 08:06` 국산 AI 반도체 쓰는 기업 늘리기, 두 회사가 손잡았다 - 플래텀(Platum) — *플래텀(Platum)*
+- `09-21 08:03` “여수산단, 화학 신소재 산업 전환...광주 반도체로 돌파해야” - 광주in — *광주in*
+- `09-21 08:03` [증시키워드] 노조 내홍 겪는 삼성전자·안전법 위반 SK하이닉스…삼성전기는 7000억 수주 임박 - 이투데이 — *이투데이*
+- `09-21 08:02` [뉴욕마켓] ‘금리의 벽’ 넘은 반도체·코인 강세 계속될까 - 국민일보 — *국민일보*
+- `09-21 08:00` 반도체·배터리·자동차가 관세전쟁의 중심에 선 이유 - 한국세정신문 — *한국세정신문*
 
 ## 🇰🇷 금융주
-- `09-19 10:12` 신한금융지주, ‘2026 한국IR대상’ 대상 수상…‘밸류업 2.0’ 성과 - 더퍼블릭 — *더퍼블릭*
-- `09-19 00:00` [글로벌 K-Financer] (1) KB국민銀, 인니 금융지주 날개 달고 현지 공략 본격화 - 더구루 — *더구루*
-- `09-18 19:47` 신한금융지주, 한국IR대상서 '대상' 수상 - BBS불교방송 — *BBS불교방송*
-- `09-18 18:38` 장은수, KLPGA 투어 하나금융그룹 챔피언십 2라운드서 1위에 올라…“노보기 신기하다” - 브릿지경제 — *브릿지경제*
-- `09-18 17:58` BNK금융그룹 `생성형 AI 플랫폼 구축사업`, 삼성SDS가 잡았다 - 디지털데일리 — *디지털데일리*
-- `09-18 17:28` 신한금융지주 '한국IR대상' 수상, "지속가능한 기업가치 제고 정책 이어가겠다" - 비즈니스포스트 — *비즈니스포스트*
-- `09-18 17:25` 신한금융지주, ‘2026 한국IR대상’ 금융위원장상 대상 수상 - 퍼블릭뉴스통신 — *퍼블릭뉴스통신*
-- `09-18 16:37` “이자 오르면 실적 커진다” 금리인상 훈풍 타고 은행주 인기 껑충 - 르데스크 — *르데스크*
+- `09-21 07:56` 하나증권 “은행주, 단기 모멘텀 크지 않지만 실적 시즌 겨냥 매수 전략 유효” - kpenews.com — *kpenews.com*
+- `09-21 00:38` 우리금융지주(316140) - 매일경제 마켓 — *매일경제 마켓*
+- `09-21 00:00` ‘보안 리스크ʼ 금융지주 경영 의제 부상…‘전담 소위ʼ 전문성 확보 과제 [금융권 지배구조 점검] - 한국금융신문 — *한국금융신문*
+- `09-20 20:01` 김민선7, 하나금융그룹 챔피언십 우승…시즌 2승·통산 3승 - 전국뉴스 — *전국뉴스*
+- `09-20 18:47` 김민선, KLPGA투어 '하나금융그룹 챔피언십'시즌2승·통산3승 거둬 - SR타임스 — *SR타임스*
+- `09-20 18:29` [SNA 1컷 ] 김민선, 2026 KLPGA투어 하나금융그룹 챔피언십 우승 - 서울뉴스통신 — *서울뉴스통신*
+- `09-20 17:54` 금융권, 생산적 금융 목표 조기 달성… 대출 넘어 투자 늘린다 - 아시아투데이 — *아시아투데이*
+- `09-20 17:14` 생산적 금융 나서려해도… 규제 묶인 금융지주 속앓이 - 매일경제 마켓 — *매일경제 마켓*
 
 ## 🇰🇷 정책·거시
-- `09-18 23:03` '부동산'으로 손잡은 국힘-이준석...연대 시동? - YTN — *YTN*
-- `09-18 12:16` 2026년 제8차 정기 수요강좌 | 8·13 대책 및 대출규제 속 성공적인 정비사업 추진 전략 - 한국주택경제신문 — *한국주택경제신문*
-- `09-17 15:07` 부동산 혼선·레버리지 사태…李 대통령 지지율 '최저치' 대책은 - 이코노미스트 — *이코노미스트*
-- `09-17 14:32` 8·13 부동산대책 한 달…주민반발에 '닥공' 차질 - 매일일보 — *매일일보*
+- `09-20 17:00` 여야, 추석 밥상머리 민심 정조준…與 ‘민생 성과’ 野 ‘인사·부동산’ 공세 - 경기일보 — *경기일보*
+- `09-20 11:15` 증시 흔드는 빚투 '33조'…금융당국·업계, 특단 대책 낸다 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🌍 AI·빅테크
-- `09-19 07:33` OpenAI expects to burn $280bn by 2030 - Financial Times — *Financial Times*
-- `09-19 01:51` Macquarie Says OpenAI Signals AI Boom Still Has Legs - Yahoo Finance — *Yahoo Finance*
-- `09-19 00:11` Are Nvidia shares a screaming buy – or do they scream AI bubble? - Yahoo Finance UK — *Yahoo Finance UK*
-- `09-18 23:35` AI Watchdogs Demand Unfiltered Access and Protection From OpenAI, Anthropic - finance.biggo.com — *finance.biggo.com*
-- `09-18 23:00` Analysis: What Nvidia’s Massive Supply-Demand Gap Says About AI Mania - crn.com — *crn.com*
-- `09-18 22:52` AI Capex Boom Risks 'Massive Capital Destruction' in the US, Warns Veteran Market Strategist: 'You Could Get Some News Item That Suddenly…' - TradingView — *TradingView*
-- `09-18 19:25` AI Compute Race Shifts to Smaller and Faster: Anthropic and OpenAI Seek 20–30 MW Data Center Deals - finance.biggo.com — *finance.biggo.com*
-- `09-18 18:47` Japanese billionaire Son Masayoshi sees his AI debt grow signficantly - Billionaires.Africa — *Billionaires.Africa*
+- `09-20 22:03` Verily Health Secures Investment From NVIDIA And CU Healthcare Innovation Fund To Expand Precision Health AI Platform - Pulse 2.0 — *Pulse 2.0*
+- `09-20 19:55` Nvidia-Backed UK AI Cloud Firm Nscale Files for NYSE IPO, Targeting Valuation Up to $35 Billion - finance.biggo.com — *finance.biggo.com*
+- `09-20 17:26` Report: Chinese AI Models Generate About 10% of OpenAI and Anthropic’s Revenue - ForkLog — *ForkLog*
+- `09-20 16:00` Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - Financial Times — *Financial Times*
+- `09-20 00:50` Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron - Yahoo Finance — *Yahoo Finance*
+- `09-19 20:47` Nvidia-Backed Nscale Files for IPO, Targets US$35 Billion Valuation After Revenue Surges 1,252% - Stocks Down Under — *Stocks Down Under*
+- `09-19 13:58` OpenAI Projects $278 Billion Negative Cash Flow Through 2030 on AI Infrastructure Push - finance.biggo.com — *finance.biggo.com*
+- `09-19 08:27` OpenAI forecasts cash burn near $280 billion by 2030, FT reports - Reuters — *Reuters*
 
 ## 🌍 연준·금리
-- `09-19 08:59` Fed Reserve ‘followed markets’ by hiking rates, economist argues - Fox Business — *Fox Business*
-- `09-19 08:27` Federal Reserve raises interest rates despite Trump’s calls for cuts - TheGrio — *TheGrio*
-- `09-19 06:55` Federal Reserve raises interest rates to combat inflation - WDTN.com — *WDTN.com*
-- `09-19 06:02` What’s Next for Stocks After the Fed Rate Hike - Morningstar — *Morningstar*
-- `09-19 05:45` Kevin Warsh just revealed a huge change for the Fed. The press missed it - Fortune — *Fortune*
-- `09-19 05:30` GOP senators defend Federal Reserve’s decision - Yahoo Finance — *Yahoo Finance*
-- `09-19 05:13` Treasuries Fall as Fed Rate-Hike Outlook Dents Sentiment - Bloomberg.com — *Bloomberg.com*
-- `09-19 04:27` What to know about the Federal Reserve rate hike - kaaltv.com — *kaaltv.com*
+- `09-21 05:00` Corporate Treasurers Reverse Course as Rates Rise (WK, TOBA) - Bloomberg.com — *Bloomberg.com*
+- `09-21 01:13` Federal Reserve hikes interest rates amid inflation concerns - Fox News — *Fox News*
+- `09-21 00:39` Federal Reserve rate hike reflects new world of sticky inflation and faster growth - Mankato Free Press — *Mankato Free Press*
+- `09-20 22:45` Federal Reserve rate hike reflects new world of sticky inflation and faster growth - mcalesternews.com — *mcalesternews.com*
+- `09-20 22:45` Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News — *AP News*
+- `09-20 21:34` 'This could be something more substantial': Wall Street braces for more Fed rate hikes - Yahoo Finance — *Yahoo Finance*
+- `09-20 21:31` Federal Reserve rate hike reflects new world of sticky inflation and faster growth - ottumwacourier.com — *ottumwacourier.com*
+- `09-20 20:00` Dealers caught between inflation and affordability as Fed raises interest rate - Automotive News — *Automotive News*
 
 ## 🌍 유가·지정학
-- `09-19 09:59` Denouement to the Latest Oil Price Scare - Forex Factory — *Forex Factory*
-- `09-19 09:07` Beyond Hormuz: How Saudi Arabia’s Oil-Route Redundancy Is Being Tested – Analysis - eurasiareview.com — *eurasiareview.com*
-- `09-19 08:39` Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - AP News — *AP News*
-- `09-19 07:42` Iran claims it struck an oil tanker in the Strait of Hormuz - WPLG Local 10 — *WPLG Local 10*
-- `09-19 06:01` Oil Ends Volatile Week at $100 as Saudi Supply Fears Ease but Hormuz Risks Persist - EnergyNow.com — *EnergyNow.com*
-- `09-19 06:00` Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-19 06:00` Macron Calls for Another Emergency Oil Release as Europe Loses Supply - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-19 06:00` Space-Based Solar Power Could Reach the Grid by 2028 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-21 08:17` Bessent is sitting down with Iran’s biggest oil customer - thestreet.com — *thestreet.com*
+- `09-21 08:00` Big Oil's Production Keeps Soaring Despite Deep Spending Cuts - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-21 05:39` US military says Hormuz oil and LNG shipments hit six-month high, cite mine clearance - investingLive — *investingLive*
+- `09-21 05:39` IRAN IN CONTROL: Iran Says Strait of Hormuz Will Remain Closed Until Conditions Are Met - EnergyNow — *EnergyNow*
+- `09-21 05:07` Live - Trump weighs next move on Iran, signals major decision soon - iranintl.com — *iranintl.com*
+- `09-21 04:49` Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months - NewsNation — *NewsNation*
+- `09-21 04:00` Hormuz Crisis to Push Global Coal Demand to Record High - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-21 03:11` Iraq Says Oil Exports Reach 2.6 million bpd Despite Strait of Hormuz Challenges - Kurdistan24 — *Kurdistan24*
 
 ## 🌍 시장 전반
-- `09-19 07:53` October does not increase the risk of a stock market crash in the US — MarketWatch - UA.NEWS — *UA.NEWS*
-- `09-19 07:41` Why investors shouldn’t be spooked by fears of an October stock-market crash - MarketWatch — *MarketWatch*
-- `09-19 05:57` Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally - Investor's Business Daily — *Investor's Business Daily*
-- `09-19 05:15` Stocks Rally for Mixed Close to Volatile Week: Stock Market Today - Kiplinger — *Kiplinger*
-- `09-19 04:17` Strategy (MSTR) Stock Rallies 15.8% With Bitcoin; Gross BTC Value Is the Wrong Shortcut - TechStock² — *TechStock²*
-- `09-19 01:56` Crypto market outlook: Chainlink stands out as altcoins rally - Investing.com — *Investing.com*
-- `09-19 01:43` Crypto stocks surge as bitcoin and ethereum rally sharply By Investing.com - Investing.com India — *Investing.com India*
-- `09-19 00:49` NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3% - 24/7 Wall St. — *24/7 Wall St.*
+- `09-21 07:06` Futures: Can The Market Take Off? Top Stock Of 2026 Is A Buy - Investor's Business Daily — *Investor's Business Daily*
+- `09-21 00:49` Are global stock markets heading for a crash? - The Guardian — *The Guardian*
+- `09-21 00:45` The S&P 500 Is Approaching a Valuation Not Seen in 26 Years, and History Suggests a Crash Could Follow - The Motley Fool — *The Motley Fool*
+- `09-20 23:00` The 11 S&P 500 Sectors Are Fading Quickly. Protect Yourself Against a Stock Market Crash Now. - Barchart.com — *Barchart.com*
+- `09-20 22:06` Trump 2.0 Wall Street rally is big but not bigger than his first-term run - cnbctv18.com — *cnbctv18.com*
+- `09-20 20:35` If a Stock Market Crash Is Coming, History Says This Is the Smartest Move You Can Make. - Yahoo Finance — *Yahoo Finance*
+- `09-20 20:00` Will President Trump Crash the Stock Market? History Says This Could Come Next. - The Motley Fool — *The Motley Fool*
+- `09-20 19:20` Will President Trump Crash the Stock Market? History Says This Could Come Next. - Yahoo Finance — *Yahoo Finance*
