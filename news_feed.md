@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-21 18:55 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-21 19:13 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -14,24 +14,24 @@
 - **D-10** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
+- `09-21 19:00` [금융 한 입] 추석 전후 국내 증시, 어디에 주목해야 하나 - BBS불교방송 — *BBS불교방송*
+- `09-21 18:54` “세계 최고 상승률인데 변동성은 위기국 수준”…록펠러 회장이 본 韓증시 - 중앙일보 — *중앙일보*
+- `09-21 18:43` 삼성전자 5% 급등에 코스피 ‘7000’ 탈환…개인은 3조 순매도 - 경북매일 — *경북매일*
 - `09-21 18:34` 삼성전자 5% 급등…코스피 7,000선 탈환 - 연합뉴스TV — *연합뉴스TV*
-- `09-21 18:14` [중국증시-마감] 美中 정상회담 앞두고 상승…기술·부동산↑ - 연합인포맥스 — *연합인포맥스*
-- `09-21 18:11` [마감] 코스피, 반도체 수출 훈풍에 1.65% 상승…7000선 회복 By 알파경제 alphabiz - kr.investing.com — *kr.investing.com*
+- `09-21 18:14` [중국증시-마감] 美中 정상회담 앞두고 상승…기술·부동산↑ - news.einfomax.co.kr — *news.einfomax.co.kr*
+- `09-21 18:11` [마감] 코스피, 반도체 수출 훈풍에 1.65% 상승…7000선 회복 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
 - `09-21 18:07` 월가 자산운용사 “코스피 극심한 변동성, 한국 국가브랜드 훼손” 일침 - 매일경제 마켓 — *매일경제 마켓*
-- `09-21 17:31` 미·중은 악수하고, 코스피는 칠천이고 [9/21 G프터눈]｜Global Money Club - 중앙일보 — *중앙일보*
-- `09-21 17:30` 코스피, 반도체·유가 안정 힘입어 7000선 회복…삼성전자 5% 급등 - 더나은미래 — *더나은미래*
-- `09-21 17:26` [오늘의증시] 코스피, 삼성전자 5% 급등에 7000선 탈환…기관 1조5천억원 순매수 - 경인방송 뉴스 — *경인방송 뉴스*
-- `09-21 17:24` 역대급 반도체 수출에 코스피 7000선 회복…삼성전자 5% 급등 - v.daum.net — *v.daum.net*
+- `09-21 17:33` 외국인, 코스피 팔고 선물 샀다…추석 연휴 앞두고 ‘엇갈린 베팅’ - 굿모닝경제 — *굿모닝경제*
 
 ## 🇰🇷 반도체·HBM
+- `09-21 18:53` 한국 반도체 수출, 9월 사상 최고치 경신 - 보도 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-21 18:21` 9월 중순 수출 714억달러 '역대 최대'…반도체가 이끌었다 - v.daum.net — *v.daum.net*
-- `09-21 18:11` [마감] 코스피, 반도체 수출 훈풍에 1.65% 상승…7000선 회복 By 알파경제 alphabiz - kr.investing.com — *kr.investing.com*
+- `09-21 18:11` [마감] 코스피, 반도체 수출 훈풍에 1.65% 상승…7000선 회복 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
 - `09-21 18:01` 미중 정상회담 D-3...'AI증류' 해법에 반도체·소부장 활짝 - v.daum.net — *v.daum.net*
 - `09-21 17:55` 'AI·반도체 훈풍' 대전·세종·충남 8월수출 248억 달러… 1년새 3배 가까이 늘어 - v.daum.net — *v.daum.net*
-- `09-21 17:53` 글로벌테크놀로지, 차량용 반도체로 외연 확장...전장사향 제품 양산 - 디일렉 — *디일렉*
+- `09-21 17:53` 글로벌테크놀로지, 차량용 반도체로 외연 확장...전장사향 제품 양산 - thelec.kr — *thelec.kr*
 - `09-21 17:52` 내외부적으로 '시끌시끌' SK하이닉스의 '수상한 움직임' - 이코노미스트 — *이코노미스트*
 - `09-21 17:50` 삼전닉스 HBM 집중한 사이 '빈틈' 파고든 中CXMT의 물량공세 - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-21 17:43` 한경협 "반도체 기반시설 병목 현상" 제도 개선 건의 - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 금융주
 - `09-21 18:50` 신한금융, 자회사 CEO 승계 착수…은행 임추위 후보 추천권 확대 - 아시아투데이 — *아시아투데이*
@@ -50,41 +50,41 @@
 - `09-20 11:15` 증시 흔드는 빚투 '33조'…금융당국·업계, 특단 대책 낸다 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🌍 AI·빅테크
+- `09-21 19:00` Nvidia And AI Vendor Financing: Is This The Next Dot-Com Bubble? (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
 - `09-21 16:01` SoftBank Seeks More Than $11 Bn in Bonds to Fund OpenAI Investment - analyticsindiamag.com — *analyticsindiamag.com*
-- `09-21 15:56` SoftBank launches over $11 billion bond sale to fund OpenAI investment - business-standard.com — *business-standard.com*
+- `09-21 15:56` SoftBank launches over $11 billion bond sale to fund OpenAI investment - Business Standard — *Business Standard*
 - `09-21 14:40` OpenAI Projects $278 Billion Cash Burn Through 2030 as AI Infrastructure Costs Soar - Tekedia — *Tekedia*
 - `09-21 12:51` SoftBank Plans to Issue Over $11 Billion in Bonds to Boost OpenAI Bet Amid Rising AI Safety Risks - TradingKey — *TradingKey*
-- `09-21 12:46` SoftBank Launches $11 Billion Bond Sale to Fund OpenAI Investment - asiabusinessoutlook.com — *asiabusinessoutlook.com*
+- `09-21 12:46` SoftBank Launches $11 Billion Bond Sale to Fund OpenAI Investment - Asia Business Outlook — *Asia Business Outlook*
 - `09-21 11:55` SoftBank Launches Over $11 Billion Bond Sale to Fund OpenAI Stake - finance.biggo.com — *finance.biggo.com*
 - `09-20 17:26` Report: Chinese AI Models Generate About 10% of OpenAI and Anthropic’s Revenue - ForkLog — *ForkLog*
-- `09-20 16:00` Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - Financial Times — *Financial Times*
 
 ## 🌍 연준·금리
+- `09-21 18:58` NYSE traders after the Federal Reserve raised interest rates on Wednesday, in New York City - The Daily News | Texas' Oldest Newspaper — *The Daily News | Texas' Oldest Newspaper*
 - `09-21 18:42` Wall St futures rise as AI stocks gain, oil prices slide - Reuters — *Reuters*
-- `09-21 18:23` What’s Next for Stocks After the US Fed Rate Hike - Morningstar — *Morningstar*
+- `09-21 18:23` What’s Next for Stocks After the US Fed Rate Hike - global.morningstar.com — *global.morningstar.com*
 - `09-21 18:15` The Fed Just Hiked Rates for the First Time Since 2023. 3 AI Stocks That Could Feel It Most - The Motley Fool — *The Motley Fool*
 - `09-21 17:30` President Donald Trump Just Admonished the Fed for "Doing the Wrong Thing" on Interest Rates, but Ignores the 2 Biggest Inflation Catalysts - The Motley Fool — *The Motley Fool*
 - `09-21 17:29` The Federal Reserve Is Fighting the Wrong War On Inflation - RealClearMarkets — *RealClearMarkets*
 - `09-21 16:11` Why Did AI Stocks Rally After Fed Rate Hike? NVDA, MU, and AMD Lead Chip Sector - TradingKey — *TradingKey*
 - `09-21 15:04` Hawkish signals from the Federal Reserve continue to gain traction, pushing the U.S. Dollar Index back above 100; attention now turns to expectations for further rate hikes. - Moomoo — *Moomoo*
-- `09-21 14:28` Why Goldman Sachs Still Prefers AI Infrastructure to 5% Treasuries - Business Insider — *Business Insider*
 
 ## 🌍 유가·지정학
+- `09-21 19:03` Iran war: Oil market on alert as Middle East conflict intensifies - engine.online — *engine.online*
 - `09-21 18:50` 3 US Industrial Stocks That Could Benefit If Lower Oil Prices Hold - simplywall.st — *simplywall.st*
-- `09-21 18:33` Oil Prices Fall for Fourth Day as Supply Concerns Ease - wsj.com — *wsj.com*
+- `09-21 18:33` Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ — *WSJ*
 - `09-21 18:30` Pakistan Secures Second Qatari LNG Cargo Through Hormuz After Iran Deal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-21 18:29` Economic crisis puts Iran’s coal miners at greater risk - Iran International — *Iran International*
 - `09-21 18:22` Hormuz Ship Traffic Slumps as Middle East Conflict Drags On - Marine News Magazine — *Marine News Magazine*
-- `09-21 18:17` Oil prices dip as markets eye Iran diplomacy, Saudi exports - news.az — *news.az*
-- `09-21 18:09` Shipping Through Strait of Hormuz Plunges as Middle East Oil Exports Continue - mezha.net — *mezha.net*
-- `09-21 18:03` Oil, GBP/USD Forecast: Two trades to watch - FOREX.com — *FOREX.com*
-- `09-21 18:03` Oil Prices Fall to 11-Day Low on US-Iran Diplomacy, Saudi Exports - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `09-21 18:17` Oil prices dip as markets eye Iran diplomacy, Saudi exports - Latest news from Azerbaijan — *Latest news from Azerbaijan*
+- `09-21 18:09` Shipping Through Strait of Hormuz Plunges as Middle East Oil Exports Continue - Межа. Новини України. — *Межа. Новини України.*
 
 ## 🌍 시장 전반
-- `09-21 16:14` European stock market open: Stocks rally as oil retreats and US futures climb - investingLive — *investingLive*
+- `09-21 16:14` European stock market open: Stocks rally as oil retreats and US futures climb - investinglive.com — *investinglive.com*
 - `09-21 16:13` Semiconductor rally lifts KOSPI above 7000 as institutions buy in Korea - CHOSUNBIZ - Chosunbiz — *Chosunbiz*
 - `09-21 14:23` RIL selloff wipes off Rs 4 lakh crore from market value as shares drop 21% in 2026 so far. Should you buy - The Economic Times — *The Economic Times*
 - `09-21 12:06` Futures Rise: Can Market Take Off? 2026's Top Stocks Are Buys - Investor's Business Daily — *Investor's Business Daily*
 - `09-21 09:12` US tech rally lifts South Korea stocks as KOSPI gains over 1% - CHOSUNBIZ - Chosunbiz — *Chosunbiz*
 - `09-21 08:15` Realty Income or Agree Realty During a REIT Sell-Off? - The Motley Fool — *The Motley Fool*
+- `09-21 00:45` The S&P 500 Is Approaching a Valuation Not Seen in 26 Years, and History Suggests a Crash Could Follow - The Motley Fool — *The Motley Fool*
 - `09-20 23:00` The 11 S&P 500 Sectors Are Fading Quickly. Protect Yourself Against a Stock Market Crash Now. - Barchart.com — *Barchart.com*
-- `09-20 22:06` Trump 2.0 Wall Street rally is big but not bigger than his first-term run - CNBC TV18 — *CNBC TV18*
