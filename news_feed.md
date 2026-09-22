@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-22 20:32 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-22 21:01 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -14,6 +14,7 @@
 - **D-9** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
+- `09-22 20:55` AI 훈풍에도 뒷심 부족…코스피 7,000선은 방어 - 연합뉴스TV — *연합뉴스TV*
 - `09-22 19:50` [베트남 증시] "美와 무역 합의 근접" 발언에 투심 회복, 상승...은행株NVB 상한가, SSB는 하한가 - 뉴스핌 — *뉴스핌*
 - `09-22 19:35` 바이두, 홍콩증시서 자사주 56만주 매입··평균 88.82홍콩달러 - 매일경제 마켓 — *매일경제 마켓*
 - `09-22 19:21` “5%대 금리에 증시 무너질까?”…60년 데이터 뜯어보니 의외의 결과 [김태홍의 투자 포트폴리오] - 매일경제 마켓 — *매일경제 마켓*
@@ -21,9 +22,9 @@
 - `09-22 19:10` 코스피 2%대 상승분 반납...7,000선 가까스로 지켜 - YTN — *YTN*
 - `09-22 18:29` [오늘의증시] 코스피 7000선 턱걸이…AI 훈풍에도 외교 불확실성에 상승폭 반납 - 경인방송 뉴스 — *경인방송 뉴스*
 - `09-22 18:16` '전강후약' 코스피 7000선 사수…환율 1350원대 급락 - v.daum.net — *v.daum.net*
-- `09-22 18:02` [마감시황] 코스피, 美 AI 훈풍에 7170선 찍고 ‘털썩’…상승폭 반납하며 7017선 턱걸이 - 한양경제 — *한양경제*
 
 ## 🇰🇷 반도체·HBM
+- `09-22 20:55` 화성 기업들, 반도체부터 친환경 소재까지 ‘사업 확장’ - 서울경제TV — *서울경제TV*
 - `09-22 19:12` "수억대 연봉 날아갔다"…SK하이닉스 신입 4명 결국 짐 쌌다 - 한국경제 — *한국경제*
 - `09-22 19:07` "국가 반도체 연구소 대전에 구축해야 메가프로젝트 성공" - 굿모닝충청 — *굿모닝충청*
 - `09-22 18:48` [DM왔어요] "술 때문에 SK하이닉스를"…신입사원 해고, 무슨 일? 外 - 연합뉴스TV — *연합뉴스TV*
@@ -31,7 +32,6 @@
 - `09-22 18:28` SK에코플랜트, 반도체·AI 실무형 인재 키운다 - 천지일보 — *천지일보*
 - `09-22 18:17` 하루만에 25% 상승...'메타' 타고 날아오른 반도체 소부장株 - 한국경제 — *한국경제*
 - `09-22 18:12` 소재에서 로봇용 반도체까지, 전북의 새 산업지도 - 전북도민일보 — *전북도민일보*
-- `09-22 18:08` [단독] SK하이닉스, 美 인디애나 HBM 공장 ‘인허가 리스크’ 비상 [AI 투자 골든타임의 덫] - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
 - `09-22 18:07` 은행장 추천해도 반영 과정 ‘깜깜이’…은행 임추위 실효성 논란 이유 - 일요신문 — *일요신문*
@@ -60,35 +60,35 @@
 - `09-22 09:40` SoftBank launches $11B bond sale to fund OpenAI investment - TNGlobal — *TNGlobal*
 - `09-22 06:43` SoftBank's $11B Junk Bond Bet Deepens Its OpenAI Debt Risk - Yellow.com — *Yellow.com*
 - `09-22 04:21` SoftBank Borrows Over $11B in Bonds for OpenAI Stake [2026] - tech-insider.org — *tech-insider.org*
-- `09-22 03:00` Why Higher Rates Are Becoming NVIDIA’s Biggest Threat - 24/7 Wall St. — *24/7 Wall St.*
+- `09-22 03:14` Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool — *The Motley Fool*
 - `09-22 02:24` OpenAI joins call for US-led global AI standards - Financial Times — *Financial Times*
 
 ## 🌍 연준·금리
-- `09-22 20:30` The dying days of the Federal Reserve’s dot plot - Financial Times — *Financial Times*
 - `09-22 19:30` What does the first Fed rate increase in three years mean for Oklahoma? - The Oklahoman — *The Oklahoman*
 - `09-22 19:08` What’s Next for US Stocks After the Fed Rate Hike - Morningstar — *Morningstar*
 - `09-22 18:45` Gold Retreats as Dollar Gains and Investors Reassess Federal Reserve Rate Path - Yahoo Finance UK — *Yahoo Finance UK*
 - `09-22 18:28` Gold Edges Higher as Lower Oil Prices Damp Chance of Rate Hikes - Bloomberg.com — *Bloomberg.com*
 - `09-22 17:32` Federal Reserve: Hiking path constrained by supply shocks – BNY - FXStreet — *FXStreet*
-- `09-22 17:11` 2 Words From Fed Chair Kevin Warsh Just Changed the Game for Wall Street - The Motley Fool — *The Motley Fool*
+- `09-22 17:09` 2 Words From Fed Chair Kevin Warsh Just Changed the Game for Wall Street - The Motley Fool — *The Motley Fool*
 - `09-22 15:00` COMMENTARY: Losing the plot? Warsh's Fed more 'touchy-feely' than data-driven - Reuters — *Reuters*
+- `09-22 13:00` Rate rises should not be ‘the only game in town’ - Financial Times — *Financial Times*
 
 ## 🌍 유가·지정학
+- `09-22 20:57` Oil prices tumble to 2-week low on hopes for critical pipeline reopening and Iran diplomacy - NBC News — *NBC News*
+- `09-22 20:46` Oil falls below $100 on Hormuz reopening hopes and Saudi pipeline restarting - thenationalnews.com — *thenationalnews.com*
+- `09-22 20:31` 'We simply don't know': JPMorgan waves the white flag forecasting where oil prices will go due to Iran War - moneywise.com — *moneywise.com*
+- `09-22 20:31` Oil Tumbles to Two-Week Low as Saudi Pipeline Restarts and Iran Signals Possible Hormuz Reopening - EnergyNow — *EnergyNow*
 - `09-22 20:19` Oil price falls below $98 as Saudi Arabia signals reopening of East-West pipeline - Financial Times — *Financial Times*
 - `09-22 20:18` Oil Price Slides on Saudi Pipeline Plans, Hormuz Diplomacy - Bloomberg.com — *Bloomberg.com*
 - `09-22 19:59` Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite - CoinDesk — *CoinDesk*
-- `09-22 19:44` Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks - FXStreet — *FXStreet*
-- `09-22 19:43` Oil News: Hormuz Diplomacy Sinks Crude Futures as Diesel Stays Tight - FXEmpire — *FXEmpire*
-- `09-22 19:30` Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-22 19:20` Oil futures: Crude extends losses on Iran offer to open Hormuz - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
-- `09-22 19:05` Oil Prices Drop on Report Iran Has Offered to Open Hormuz in 7 Days - Barron's — *Barron's*
+- `09-22 19:57` Oil Plunges on Iran Hormuz Offer! Gold at $4368, Will Silver Hold $66? | Metals Minute Phil Streible - Barchart.com — *Barchart.com*
 
 ## 🌍 시장 전반
+- `09-22 20:40` US stock market today: Futures steady after tech rally; oil prices fall on potential US-Iran talks - CNBC TV18 — *CNBC TV18*
 - `09-22 20:19` AMD and Other Chip Stocks Fall as Cathie Wood Ignores This Market Worry - Barron's — *Barron's*
-- `09-22 19:39` AMD Crosses $1 Trillion in Market Value for the First Time as AI Chip Stocks Rally - Technology Org — *Technology Org*
-- `09-22 19:00` Global benchmarks mostly rise after Wall Street's rally - lancasteronline.com — *lancasteronline.com*
+- `09-22 20:11` MSTR, COIN, CRCL Stocks Slip Despite Bitcoin Rally Above $86K, Crypto Liquidations Cross $800M - Yahoo Finance — *Yahoo Finance*
+- `09-22 19:39` AMD Crosses $1 Trillion in Market Value for the First Time as AI Chip Stocks Rally - technology.org — *technology.org*
+- `09-22 19:00` Global benchmarks mostly rise after Wall Street's rally - LancasterOnline — *LancasterOnline*
 - `09-22 18:36` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History. - Yahoo Finance — *Yahoo Finance*
-- `09-22 18:33` Asian benchmarks mostly rise after Wall Street's rally - lancasteronline.com — *lancasteronline.com*
+- `09-22 18:33` Asian benchmarks mostly rise after Wall Street's rally - LancasterOnline — *LancasterOnline*
 - `09-22 18:27` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History. - The Motley Fool — *The Motley Fool*
-- `09-22 18:22` Premarket: Wall St. futures pause after AI rally, focus on Mideast tensions - The Globe and Mail — *The Globe and Mail*
-- `09-22 17:32` Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Yahoo Finance — *Yahoo Finance*
