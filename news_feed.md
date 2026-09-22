@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-22 10:44 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-22 17:28 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -14,77 +14,81 @@
 - **D-9** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-22 10:31` 나스닥 최고치에 '7100 뚫은 코스피'…집나간 외국인 돌아올까 - core.asiae.co.kr — *core.asiae.co.kr*
-- `09-22 10:26` 거래소, 한국 증시 맞춤 산업분류 도입…반도체·배터리 따로 묶는다 - v.daum.net — *v.daum.net*
-- `09-22 10:22` [증시타임] AI 랠리 재점화…코스피 7천 탈환 - v.daum.net — *v.daum.net*
-- `09-22 10:19` 금리 부담 속 엇갈린 해외 증시…지수보다 업종별 흐름 주목 - 아시아경제 — *아시아경제*
-- `09-22 10:15` 코스피, 2%대 급등하며 7160선 돌파…美 반도체 랠리 효과 - 서울경제TV — *서울경제TV*
-- `09-22 10:15` 코스피, 미 증시 훈풍 힘입어 장 초반 2%대 오른 7,100대 - v.daum.net — *v.daum.net*
-- `09-22 10:09` 코스피, 기관·외국인 순매수에 장중 강세 - v.daum.net — *v.daum.net*
-- `09-22 10:04` 美 반도체주 강세 여파에 코스피 장중 7170선…외국인·기관 '쌍끌이' - hidomin.com — *hidomin.com*
+- `09-22 17:20` [마감] 코스피, 2.2% 급등 출발 뒤 상승분 반납…7000선 턱걸이 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `09-22 17:14` ‘뮤즈’가 깨운 AI 부품주…코스피 주춤해도 PCB는 질주 - 한국경제 — *한국경제*
+- `09-22 17:13` [0922마감체크] 코스피, AI 훈풍에도 상승폭 반납하며 7000선 턱걸이 - 인포스탁데일리 — *인포스탁데일리*
+- `09-22 16:58` [투자 노하우] 나스닥 사상 최고치 경신…뉴욕증시 일제히 상승 - v.daum.net — *v.daum.net*
+- `09-22 16:57` 코스피, 장중 7,170선 돌파 후 상승폭 축소…‘7천피’ 사수 - 매일경제 마켓 — *매일경제 마켓*
+- `09-22 16:54` '용두사미' 코스피 7,000선 턱걸이…개인 1조 6천억 팔아 - KBC광주방송 — *KBC광주방송*
+- `09-22 16:43` [뉴욕증시 전략] 메타 AI 에이전트 흥행…나스닥 사상 최고치 - v.daum.net — *v.daum.net*
+- `09-22 16:41` 美 훈풍에도 개인 1.6조 팔자…코스피, 강보합으로 ‘칠천피’ 사수 [투자360] - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 반도체·HBM
-- `09-22 10:39` HBM 쏠림이 낳은 기회…中 CXMT, D램 점유율 10% 첫 돌파 - nbn 시사경제 — *nbn 시사경제*
-- `09-22 10:38` [김대호 진단] 뉴욕증시 메타 반도체 돌풍… 뮤즈(Muse)'가 대체 뭐길래? - 글로벌이코노믹 — *글로벌이코노믹*
-- `09-22 10:36` "이재용·최태원 불러야"…'호남 반도체' 국감 증인 놓고 여야 공방 - 아시아경제 — *아시아경제*
-- `09-22 10:35` 한국거래소, 자체 산업분류 도입…반도체·배터리 한눈에 본다 - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-22 10:35` 제이앤티씨, 경상북도·김천시와 3470억원 규모 AI 반도체 유리기판 투자협약 - 파이낸스스코프 — *파이낸스스코프*
-- `09-22 10:32` KH바텍, 로봇·AI데이터센터·반도체 핵심 부품으로 사업 영역 확대 - 로봇신문 — *로봇신문*
-- `09-22 10:30` AI·반도체가 다시 불러낸 원전…3개월 국민 공론화 - v.daum.net — *v.daum.net*
-- `09-22 10:30` 안성 조합장들 “SK하이닉스 오폐수 직방류 상생협약 파기하라” - v.daum.net — *v.daum.net*
+- `09-22 17:21` [크랩] “삼성·하닉 콕 집어 ‘공장 지어라’”…거세지는 미 반도체 규제 근황 - KBS 뉴스 — *KBS 뉴스*
+- `09-22 17:17` "세상에서 가장 비싼 술"…SK하이닉스 신입 4명, 연수 중 음주했다가 해고 - 매일신문 — *매일신문*
+- `09-22 17:01` SK하이닉스, 잇단 해외 팹 투자설…곽노정 "신규 거점 준비 중" - v.daum.net — *v.daum.net*
+- `09-22 17:01` 코스닥에 공매도 과열 지정 85% 집중…'반도체·바이오' 몰려 - 뉴스핌 — *뉴스핌*
+- `09-22 16:57` [호남반도체] K반도체의 꿈, 호남으로 향하다 - 주주경제신문 — *주주경제신문*
+- `09-22 16:56` 대전시, '국가 반도체 연구소 대전 구축' 국회 토론회 개최 - 뉴스핌 — *뉴스핌*
+- `09-22 16:56` SK에코플랜트, 반도체·AI 핵심 인재 양성 박차 - 이코노미스트 — *이코노미스트*
+- `09-22 16:54` [ETF 시황] 美 반도체주 급등에 CPU ETF '강세'…AI 반도체도 상승 - 뉴스핌 — *뉴스핌*
 
 ## 🇰🇷 금융주
-- `09-22 10:35` BNK금융그룹, 부산·경남은행 하반기 신입행원 공개채용 실시 - fetv.co.kr — *fetv.co.kr*
-- `09-22 10:23` 윤종필 우리금융지주 과장 “NHN두레이 도입 후 금융권 AI 접근성 완전히 달라졌다” - 동아일보 — *동아일보*
-- `09-22 10:13` 日 증시 시총 '톱4' 혼전…AI·은행주, 도요타 맹추격 - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
-- `09-22 10:06` 하나은행, 픽셀소프트웨어와 맞손…파크골프 활성화 나선다 - 이지경제 — *이지경제*
-- `09-22 10:01` 하나금융 '청라 시대' 열린다 10개 계열사서 2200명 이동 - 중소기업신문 — *중소기업신문*
-- `09-22 09:52` [세계여자골프랭킹]1.코다, 2.티띠꾼, 3.유해란, 4.김효주, 15.김민솔↓, 30.서교림, 61.장은수↑, 62.김민선7↑, 이새희 172위 - 골프경제신문 — *골프경제신문*
-- `09-22 09:48` 우리은행, 백범 김구 탄생 150주년 기념 ‘투게더 걷기’ 진행 - 이지경제 — *이지경제*
-- `09-22 09:44` 하나금융그룹 우승자 김민선7, 세계랭킹 62위로 껑충...유해란, 랭킹 3위 - 글로벌이코노믹 — *글로벌이코노믹*
+- `09-22 17:08` 은행 임추위, 검증 넘어 후보군 추천까지…금융지주 승계 '손질' - 뉴스저널리즘 — *뉴스저널리즘*
+- `09-22 17:05` [금융 Pick] 신한금융, 12개 자회사 CEO 승계절차 돌입…KB금융·우리금융은 - 라이센스뉴스 — *라이센스뉴스*
+- `09-22 17:01` 잇단 금융사고에 가계대출·ELS까지…4대 금융지주 회장 국감장 서나 - 브릿지경제 — *브릿지경제*
+- `09-22 16:30` 5대 금융 회장 국감 증인 신청…내달 방콕 일정 - 자본시장뉴스 — *자본시장뉴스*
+- `09-22 16:18` 한국금융지주 주가 900원 상승 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-22 16:18` 메리츠금융지주 주가 1,600원 하락 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-22 16:14` 하나금융, 인천 청라 시대 개막…“단순 이전 아닌 조직문화 혁신” [현장, 그곳&] - v.daum.net — *v.daum.net*
+- `09-22 16:13` 우리금융지주 주가 650원 하락후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
 
 ## 🇰🇷 정책·거시
-- `09-21 13:28` 임이자 "정부, 부동산 대책에서 손 떼라" - gukjenews.com — *gukjenews.com*
-- `09-21 09:58` 임이자 "李정부, 부동산 대책 손 떼라…여야 정책위서 해법 마련" - m-i.kr — *m-i.kr*
-- `09-20 17:00` 여야, 추석 밥상머리 민심 정조준…與 ‘민생 성과’ 野 ‘인사·부동산’ 공세 - kyeonggi.com — *kyeonggi.com*
-- `09-20 11:15` 증시 흔드는 빚투 '33조'…금융당국·업계, 특단 대책 낸다 - 머니투데이 - 머니투데이 — *머니투데이*
+- `09-22 16:45` 서울 아파트값 상승 기대 여전...다주택자 10명 중 9명 집 안판다 - v.daum.net — *v.daum.net*
+- `09-22 16:30` 한은, 8·3 대책 한계 짚었다…"집값 뛰면 다주택자 안 판다" - 한국일보 — *한국일보*
+- `09-22 14:44` “부동산 대책 부족” vs “소통 의지 확인”… 여·야가 맞붙은 국정 평가와 인천시 민생 과제 [굿모닝 인천-전지적인천시점] - 경인방송 뉴스 — *경인방송 뉴스*
+- `09-22 14:04` 경기 일부 중·저가 집값 상승세…주택관련대출 다시 늘어나나 - 기호일보 — *기호일보*
+- `09-22 13:14` "지금 팔면 손해 아닌가요"…다주택자 버티는 이유 있었다 - 한국경제 — *한국경제*
+- `09-22 12:35` '서울 아파트 불패' 기대감에⋯다주택자 10명 중 9명 집 안판다 [금안보고서] - 이투데이 — *이투데이*
+- `09-22 11:55` "기다리면 집값은 우상향"…다주택자, 양도세 깎아줘도 집 안 판다 - 한국부동산뉴스 — *한국부동산뉴스*
+- `09-22 11:42` "서울 집값 8% 오른다" 기대 땐…다주택자 매도 유인 8.9%뿐 - 한국경제 — *한국경제*
 
 ## 🌍 AI·빅테크
 - `09-22 10:00` SoftBank Plans Record $10 Billion Junk Bond Sale to Fund OpenAI Bet - Seoul Economic Daily — *Seoul Economic Daily*
-- `09-22 09:40` SoftBank launches $11B bond sale for OpenAI investment - TNGlobal — *TNGlobal*
-- `09-22 06:43` SoftBank's $11B Junk Bond Bet Deepens Its OpenAI Debt Risk - Yellow.com — *Yellow.com*
-- `09-22 06:27` Nvidia SB Energy investment hits $3 billion ahead of $50 billion IPO - cryptonews.net — *cryptonews.net*
+- `09-22 09:40` SoftBank launches $11B bond sale to fund OpenAI investment - TNGlobal — *TNGlobal*
+- `09-22 06:43` SoftBank's $11B Junk Bond Bet Deepens Its OpenAI Debt Risk - yellow.com — *yellow.com*
+- `09-22 05:42` Capex to Consume Nearly All Hyperscaler Operating Cash Flow in 2026 - Broadband Breakfast — *Broadband Breakfast*
 - `09-22 04:21` SoftBank Borrows Over $11B in Bonds for OpenAI Stake [2026] - tech-insider.org — *tech-insider.org*
 - `09-22 03:00` Why Higher Rates Are Becoming NVIDIA’s Biggest Threat - 24/7 Wall St. — *24/7 Wall St.*
-- `09-22 02:34` Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - Yahoo Finance — *Yahoo Finance*
 - `09-22 02:24` OpenAI joins call for US-led global AI standards - Financial Times — *Financial Times*
+- `09-21 23:52` Nvidia, Meta Have $300 Billion AI Problem - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `09-22 10:17` Yen squeezed as hawkish turn grips central banks - The Mighty 790 KFGO — *The Mighty 790 KFGO*
+- `09-22 15:35` Despite the U.S. Federal Reserve's interest rate hike last week, the local stock market recovered to.. - mk.co.kr — *mk.co.kr*
+- `09-22 15:00` COMMENTARY: Losing the plot? Warsh's Fed more 'touchy-feely' than data-driven - Reuters — *Reuters*
+- `09-22 13:00` Rate rises should not be ‘the only game in town’ - Financial Times — *Financial Times*
+- `09-22 10:54` Asia-Pacific feels heat of Fed rate hike - China Daily — *China Daily*
+- `09-22 10:53` Federal Reserve official says inflation persistence led her to support interest rate hike - niagara-gazette.com — *niagara-gazette.com*
+- `09-22 10:34` Is the stock market at risk of derailing? With the Federal Reserve, Bank of Japan, and European Central Bank tightening policy in sync, Deutsche Bank warns that the global wave of interest rate hikes could exceed expectations. - Moomoo — *Moomoo*
 - `09-22 09:45` Money Matters: Federal Reserve rate hike impact - WDIO.com — *WDIO.com*
-- `09-22 08:12` Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters — *Reuters*
-- `09-22 06:57` Federal Reserve official says inflation persistence led her to support interest rate hike - Ottumwa Courier — *Ottumwa Courier*
-- `09-22 06:57` Federal Reserve official says inflation persistence led her to support interest rate hike - Oskaloosa Herald — *Oskaloosa Herald*
-- `09-22 06:57` Federal Reserve official says inflation persistence led her to support interest rate hike - Weatherford Democrat — *Weatherford Democrat*
-- `09-22 06:57` Federal Reserve official says inflation persistence led her to support interest rate hike - AP News — *AP News*
-- `09-22 06:23` Boston Fed president says Iran war pushed her toward supporting rate hike - The Boston Globe — *The Boston Globe*
+- `09-22 06:57` Federal Reserve official says inflation persistence led her to support interest rate hike | National News | 2news.com - ktvn.com — *ktvn.com*
 
 ## 🌍 유가·지정학
-- `09-22 09:46` OIL PRICE WATCH as of Sept. 22, 2026 - Inquirer.net — *Inquirer.net*
-- `09-22 09:21` North Dakota oil production and tax revenue keeps rising as US-Iran war drags on - InForum — *InForum*
-- `09-22 09:00` Qatar's LNG Loss Revives Projects From Argentina to Timor-Leste - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-22 08:58` Diplomacy-Hungry Traders Cause Oil To Drop, Despite Ongoing Iran-Houthi Hostilities - Ship & Bunker — *Ship & Bunker*
-- `09-22 08:00` New U.S. Sanctions Law Threatens India's Huge Russian Oil Trade - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-22 07:08` Brent falls to $100 as Strait of Hormuz oil flows increase - World Oil — *World Oil*
-- `09-22 07:04` Oil Steadies After Four-Day Drop as Traders Look to Hormuz Flows - Bloomberg.com — *Bloomberg.com*
-- `09-22 07:00` Global Refinery Crunch Pushes Diesel Prices to New Records - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-22 17:00` Soaring Oil and Gas Prices Push Europe's Inflation Fight Into 2027 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-22 16:36` Oil prices climb ahead of potential US-Iran talks - Arab News — *Arab News*
+- `09-22 16:36` Watch Saudi Boosts Hormuz Oil Exports; AI Trade Roars Back, $12B Maldives Property Deal - Bloomberg.com — *Bloomberg.com*
+- `09-22 16:18` Oil Prices Rise as Hormuz Shipping Risks Persist - WSJ — *WSJ*
+- `09-22 15:52` Macron presses Trump on Hormuz and Ukraine as oil prices surge - RFI — *RFI*
+- `09-22 15:48` Oil Price Forecast: WTI and Brent Rebound Despite U.S.-Iran Talk Hopes - FXEmpire — *FXEmpire*
+- `09-22 15:45` U.S. Threatens to Ground Iranian Airlines Worldwide - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-22 15:36` AI Sentiment Buoys Asian Stocks; Oil Prices Gain as Hopes Fade for U.S.-Iran Talks -- Update - marketscreener.com — *marketscreener.com*
 
 ## 🌍 시장 전반
-- `09-22 10:17` Asian Stock Markets Today: Nikkei, KOSPI Rise As AI Rally Lifts Wall Street - NDTV Profit — *NDTV Profit*
-- `09-22 09:59` Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers - Investor's Business Daily — *Investor's Business Daily*
-- `09-22 09:57` U.S. stock futures upbeat after AI rally, falling oil boost Wall St - Investing.com Canada — *Investing.com Canada*
-- `09-22 09:08` S&P 500 Highs Mask 60% Bear Market - 조선일보 — *조선일보*
-- `09-22 08:12` Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters — *Reuters*
-- `09-22 07:42` AMD reaches a $1 trillion market cap as chip stocks drive rally - Semafor — *Semafor*
-- `09-22 07:36` Market Is Primed for a ‘Face Ripper' Rally Thanks to Four Ingredients Says Tom Lee - Yahoo Finance — *Yahoo Finance*
-- `09-22 07:18` Asian Stocks to Gain on Tech Optimism, Oil Falls: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `09-22 17:12` Stock futures edge lower after Wall Street's tech-led rally (SPX:) - Seeking Alpha — *Seeking Alpha*
+- `09-22 16:52` US stock market rally explained: Why did Nasdaq climb 2% to close at a fresh record high? - The Economic Times — *The Economic Times*
+- `09-22 16:46` VQS stock remains tied to a 2026 market rally - AD HOC NEWS — *AD HOC NEWS*
+- `09-22 16:19` KOSPI loses early gains as US tech rally fails to lift market - The Korea Times — *The Korea Times*
+- `09-22 16:03` Wall Street rally nears record high - The Arkansas Democrat-Gazette — *The Arkansas Democrat-Gazette*
+- `09-22 15:56` Stocks rally as oil prices fall, bond market pressure eases - PressReader — *PressReader*
+- `09-22 15:51` U.S. stock futures steady after AI rally boosts Wall St; China summit awaited - Investing.com — *Investing.com*
+- `09-22 14:22` Stock markets rise in early trade amid rally in global peers, easing crude oil prices - The Hindu — *The Hindu*
