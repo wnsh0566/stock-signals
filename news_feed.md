@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-22 19:18 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-22 20:32 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -14,16 +14,17 @@
 - **D-9** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-22 18:51` 현재 증시에 대한 소고 : 태양이 떠있을 때 달이 어두워 보이듯 - Investing.com 한국어 — *Investing.com 한국어*
+- `09-22 19:50` [베트남 증시] "美와 무역 합의 근접" 발언에 투심 회복, 상승...은행株NVB 상한가, SSB는 하한가 - 뉴스핌 — *뉴스핌*
+- `09-22 19:35` 바이두, 홍콩증시서 자사주 56만주 매입··평균 88.82홍콩달러 - 매일경제 마켓 — *매일경제 마켓*
+- `09-22 19:21` “5%대 금리에 증시 무너질까?”…60년 데이터 뜯어보니 의외의 결과 [김태홍의 투자 포트폴리오] - 매일경제 마켓 — *매일경제 마켓*
+- `09-22 19:16` [亞증시-종합] 홍콩·臺, 상승세 계속…中, 지수별 혼조 - 연합인포맥스 — *연합인포맥스*
+- `09-22 19:10` 코스피 2%대 상승분 반납...7,000선 가까스로 지켜 - YTN — *YTN*
 - `09-22 18:29` [오늘의증시] 코스피 7000선 턱걸이…AI 훈풍에도 외교 불확실성에 상승폭 반납 - 경인방송 뉴스 — *경인방송 뉴스*
-- `09-22 18:24` [중국증시-마감] 지수별 혼조…연속 상승 뒤 숨 고르기 - 연합인포맥스 — *연합인포맥스*
 - `09-22 18:16` '전강후약' 코스피 7000선 사수…환율 1350원대 급락 - v.daum.net — *v.daum.net*
-- `09-22 17:51` 메타에 웃다가 유가에 발목잡힌 코스피 - v.daum.net — *v.daum.net*
-- `09-22 17:46` 코스피 7000선 지켜… 개인 1.6조 매도 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `09-22 17:46` 코스피, ‘美 반도체 호재’에 2%대 급등 후 상승분 반납…7000선 턱걸이 - 더나은미래 — *더나은미래*
-- `09-22 17:45` 코스피, 장 후반 상승폭 줄이며 7천 선에서 마감‥코스닥은 하락 전환 - MBC 뉴스 — *MBC 뉴스*
+- `09-22 18:02` [마감시황] 코스피, 美 AI 훈풍에 7170선 찍고 ‘털썩’…상승폭 반납하며 7017선 턱걸이 - 한양경제 — *한양경제*
 
 ## 🇰🇷 반도체·HBM
+- `09-22 19:12` "수억대 연봉 날아갔다"…SK하이닉스 신입 4명 결국 짐 쌌다 - 한국경제 — *한국경제*
 - `09-22 19:07` "국가 반도체 연구소 대전에 구축해야 메가프로젝트 성공" - 굿모닝충청 — *굿모닝충청*
 - `09-22 18:48` [DM왔어요] "술 때문에 SK하이닉스를"…신입사원 해고, 무슨 일? 外 - 연합뉴스TV — *연합뉴스TV*
 - `09-22 18:30` 삼성 8월 HBM 성장세, SK하이닉스 추월... 번스타인 분석 - Investing.com 한국어 — *Investing.com 한국어*
@@ -31,27 +32,26 @@
 - `09-22 18:17` 하루만에 25% 상승...'메타' 타고 날아오른 반도체 소부장株 - 한국경제 — *한국경제*
 - `09-22 18:12` 소재에서 로봇용 반도체까지, 전북의 새 산업지도 - 전북도민일보 — *전북도민일보*
 - `09-22 18:08` [단독] SK하이닉스, 美 인디애나 HBM 공장 ‘인허가 리스크’ 비상 [AI 투자 골든타임의 덫] - v.daum.net — *v.daum.net*
-- `09-22 18:08` “지금 투자해야”⋯수천조 붓는 K-반도체 '국내외 변수'에 속도전 [AI 투자 골든타임의 덫] - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
 - `09-22 18:07` 은행장 추천해도 반영 과정 ‘깜깜이’…은행 임추위 실효성 논란 이유 - 일요신문 — *일요신문*
 - `09-22 18:00` 8개 금융지주, 실적·연임에 ‘대출 과속’… "경제위기 땐 자금공급 위축" - 글로벌이코노믹 — *글로벌이코노믹*
 - `09-22 18:00` 수협은행장 후보 선정 불발…정부 위원끼리 갈렸다 - 자본시장뉴스 — *자본시장뉴스*
-- `09-22 17:31` 하나금융그룹 '청라 시대' 개막…효율 높이고 인천과도 상생 - 뉴스토마토 — *뉴스토마토*
+- `09-22 17:38` BNK금융그룹, 부산·경남은행 신입행원 공개채용 실시 - 경남일보 — *경남일보*
+- `09-22 17:31` 하나금융그룹 '청라 시대' 개막…효율 높이고 인천과도 상생 - newstomato.com — *newstomato.com*
 - `09-22 17:08` 은행 임추위, 검증 넘어 후보군 추천까지…금융지주 승계 '손질' - 뉴스저널리즘 — *뉴스저널리즘*
 - `09-22 17:05` [금융 Pick] 신한금융, 12개 자회사 CEO 승계절차 돌입…KB금융·우리금융은 - 라이센스뉴스 — *라이센스뉴스*
 - `09-22 17:01` 잇단 금융사고에 가계대출·ELS까지…4대 금융지주 회장 국감장 서나 - 브릿지경제 — *브릿지경제*
-- `09-22 17:00` 우리금융, 보건복지부와 함께 취약청년 자립에 3년간 30억원 지원 - ezyeconomy.com — *ezyeconomy.com*
 
 ## 🇰🇷 정책·거시
+- `09-22 19:45` 집값 상승 기대 크면 양도세 깎아줘도 집 안 판다 - 세계일보 — *세계일보*
+- `09-22 18:39` [사설] 수도권 편중 부동산 대책, 지방 이원화 해법 시급하다 - 국제신문 — *국제신문*
 - `09-22 16:45` 서울 아파트값 상승 기대 여전...다주택자 10명 중 9명 집 안판다 - v.daum.net — *v.daum.net*
 - `09-22 16:30` 한은, 8·3 대책 한계 짚었다…"집값 뛰면 다주택자 안 판다" - 한국일보 — *한국일보*
+- `09-22 16:15` 강남 1.28% 떨어질 때 중랑구 3.46% 쑥… 8월 대책 뒤 서울 집값 ‘양극화’ - 세계일보 — *세계일보*
 - `09-22 14:44` “부동산 대책 부족” vs “소통 의지 확인”… 여·야가 맞붙은 국정 평가와 인천시 민생 과제 [굿모닝 인천-전지적인천시점] - 경인방송 뉴스 — *경인방송 뉴스*
 - `09-22 14:04` 경기 일부 중·저가 집값 상승세…주택관련대출 다시 늘어나나 - 기호일보 — *기호일보*
 - `09-22 13:14` "지금 팔면 손해 아닌가요"…다주택자 버티는 이유 있었다 - 한국경제 — *한국경제*
-- `09-22 12:35` '서울 아파트 불패' 기대감에⋯다주택자 10명 중 9명 집 안판다 [금안보고서] - 이투데이 — *이투데이*
-- `09-22 11:55` "기다리면 집값은 우상향"…다주택자, 양도세 깎아줘도 집 안 판다 - 한국부동산뉴스 — *한국부동산뉴스*
-- `09-22 11:42` "서울 집값 8% 오른다" 기대 땐…다주택자 매도 유인 8.9%뿐 - 한국경제 — *한국경제*
 
 ## 🌍 AI·빅테크
 - `09-22 19:04` AI capex enters the Fed's inflation case with October hike pricing past even money - FXStreet — *FXStreet*
@@ -64,31 +64,31 @@
 - `09-22 02:24` OpenAI joins call for US-led global AI standards - Financial Times — *Financial Times*
 
 ## 🌍 연준·금리
+- `09-22 20:30` The dying days of the Federal Reserve’s dot plot - Financial Times — *Financial Times*
+- `09-22 19:30` What does the first Fed rate increase in three years mean for Oklahoma? - The Oklahoman — *The Oklahoman*
 - `09-22 19:08` What’s Next for US Stocks After the Fed Rate Hike - Morningstar — *Morningstar*
+- `09-22 18:45` Gold Retreats as Dollar Gains and Investors Reassess Federal Reserve Rate Path - Yahoo Finance UK — *Yahoo Finance UK*
+- `09-22 18:28` Gold Edges Higher as Lower Oil Prices Damp Chance of Rate Hikes - Bloomberg.com — *Bloomberg.com*
 - `09-22 17:32` Federal Reserve: Hiking path constrained by supply shocks – BNY - FXStreet — *FXStreet*
 - `09-22 17:11` 2 Words From Fed Chair Kevin Warsh Just Changed the Game for Wall Street - The Motley Fool — *The Motley Fool*
 - `09-22 15:00` COMMENTARY: Losing the plot? Warsh's Fed more 'touchy-feely' than data-driven - Reuters — *Reuters*
-- `09-22 13:00` Rate rises should not be ‘the only game in town’ - Financial Times — *Financial Times*
-- `09-22 10:53` Federal Reserve official says inflation persistence led her to support interest rate hike - niagara-gazette.com — *niagara-gazette.com*
-- `09-22 10:34` Is the stock market at risk of derailing? With the Federal Reserve, Bank of Japan, and European Central Bank tightening policy in sync, Deutsche Bank warns that the global wave of interest rate hikes could exceed expectations. - Moomoo — *Moomoo*
-- `09-22 09:45` Money Matters: Federal Reserve rate hike impact - wdio.com — *wdio.com*
 
 ## 🌍 유가·지정학
+- `09-22 20:19` Oil price falls below $98 as Saudi Arabia signals reopening of East-West pipeline - Financial Times — *Financial Times*
+- `09-22 20:18` Oil Price Slides on Saudi Pipeline Plans, Hormuz Diplomacy - Bloomberg.com — *Bloomberg.com*
+- `09-22 19:59` Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite - CoinDesk — *CoinDesk*
+- `09-22 19:44` Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks - FXStreet — *FXStreet*
+- `09-22 19:43` Oil News: Hormuz Diplomacy Sinks Crude Futures as Diesel Stays Tight - FXEmpire — *FXEmpire*
+- `09-22 19:30` Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-22 19:20` Oil futures: Crude extends losses on Iran offer to open Hormuz - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
 - `09-22 19:05` Oil Prices Drop on Report Iran Has Offered to Open Hormuz in 7 Days - Barron's — *Barron's*
-- `09-22 19:01` Oil Prices Drop on Report Iran Has Offered to Open Hormuz in 7 Days - Barron's — *Barron's*
-- `09-22 18:35` Iran offers to reopen Strait of Hormuz within 7 days, oil prices crash - Firstpost — *Firstpost*
-- `09-22 18:24` Journalist ties tanker attacks to oil middlemen, drawing treason accusations - Iran International — *Iran International*
-- `09-22 18:15` India's Oil Import Bill Jumps 48% as Crude Prices Soar - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-22 17:48` Oil rebounds from 12-day low as markets await possible U.S.-Iran talks - سانا — *سانا*
-- `09-22 17:40` Trump to Address U.N. as Iran Threatens, Houthis Advance, Oil Prices Fall - cbn.com — *cbn.com*
-- `09-22 17:16` Oil Prices Rise as Markets Await US-Iran Talks... - jordannews.jo — *jordannews.jo*
 
 ## 🌍 시장 전반
-- `09-22 19:00` Global benchmarks mostly rise after Wall Street's rally - LancasterOnline — *LancasterOnline*
+- `09-22 20:19` AMD and Other Chip Stocks Fall as Cathie Wood Ignores This Market Worry - Barron's — *Barron's*
+- `09-22 19:39` AMD Crosses $1 Trillion in Market Value for the First Time as AI Chip Stocks Rally - Technology Org — *Technology Org*
+- `09-22 19:00` Global benchmarks mostly rise after Wall Street's rally - lancasteronline.com — *lancasteronline.com*
 - `09-22 18:36` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History. - Yahoo Finance — *Yahoo Finance*
-- `09-22 18:33` Asian benchmarks mostly rise after Wall Street's rally - LancasterOnline — *LancasterOnline*
+- `09-22 18:33` Asian benchmarks mostly rise after Wall Street's rally - lancasteronline.com — *lancasteronline.com*
 - `09-22 18:27` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History. - The Motley Fool — *The Motley Fool*
+- `09-22 18:22` Premarket: Wall St. futures pause after AI rally, focus on Mideast tensions - The Globe and Mail — *The Globe and Mail*
 - `09-22 17:32` Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Yahoo Finance — *Yahoo Finance*
-- `09-22 17:16` Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation - timesofindia.indiatimes.com — *timesofindia.indiatimes.com*
-- `09-22 17:12` Stock futures edge lower after Wall Street's tech-led rally (SPX:) - Seeking Alpha — *Seeking Alpha*
-- `09-22 17:07` Stocks Resilient, Fairly Priced, Probably Ready For a Rally - RealClearMarkets — *RealClearMarkets*
