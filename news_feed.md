@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-22 18:56 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-22 19:18 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -14,24 +14,24 @@
 - **D-9** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
+- `09-22 18:51` 현재 증시에 대한 소고 : 태양이 떠있을 때 달이 어두워 보이듯 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-22 18:29` [오늘의증시] 코스피 7000선 턱걸이…AI 훈풍에도 외교 불확실성에 상승폭 반납 - 경인방송 뉴스 — *경인방송 뉴스*
 - `09-22 18:24` [중국증시-마감] 지수별 혼조…연속 상승 뒤 숨 고르기 - 연합인포맥스 — *연합인포맥스*
-- `09-22 18:02` [마감시황] 코스피, 美 AI 훈풍에 7170선 찍고 ‘털썩’…상승폭 반납하며 7017선 턱걸이 - 한양경제 — *한양경제*
+- `09-22 18:16` '전강후약' 코스피 7000선 사수…환율 1350원대 급락 - v.daum.net — *v.daum.net*
 - `09-22 17:51` 메타에 웃다가 유가에 발목잡힌 코스피 - v.daum.net — *v.daum.net*
+- `09-22 17:46` 코스피 7000선 지켜… 개인 1.6조 매도 - MTN 머니투데이방송 — *MTN 머니투데이방송*
 - `09-22 17:46` 코스피, ‘美 반도체 호재’에 2%대 급등 후 상승분 반납…7000선 턱걸이 - 더나은미래 — *더나은미래*
 - `09-22 17:45` 코스피, 장 후반 상승폭 줄이며 7천 선에서 마감‥코스닥은 하락 전환 - MBC 뉴스 — *MBC 뉴스*
-- `09-22 17:42` 금리·수급 공백에 갇힌 증시, 해답은 ’전쟁 종결’…"패시브로 버텨라" By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `09-22 17:38` '쑥 올랐다 멈춤' 코스피, 국제유가·UN총회 향방 주목 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🇰🇷 반도체·HBM
+- `09-22 19:07` "국가 반도체 연구소 대전에 구축해야 메가프로젝트 성공" - 굿모닝충청 — *굿모닝충청*
+- `09-22 18:48` [DM왔어요] "술 때문에 SK하이닉스를"…신입사원 해고, 무슨 일? 外 - 연합뉴스TV — *연합뉴스TV*
 - `09-22 18:30` 삼성 8월 HBM 성장세, SK하이닉스 추월... 번스타인 분석 - Investing.com 한국어 — *Investing.com 한국어*
 - `09-22 18:28` SK에코플랜트, 반도체·AI 실무형 인재 키운다 - 천지일보 — *천지일보*
 - `09-22 18:17` 하루만에 25% 상승...'메타' 타고 날아오른 반도체 소부장株 - 한국경제 — *한국경제*
 - `09-22 18:12` 소재에서 로봇용 반도체까지, 전북의 새 산업지도 - 전북도민일보 — *전북도민일보*
 - `09-22 18:08` [단독] SK하이닉스, 美 인디애나 HBM 공장 ‘인허가 리스크’ 비상 [AI 투자 골든타임의 덫] - v.daum.net — *v.daum.net*
-- `09-22 18:07` "삼성전자, HBM 증설...범용D램 공급 부족·가격 상승↑"-KB證 - 베타뉴스 — *베타뉴스*
-- `09-22 18:07` “지금 투자해야”⋯수천조 붓는 K-반도체 '국내외 변수'에 속도전 [AI 투자 골든타임의 덫] - 이투데이 — *이투데이*
-- `09-22 17:56` 전남광주, 반도체클러스터 부지 2027년 착공 추진…2030년 첫 양산 목표 - aitimes.com — *aitimes.com*
+- `09-22 18:08` “지금 투자해야”⋯수천조 붓는 K-반도체 '국내외 변수'에 속도전 [AI 투자 골든타임의 덫] - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
 - `09-22 18:07` 은행장 추천해도 반영 과정 ‘깜깜이’…은행 임추위 실효성 논란 이유 - 일요신문 — *일요신문*
@@ -54,6 +54,7 @@
 - `09-22 11:42` "서울 집값 8% 오른다" 기대 땐…다주택자 매도 유인 8.9%뿐 - 한국경제 — *한국경제*
 
 ## 🌍 AI·빅테크
+- `09-22 19:04` AI capex enters the Fed's inflation case with October hike pricing past even money - FXStreet — *FXStreet*
 - `09-22 17:01` Microsoft's Biggest AI Customer Is Also Its Biggest Risk - The Motley Fool — *The Motley Fool*
 - `09-22 10:00` SoftBank Plans Record $10 Billion Junk Bond Sale to Fund OpenAI Bet - Seoul Economic Daily — *Seoul Economic Daily*
 - `09-22 09:40` SoftBank launches $11B bond sale to fund OpenAI investment - TNGlobal — *TNGlobal*
@@ -61,34 +62,33 @@
 - `09-22 04:21` SoftBank Borrows Over $11B in Bonds for OpenAI Stake [2026] - tech-insider.org — *tech-insider.org*
 - `09-22 03:00` Why Higher Rates Are Becoming NVIDIA’s Biggest Threat - 24/7 Wall St. — *24/7 Wall St.*
 - `09-22 02:24` OpenAI joins call for US-led global AI standards - Financial Times — *Financial Times*
-- `09-21 23:52` Nvidia, Meta Have $300 Billion AI Problem - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `09-22 19:08` What’s Next for US Stocks After the Fed Rate Hike - Morningstar — *Morningstar*
 - `09-22 17:32` Federal Reserve: Hiking path constrained by supply shocks – BNY - FXStreet — *FXStreet*
 - `09-22 17:11` 2 Words From Fed Chair Kevin Warsh Just Changed the Game for Wall Street - The Motley Fool — *The Motley Fool*
-- `09-22 15:35` Despite the U.S. Federal Reserve's interest rate hike last week, the local stock market recovered to.. - 매일경제 — *매일경제*
 - `09-22 15:00` COMMENTARY: Losing the plot? Warsh's Fed more 'touchy-feely' than data-driven - Reuters — *Reuters*
 - `09-22 13:00` Rate rises should not be ‘the only game in town’ - Financial Times — *Financial Times*
 - `09-22 10:53` Federal Reserve official says inflation persistence led her to support interest rate hike - niagara-gazette.com — *niagara-gazette.com*
 - `09-22 10:34` Is the stock market at risk of derailing? With the Federal Reserve, Bank of Japan, and European Central Bank tightening policy in sync, Deutsche Bank warns that the global wave of interest rate hikes could exceed expectations. - Moomoo — *Moomoo*
-- `09-22 09:45` Money Matters: Federal Reserve rate hike impact - WDIO.com — *WDIO.com*
+- `09-22 09:45` Money Matters: Federal Reserve rate hike impact - wdio.com — *wdio.com*
 
 ## 🌍 유가·지정학
+- `09-22 19:05` Oil Prices Drop on Report Iran Has Offered to Open Hormuz in 7 Days - Barron's — *Barron's*
+- `09-22 19:01` Oil Prices Drop on Report Iran Has Offered to Open Hormuz in 7 Days - Barron's — *Barron's*
 - `09-22 18:35` Iran offers to reopen Strait of Hormuz within 7 days, oil prices crash - Firstpost — *Firstpost*
 - `09-22 18:24` Journalist ties tanker attacks to oil middlemen, drawing treason accusations - Iran International — *Iran International*
 - `09-22 18:15` India's Oil Import Bill Jumps 48% as Crude Prices Soar - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-22 17:48` Oil rebounds from 12-day low as markets await possible U.S.-Iran talks - سانا — *سانا*
+- `09-22 17:40` Trump to Address U.N. as Iran Threatens, Houthis Advance, Oil Prices Fall - cbn.com — *cbn.com*
 - `09-22 17:16` Oil Prices Rise as Markets Await US-Iran Talks... - jordannews.jo — *jordannews.jo*
-- `09-22 17:00` Soaring Oil and Gas Prices Push Europe's Inflation Fight Into 2027 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-22 16:18` Oil Prices Rise as Hormuz Shipping Risks Persist - WSJ — *WSJ*
-- `09-22 15:52` Macron presses Trump on Hormuz and Ukraine as oil prices surge - RFI — *RFI*
 
 ## 🌍 시장 전반
+- `09-22 19:00` Global benchmarks mostly rise after Wall Street's rally - LancasterOnline — *LancasterOnline*
 - `09-22 18:36` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History. - Yahoo Finance — *Yahoo Finance*
 - `09-22 18:33` Asian benchmarks mostly rise after Wall Street's rally - LancasterOnline — *LancasterOnline*
 - `09-22 18:27` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History. - The Motley Fool — *The Motley Fool*
 - `09-22 17:32` Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Yahoo Finance — *Yahoo Finance*
+- `09-22 17:16` Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation - timesofindia.indiatimes.com — *timesofindia.indiatimes.com*
+- `09-22 17:12` Stock futures edge lower after Wall Street's tech-led rally (SPX:) - Seeking Alpha — *Seeking Alpha*
 - `09-22 17:07` Stocks Resilient, Fairly Priced, Probably Ready For a Rally - RealClearMarkets — *RealClearMarkets*
-- `09-22 16:52` US stock market rally explained: Why did Nasdaq climb 2% to close at a fresh record high? - The Economic Times — *The Economic Times*
-- `09-22 16:19` KOSPI loses early gains as US tech rally fails to lift market - The Korea Times — *The Korea Times*
-- `09-22 16:03` Wall Street rally nears record high - The Arkansas Democrat-Gazette — *The Arkansas Democrat-Gazette*
