@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-23 08:46 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-23 09:52 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -13,81 +13,81 @@
 - **D-8** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-23 08:42` [개장] 뉴욕증시, 미·이란 협상 주시 속 혼조..나스닥 이틀 연속 최고치 경신 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `09-23 08:32` [0923개장체크] 美 증시, 반도체주 급등 속 나스닥 사상 최고치 경신 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-23 08:23` [증시 포인트] 연휴 앞두고 제한적 흐름 전망 - 오피니언뉴스 — *오피니언뉴스*
-- `09-23 08:21` [AI MY 증시전망] 코스피, 추석 연휴 직전 상승 전망…반도체 강세 '주목' - 뉴스핌 — *뉴스핌*
-- `09-23 08:18` 반도체 훈풍 탄 코스피, 추석 앞두고 4일째 오를까 - 경북매일 — *경북매일*
-- `09-23 08:12` [굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망 - v.daum.net — *v.daum.net*
-- `09-23 08:10` [뉴욕증시] AI 강세에도 트럼프 '이란 압박'에 혼조…나스닥 이틀째 사상 최고 - 신아일보 — *신아일보*
-- `09-23 08:08` [마켓뷰] 추석 앞둔 코스피, 미 기술주 강세에 상승세 이어갈까 - v.daum.net — *v.daum.net*
+- `09-23 09:45` [개장시황] 코스피, 반도체 강세에 1%대 상승 출발 - 뉴스핌 — *뉴스핌*
+- `09-23 09:44` 코스피, 美 반도체주 강세·중동 긴장 완화 기대에 7100선 돌파 - 블루밍비트 — *블루밍비트*
+- `09-23 09:40` [개장] 美 반도체 강세에 코스피 1% 상승… 7100선 재탈환 - IT조선 — *IT조선*
+- `09-23 09:37` 코스피, 7100선 출발⋯중동 긴장 완화·美 기술주 강세 '훈풍' - 아이뉴스24 — *아이뉴스24*
+- `09-23 09:37` 코스피, 반도체 타고 7100선 돌파…'배당' 삼전 3%대↑[개장시황] - v.daum.net — *v.daum.net*
+- `09-23 09:35` 코스피, 반도체 타고 7100선 돌파…'배당' 삼전 3%대↑[개장시황] - 뉴스1 — *뉴스1*
+- `09-23 09:34` 이란 협상·AI 낙관론 속 미국 증시 선물 보합세 - Investing.com 한국어 — *Investing.com 한국어*
+- `09-23 09:33` 코스피, 장초반 7100선…코스닥도 1%대 강세 - MTN 머니투데이방송 — *MTN 머니투데이방송*
 
 ## 🇰🇷 반도체·HBM
-- `09-23 08:42` [서학개미 안테나] 비코 20% 폭등…AI 반도체 투자 확대에 장비주까지 뜬다 By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `09-23 08:39` SK하이닉스, 영업이익 성장세 어디까지? - 데이터뉴스 — *데이터뉴스*
-- `09-23 08:34` 프리마켓서 삼성전자 28만선 탈환…간밤 美반도체 강세 훈풍 [마켓시그널] - 서울경제 — *서울경제*
-- `09-23 08:30` "'반도체 잭팟' 믿고 달렸는데…" AI 초호황 속 뜻밖의 복병 [이슈+] - 한국경제 — *한국경제*
-- `09-23 08:21` 메타의 뮤즈 효과, AI의 산업 파괴론 재등장…반도체주는 상승 - 머니투데이 - mt.co.kr — *mt.co.kr*
-- `09-23 08:21` [AI MY 증시전망] 코스피, 추석 연휴 직전 상승 전망…반도체 강세 '주목' - 뉴스핌 — *뉴스핌*
-- `09-23 08:18` 반도체 훈풍 탄 코스피, 추석 앞두고 4일째 오를까 - 경북매일 — *경북매일*
-- `09-23 08:17` 키움證 "삼성전자, 메모리가 정체에도 HBM 급성장…중장기 투자 유효" - 뉴스1 — *뉴스1*
+- `09-23 09:45` [개장시황] 코스피, 반도체 강세에 1%대 상승 출발 - 뉴스핌 — *뉴스핌*
+- `09-23 09:43` [모닝 리포트] "반도체 상승 출발 전망…연휴 앞 차익실현 부담" - 뉴스핌 — *뉴스핌*
+- `09-23 09:40` TSMC에 안긴 대만 2나노… 韓 HBM 주도권 흔든다 - 글로벌이코노믹 — *글로벌이코노믹*
+- `09-23 09:40` [개장] 美 반도체 강세에 코스피 1% 상승… 7100선 재탈환 - IT조선 — *IT조선*
+- `09-23 09:37` 코스피, 반도체 타고 7100선 돌파…'배당' 삼전 3%대↑[개장시황] - v.daum.net — *v.daum.net*
+- `09-23 09:36` [특징주] 삼성전자·SK하이닉스, 메모리 반도체 수요 증가.. '강세" - 글로벌이코노믹 — *글로벌이코노믹*
+- `09-23 09:35` 코스피, 반도체 타고 7100선 돌파…'배당' 삼전 3%대↑[개장시황] - 뉴스1 — *뉴스1*
+- `09-23 09:34` 삼전닉스 나란히 뛰었다…메타 '뮤즈 효과'에 반도체株 들썩 - 한국경제 — *한국경제*
 
 ## 🇰🇷 금융주
-- `09-23 08:35` 이찬진 “금융지주 자회사 CEO 인사…계파·친소 배제하라” - 포쓰저널 — *포쓰저널*
-- `09-23 08:16` [뉴욕증시] 나스닥 이틀째 최고치…뮤즈 공포에 은행주 급락 - 자본시장뉴스 — *자본시장뉴스*
-- `09-23 08:13` 이찬진 금감원장 "금융 지주 자회사 CEO 선임, 계파 따지지 말고 공정하게" - 보험매일 — *보험매일*
-- `09-23 08:05` 8개 금융지주 회장 만나기 위해 이동하는 이찬진 금감원장 - 뉴시스 — *뉴시스*
-- `09-23 08:05` 8개 금융지주 회장 만나기 위해 이동하는 이찬진 금감원장 - newsis.com — *newsis.com*
-- `09-23 08:00` 日·베트남 넘어 우즈벡·카자흐까지…신한금융 글로벌 영토 확장 - 이지경제 — *이지경제*
-- `09-23 07:54` 금감원장, 8대 금융지주 회장 소집…자회사 CEO 추천·검증 강화 주문 - 비즈중앙 — *비즈중앙*
-- `09-23 07:43` 이찬진, 8대 금융지주 회장 소집…"CEO 선임 전 미흡한 절차 보완" - v.daum.net — *v.daum.net*
+- `09-23 09:49` “선임절차 시작 전 고쳐라”…이찬진, 금융지주 자회사 CEO 정조준 - 마이데일리 — *마이데일리*
+- `09-23 09:41` 메타 '뮤즈'가 자산관리까지…수익성 압박 우려에 은행주 3% 급락 - 뉴스1 — *뉴스1*
+- `09-23 09:35` 토스뱅크, 추석 연휴에도 고객센터 24시간 운영한다 - ezyeconomy.com — *ezyeconomy.com*
+- `09-23 09:32` [금융지주 국감②] '관피아 논란' 이찬우의 무색한 '사고 제로'……금융사고 275억·순이익 56% 중앙회 지급·가계대출 관리선도 초과 - 뉴스필드 — *뉴스필드*
+- `09-23 09:32` 한국금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-23 09:32` 은행장 인사 앞두고 금융지주 회장에 공개 경고한 이찬진 "계파·친소관계에 매몰되지 말라" - 생생비즈플러스 — *생생비즈플러스*
+- `09-23 09:30` 메리츠금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `09-23 09:29` 우리금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
 
 ## 🇰🇷 정책·거시
+- `09-23 08:37` 소비심리 살아났지만… 부동산 대책에도 집값 기대는 요지부동 - 한국일보 — *한국일보*
 - `09-23 06:55` [N2 포커스] 부동산 PF, 금융위 "풀라"·한은 "조심하라"…엇갈린 메시지 '혼선' - 뉴스투데이 — *뉴스투데이*
 - `09-23 06:00` 부동산 대책에도… "주택 가격 더 오른다" 심리, 여전히 강해 - 조선일보 — *조선일보*
 - `09-23 06:00` [사설] 늘 ‘지방’은 빼먹는 대통령의 기울어진 부동산 인식 - 영남일보 — *영남일보*
-- `09-22 23:47` "8월 대책에도 수도권 집값 강세…중·저가 지역 매수세 집중" - koreareport.co.kr — *koreareport.co.kr*
+- `09-22 23:47` "8월 대책에도 수도권 집값 강세…중·저가 지역 매수세 집중" - 코리아리포트 — *코리아리포트*
 - `09-22 19:45` 집값 상승 기대 크면 양도세 깎아줘도 집 안 판다 - 세계일보 — *세계일보*
 - `09-22 18:39` [사설] 수도권 편중 부동산 대책, 지방 이원화 해법 시급하다 - 국제신문 — *국제신문*
 - `09-22 16:45` 서울 아파트값 상승 기대 여전...다주택자 10명 중 9명 집 안판다 - v.daum.net — *v.daum.net*
-- `09-22 16:30` 한은, 8·3 대책 한계 짚었다…"집값 뛰면 다주택자 안 판다" - 한국일보 — *한국일보*
 
 ## 🌍 AI·빅테크
 - `09-23 08:03` Nvidia doubles down on selling to both sides of the AI race - thestreet.com — *thestreet.com*
-- `09-23 03:05` OpenAI Calls for International AI Safety Standards, Emphasizing U.S. Leadership - finance.biggo.com — *finance.biggo.com*
+- `09-23 03:10` OpenAI Calls for International AI Safety Standards, Emphasizing U.S. Leadership - finance.biggo.com — *finance.biggo.com*
 - `09-23 02:28` Is NVIDIA Funding Its Own Stock Rally? - Trefis — *Trefis*
 - `09-22 23:03` The Credit Market Lens: AI Capex And The Limits Of Crowding Out - Seeking Alpha — *Seeking Alpha*
 - `09-22 19:04` AI capex enters the Fed's inflation case with October hike pricing past even money - FXStreet — *FXStreet*
 - `09-22 17:47` Microsoft's Biggest AI Customer Is Also Its Biggest Risk - The Motley Fool — *The Motley Fool*
-- `09-22 09:40` SoftBank launches $11B bond sale to fund OpenAI investment - TNGlobal — *TNGlobal*
+- `09-22 09:40` SoftBank launches $11B bond sale to fund OpenAI investment - technode.global — *technode.global*
 - `09-22 04:21` SoftBank Borrows Over $11B in Bonds for OpenAI Stake [2026] - tech-insider.org — *tech-insider.org*
 
 ## 🌍 연준·금리
-- `09-23 06:27` Fed's Williams says rate-control toolkit is working well - Reuters — *Reuters*
+- `09-23 08:56` Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path - Bloomberg.com — *Bloomberg.com*
+- `09-23 08:47` Federal Reserve eyes tightening cycle haunted by COVID-era housing stimulus - scotsmanguide.com — *scotsmanguide.com*
+- `09-23 08:47` Scott Bessent sends signal on Kevin Warsh Fed rate hike - Belleville News-Democrat — *Belleville News-Democrat*
+- `09-23 06:27` Fed's Williams says rate-control toolkit is working well - reuters.com — *reuters.com*
 - `09-23 04:45` What does a Fed rate hike mean for mortgage rates? - USA Today — *USA Today*
 - `09-23 04:30` Boston Fed President Warns of Persistent Inflation, Suggests Tighter Rates - news.sbs.co.kr — *news.sbs.co.kr*
 - `09-23 04:18` Mortgage rates face several hurdles before they can return to 6% - HousingWire — *HousingWire*
 - `09-23 03:28` US mortgage rates brush 7%, further straining a bleak housing market - The Michigan Independent — *The Michigan Independent*
-- `09-23 02:50` In the News: Tyler Schipper on the Federal Reserve’s Interest Rate Hike - Newsroom | University of St. Thomas — *Newsroom | University of St. Thomas*
-- `09-23 01:56` Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks - Reuters — *Reuters*
-- `09-23 01:31` Federal Reserve Interest Rate Predictions for 2026 - Norada Real Estate Investments — *Norada Real Estate Investments*
 
 ## 🌍 유가·지정학
+- `09-23 09:39` Oil extends losses as Trump signals progress in U.S.-Iran talks - Investing.com — *Investing.com*
+- `09-23 09:22` Trump Threatens Iran at UN as Diplomats Seek Oil Market Stability - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `09-23 09:00` Washington Needs This LNG Deal More Than Beijing Does - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-23 08:00` Trump Proposes $5 Billion Fund to Rebuild Gulf Energy Infrastructure - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-23 07:41` Cooling temps, Iran war push heating oil costs higher as local families brace for winter - WKRC — *WKRC*
 - `09-23 07:38` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Moves Lower As Trump Says U.S. Officials Met With Iranians - FXEmpire — *FXEmpire*
-- `09-23 07:23` Demand Grows For Supplies Of Oil And Gas East Of Hormuz - forbes.com — *forbes.com*
-- `09-23 07:00` Is China's Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `09-23 06:55` Australian shares set to rise as US tech rally, oil price slide continue - Capital Brief — *Capital Brief*
-- `09-23 06:40` Oil price becoming increasingly important for ECB, Bundesbank chief says - Reuters — *Reuters*
-- `09-23 06:30` The difference between the "paper" price of Brent crude and what refiners pay for it - marketplace.org — *marketplace.org*
+- `09-23 07:23` Demand Grows For Supplies Of Oil And Gas East Of Hormuz - Forbes — *Forbes*
+- `09-23 07:02` Oil Extends Slump on Iran Talks Optimism, Saudi Pipeline Outlook - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 시장 전반
-- `09-23 07:25` Nasdaq reaches record high close, AI stocks rally - Reuters — *Reuters*
+- `09-23 07:25` Nasdaq reaches record high close, AI stocks rally - reuters.com — *reuters.com*
 - `09-23 07:15` Asian Stocks Set to Extend Gains as Tech Rallies: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `09-23 05:44` AI Stocks Are Carrying the Markets to New Heights. It’s Warning for Investors. - Barron's — *Barron's*
+- `09-23 05:44` AI Stocks Are Carrying the Markets to New Heights. It’s Warning for Investors. - barrons.com — *barrons.com*
 - `09-23 03:24` If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover - The Motley Fool — *The Motley Fool*
 - `09-23 02:44` If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover - Yahoo Finance — *Yahoo Finance*
 - `09-23 01:40` As Trump and Xi meet, TD Cowen says the auto stock sell-off on Chinese car fears is 'overdone' - Yahoo Finance — *Yahoo Finance*
 - `09-23 01:19` Why Turkey’s stock market is under scrutiny after last week’s selloff - eKathimerini.com — *eKathimerini.com*
-- `09-23 00:49` The stock market is quietly accelerating a retirement wave - Miami Herald — *Miami Herald*
+- `09-23 00:49` The stock market is quietly accelerating a retirement wave - miamiherald.com — *miamiherald.com*
