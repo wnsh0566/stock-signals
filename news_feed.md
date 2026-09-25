@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-25 09:43 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-25 10:43 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -12,24 +12,24 @@
 - **D-6** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
+- `09-25 10:12` [해외시황] 뉴욕증시, 유가·국채금리 급등에 '혼조'…다우 0.31%↓ - 프라임경제 — *프라임경제*
+- `09-25 10:11` 日 증시, 일부 AI·반도체 매수세에 상승 출발 - KB Think — *KB Think*
+- `09-25 09:58` 美증시 급락 딛고 보합…10년물 5.2%·SOX 약세, 월요일 반도체 시험대 - 녹색경제신문 — *녹색경제신문*
+- `09-25 09:53` 급등하는 국채 수익률과 유가, 미국 증시 선물 하락 압박 - Investing.com 한국어 — *Investing.com 한국어*
+- `09-25 09:43` [뉴욕증시] 뉴욕증시 혼조…30년물 금리 22년 만에 최고 - 자본시장뉴스 — *자본시장뉴스*
 - `09-25 09:10` [추석 이후 증시] 장문수 센터장 "10월까진 투심 부진, 코스피 연말 8400 목표" - 팍스경제TV — *팍스경제TV*
+- `09-25 09:00` “세뱃돈 대신 주식”…증권사들도 절세계좌 경쟁 - 글로벌이코노믹 — *글로벌이코노믹*
 - `09-25 08:57` [뉴욕 증시] 美 국채 금리 상승·호르무즈 협상 진전...뉴욕 3대 지수 혼조 - 한양경제 — *한양경제*
-- `09-25 08:47` 서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV — *서울경제TV*
-- `09-25 08:26` [뉴욕증시] 국채금리 급등 vs 호르무즈 개방 기대 '혼조'···메타 4%↑·오라클 3%↓ - 서울파이낸스 — *서울파이낸스*
-- `09-25 08:16` 뉴욕증시, 국채금리 급등에 보합 마감…미중 정상회담 주시 - 더팩트 — *더팩트*
-- `09-25 08:13` 국채금리 급등에 뉴욕증시 혼조…다우 0.31%↓ - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `09-25 07:57` [뉴욕증시 마감] 유가·국채 금리 급등 및 美·이란 협상 기대감 엇갈리며 혼조세 - 아주경제 — *아주경제*
-- `09-25 07:53` [브라질증시] 대선·美 고금리 전망에 1% 하락…헤알화 약세 - 뉴스핌 — *뉴스핌*
 
 ## 🇰🇷 반도체·HBM
-- `09-25 09:26` 삼성 반도체 직원 ‘6억원 성과급’ 예고이달 말 산정 방식·지급 기준 공개 - 엠투데이 — *엠투데이*
-- `09-25 09:23` 삼성전자 반도체 슈퍼사이클 다시 오나…“지금은 공급보다 수요 볼 때” - 핀포인트뉴스 — *핀포인트뉴스*
-- `09-25 09:06` [스냅드래곤 서밋] '스냅드래곤 최적화 AI' 개발·운영 쉬워진다 - 디일렉 — *디일렉*
-- `09-25 09:02` 반도체 제조 공정 미리 배운다…전남광주 '미니팹' 구축 - v.daum.net — *v.daum.net*
-- `09-25 09:01` 전남광주교육청 "학교서 반도체 실무 가르쳐 지역 취업" - 뉴시스 — *뉴시스*
-- `09-25 08:58` 이재명 대통령 "AI·반도체 성과, 미래산업 재투자…외환시장 24시간 전환" - gukjenews.com — *gukjenews.com*
-- `09-25 08:41` AI·반도체 ETF, '투자 필수템' 됐다…순자산 65조 돌파 - 머니투데이 - 머니투데이 — *머니투데이*
-- `09-25 08:36` 반도체 호황 속 ’3高’ 충격…민생 양극화 심화 - 연합뉴스TV — *연합뉴스TV*
+- `09-25 10:28` 반도체가 이끈 소득 도약…한국, ‘4만달러 시대’ 진입 초읽기 - sisaworld.kr — *sisaworld.kr*
+- `09-25 10:22` 추석에도 불 꺼지지 않는 반도체 라인…삼성·SK하이닉스 24시간 가동 - 피플투데이 — *피플투데이*
+- `09-25 10:18` 전 직장 반도체 장비 제어 프로그램 빼돌린 전 팀장 실형 - 인천일보 — *인천일보*
+- `09-25 10:11` 日 증시, 일부 AI·반도체 매수세에 상승 출발 - KB Think — *KB Think*
+- `09-25 10:01` 반도체 영업비밀 유출 전 개발팀장·경쟁사 대표 나란히 실형 - v.daum.net — *v.daum.net*
+- `09-25 10:00` HBM 밖에서도 AI 특수···K-반도체 '제2전선' 커진다 - 서울파이낸스 — *서울파이낸스*
+- `09-25 09:58` 美증시 급락 딛고 보합…10년물 5.2%·SOX 약세, 월요일 반도체 시험대 - 녹색경제신문 — *녹색경제신문*
+- `09-25 09:51` "추석 이후 반도체 살아날까?"…운명 쥔 '마이크론'[주末머니] - 아시아경제 — *아시아경제*
 
 ## 🇰🇷 금융주
 - `09-25 08:02` 시중은행 전환 3년차 iM금융지주…저밸류·부실 숙제 여전 - MTN 머니투데이방송 — *MTN 머니투데이방송*
@@ -37,9 +37,9 @@
 - `09-24 23:24` 김주연, 고다영 레슨 - sbs.co.kr — *sbs.co.kr*
 - `09-24 20:00` [베트남 증시] 美 국채 금리 급등 속 外人 매도 압력 커지며 하락...부동산·은행주 ↓ - 뉴스핌 — *뉴스핌*
 - `09-24 16:51` 日증시 엇갈린 마감…반도체주 웃고 은행주 울었다 - edaily.co.kr — *edaily.co.kr*
-- `09-24 08:40` 인사태풍 몰려오는데···황병우, iM금융 회장, 연임 가능할까 - sisajournal-e.com — *sisajournal-e.com*
+- `09-24 08:40` 인사태풍 몰려오는데···황병우, iM금융 회장, 연임 가능할까 - 시사저널e — *시사저널e*
 - `09-24 01:44` 금감원장, 금융권 대규모 인사 앞 ‘파벌 배제’ 경고 - v.daum.net — *v.daum.net*
-- `09-23 20:03` 하나금융그룹, 청라로 본사 이전…기대감 부푼 인천 - 경향신문 — *경향신문*
+- `09-23 17:42` '단순 투자'라더니...지방금융과 OK의 '특수한 관계' - MTN 머니투데이방송 — *MTN 머니투데이방송*
 
 ## 🇰🇷 정책·거시
 - `09-24 14:04` 김현미 24번 대책에도 못 잡은 집값…홍지선號 첫 시험대 - 머니투데이 - 머니투데이 — *머니투데이*
@@ -47,36 +47,37 @@
 - `09-23 13:32` 부동산 대책·금리 인상에도…“1년 뒤 집값 상승” 기대 여전 - 시사저널 — *시사저널*
 
 ## 🌍 AI·빅테크
+- `09-25 10:13` The AI Stock Beating Nvidia Almost Four to One This Year Just Burned Nearly $1 Billion in Cash - 247wallst.com — *247wallst.com*
 - `09-25 03:05` SoftBank Shares Surge 7% as $11.1 Billion Bond Sale Funds Final OpenAI Tranche - finance.biggo.com — *finance.biggo.com*
-- `09-24 19:40` SoftBank Issues $11.1 Billion in Bonds to Fund OpenAI Investment - CXO Digitalpulse — *CXO Digitalpulse*
-- `09-24 18:01` SoftBank Launches $11.1 Billion Bond Sale to Fund Final $10 Billion OpenAI Investment Tranche - tradingview.com — *tradingview.com*
-- `09-24 17:07` SoftBank pays steep price for record bond sale to fund OpenAI bet - ft.com — *ft.com*
+- `09-24 18:01` SoftBank Launches $11.1 Billion Bond Sale to Fund Final $10 Billion OpenAI Investment Tranche - TradingView — *TradingView*
+- `09-24 17:07` SoftBank pays steep price for record bond sale to fund OpenAI bet - Financial Times — *Financial Times*
 - `09-24 12:27` SoftBank takes on junk-bond debt at record yields to fund OpenAI ambitions - The Japan Times — *The Japan Times*
 - `09-24 11:27` SoftBank issues $11.1 billion in bonds in OpenAI financing push - The Economic Times — *The Economic Times*
-- `09-24 09:13` SoftBank raises $11.1 billion in world's biggest high-yield corporate bond sale - reuters.com — *reuters.com*
-- `09-24 06:42` OpenAI ‘agent’ hacked an Australian health service website - ft.com — *ft.com*
+- `09-24 09:13` SoftBank raises $11.1 billion in world's biggest high-yield corporate bond sale - Reuters — *Reuters*
+- `09-24 06:42` OpenAI ‘agent’ hacked an Australian health service website - Financial Times — *Financial Times*
 
 ## 🌍 연준·금리
-- `09-25 08:37` Why the bond market is freaking out, and what it means for your money - CBS News — *CBS News*
-- `09-25 06:13` S&P 500 ends marginally lower as investors focus on US-Iran war - reuters.com — *reuters.com*
+- `09-25 08:40` Your Guide to Bargain Hunting With Mortgage Rates Above 7% - KTEN — *KTEN*
+- `09-25 06:13` S&P 500 ends marginally lower as investors focus on US-Iran war - Reuters — *Reuters*
 - `09-25 05:58` Fed Officials Don’t Sound Done Hiking Interest Rates - Investopedia — *Investopedia*
 - `09-25 05:53` Three FOMC Voters Back Additional Rate Hikes to Cool Inflation - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `09-25 05:46` Fed Official Sounds Warning on Housing as Affordability Hits 21-Year Low - Realtor.com — *Realtor.com*
 - `09-25 05:25` Where to Park Your Cash After the Fed’s September Rate Hike - www.myfederalretirement.com — *www.myfederalretirement.com*
 - `09-25 05:15` Kevin Warsh is against forward guidance. But that hasn't stopped other Fed officials. - marketplace.org — *marketplace.org*
 - `09-25 04:55` US mortgage rates top 7% for first time in 20 months - The Guardian — *The Guardian*
-- `09-25 04:50` What a Higher Prime Interest Rate Costs Federal Retirees in Debt - www.myfederalretirement.com — *www.myfederalretirement.com*
 
 ## 🌍 유가·지정학
-- `09-25 07:05` Oil Steadies With the US, Iran Said to Be Exploring Phased Deal - Bloomberg.com — *Bloomberg.com*
-- `09-25 07:00` Average heating oil price in Maine jumps to a record high $6.02 per gallon, DOER says - wmtw.com — *wmtw.com*
+- `09-25 10:23` Oil falls amid optimism over potential diplomatic solution to the Iran conflict - CNBC — *CNBC*
+- `09-25 10:17` Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal - finance.yahoo.com — *finance.yahoo.com*
+- `09-25 10:11` Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities - Yahoo! Finance Canada — *Yahoo! Finance Canada*
+- `09-25 09:59` WTI Crude Oil Price Forecast: Bullish Reversal Eyes Yearly Highs Near $119 - FXEmpire — *FXEmpire*
+- `09-25 09:48` Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal - Investing.com — *Investing.com*
+- `09-25 07:05` Oil Slips With the US and Iran Said to Be Exploring Phased Deal - Bloomberg.com — *Bloomberg.com*
+- `09-25 07:00` Average heating oil price in Maine jumps to a record high $6.02 per gallon, DOER says - WMTW — *WMTW*
 - `09-25 07:00` Bond Traders Are Paying Too Much Attention to the Oil Price - WSJ — *WSJ*
-- `09-25 06:40` Oil price rise creates more pressure on UK policymakers before budget - The Guardian — *The Guardian*
-- `09-25 06:31` Shafaq News..Hormuz oil flow hits 22M barrels in day - شفق نيوز — *شفق نيوز*
-- `09-25 06:14` Oil pulls back on U.S.-Iran talks - CNBC — *CNBC*
-- `09-25 06:09` How Much Will Hormuz Crisis Impact Oil Demand Growth? - Energy Intelligence — *Energy Intelligence*
-- `09-25 06:08` Metals stay defensive as Hormuz talks stall, equities close mixed - Kitco PM Report - Kitco — *Kitco*
 
 ## 🌍 시장 전반
+- `09-25 09:59` Global Market Today: Asian stocks edge up amid bond selloff, surging oil and Yen concerns - The Economic Times — *The Economic Times*
 - `09-25 09:31` Futures Fall As Treasury Yields Keep Rising; 3 Stocks In Buy Areas - Investor's Business Daily — *Investor's Business Daily*
 - `09-25 07:11` Asian Stock Markets : Japan Rallies as China and Hong Kong Slide - Eurasia Business News — *Eurasia Business News*
 - `09-25 06:39` TSX closes lower as bond yields, materials weigh on Canadian stocks - Investing.com Canada — *Investing.com Canada*
@@ -84,4 +85,3 @@
 - `09-25 04:37` S&P 500 Rally Could Extend Despite Warning Signs in the Charts - Barron's — *Barron's*
 - `09-25 03:36` Warren Buffett Has a Stark Warning for Investors as the Market Repeats a Pattern Seen Only Twice in 155 Years - The Globe and Mail — *The Globe and Mail*
 - `09-25 03:27` Bond Selloff Worsens, Dinging Stocks - WSJ — *WSJ*
-- `09-25 01:10` Chip Stocks Hit By Broader Nasdaq Selloff: SanDisk, Micron, Western Digital, Others Slip Up To 4% - NDTV Profit — *NDTV Profit*
