@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-28 08:55 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-28 10:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -10,34 +10,34 @@
 - **D-3** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-28 08:50` [박정식의 국내 주식시황] 연휴 뒤엔 달라질까…박스권 증시, 반도체가 돌파구 - 뉴스퀘스트 — *뉴스퀘스트*
-- `09-28 08:49` "K-증시 프리미엄 재평가"…통합 IR 위크 개막 - 글로벌에픽 — *글로벌에픽*
-- `09-28 08:43` [어제장 오늘장] 연휴 끝난 코스피, 반도체 랠리 이어갈까…이번 주 변수는? - v.daum.net — *v.daum.net*
-- `09-28 08:43` [AI MY 증시전망] 코스피, 美 기술주 훈풍에 7000선 공방…장기금리는 변수 - 뉴스핌 — *뉴스핌*
-- `09-28 08:40` 인도네시아, 증시 거래 주가 하한 98% 인하…MSCI 강등 경고 대응 - 한국경제 — *한국경제*
-- `09-28 08:39` [0928개장체크] 美 증시, 미국·이란 간 외교적 해법 모색 기대감에 3대 지수 상승 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
-- `09-28 08:39` [개장] 뉴욕증시, 이번주 마이크론 실적과 물가지표에 주목 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `09-28 08:37` 한국 증시, 할인 꼬리표 뗄까…'코리아 프리미엄 위크' 오늘 개막 - v.daum.net — *v.daum.net*
+- `09-28 09:51` 휴장 끝난 코스피, 하락 개장...장 초반 보합권 거래 - YTN — *YTN*
+- `09-28 09:50` 코스피, 연휴 후 첫 거래일서 약보합…삼전닉스 동반 하락세 - 한국경제 — *한국경제*
+- `09-28 09:39` 코스피, 0.33% 내린 7050선 출발 - 뉴스핌 — *뉴스핌*
+- `09-28 09:38` 삼성전자·하이닉스 동반 약세…코스피, 추석 연휴 뒤 7040선으로 밀려 - 디지털데일리 — *디지털데일리*
+- `09-28 09:37` '美 국채금리 부담'…삼성전자·SK하이닉스 동반 하락[개장시황] - 뉴스1 — *뉴스1*
+- `09-28 09:36` 연휴 뒤 코스피, 7000선서 아슬아슬…삼전닉스도 약세 - v.daum.net — *v.daum.net*
+- `09-28 09:35` 연후 마치고 돌아온 코스피, 하락 출발해 보합권(종합) - v.daum.net — *v.daum.net*
+- `09-28 09:34` '추석 끝' 코스피, 7000선에서 공방… 개미, 나홀로 매수세 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🇰🇷 반도체·HBM
-- `09-28 08:44` 건설공사 2분기 계약액 작년보다 27% 증가…반도체 시설 등 영향 - 연합뉴스TV — *연합뉴스TV*
-- `09-28 08:43` 반도체 호조에 2분기 건설계약액 27% 증가…상위 50개사 싹쓸이 - v.daum.net — *v.daum.net*
-- `09-28 08:43` [어제장 오늘장] 연휴 끝난 코스피, 반도체 랠리 이어갈까…이번 주 변수는? - v.daum.net — *v.daum.net*
-- `09-28 08:42` 글로벌테크놀로지, '차량용 통신반도체' 독일 IBEE시험 통과 - 뉴스핌 — *뉴스핌*
-- `09-28 08:37` 연휴 끝낸 코스피, 7000선 지킬까…美 반도체 강세 속 금리 부담 - 경북매일 — *경북매일*
-- `09-28 08:37` [모닝 리포트] "켐트로스, 반도체 소재 비중 50% 돌파" - 뉴스핌 — *뉴스핌*
-- `09-28 08:36` 충남반도체마이스터고, ‘2027학년도 신입생 입학설명회’ 성황리 개최 - 일간투데이 — *일간투데이*
-- `09-28 08:36` GH-이천시, 반도체 소부장 산단클러스터 조성 '첫 걸음' - 국토일보 — *국토일보*
+- `09-28 10:01` [특징주] 삼성전자·SK하이닉스, 美 국채금리 급등에 2%대 약세 - 뉴스핌 — *뉴스핌*
+- `09-28 09:56` 삼성전자·SK하이닉스 나란히 2%대 하락…美 국채금리 급등에 반도체주 ‘주춤’ - hdnews.co.kr — *hdnews.co.kr*
+- `09-28 09:55` 반도체·주택사업 호조… 2분기 건설공사 계약액 전년比 27.3%↑ - 국토일보 — *국토일보*
+- `09-28 09:54` "우려는 소음일 뿐"…SK하이닉스, 성장 방향성 확고 - 경제타임스 — *경제타임스*
+- `09-28 09:53` 반도체에 이어지는 외인 매수세…최대 4배까지 투자여력 확보할 때 - 아시아경제 — *아시아경제*
+- `09-28 09:46` 미국 국채금리 급등에 삼성전자 SK하이닉스 약세 - 2news.co.kr — *2news.co.kr*
+- `09-28 09:44` SK하이닉스 실적 기대 높아졌지만…3분기 발표 전 확인할 포인트는 - 이코노미트리뷴 — *이코노미트리뷴*
+- `09-28 09:44` 배당락일 앞둔 삼성전자 2%대 하락…반도체 대형주 투심 위축[핫종목] - 뉴스1 — *뉴스1*
 
 ## 🇰🇷 금융주
-- `09-28 08:45` 하나금융그룹, SKT-삼성전자와 금융권 최초 5G 특화망 기반 업무망 구축! 그룹 청라 헤드쿼터 시작으로‘일하는 방식’혁신 본격화!! - 내외일보 — *내외일보*
-- `09-28 08:44` 하나금융지주, SKT·삼성전자와 5G 특화망 업무망 구축 - PRESS9 — *PRESS9*
-- `09-28 08:40` NH證 한국금융지주, 보험사 인수시 금융지주 완성 한 걸음…목표가 30만원 - 아주경제 — *아주경제*
-- `09-28 08:36` 하나금융그룹, 금융권 최초 5G 특화망 업무망 구축…청라 헤드쿼터 스마트 오피스 전환 - thefairnews.co.kr — *thefairnews.co.kr*
-- `09-28 07:54` 하나증권 “은행주, 금리 변동성 확대로 방어주 매력 부각 예상” - 한국정경신문 — *한국정경신문*
-- `09-28 06:51` NH농협금융지주, '건강증진형 금융상품' 5종 - 메트로신문 — *메트로신문*
-- `09-28 06:00` 금감원 경고 무색…금융지주 회장, 자추위 참여 - 뉴스토마토 — *뉴스토마토*
-- `09-28 06:00` [박종면칼럼] 금융지주 회장이 은행장 인사를 못하면 - 블로터 — *블로터*
+- `09-28 09:55` 하나금융, 청라 헤드쿼터에 5G 특화망..'일하는 방식' 혁신 - 스마트투데이 — *스마트투데이*
+- `09-28 09:44` 하나금융그룹, SKT·삼성전자와 5G 특화망 구축… 청라서 첫 적용 - 경인매일 — *경인매일*
+- `09-28 09:43` SK텔레콤, 하나금융그룹 청라 신사옥에 ‘5G 특화망’ 스마트 오피스 구축 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `09-28 09:41` 하나금융그룹, SKT-삼성전자와 금융권 첫 5G 특화망 스마트 오피스 구축...'일하는 방식' 혁신 본격화 - Queen 이코노미퀸 — *Queen 이코노미퀸*
+- `09-28 09:41` 하나금융, 금융권 최초 5G 특화망 스마트오피스 … 유선·고정좌석 벗어난 ‘무선 업무’로 '일하는 방식' 바꾼다 - worktoday.co.kr — *worktoday.co.kr*
+- `09-28 09:36` 하나금융 청라 헤드쿼터에 5G 특화망…금융권 최초 업무망 적용 - 뉴스;트리 — *뉴스;트리*
+- `09-28 09:36` 하나금융, SKT·삼성전자와 5G 특화망 구축…금융권 최초 업무망 적용 - 이지경제 — *이지경제*
+- `09-28 09:36` 하나금융그룹, SKT-삼성전자와 손잡고 금융권 첫 5G 특화망 구축 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 정책·거시
 - `09-28 06:31` 전문가 70% "추가 부동산 대책 필요" ... 최우선 과제는 '전월세시장 안정' - Queen 이코노미퀸 — *Queen 이코노미퀸*
@@ -46,35 +46,36 @@
 - `09-27 09:11` 非아파트 중심 공급 대책 강화될수록 신축 아파트 가치 더 높아진다 - 동아일보 — *동아일보*
 
 ## 🌍 AI·빅테크
+- `09-28 07:06` CFO AI Roundtable: OpenAI Unveils AI Finance Roadmap as Nigerian CFOs Explore Future of Finance - Proshare — *Proshare*
 - `09-28 04:00` China May Reopen Nvidia's AI Market. How Will NVDA Stock React Monday? - Yahoo Finance — *Yahoo Finance*
 - `09-26 11:35` OpenAI Discloses AI Agents Leaked 53 User Images and Accessed Dozens of External Sites - finance.biggo.com — *finance.biggo.com*
 
 ## 🌍 연준·금리
-- `09-28 08:02` COMMENTARY: Where will Fed tightening hit hardest in Asia? - Reuters — *Reuters*
-- `09-28 05:34` Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - fool.com — *fool.com*
+- `09-28 09:50` Following the Federal Reserve's rate hike, is the Reserve Bank of Australia poised for consecutive moves? Market focus shifts to a potential restart of rate hikes in September, followed by another increase in November. - news.futunn.com — *news.futunn.com*
+- `09-28 05:34` Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - The Motley Fool — *The Motley Fool*
 - `09-28 04:55` Fed raises rates for first time in years: What it means for your wallet - Fox Business — *Fox Business*
-- `09-28 04:00` The Bond Market Is Getting Closer to Sounding Alarm on Economy - Bloomberg.com — *Bloomberg.com*
-- `09-28 01:15` New Orleans financial expert explains how Fed rate hike could affect your money - WDSU — *WDSU*
-- `09-28 00:13` AT&T and T-Mobile rate hikes come back to bite them - PhoneArena — *PhoneArena*
-- `09-27 22:22` U.S. Dollar Rebounds as Fed Reshapes Forex Markets - stl.news — *stl.news*
+- `09-28 04:00` The Bond Market Is Getting Closer to Sounding Alarm on Economy - Bloomberg — *Bloomberg*
+- `09-28 01:15` New Orleans financial expert explains how Fed rate hike could affect your money - wdsu.com — *wdsu.com*
 - `09-27 21:00` Why the Fed’s rate hike just came at the worst possible moment - Washington Examiner — *Washington Examiner*
+- `09-27 13:00` Operation Save the Yen: Japan partially turns off the cheap money tap, with a little help from its ‘American friend’ - EL PAÍS English — *EL PAÍS English*
+- `09-26 16:07` Federal Reserve raises interest rates; SNAP benefit cuts; New homeowners association laws in Arizona - azpbs.org — *azpbs.org*
 
 ## 🌍 유가·지정학
+- `09-28 09:49` Brent Crude Oil Prices Rise 1% After Trump Rejects Iran Peace Proposal; Brent Near $98, Hormuz In Focus - NDTV Profit — *NDTV Profit*
+- `09-28 09:37` Oil News: Truce Talk Pressures WTI and Brent as Hormuz Risk Persists - FXEmpire — *FXEmpire*
+- `09-28 09:25` Falling Oil Could Trigger a 10% Stock Market Rally, Says Wall Street Strategist - BeInCrypto — *BeInCrypto*
+- `09-28 09:18` Oil rises over 1% on Sept 28 after Trump rejects Iran deal - Nation Thailand — *Nation Thailand*
+- `09-28 09:17` Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters — *Reuters*
+- `09-28 09:05` Oil prices rise more than 1% as Trump rejects Iran’s Hormuz proposal - Firstpost — *Firstpost*
 - `09-28 08:51` Oil climbs, stock futures slip as Trump rejects Iran’s Hormuz proposal (CO1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
 - `09-28 08:37` HSBC sets new Chevron price target amid Iran tensions - Yahoo Finance — *Yahoo Finance*
-- `09-28 08:23` Oil Rises as US Rejects Iran Proposal - TradingView — *TradingView*
-- `09-28 08:04` Oil News: Truce Talk Pressures WTI and Brent as Hormuz Risk Persists - FXEmpire — *FXEmpire*
-- `09-28 07:55` Crude Oil Futures Rebound as Trump Rejects Iran Peace Proposal, Reigniting Supply Concerns - finance.biggo.com — *finance.biggo.com*
-- `09-28 07:36` Trump Predicts Victory Over Iran, Oil Price Plunge - 조선일보 — *조선일보*
-- `09-28 07:25` Oil rebounds after Trump rejects Iran peace deal - Reuters — *Reuters*
-- `09-28 07:21` Oil Prices Rebound After Trump Rejects Iran Peace Deal - Finance News - Global Banking & Finance Review — *Global Banking & Finance Review*
 
 ## 🌍 시장 전반
+- `09-28 09:54` If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now - The Motley Fool — *The Motley Fool*
+- `09-28 09:25` Falling Oil Could Trigger a 10% Stock Market Rally, Says Wall Street Strategist - Yahoo Finance — *Yahoo Finance*
 - `09-28 08:00` Why US midterm elections could power the next stock market rally - The Business Times — *The Business Times*
 - `09-28 07:42` Wall Street Rally Led by Tech Stocks; Micron Set as Key Variable - news.sbs.co.kr — *news.sbs.co.kr*
 - `09-27 22:00` Look closer, and Wall Street’s rally is showing cracks - MarketWatch — *MarketWatch*
-- `09-27 21:05` Prediction: A Stock Market Crash Is Coming. Here’s the One Move You Should Make, According to History. - fool.com — *fool.com*
+- `09-27 21:05` Prediction: A Stock Market Crash Is Coming. Here’s the One Move You Should Make, According to History. - The Motley Fool — *The Motley Fool*
 - `09-27 20:55` Conditions for a US Stock Market Crash Are in Place; Experts Warn Global Debt Black Hole and Refinancing Pressure Are the Fuse - finance.biggo.com — *finance.biggo.com*
 - `09-27 20:25` Prediction: A Stock Market Crash Is Coming. Here’s the One Move You Should Make, According to History. - AOL.com — *AOL.com*
-- `09-27 19:00` Prediction: A Stock Market Crash Is on the Way. Investors Who Do This 1 Thing Can Still Come Out on Top, Based on 155 Years' Worth of History - fool.com — *fool.com*
-- `09-27 18:20` Prediction: A Stock Market Crash Is on the Way. Investors Who Do This 1 Thing Can Still Come Out on Top, Based on 155 Years' Worth of History - Yahoo Finance — *Yahoo Finance*
