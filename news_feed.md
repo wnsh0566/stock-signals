@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-28 20:41 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-28 20:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -10,7 +10,7 @@
 - **D-3** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-28 19:38` [베트남 증시] 중동 정세 불확실성에 투심 약화, 하락...석유주는 상승 - 뉴스핌 — *뉴스핌*
+- `09-28 20:43` 캐나다 증시 선물 하락…주요 경제지표 발표 앞두고 신중론 확산 - kr.investing.com — *kr.investing.com*
 - `09-28 19:24` [亞증시-종합] 금리 상승 속 日·中 하락…臺 휴장 - 연합인포맥스 — *연합인포맥스*
 - `09-28 19:12` 코스피, 2.7% 하락 마감…‘7천피’ 밑으로 - KBS 뉴스 — *KBS 뉴스*
 - `09-28 19:05` K증시에 지친 투자자들…대피처로 꼽히는 이곳은? [주린이 ABC] - 매일경제 마켓 — *매일경제 마켓*
@@ -21,13 +21,13 @@
 
 ## 🇰🇷 반도체·HBM
 - `09-28 20:23` ‘반도체 공장 넘어 산업도시’ 정주여건 시험대 오른다 - v.daum.net — *v.daum.net*
+- `09-28 20:08` TSMC 계열 뱅가드, 싱가포르에 '제2 반도체 공장' 건설 검토 - IT조선 — *IT조선*
 - `09-28 20:00` ‘국장’만 고금리 타격…SK하이닉스 원주-ADR 괴리율 40% 육박 - 한겨레 — *한겨레*
 - `09-28 19:53` 삼성전기, 세종·베트남에 6조7800억원…AI 반도체 기판 늘린다 - v.daum.net — *v.daum.net*
 - `09-28 19:51` 삼성전기, 세종·베트남에 6조7800억원…AI 반도체 기판 늘린다 - 중앙일보 — *중앙일보*
 - `09-28 19:18` 기후위, '호남 반도체' 여야 공방…삼성·SK 총수 증인 신경전 - 아시아경제 — *아시아경제*
 - `09-28 19:17` [강남視角] 호남반도체, 선결조건은 '물' - v.daum.net — *v.daum.net*
 - `09-28 19:03` 삼성전기, AI 반도체 패키지‧기판에 6.7조 투자 - 디일렉 — *디일렉*
-- `09-28 18:37` SK하이닉스, TSMC와 HBM5 검증…'올해의 파트너상' 2년 연속 수상 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 금융주
 - `09-28 19:36` iM금융그룹, 차기 회장 레이스 막 올랐다 - hidomin.com — *hidomin.com*
@@ -47,7 +47,7 @@
 
 ## 🌍 AI·빅테크
 - `09-28 19:36` Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance — *Yahoo Finance*
-- `09-28 19:00` Biossil raises $153-million in OpenAI-led funding to bring resuscitated drugs to market - The Globe and Mail — *The Globe and Mail*
+- `09-28 19:00` Biossil raises $153-million in OpenAI-led funding to bring resuscitated drugs to market - theglobeandmail.com — *theglobeandmail.com*
 - `09-28 17:45` AI capex drives fixed income credit shift - investordaily.com.au — *investordaily.com.au*
 - `09-28 04:00` China May Reopen Nvidia's AI Market. How Will NVDA Stock React Monday? - Yahoo Finance — *Yahoo Finance*
 
@@ -56,27 +56,27 @@
 - `09-28 19:46` The Federal Reserve takes strong action against inflation, accelerating the repricing of short-end U.S. Treasuries! The challenge is once again thrown to Bessent. - 富途牛牛 — *富途牛牛*
 - `09-28 18:56` Morgan Stanley: Market Overestimates Fed Rate Hikes; Energy Risks Remain Biggest Obstacle to Dovish Pivot - finance.biggo.com — *finance.biggo.com*
 - `09-28 17:46` United States Dollar Index remains stronger as hawkish Fed signals drive rate hike bets - FXStreet — *FXStreet*
-- `09-28 17:19` US Money Markets: Value in extensions given the aggressive Fed discount - think.ing.com — *think.ing.com*
+- `09-28 17:19` US Money Markets: Value in extensions given the aggressive Fed discount - ING Think — *ING Think*
+- `09-28 17:07` Dow Jones futures drop as rising oil, US Treasury yields fuel Fed rate hike fears - FXStreet — *FXStreet*
 - `09-28 13:19` Scott Bessent Says Fed Should Keep 'Open Mind' on Interest Rates - Benzinga — *Benzinga*
 - `09-28 13:05` CAPITAL IDEAS: Are your bonds safe after the Fed hikes interest rates? - theberkshireedge.com — *theberkshireedge.com*
-- `09-28 13:01` For once, the Fed has put Main Street before Wall Street - Financial Times — *Financial Times*
 
 ## 🌍 유가·지정학
-- `09-28 20:23` Oil surged 4% after Trump rejected Iran's plan to reopen the Strait of Hormuz - qz.com — *qz.com*
-- `09-28 20:17` Oil Prices Rebound as Trump Rejects Iran Peace Proposal - KCCR-AM — *KCCR-AM*
+- `09-28 20:51` Bitcoin Falls to $83,000 as Gold Plunges 3% on Fresh Oil Price Surge - Benzinga — *Benzinga*
+- `09-28 20:32` Why is oil price rising? Brent jumps 2.5% after Trump rejects Iran peace proposal | Hindustan Times - Hindustan Times — *Hindustan Times*
+- `09-28 20:23` Oil prices surge 4% as Trump rejects Iran's Hormuz deal - qz.com — *qz.com*
 - `09-28 20:02` Stocks Near Records, But Yields And Oil Are Rising: 3 Charts To Watch This Week - Stocktwits — *Stocktwits*
 - `09-28 19:59` 10-Year Yield Tops 5%, Mag 7 Lead Stocks, Oil Price Uncertainty: 3 Charts To Watch This Week - Yahoo Finance — *Yahoo Finance*
 - `09-28 19:57` Wall St futures drop as oil spikes after Trump rejects Iran peace proposal - Reuters — *Reuters*
 - `09-28 19:32` Oil rises as Trump rejects Iran's Hormuz proposal - CNBC — *CNBC*
 - `09-28 19:32` WTI Oil extends gains above $94.50 as Trump rejects Hormuz reopening plan - FXStreet — *FXStreet*
-- `09-28 19:30` TotalEnergies Targets 3% Annual Oil and Gas Growth Through 2030 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `09-28 19:16` Why did stock market crash today? Sensex tumbles 1,124 points, Nifty below 22,800; 6 factors behind Rs 8 l - economictimes.com — *economictimes.com*
+- `09-28 19:16` Why did stock market crash today? Sensex tumbles 1,124 points, Nifty below 22,800; 6 factors behind Rs 8 l - The Economic Times — *The Economic Times*
 - `09-28 19:16` Monday mayhem: Sensex settles 1,100 pts lower, Nifty ends below 22,800; key factors behind market crash - Moneycontrol.com — *Moneycontrol.com*
 - `09-28 19:12` Global benchmarks are mixed despite Wall Street's rally finish last week - BNN Bloomberg — *BNN Bloomberg*
-- `09-28 19:11` Mkt crash wipes off ₹7.4 trn; Sensex down 1,180 pts intraday: 5 key factors - business-standard.com — *business-standard.com*
+- `09-28 19:11` Mkt crash wipes off ₹7.4 trn; Sensex down 1,180 pts intraday: 5 key factors - Business Standard — *Business Standard*
 - `09-28 19:00` Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India — *The Times of India*
 - `09-28 18:20` Global benchmarks are mixed despite Wall Street's rally finish last week - LancasterOnline — *LancasterOnline*
 - `09-28 18:17` European shares rise as UK homebuilder rally offsets oil, bond pressures - Reuters — *Reuters*
-- `09-28 18:00` Global Market: European shares edge higher as British housebuilders rally - economictimes.com — *economictimes.com*
+- `09-28 18:00` Global Market: European shares edge higher as British housebuilders rally - The Economic Times — *The Economic Times*
