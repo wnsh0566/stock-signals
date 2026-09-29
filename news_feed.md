@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-29 20:21 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-29 20:33 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -15,8 +15,8 @@
 - `09-29 18:25` [중국증시-마감] 저가 매수세·정책 지원 약속 등에 상승 - 연합인포맥스 — *연합인포맥스*
 - `09-29 18:17` 코스피, 금리·유가 악재에 이틀 연속 내림세…코스닥은 반등 - 더나은미래 — *더나은미래*
 - `09-29 18:13` 외인 3조 '매도 폭탄'…코스피 6870선 후퇴 - v.daum.net — *v.daum.net*
+- `09-29 17:47` [오늘의 주목주] SK이노베이션 주가 7%대 내려, 코스피 외국인 매도세에 6870선 약보합 마감 - 비즈니스포스트 — *비즈니스포스트*
 - `09-29 17:43` [도쿄증시-마감] AI·반도체주 약세에 하락 - 연합인포맥스 — *연합인포맥스*
-- `09-29 17:42` 치솟는 유가·국채 금리…美 증시 휘청이자 아시아도 '미끌'[Asia마감] - 머니투데이 - mt.co.kr — *mt.co.kr*
 
 ## 🇰🇷 반도체·HBM
 - `09-29 20:15` 서울대, AI반도체연구소 설립…초대 소장에 류수정 전 사피온 대표 - 머니투데이 - mt.co.kr — *mt.co.kr*
@@ -39,6 +39,7 @@
 - `09-29 16:59` [금융지주 풍향계] 진옥동 “토큰화 새 금융 인프라” 外 - 에너지경제신문 — *에너지경제신문*
 
 ## 🇰🇷 정책·거시
+- `09-29 20:30` [현장] "집값을 강남 주민이 올렸나"…고동진, 주민들과 '李정부' 부동산 실책 질타 - 데일리안 — *데일리안*
 - `09-28 11:41` “15억 이하 아파트 상승”…1년 뒤를 내다본 ‘족집게 전망’ 다시 온다 [헤럴드머니페스타 2026] - biz.heraldcorp.com — *biz.heraldcorp.com*
 - `09-28 06:31` 전문가 70% "추가 부동산 대책 필요" ... 최우선 과제는 '전월세시장 안정' - Queen 이코노미퀸 — *Queen 이코노미퀸*
 - `09-28 05:06` 다음 카드는 '전월세 안정'…전문가 70% "추가 대책 필요" - v.daum.net — *v.daum.net*
@@ -54,31 +55,31 @@
 - `09-29 14:24` Nvidia turns to insurers to spread risk of AI build-out - FT - Yahoo Finance UK — *Yahoo Finance UK*
 
 ## 🌍 연준·금리
+- `09-29 20:10` Citi: September Core CPI Could Stop October Fed Rate Hike - IndexBox — *IndexBox*
 - `09-29 19:58` UBS Group: Historically, the Federal Reserve has never raised interest rates in October prior to an election; this time may be no different. - 富途牛牛 — *富途牛牛*
 - `09-29 19:35` Top Liberal Arts Degrees for Promising Careers, Federal Reserve Data Shows - Investopedia — *Investopedia*
 - `09-29 19:01` Top CD rates today, Sept. 29, 2026: Lock in up to up to 4.95% - Fortune — *Fortune*
 - `09-29 17:36` UBS Report: S&P 500 Forward P/E Falls 17%; Fed Rate Path to Determine Market Outlook - KuCoin — *KuCoin*
 - `09-29 17:32` The Odds of the Fed Ramping Up Its Rate-Hiking Cycle Are Skyrocketing, and 4 Variables -- 2 Directly Tied to President Donald Trump -- Are to Blame - The Motley Fool — *The Motley Fool*
-- `09-29 16:52` Treasury yields ease as inflation concerns persist - CNBC — *CNBC*
-- `09-29 16:04` Dollar firms near two-month peak as oil, US yields rise; jobs data looms - The Mighty 790 KFGO — *The Mighty 790 KFGO*
+- `09-29 16:04` Dollar firms near two-month peak as oil, US yields rise; jobs data looms - kfgo.com — *kfgo.com*
 - `09-29 15:32` Australia raises interest rates to 15-year high - Al Jazeera — *Al Jazeera*
 
 ## 🌍 유가·지정학
+- `09-29 20:30` India Looks to Boost Exploration as Hormuz Crisis Threatens Supply - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-29 20:03` Use heating oil in the winter? Expect your bill to be $900 more - WBAL-TV — *WBAL-TV*
 - `09-29 19:51` Oil News: Gulf Exports Surge, but Hormuz Risk Keeps Crude Premium Alive - FXEmpire — *FXEmpire*
 - `09-29 19:43` Iran's Ghalibaf warns no country can sell oil if Tehran is blocked - TRT World — *TRT World*
 - `09-29 19:06` Iran warns regional oil exports could stop if its crude is blocked - middle-east-online.com — *middle-east-online.com*
 - `09-29 18:59` Iran warns no regional oil is safe as IRGC touts new weapons - Euronews.com — *Euronews.com*
 - `09-29 18:35` Iran war: Oil remains well supported as Trump rejects Iran’s proposal - engine.online — *engine.online*
-- `09-29 18:30` India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat - oilprice.com — *oilprice.com*
-- `09-29 18:29` Trump Denies Offering Iran Sanctions Relief as Hormuz Dispute Weighs on Oil Markets - Межа. Новини України. — *Межа. Новини України.*
+- `09-29 18:30` India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `09-29 19:58` US Stock Market Crash Aftermath: High Yields Among 3 Reasons Why S&P 500, Dow, Nasdaq Futures Are Falling - NDTV Profit — *NDTV Profit*
+- `09-29 19:58` US Stock Market Crash Aftermath: High Yields Among 3 Reasons Why S&P 500, Dow, Nasdaq Futures Are Falling - ndtvprofit.com — *ndtvprofit.com*
 - `09-29 18:52` S&P500: An October Crash Likely (NYSEARCA:SPY) - Seeking Alpha — *Seeking Alpha*
 - `09-29 18:06` Will President Trump Crash the Stock Market? History Says This Could Come Next. - The Motley Fool — *The Motley Fool*
 - `09-29 18:01` MongoDB stock outlook after this week’s selloff: Should you buy the dip? - Investing.com — *Investing.com*
 - `09-29 17:50` Will President Trump Crash the Stock Market? History Says This Could Come Next. - AOL.com — *AOL.com*
-- `09-29 17:15` Realty Stocks Rally Builds Up: What Lies Ahead As Housing Demand Stays Strong - NDTV Profit — *NDTV Profit*
-- `09-29 15:59` Dr Reddy's Stock Surges Over 2%; Outperforms Peers As Nifty Pharma Bucks Broader Weakness - NDTV Profit — *NDTV Profit*
-- `09-29 15:10` Indian Stocks Are Breaking Long-Held Supports as Selloff Deepens - Bloomberg.com — *Bloomberg.com*
+- `09-29 17:15` Realty Stocks Rally Builds Up: What Lies Ahead As Housing Demand Stays Strong - ndtvprofit.com — *ndtvprofit.com*
+- `09-29 15:59` Dr Reddy's Stock Surges Over 2%; Outperforms Peers As Nifty Pharma Bucks Broader Weakness - ndtvprofit.com — *ndtvprofit.com*
+- `09-29 15:10` Indian Stocks Are Breaking Long-Held Supports as Selloff Deepens - Bloomberg — *Bloomberg*
