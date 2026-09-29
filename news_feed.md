@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-29 11:39 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-29 18:44 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -9,77 +9,76 @@
 - **D-2** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `09-29 11:38` 美 금리 5%보다 무섭다…코스피 새 변수는 'AI 투자 차질' - newspim.com — *newspim.com*
-- `09-29 11:33` 출발증시 2부 - 한국경제TV — *한국경제TV*
-- `09-29 11:20` 코스피, 美국채금리 부담에 보합세 지속…장중 반짝 상승도 - v.daum.net — *v.daum.net*
-- `09-29 11:01` 코스피, 낙폭 줄이며 보합권 등락… 반도체 대형주 ‘저가 매수’ 반등 - Chosunbiz — *Chosunbiz*
-- `09-29 10:34` 마이크론 실적 발표 "미국 증시에 변곡점" 평가, 코스피 반등에도 핵심 변수 - 비즈니스포스트 — *비즈니스포스트*
-- `09-29 10:28` 코스피, 美국채금리·국제유가 상승에 하락세 지속 - 연합뉴스TV — *연합뉴스TV*
-- `09-29 10:19` 거래소 "적극적 배당·자사주 소각이 코스피 프리미엄 가장 확실한 길" - 연합인포맥스 — *연합인포맥스*
-- `09-29 10:16` 코스피,美국채금리 부담 속 6,800대...삼전닉스 소폭 상승 - 서울이코노미뉴스 — *서울이코노미뉴스*
+- `09-29 18:25` [중국증시-마감] 저가 매수세·정책 지원 약속 등에 상승 - news.einfomax.co.kr — *news.einfomax.co.kr*
+- `09-29 18:22` 미국채 금리발작은 인과응보…그래도 증시 낙관론 외치는 이유 [특파원 인사이트] - 매일경제 마켓 — *매일경제 마켓*
+- `09-29 18:17` 코스피, 금리·유가 악재에 이틀 연속 내림세…코스닥은 반등 - 더나은미래 — *더나은미래*
+- `09-29 18:13` 외인 3조 '매도 폭탄'…코스피 6870선 후퇴 - v.daum.net — *v.daum.net*
+- `09-29 17:43` [도쿄증시-마감] AI·반도체주 약세에 하락 - news.einfomax.co.kr — *news.einfomax.co.kr*
+- `09-29 17:42` 치솟는 유가·국채 금리…美 증시 휘청이자 아시아도 '미끌'[Asia마감] - 머니투데이 - 머니투데이 — *머니투데이*
+- `09-29 17:42` 증시 주인공 된 자산운용사…주가 최대 변수됐다 - 한국경제 — *한국경제*
+- `09-29 17:28` “배당락 맞은 삼성전자 급반전”...外人 3조 던진 코스피는 하락 - ekn.kr — *ekn.kr*
 
 ## 🇰🇷 반도체·HBM
-- `09-29 11:34` 서남권 반도체공장 설립 맞춰 서남권 대학 3년 내 인재 2만3천명 공급 - hani.co.kr — *hani.co.kr*
-- `09-29 11:22` "SK하이닉스 310만원→264만원" 환율 하락에 목표가↓…삼성전기, IT 부품 중 가장 심한 공급 부족 [株토피아] - v.daum.net — *v.daum.net*
-- `09-29 11:20` 삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자 - 디일렉 — *디일렉*
-- `09-29 11:17` 코스피 급락 후 '반등'…삼성전자·SK하이닉스 '분전' > 뉴스 - 지데일리 — *지데일리*
-- `09-29 11:12` 대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰자 선정 - 서울경제TV — *서울경제TV*
-- `09-29 11:03` OCI, 전북 반도체 특화단지 앵커기업 참여…소재사업 확대 - 신아일보 — *신아일보*
-- `09-29 11:03` 추미애 “반도체가 만든 추가세수, 생산 거점에 재투자해야” - incheonilbo.com — *incheonilbo.com*
-- `09-29 11:01` 코스피, 낙폭 줄이며 보합권 등락… 반도체 대형주 ‘저가 매수’ 반등 - Chosunbiz — *Chosunbiz*
+- `09-29 18:26` 서운석 "15년 쌓은 현장 교육 노하우가 충북반도체고의 가장 큰 경쟁력" - v.daum.net — *v.daum.net*
+- `09-29 18:18` [기업] SK 하이닉스, 협력사 R&D 비용 최대 50% 선제 지원 - ytn.co.kr — *ytn.co.kr*
+- `09-29 18:17` 서울대 AI반도체혁신연구소 출범...LG·퓨리오사AI 등과 산학 연구 - 더에이아이 — *더에이아이*
+- `09-29 18:14` "韓, 초격차 유지해야 우위 굳힌다… 정부 R&D 뒷받침 필수" [반도체 호황의 그림자] - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `09-29 18:09` [인기검색TOP5] HLB제약, 테라뷰, 뷰노, MDS테크, 한미반도체 - 매일경제 마켓 — *매일경제 마켓*
+- `09-29 18:05` TSMC, 美 텍사스에 두 번째 반도체 기지 추진… 댈러스에 웨이퍼 공장 6곳 검토 - 조선비즈 - biz.chosun.com — *biz.chosun.com*
+- `09-29 18:05` '삼전닉스 호재' 내년 HBM 판매단가 2배 이상 증가한다고 - 이코노미스트 — *이코노미스트*
+- `09-29 18:04` “삼성전자 안산다”더니…AI 비관론자, SK하이닉스까지 담았다 - ekn.kr — *ekn.kr*
 
 ## 🇰🇷 금융주
-- `09-29 11:02` KB금융 ‘서강대 라인’ 3년 새 0명→7명…‘그룹 금고지기’ CFO 3명 연속 서강대 - 뉴스필드 — *뉴스필드*
-- `09-29 10:41` 삼성금융·4대 금융지주 뭉친 '생산적금융 펀드' 나온다 - 연합인포맥스 — *연합인포맥스*
-- `09-29 10:33` KB국민카드, 에스와이폴라리스와 AI 에이전트 결제 기술 검증 - 이지경제 — *이지경제*
-- `09-29 10:31` 케이뱅크, 최고 연 3.71% ‘내맘대로 이자받는 정기예금’ 출시 - 이지경제 — *이지경제*
-- `09-29 10:23` [2026 정무위 국감] ①셀프연임에 칼날 세운 국회..금융지주 지배구조·내부통제 겨냥 - 한국정경신문 — *한국정경신문*
-- `09-29 10:19` [뉴스락 주식네비] 우리금융지주, 3분기 영업익 42%↑... 환율 하락도 '호재' - 뉴스락 — *뉴스락*
-- `09-29 10:13` 베스핀글로벌, JB금융그룹 AX…기업여신심사에 AI 투입 - 뉴시스 — *뉴시스*
-- `09-29 09:41` 고금리 장기화 가능성…은행주 추가 상승 기대 커지나 - 매일신문 — *매일신문*
+- `09-29 17:43` [뱅크 NOW] NH농협은행·NH농협금융지주·케이뱅크 - 위키리크스한국 — *위키리크스한국*
+- `09-29 17:22` KB금융, 여자아마추어 골프선수권 30일 개막…우승자 KLPGA 출전권 - 라이센스뉴스 — *라이센스뉴스*
+- `09-29 17:14` [하나금융 청라시대②] 인천시금고 고배에 아쉬운 첫 출발, '노조 갈등' '업무 효율화' 조속 해결 과제로 - 비즈니스포스트 — *비즈니스포스트*
+- `09-29 17:11` iM금융 차기 회장 인선 돌입… 황병우 연임 여부 '주목' - 이코리아 — *이코리아*
+- `09-29 17:03` 하나은행, 베니스 비엔날레 2회 초청 오지윤 작가 특별전 - 이지경제 — *이지경제*
+- `09-29 17:02` SBI저축은행, 장애인 금융사기 막는다…맞춤형 예방교육 실시 - 이지경제 — *이지경제*
+- `09-29 16:59` [금융지주 풍향계] 진옥동 “토큰화 새 금융 인프라” 外 - ekn.kr — *ekn.kr*
+- `09-29 16:41` [오늘의 금융지주] KB금융·우리금융·신한금융 - 파이낸셜리뷰 — *파이낸셜리뷰*
 
 ## 🇰🇷 정책·거시
-- `09-28 13:20` 낡은 주거지, 새 아파트로…'모아주택 1호' 방문한 吳 "부동산 시장 안정 시킬 대책&quo... - edaily.co.kr — *edaily.co.kr*
-- `09-28 11:41` “15억 이하 아파트 상승”…1년 뒤를 내다본 ‘족집게 전망’ 다시 온다 [헤럴드머니페스타 2026] - biz.heraldcorp.com — *biz.heraldcorp.com*
-- `09-28 06:31` 전문가 70% "추가 부동산 대책 필요" ... 최우선 과제는 '전월세시장 안정' - queen.co.kr — *queen.co.kr*
+- `09-28 11:41` “15억 이하 아파트 상승”…1년 뒤를 내다본 ‘족집게 전망’ 다시 온다 [헤럴드머니페스타 2026] - 헤럴드경제 — *헤럴드경제*
+- `09-28 06:31` 전문가 70% "추가 부동산 대책 필요" ... 최우선 과제는 '전월세시장 안정' - Queen 이코노미퀸 — *Queen 이코노미퀸*
 - `09-28 05:06` 다음 카드는 '전월세 안정'…전문가 70% "추가 대책 필요" - v.daum.net — *v.daum.net*
 
 ## 🌍 AI·빅테크
-- `09-29 11:07` OpenAI apologises for hack, pledges funding to fight rogue AI agents - AFR — *AFR*
-- `09-29 11:01` OpenAI to fund Australian cyber defences, form AI risk taskforce after government website breach - CNBC TV18 — *CNBC TV18*
-- `09-29 10:37` OpenAI says AI models accessed Australian government systems with - Global Banking & Finance Review — *Global Banking & Finance Review*
-- `09-29 09:47` YCO Cloud, Aolani to deploy 10,000 NVIDIA AI chips to boost Philippine AI capacity - Manila Bulletin — *Manila Bulletin*
-- `09-29 07:47` OpenAI Cancels Astra AI Model Release After Safety Testing Concerns - Global Banking & Finance Review — *Global Banking & Finance Review*
-- `09-29 06:18` What Nvidia's $150 billion stock buyback means for shareholders and potential investors - Yahoo Finance — *Yahoo Finance*
-- `09-29 02:07` Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day - Yahoo Finance — *Yahoo Finance*
-- `09-29 01:22` Biossil hits unicorn status with new OpenAI-led financing - BetaKit — *BetaKit*
+- `09-29 16:38` NVIDIA engages insurers to share risks in AI chip financing - 富途牛牛 — *富途牛牛*
+- `09-29 16:35` Nvidia Looks to Insurers to Backstop AI Chip Loans, Spreading Compute Financing Risk - finance.biggo.com — *finance.biggo.com*
+- `09-29 16:12` OpenAI apologises for Australian government website hack, pledges to rebuild trust - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `09-29 15:43` Nvidia is quietly pushing AI data center risk onto insurance companies - Startup Fortune — *Startup Fortune*
+- `09-29 14:24` Nvidia turns to insurers to spread risk of AI build-out - FT - Yahoo Finance UK — *Yahoo Finance UK*
+- `09-29 13:41` OpenAI Delays GPT-6.1 Astra Release Over Safety Concerns - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `09-29 13:05` Nvidia turns to insurers to spread the risk of AI build-out - Financial Times — *Financial Times*
+- `09-29 12:51` Goldman Sachs projects $1.2T in AI infrastructure capex by 2027 as energy becomes key bottleneck - TradingView — *TradingView*
 
 ## 🌍 연준·금리
-- `09-29 11:34` Dollar holds near two-month peak as yields rise, Fed data looms - The Mighty 790 KFGO — *The Mighty 790 KFGO*
-- `09-29 11:23` Dollar Holds Near Two-Month High With Fed Data In Focus - BusinessToday Malaysia — *BusinessToday Malaysia*
-- `09-29 11:12` United States Dollar Index strengthens as oil surge bolster Fed rate hike bets - fxstreet.com — *fxstreet.com*
-- `09-29 05:28` October Fed rate hike hinges on two looming economic reports - thestreet.com — *thestreet.com*
-- `09-29 05:07` Stocks fall as higher oil prices, Treasury yields weigh - The Detroit News — *The Detroit News*
-- `09-29 04:50` Gold’s lustre dims as Treasury yields surge, markets bet on higher Fed rates - WTVB — *WTVB*
-- `09-29 04:14` Hassett: Fed rate has 'not a lot of room to go up from here' - American Banker — *American Banker*
-- `09-29 03:50` What makes the Federal Reserve decide to raise or lower interest rates? - Chase Bank — *Chase Bank*
+- `09-29 17:48` Dow Jones futures remain mixed as Fed rate hike concerns weigh on markets - FXStreet — *FXStreet*
+- `09-29 17:36` UBS Report: S&P 500 Forward P/E Falls 17%; Fed Rate Path to Determine Market Outlook - KuCoin — *KuCoin*
+- `09-29 17:32` The Odds of the Fed Ramping Up Its Rate-Hiking Cycle Are Skyrocketing, and 4 Variables -- 2 Directly Tied to President Donald Trump -- Are to Blame - The Motley Fool — *The Motley Fool*
+- `09-29 16:52` Treasury yields ease as inflation concerns persist - CNBC — *CNBC*
+- `09-29 16:04` Dollar firms near two-month peak as oil, US yields rise; jobs data looms - The Mighty 790 KFGO — *The Mighty 790 KFGO*
+- `09-29 15:32` Australia raises interest rates to 15-year high - Al Jazeera — *Al Jazeera*
+- `09-29 13:11` Dollar hold near two-month peak as yields rise, Fed data looms - CNBC — *CNBC*
+- `09-29 11:12` United States Dollar Index strengthens as oil surge bolster Fed rate hike bets - FXStreet — *FXStreet*
 
 ## 🌍 유가·지정학
-- `09-29 11:12` Oil extends gains as U.S.-Iran stalemate overshadows Saudi flows - Yahoo Finance UK — *Yahoo Finance UK*
-- `09-29 10:00` Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ — *WSJ*
-- `09-29 09:50` Oil Rises Amid Deadlock in U.S.-Iran Ceasefire Talks - WSJ — *WSJ*
-- `09-29 09:42` Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz - Al Jazeera — *Al Jazeera*
-- `09-29 09:33` Oil prices rise for second session on continued Middle East supply concern - Reuters — *Reuters*
-- `09-29 09:00` How Gulf oil is being shuttled through Hormuz - agbi.com — *agbi.com*
-- `09-29 08:36` Trump’s Iran strategy is working — the ayatollah suffers as oil flows again - New York Post — *New York Post*
-- `09-29 08:35` Oil Climbs After Trump Nixes Iran Deal - But Negotiations Are Ongoing, Say Officials - shipandbunker.com — *shipandbunker.com*
+- `09-29 18:35` Iran war: Oil remains well supported as Trump rejects Iran’s proposal - engine.online — *engine.online*
+- `09-29 18:30` India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `09-29 18:29` Trump Denies Offering Iran Sanctions Relief as Hormuz Dispute Weighs on Oil Markets - Межа. Новини України. — *Межа. Новини України.*
+- `09-29 18:17` Iran parliament speaker warns no one in region will sell oil if Tehran cannot - Anadolu Ajansı — *Anadolu Ajansı*
+- `09-29 18:08` Violinist Rhett Price marries hip-hop with oil paintings on new album - Worcester Magazine — *Worcester Magazine*
+- `09-29 18:01` Mideast Oil Exports Rebound Even as Prices Remain Elevated - The New York Times — *The New York Times*
+- `09-29 17:37` How Asia Has Survived the Energy Crisis - The New York Times — *The New York Times*
+- `09-29 17:32` Iran’s Qalibaf: If Iran cannot sell its oil, no one can in the region - Mitrade — *Mitrade*
 
 ## 🌍 시장 전반
-- `09-29 11:31` India Stock Bulls Pin Hopes on Corporate Earnings as Market Selloff Deepens - Bloomberg — *Bloomberg*
-- `09-29 07:24` TSX falls to lowest close since July as gold selloff hammers materials - Investing.com Canada — *Investing.com Canada*
-- `09-29 07:11` Treasuries Stabilize After Selloff, Stocks Decline: Markets Wrap - Bloomberg — *Bloomberg*
-- `09-29 05:02` SA analyst warns that tech stocks could join the market selloff - Seeking Alpha — *Seeking Alpha*
-- `09-29 05:02` SA analyst warns that tech stocks could join the market selloff - TradingView — *TradingView*
-- `09-29 04:05` Can The Record Stock Market Rally Hold Through Year-End? 4 Tests To Watch - Benzinga — *Benzinga*
-- `09-29 03:27` SpaceX stock: Could a market crash create a buying opportunity for investors? | Business News - Hindustan Times — *Hindustan Times*
-- `09-29 02:19` European shares muted as oil and bond pressures offset UK homebuilder rally - Reuters — *Reuters*
+- `09-29 18:06` Will President Trump Crash the Stock Market? History Says This Could Come Next. - The Motley Fool — *The Motley Fool*
+- `09-29 18:01` MongoDB stock outlook after this week’s selloff: Should you buy the dip? - Investing.com — *Investing.com*
+- `09-29 17:50` Will President Trump Crash the Stock Market? History Says This Could Come Next. - AOL.com — *AOL.com*
+- `09-29 17:15` Realty Stocks Rally Builds Up: What Lies Ahead As Housing Demand Stays Strong - NDTV Profit — *NDTV Profit*
+- `09-29 15:59` Dr Reddy's Stock Surges Over 2%; Outperforms Peers As Nifty Pharma Bucks Broader Weakness - NDTV Profit — *NDTV Profit*
+- `09-29 15:10` Indian Stocks Are Breaking Long-Held Supports as Selloff Deepens - Bloomberg.com — *Bloomberg.com*
+- `09-29 15:03` Oil prices rise as bond sell-off hits global markets - Euronews.com — *Euronews.com*
+- `09-29 14:06` Stock market crash today: BSE Sensex continues to be in bear grip; Nifty50 below 22,600 - top reasons for - The Times of India — *The Times of India*
