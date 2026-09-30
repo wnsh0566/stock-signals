@@ -1,6 +1,6 @@
 # 📅 매크로 캘린더 대조 (자동 수집)
 
-> 생성: 2026-09-30 19:29 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
+> 생성: 2026-09-30 19:45 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
 > ⚠️ 소싱 전용 — 등재 여부 판단·실제 등재는 사람이(정본 = _automation/calendar.json → 리포 붙여넣기).
 > ✓ = 같은 KST 날짜에 등재 이벤트 있음(내용 일치까지 보장 안 함 — 라벨 육안 대조) / ⚠️ = 그 날짜에 등재 0건.
 
@@ -24,7 +24,7 @@
 | 2026-10-01 | 02:30 | USD | Low | FOMC Member Barkin Speaks | ✓ |
 | 2026-10-01 | 04:25 | USD | Low | FOMC Member Cook Speaks | ✓ |
 | 2026-10-01 | 06:10 | USD | Low | FOMC Member Goolsbee Speaks | ✓ |
-| 2026-10-01 | 07:00 | USD | Low | FOMC Member Kashkari Speaks | ✓ |
+| 2026-10-01 | 07:00 | USD | Medium | FOMC Member Kashkari Speaks | ✓ |
 | 2026-10-01 | 08:50 | JPY | Low | BOJ Summary of Opinions | ✓ |
 | 2026-10-01 | 17:00 | EUR | Low | Italian Monthly Unemployment Rate | ✓ |
 | 2026-10-01 | 18:00 | EUR | Low | Unemployment Rate | ✓ |
