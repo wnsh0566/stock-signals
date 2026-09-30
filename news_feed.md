@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-09-30 20:10 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-09-30 20:21 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -58,7 +58,7 @@
 ## 🌍 연준·금리
 - `09-30 20:02` Why Fed's Barr thinks we might not be done raising interest rates yet - Detroit Free Press — *Detroit Free Press*
 - `09-30 19:51` A hawkish Federal Reserve won’t deliver bullish hikes - Oxford Economics — *Oxford Economics*
-- `09-30 19:00` FOMC Polymarket Odds: A Rate Hold Regains the Edge in October Pricing - Cryptonews — *Cryptonews*
+- `09-30 19:00` FOMC Polymarket Odds: A Rate Hold Regains the Edge in October Pricing - cryptonews.com — *cryptonews.com*
 - `09-30 17:30` US core PCE inflation expected to increase, challenging the Fed - FXStreet — *FXStreet*
 - `09-30 17:23` One Sentence From Fed Chair Kevin Warsh Delivers a Dire Warning to Wall Street and Investors - The Motley Fool — *The Motley Fool*
 - `09-30 15:38` Cardiff, Inc. Helps Small Businesses Navigate Latest Fed Rate Hike - PR Underground — *PR Underground*
@@ -66,6 +66,7 @@
 - `09-30 15:06` Asian Equities Mostly Rise as Reduced Fed Rate-Hike Prospects Bolster Risk Appetite - WSJ — *WSJ*
 
 ## 🌍 유가·지정학
+- `09-30 20:09` Iraq Deepens October Crude Price Discounts to as Much as $37 - Bloomberg.com — *Bloomberg.com*
 - `09-30 19:30` China's Thermal Coal Prices Surge to Three-Year High - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `09-30 19:02` Oil tanker hit by unknown projectile in Strait of Hormuz: Maritime agency - Anadolu Ajansı — *Anadolu Ajansı*
 - `09-30 18:05` Heating oil price anxiety hits NH and Maine. Here are resources - Foster's Daily Democrat — *Foster's Daily Democrat*
@@ -73,9 +74,9 @@
 - `09-30 16:59` Oil prices fall on higher Hormuz flows, US reserve release plans - Anadolu Ajansı — *Anadolu Ajansı*
 - `09-30 16:37` Oil Prices React as Trump Denies Easing Sanctions on Iran - Global Banking & Finance Review — *Global Banking & Finance Review*
 - `09-30 16:30` Strait of Hormuz oil flows near pre-war levels as Iran’s grip slips and Brent’s war premium fades - Oil & Gas Middle East — *Oil & Gas Middle East*
-- `09-30 16:12` Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks - CNBC — *CNBC*
 
 ## 🌍 시장 전반
+- `09-30 20:10` The Bond Market Sell-Off Could Be a Red Flag for Wall Street, and History Says Investors Should Make This 1 Move - The Motley Fool — *The Motley Fool*
 - `09-30 19:13` COMMENTARY: Mapping the Market: S&P 500 remains on the road to rally, but indecision runs high - Reuters — *Reuters*
 - `09-30 18:59` Asia report: Stocks mixed but tech rally boosts Tokyo shares - sharecast.com — *sharecast.com*
 - `09-30 18:30` A rare signal is flashing in the market that suggests the bull rally in stocks is about to peak - Business Insider — *Business Insider*
@@ -83,4 +84,3 @@
 - `09-30 18:20` One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally. - MarketWatch — *MarketWatch*
 - `09-30 17:49` Tega Industries shares jump 6% | What's driving the stock's 30% monthly rally? - TradingView — *TradingView*
 - `09-30 16:19` South Korea's Stock Market Faces Heavy Sell-off, Impacting SMCI - GuruFocus — *GuruFocus*
-- `09-30 16:10` Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone - The Economic Times — *The Economic Times*
