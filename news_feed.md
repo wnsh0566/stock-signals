@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-01 11:18 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-01 19:02 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -9,76 +9,77 @@
 - **D-DAY** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `10-01 10:46` 코스피 약보합...반도체 소부장 강세에 코스닥 2%대 상승[fn오전시황] - v.daum.net — *v.daum.net*
-- `10-01 10:41` 한투證 “美·中 증시, 박스권 벗어날 때…10월 상승 탄력 커진다” - 디지털데일리 — *디지털데일리*
-- `10-01 10:28` 미래에셋, 'TIGER 200 ETF' 코스피200 ETF 중 연초 이후 수익률 1위 - 인포스탁데일리 — *인포스탁데일리*
-- `10-01 10:24` 美국채금리 부담에 코스피 6800선 하회…삼전닉스 약보합 - 서울경제TV — *서울경제TV*
-- `10-01 10:18` 코스피 미국 국채금리 부담에 장중 하락해 6810선, 코스닥은 1%대 상승 - 비즈니스포스트 — *비즈니스포스트*
-- `10-01 10:11` 코스피 6810선 주춤…코스닥은 반도체 타고 1% 쑥 - 경제타임스 — *경제타임스*
-- `10-01 10:07` [개장] 뉴욕증시, 물가 둔화에도 혼조 마감..나스닥만 반등 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
-- `10-01 10:04` [개장] 코스피, 마이크론 훈풍불구 금리·유가 ‘발목’… 삼전닉스 약세 - IT조선 — *IT조선*
+- `10-01 18:41` [오늘의증시] 코스피 7000선 ‘눈앞’…반도체·수출이 끌고 코스닥은 4.5% 급등 - 경인방송 뉴스 — *경인방송 뉴스*
+- `10-01 18:33` 美 국채금리 부담 뚫은 반도체 훈풍…코스피, 7000선 재탈환 코앞 - futurechosun.com — *futurechosun.com*
+- `10-01 18:16` 마이크론 훈풍에 코스피 6900선 회복…코스닥 4%대 급등 - v.daum.net — *v.daum.net*
+- `10-01 18:11` 자사주 다 샀고 외국인 떠나고… 반도체 실적만 보는 코스피 - v.daum.net — *v.daum.net*
+- `10-01 18:06` "증시 경보, 매매제한 유연하게 운용해야…AI 활용엔 실질적 통제 필요" - 연합인포맥스 — *연합인포맥스*
+- `10-01 17:59` [1001마감체크] 코스피, 마이크론 실적 훈풍에 상승... 6970선 회복 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
+- `10-01 17:53` [도쿄증시-마감] 반도체주 강세에 닛케이 3%대 급등 - 연합인포맥스 — *연합인포맥스*
+- `10-01 17:45` 코스피 7000선 턱밑 반등…반도체 훈풍에 코스닥 4.48% 급등 - 경북매일 — *경북매일*
 
 ## 🇰🇷 반도체·HBM
-- `10-01 11:14` SK하이닉스 "솔리다임 자본조달 결정된 사항 없어…주주가치 최우선 고려" - zdnet.co.kr — *zdnet.co.kr*
-- `10-01 11:11` SK하이닉스, 솔리다임 상장 우려에 "주주가치가 최우선" - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `10-01 11:05` SK하이닉스 "솔리다임 상장 결정된 것 없어, 주주가치 최우선 고려" - 비즈니스포스트 — *비즈니스포스트*
-- `10-01 11:05` 中매체 "美, 동맹 반도체기업에 '지리적 中의존' 축소 요구" - yna.co.kr — *yna.co.kr*
-- `10-01 11:00` 팹리스 점유율 1% 안팎…한국 반도체 두 번째 승부 - 자본시장뉴스 — *자본시장뉴스*
-- `10-01 10:58` 9월 수출 1200억달러 '초유의 기록'…'반도체·AI' 수퍼 사이클 - 한국경제 — *한국경제*
-- `10-01 10:57` 액트 "솔리다임 상장, SK하이닉스 주주가치 훼손 우려…재검토하라" - 연합인포맥스 — *연합인포맥스*
-- `10-01 10:57` SK하이닉스 "솔리다임 자본 활용 방안 미정…주주가치 최우선" - v.daum.net — *v.daum.net*
+- `10-01 18:41` [오늘의증시] 코스피 7000선 ‘눈앞’…반도체·수출이 끌고 코스닥은 4.5% 급등 - 경인방송 뉴스 — *경인방송 뉴스*
+- `10-01 18:33` 반도체 장비 하나 들이는데 한달…규제 빗장 푼다 [절제의 미학, 탈규제 세계로] - v.daum.net — *v.daum.net*
+- `10-01 18:33` 美 국채금리 부담 뚫은 반도체 훈풍…코스피, 7000선 재탈환 코앞 - futurechosun.com — *futurechosun.com*
+- `10-01 18:25` 마이크론 "NVHBM, 자체 베이스다이 빠져도 수익성↑" - 디일렉 — *디일렉*
+- `10-01 18:19` 세미파이브, 로봇용 AI 반도체 개발 속도...고객사 다변화 나선다 - 블로터 — *블로터*
+- `10-01 18:11` 자사주 다 샀고 외국인 떠나고… 반도체 실적만 보는 코스피 - v.daum.net — *v.daum.net*
+- `10-01 18:04` 에티포스, V2X 반도체 장비 국내외 인증 확보…시리즈 C 멀티클로징 개시 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `10-01 18:03` 반도체 학과에 몰린 수험생…영진전문대 지원자 두 배 가까이 늘어 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
-- `10-01 11:11` 하나금융, 발달장애 예술가 조태성 개인전…창작 활동 지원 확대 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-01 10:55` 반도체 대형주는 순매수, 소부장은 차익실현 [주식 초고수는 지금] - 매일경제 — *매일경제*
-- `10-01 10:50` 증권사 하반기 채용 확대…AI 글로벌 직무 신설 - 자본시장뉴스 — *자본시장뉴스*
-- `10-01 10:22` 연말 CEO 인사 앞둔 금융지주…하나·우리·BNK, 승계절차 잇따라 강화 - 데일리팝 — *데일리팝*
-- `10-01 10:10` 한화투자증권, 최대 9000억 자본 확충 결의 - 자본시장뉴스 — *자본시장뉴스*
-- `10-01 10:00` [금융지주 임원 인사 전망] [KB금융] 회장 된 이재근, 홀로 남은 '부회장급' 이창권…'용퇴' 카드 꺼낼까 - 딜사이트 — *딜사이트*
-- `10-01 09:58` KB금융지주, 93조 생산적 금융 AI·반도체로…CET1 13.74% 기반 성장투자·3.7조 주주환원 병행 - 업코리아 — *업코리아*
-- `10-01 09:56` 우리금융지주, 은행장 경영승계절차 개시…선임 절차 대폭 개선 - BBS불교방송 — *BBS불교방송*
+- `10-01 18:23` 르노코리아, 부산에 미래차 기지 짓는다 - 부산일보 — *부산일보*
+- `10-01 18:02` 포스코, 우리금융지주 지분 전량 매각…실탄 6700억원 확보 - 머니투데이 - 머니투데이 — *머니투데이*
+- `10-01 17:50` “보험·증권 시너지 터졌다…우리금융지주, 2026년 순이익 3조 클럽 가입 확실시” - newsquest.co.kr — *newsquest.co.kr*
+- `10-01 17:49` 금융사 CEO 인선 본격화…승계절차 잇단 손질 - 서울경제TV — *서울경제TV*
+- `10-01 17:40` “4조3000억 역대 최대 실적에 두나무 지분까지…완벽해진 하나금융지주의 3분기” - newsquest.co.kr — *newsquest.co.kr*
+- `10-01 17:35` 포스코, 우리금융지주 지분 전량 매각…6765억원 현금화 - 뉴스핌 — *뉴스핌*
+- `10-01 17:31` 하나금융 '청라 시대 본격화' 계열사 순차 이전 - 세이프머니 — *세이프머니*
+- `10-01 17:30` 금감원 ‘이너서클’ 경고…금융지주, 자회사에 CEO 추천권 넘겼다 - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 정책·거시
+- `10-01 18:03` 재경1차관에 권대영 금융위 부위원장…가계부채 대책 이끈 ‘금융전문가’ - 아시아투데이 — *아시아투데이*
+- `10-01 14:24` 권대영 재경부 1차관 '히든카드' 꺼내든 정부…부동산·가계부채 정면돌파 - KB Think — *KB Think*
 - `09-30 09:38` 대출 이자 최대 1천만원 지원…중국 부동산 추가 대책 내놔 - edaily.co.kr — *edaily.co.kr*
 - `09-30 08:30` 정부 부동산 대책 때린 윤희숙 - 뉴스1 — *뉴스1*
-- `09-29 20:30` [현장] "집값을 강남 주민이 올렸나"…고동진, 주민들과 '李정부' 부동산 실책 질타 - 데일리안 — *데일리안*
 
 ## 🌍 AI·빅테크
-- `10-01 04:39` AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst - AOL.com — *AOL.com*
+- `10-01 14:15` Korean investors join Nvidia in $668 million GMI Cloud funding - KED Global — *KED Global*
+- `10-01 11:26` South Korea's KB Financial, Other Domestic Capital Join Nvidia in $668 Million Investment in U.S.-Based GMI Cloud - finance.biggo.com — *finance.biggo.com*
+- `10-01 08:30` Nvidia Asks Insurers To Take On AI Lending Risk - Bisnow — *Bisnow*
+- `10-01 04:39` AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst - aol.com — *aol.com*
+- `10-01 03:15` DeepSeek and Huawei Open-Source Toolkit Aims to Loosen Nvidia's CUDA Lock on AI Developers - finance.biggo.com — *finance.biggo.com*
 - `10-01 00:31` OpenAI Reportedly Targets At Least $30 Billion Funding At $1.4 Trillion Valuation - Pulse 2.0 — *Pulse 2.0*
-- `10-01 00:20` Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - AOL.com — *AOL.com*
+- `10-01 00:20` Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - aol.com — *aol.com*
 - `09-30 23:14` OpenAI reportedly targets $1.4 trillion valuation in new $30 billion funding round - The American Bazaar — *The American Bazaar*
-- `09-30 22:05` OpenAI Ignored Internal Warnings Before AI Hacking Incident - finance.biggo.com — *finance.biggo.com*
-- `09-30 21:26` NVDA Stock Eyes Third Straight Monthly Gain: Nvidia Adds Data Center Digital Twin Deal - TradingView — *TradingView*
-- `09-30 21:10` OpenAI Reportedly in Talks to Raise $30 Billion at $1.4 Trillion Valuation Ahead of IPO - Tekedia — *Tekedia*
-- `09-30 20:07` Nvidia CEO Jensen Huang: AI data center buildout could create 1 million jobs and reshape the US economy - AOL.com — *AOL.com*
 
 ## 🌍 연준·금리
-- `10-01 11:12` Reduced Urgency For Fed To Raise Rates As Inflationary Pressure Eases - BusinessToday Malaysia — *BusinessToday Malaysia*
-- `10-01 10:52` US inflation cools to 3.4% in August as spending jumps 0.9%. What it means for Fed rates - Firstpost — *Firstpost*
-- `10-01 10:33` Dollar gets lift from higher yields - KELO-AM — *KELO-AM*
-- `10-01 10:15` News | Will the Bank of Canada follow the Federal Reserve and raise rates? Inflation will decide. - CoStar — *CoStar*
-- `10-01 09:55` Gold steady as softer US inflation data tempers Fed rate-hike bets - The Business Times — *The Business Times*
-- `10-01 09:44` Federal Reserve watchdog clears Powell in headquarters renovation saga - Scotsman Guide — *Scotsman Guide*
-- `10-01 09:35` Minneapolis Fed President Strikes Hawkish Tone: Inflation Spreading to Services, Expects One More Rate Hike This Year - finance.biggo.com — *finance.biggo.com*
-- `10-01 08:44` Trump renews calls for former Federal Reserve chief Jerome Powell's resignation - France 24 — *France 24*
+- `10-01 17:37` Uh-Oh! The Latest September Inflation Forecast Spells Trouble for Wall Street, and It's Not Just Energy Prices to Blame. - The Motley Fool — *The Motley Fool*
+- `10-01 16:20` Fed Rate Hike: Proven Money Moves for Women Founders - Grit Daily News — *Grit Daily News*
+- `10-01 16:14` Gold Steady as Softer Inflation Data Tempers Fed Rate-Hike Bets - Bloomberg.com — *Bloomberg.com*
+- `10-01 15:22` Gold Rises on Soft US PCE Inflation Data - TradingView — *TradingView*
+- `10-01 13:48` Gold steadies as cooler US inflation data counters higher Treasury yields - Reuters — *Reuters*
+- `10-01 12:51` Goldman Sachs pushes Fed rate hike forecast to December - Reuters — *Reuters*
+- `10-01 12:22` Asian Stocks Split as Softer US Inflation Cools Fed Rate Hike Bets, Bond Yields Stay High - Межа. Новини України. — *Межа. Новини України.*
+- `10-01 10:30` US Federal Reserve’s Kashkari says US central bank must lower inflation pressures - The Straits Times — *The Straits Times*
 
 ## 🌍 유가·지정학
-- `10-01 10:10` Oil prices barely changed as investors assess US-Iran peace talks and Gulf exports - Reuters — *Reuters*
-- `10-01 09:00` Iran's Disappearing Oil Is Becoming Everyone's Problem - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-01 08:58` The Hormuz Paradox: Why Oil Prices Remain High Despite a Surge in Flows? - Anas Alhajji | Substack — *Anas Alhajji | Substack*
-- `10-01 08:05` U.S.-Iran Talks Stall, Oil Prices Surge in September as Brent Jumps 14% for the Month - finance.biggo.com — *finance.biggo.com*
-- `10-01 07:00` Venezuela's Oil Revival Accelerates as Foreign Companies Return - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-01 06:51` How the U.S. got oil shipments moving and what it would take to bring prices down - The Washington Post — *The Washington Post*
-- `10-01 06:50` Strait of Hormuz upheaval a ‘supply chain nightmare’ for leading oil and gas contractors - Upstream Online — *Upstream Online*
-- `10-01 06:00` Can Quantum Computing Tame AI's Energy Appetite - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-01 18:33` UAE's Fujairah restores some fuel oil supplies despite Hormuz disruption, boosts Asia exports - Reuters — *Reuters*
+- `10-01 18:21` These charts show how volatile the last quarter was for stocks and bonds - CNBC — *CNBC*
+- `10-01 18:06` Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why? - The New York Times — *The New York Times*
+- `10-01 18:00` Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-01 17:51` Gulf bourses subdued on recovering oil flows, mixed US-Iran signals - Reuters — *Reuters*
+- `10-01 17:25` India Oil Refiners Change Tactics and Hire Ships to Cross Hormuz - Bloomberg.com — *Bloomberg.com*
+- `10-01 17:00` Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-01 16:46` Oil Rises as Supply Concerns Persist Despite Middle East Crude Exports Recovering to Prewar Levels - wsj.com — *wsj.com*
 
 ## 🌍 시장 전반
-- `10-01 09:45` Dow Jones Pullback Nears Exhaustion as Market Breadth Signals a Rally - Investing.com Canada — *Investing.com Canada*
-- `10-01 07:21` Stock Market Today: 10-Year Treasury Yield Hits 24-Year High as Stocks Turn Mixed, Gold price at $4,159 - Eurasia Business News — *Eurasia Business News*
-- `10-01 04:45` International stocks rally in 2026 boosts Vangu... - Pluang — *Pluang*
-- `10-01 04:31` Moderna Stock Slumps as Citi Says It’s Time to Sell After 500% Rally This Year - Investopedia — *Investopedia*
-- `10-01 03:30` Michael Burry Buys Put Options on Nvidia, Micron, and Palantir as "The Big Short" Investor Predicts a 1987-Style Market Crash - The Motley Fool — *The Motley Fool*
-- `10-01 03:03` Stock Market Indexes Rally on Inflation Data, Though the Dow Sat It Out - The Motley Fool — *The Motley Fool*
-- `10-01 02:48` Stock Market Indexes Rally on Inflation Data, Though the Dow Sat It Out - The Globe and Mail — *The Globe and Mail*
-- `10-01 02:23` Stock Market Indexes Rally on Inflation Data, Though the Dow Sat It Out - Yahoo Finance — *Yahoo Finance*
+- `10-01 18:20` Why is stock market crashing today? Rs 9 lakh crore wiped out; Sensex, Nifty head for worst losing streak in 25 years - The Times of India — *The Times of India*
+- `10-01 18:07` Why is market crashing today? Sensex slumps 1,200 points, Nifty below 22,250. 5 key factors behind Rs 10 l - The Economic Times — *The Economic Times*
+- `10-01 18:04` Global bond sell-off intensifies, as UK long-term borrowing costs pass 6% - The Guardian — *The Guardian*
+- `10-01 17:48` Stock Market Crash: Five major reasons behind the ₹20 lakh crore wipe out this week - CNBC TV18 — *CNBC TV18*
+- `10-01 17:24` History Says October Is the Stock Market's Most Dangerous Month. Here's My Defensive Playbook. - The Motley Fool — *The Motley Fool*
+- `10-01 17:15` Sensex Crashes 900 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV — *NDTV*
+- `10-01 17:07` Asian Stocks Eye Rough Start After US Reversal: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `10-01 17:04` Stocks slump as bond sell-off escalates - marketscreener.com — *marketscreener.com*
