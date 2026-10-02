@@ -1,6 +1,6 @@
 # 📅 매크로 캘린더 대조 (자동 수집)
 
-> 생성: 2026-10-01 23:26 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
+> 생성: 2026-10-02 10:03 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
 > ⚠️ 소싱 전용 — 등재 여부 판단·실제 등재는 사람이(정본 = _automation/calendar.json → 리포 붙여넣기).
 > ✓ = 같은 KST 날짜에 등재 이벤트 있음(내용 일치까지 보장 안 함 — 라벨 육안 대조) / ⚠️ = 그 날짜에 등재 0건.
 
@@ -36,7 +36,7 @@
 | 2026-10-02 | 02:30 | USD | Low | FOMC Member Jefferson Speaks | ⚠️ 미등재 후보 |
 | 2026-10-02 | 04:00 | USD | Low | FOMC Member Bowman Speaks | ⚠️ 미등재 후보 |
 | 2026-10-02 | 04:30 | USD | Low | FOMC Member Cook Speaks | ⚠️ 미등재 후보 |
-| 2026-10-02 | 07:45 | USD | Low | FOMC Member Logan Speaks | ⚠️ 미등재 후보 |
+| 2026-10-02 | 08:20 | USD | Low | FOMC Member Logan Speaks | ⚠️ 미등재 후보 |
 | 2026-10-02 | 08:30 | JPY | Low | Unemployment Rate | ⚠️ 미등재 후보 |
 | 2026-10-02 | 08:50 | JPY | Low | Monetary Base y/y | ⚠️ 미등재 후보 |
 | 2026-10-02 | 21:30 | USD | High | Average Hourly Earnings m/m | ⚠️ 미등재 후보 |
