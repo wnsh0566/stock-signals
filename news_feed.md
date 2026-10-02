@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-02 20:06 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-02 20:20 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -21,11 +21,11 @@
 - `10-02 19:10` 한전, 리벨리온·TTA와 변전소 관제에 K반도체 도입…SK하닉과는 전력망 안정화 협약 - 기후에너지데이터뱅크 — *기후에너지데이터뱅크*
 - `10-02 19:01` 민형배 시장 "광주 반도체·동부 소재부품·서부 재생에너지로 생태계 구축" - BBS불교방송 — *BBS불교방송*
 - `10-02 19:01` "삼전·하이닉스 16조 던졌는데"…외국인들이 몰래 쓸어 담은 '이것'의 정체 [머니 시그널] - v.daum.net — *v.daum.net*
-- `10-02 18:58` "반도체만 품귀인 줄 알았는데"…AI 열풍에 '이것'까지 동났다 - 한국경제 — *한국경제*
-- `10-02 18:53` 한국전력, 변전소 AI 감시에 국산 AI 반도체 도입…현장 검증 착수 - paxetv.com — *paxetv.com*
+- `10-02 18:53` 한국전력, 변전소 AI 감시에 국산 AI 반도체 도입…현장 검증 착수 - 팍스경제TV — *팍스경제TV*
 - `10-02 18:38` 국산 AI반도체 성능지표 ‘K퍼프’, 한전 영상분석 실증에 첫 적용 - v.daum.net — *v.daum.net*
 - `10-02 18:17` '삼성맨'의 눈물겨운 SK하이닉스 '물타기'⋯"석 달 월급 몽땅 넣어" [개미열전①] - v.daum.net — *v.daum.net*
 - `10-02 18:12` 용인시, 반도체 투자 집중 일본 구마모토와 교류 확대 - v.daum.net — *v.daum.net*
+- `10-02 18:12` 안성시·민주당, 유천 상수원보호구역 해제·반도체 산단 조성 협력 - 아시아경제 — *아시아경제*
 
 ## 🇰🇷 금융주
 - `10-02 19:22` KB금융그룹, 국내 골프 '꿈나무 육성'대한골프협회에 3억 원 기부…안윤주, 'KB금융배 아마추어 대회'우승 - 서울뉴스통신 — *서울뉴스통신*
@@ -44,7 +44,7 @@
 - `10-01 14:24` 권대영 재경부 1차관 '히든카드' 꺼내든 정부…부동산·가계부채 정면돌파 - KB Think — *KB Think*
 
 ## 🌍 AI·빅테크
-- `10-02 19:41` Nvidia Is Underwriting the AI Boom It Sold — and Wall Street Is Starting to Ask Who Holds the Risk - AD HOC NEWS — *AD HOC NEWS*
+- `10-02 19:00` Amazon Eyes $8 Billion Nvidia Chip Sale to Investors as AI Infrastructure Costs Surge: Report - TradingView — *TradingView*
 - `10-02 18:38` Nvidia Wants Banks to Treat AI Chips Like Airplanes. Wall Street Isn’t Convinced. - Times Square Chronicles — *Times Square Chronicles*
 - `10-02 18:17` Market Chatter: Nvidia Blackwell Chips Linked to Chinese State-Backed Financing - Yahoo Finance — *Yahoo Finance*
 - `10-02 18:06` AMZN Inches Higher Premarket: Amazon Reportedly Seeks To Offload $8B Of Nvidia Chips To Investors - TradingView — *TradingView*
@@ -64,20 +64,20 @@
 - `10-02 14:48` A 50-basis-point rate hike vs. waiting longer? Divisions emerge within the Federal Reserve - 富途牛牛 — *富途牛牛*
 
 ## 🌍 유가·지정학
+- `10-02 20:17` EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters — *Reuters*
 - `10-02 19:44` Oil price drops more than 2% on talks over diesel, crude stock releases - The Lufkin Daily News — *The Lufkin Daily News*
 - `10-02 19:44` Oil price drops more than 2% on talks over diesel, crude stock releases - Euronext Markets — *Euronext Markets*
 - `10-02 19:30` JERA CEO Warns LNG Prices Have Further to Climb - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-02 19:09` Oil Extends Gain as Middle East Conflict Threatens to Escalate - Bloomberg.com — *Bloomberg.com*
-- `10-02 18:35` Singapore Shares End in Red as Oil Spikes Past $102 Amid Escalating US-Iran Tensions - Yahoo Finance Singapore — *Yahoo Finance Singapore*
 - `10-02 18:34` Major Wall Street Banks Lift Oil-Price Forecast, Survey Shows - WSJ — *WSJ*
 - `10-02 18:30` UN Says Global Fuel Subsidies Could Top $1 Trillion - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-02 18:12` Tajikistan Begins Receiving Iranian Oil, Testing New Supply Route And Extent Of US Sanctions - Radio Free Europe/Radio Liberty — *Radio Free Europe/Radio Liberty*
 
 ## 🌍 시장 전반
+- `10-02 20:18` Market Talk: Is the bond selloff coming for the AI boom? - Reuters — *Reuters*
 - `10-02 19:59` World shares mixed after global bond sell-off deepens and ahead of US jobs data - WRAL — *WRAL*
 - `10-02 19:25` London shares recover as bond sell-off eases, oil prices slip - Reuters — *Reuters*
-- `10-02 18:02` Premarket: Global shares rise as bond selloff eases before U.S. jobs - The Globe and Mail — *The Globe and Mail*
-- `10-02 13:53` Asian shares mixed after global bond sell-off deepens and ahead of US jobs data - WV News — *WV News*
+- `10-02 18:02` Premarket: Global shares rise as bond selloff eases before U.S. jobs - theglobeandmail.com — *theglobeandmail.com*
 - `10-02 13:53` Asian shares mixed after global bond sell-off deepens and ahead of US jobs data - WSYR — *WSYR*
 - `10-02 08:50` History Says a Market Crash Would Be a Buying Opportunity for These 2 Industrial Stocks - Yahoo Finance — *Yahoo Finance*
 - `10-02 07:34` Stock Market Today: Treasury Selloff Flips as 10-Year Yield Pulls Back From 24-Year High, Oil price above $101 - Eurasia Business News — *Eurasia Business News*
