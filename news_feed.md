@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-06 12:12 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-06 19:09 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -8,74 +8,74 @@
 - **D+5** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `10-06 10:40` [개장] 코스피, 하락반전… 나스닥 강세 뷸구 삼전닉스 약세 - IT조선 — *IT조선*
-- `10-06 10:33` 브라질 대선 '우파' 보우소나루 약진에…증시 단숨에 사상 최고치 - 머니투데이 - 머니투데이 — *머니투데이*
-- `10-06 10:21` [증시타임] 고용 둔화·금리 상승·원화 강세…엇갈린 시장 신호 - v.daum.net — *v.daum.net*
-- `10-06 10:18` 美 기술주 강세에 뉴욕증시 상승…나스닥 사상 최고치 경신 - 더나은미래 — *더나은미래*
-- `10-06 10:16` 코스피, 美 AI 강세에도 6,990선 하락 전환…외국인 매도 속 기관 매수 - 뉴스투데이 — *뉴스투데이*
-- `10-06 10:10` 삼전·닉스 주춤하며 코스피 7000선 공방…코스닥은 2%대 껑충 - v.daum.net — *v.daum.net*
-- `10-06 10:09` 코스피, 美 금리 부담에 강보합...코스닥은 1%대↑ - 녹색경제신문 — *녹색경제신문*
-- `10-06 10:07` 코스피, 연휴 뒤 첫 거래일 7000선 공방전…외국인 '팔자' - 서울경제TV — *서울경제TV*
+- `10-06 18:13` 삼전닉스 자사주 매입 끝난다…코스피 버팀목은? - v.daum.net — *v.daum.net*
+- `10-06 18:02` 코스피, 외인 ‘1.7조 팔자’에 7000선 반납…코스닥은 3% 급등 - 더나은미래 — *더나은미래*
+- `10-06 17:54` 코스피, 하루 만에 '7천피' 반납…코스닥은 3% 가까이 상승 - v.daum.net — *v.daum.net*
+- `10-06 17:52` [마감시황] 코스피, 반도체 숨고르기·매크로 부담에 0.89% 하락…6940선 후퇴 - 한양경제 — *한양경제*
+- `10-06 17:48` [도쿄증시-마감] 반도체 관련주 강세에 닛케이 세달 만에 7만선 상회 - 연합인포맥스 — *연합인포맥스*
+- `10-06 17:42` [마감] 코스피, 외인 팔자에 0.89% 하락…7000선 아래로 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `10-06 17:40` "2030보다 강심장이네"…증시 뛰자 '빚투 큰손' 확 바뀌었다 - 한국경제 — *한국경제*
+- `10-06 17:38` [1006마감체크] 코스피, 외국인 매도에 7000선 반납... 코스닥은 900선 회복 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
-- `10-06 11:01` "HBM 생산라인 늘려야 산다"…삼성·SK, 범용 메모리 공급망 해외이전·외주로 재편 - 아시아경제 — *아시아경제*
-- `10-06 10:58` SK하이닉스 이천 방류수...법적 기준만 넘으면 괜찮은가 - fairn.co.kr — *fairn.co.kr*
-- `10-06 10:53` 엔비디아 사상 최고가에도 SK하이닉스는 하락…왜? - 아주경제 — *아주경제*
-- `10-06 10:47` SK하이닉스 방류수 유입되는 하천, 염소·황산이온 FAO 관개용수 권고치 초과 - 사회적경제뉴스 — *사회적경제뉴스*
-- `10-06 10:40` [특징주] SK하이닉스, 솔리다임 미국 상장설 논란.. 2%대 '하락' - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-06 10:40` [AI픽] AI모델·반도체·로봇 한자리에…'AI 페스타' 개막 - v.daum.net — *v.daum.net*
-- `10-06 10:36` 한미반도체, 18년 만에 삼성과 맞손…다음은 HBM? - the-stock.kr — *the-stock.kr*
-- `10-06 10:29` '반도체 덕분에'…건설업 중 홀로 금리 스프레드 좁힌 SK에코플랜트 - 연합인포맥스 — *연합인포맥스*
+- `10-06 18:52` 일본 경제산업상 "일, 피지컬 AI 최강...반도체·AI 급소 쥐고 있다" - YTN — *YTN*
+- `10-06 18:31` 외국인 매도세에 삼성전자·SK하이닉스 약세 마감 - M이코노미뉴스 — *M이코노미뉴스*
+- `10-06 18:30` 두산로보틱스, 국산 AI 반도체로 ‘한국형 피지컬 AI’ 구현 - 환경일보 — *환경일보*
+- `10-06 18:19` [2026 국감] 호남 반도체·알래스카 LNG '현실성' 도마…김정관 "속도·전략가치 중요"(종합) - newspim.com — *newspim.com*
+- `10-06 18:17` 헨켈, SEDEX 2026 참가…AI·HBM 패키징 소재 기술 공개 - 헬로티 — *헬로티*
+- `10-06 18:12` (2026 국감)호남 반도체·대미투자 충돌…산업부 국감 달군 ‘사업성’ 공방 - 전기신문 — *전기신문*
+- `10-06 18:11` “삼성그룹 환영”…15년 전 ‘특허 악연’ 털어낸 한미반도체 - v.daum.net — *v.daum.net*
+- `10-06 18:10` [2026 국감] 김정관 "호남 반도체, 인프라 안되면 기업 투자 안 해도 돼" - 아이뉴스24 — *아이뉴스24*
 
 ## 🇰🇷 금융주
-- `10-06 10:30` 케이뱅크, 소상공인 제품으로 취약계층 1800명 지원 - 이지경제 — *이지경제*
-- `10-06 10:19` 하나은행, 서울 골목상권에 687.5억 금융지원 - 이지경제 — *이지경제*
-- `10-06 10:10` [리포트 브리핑]JB금융지주, '가치주 뿐만이 아니라 성장주로서의 투자매력도 추가된 상황' 목표가 40,000원 - BNK투자증권 - 뉴스핌 — *뉴스핌*
-- `10-06 10:09` [리포트 브리핑]BNK금융지주, '2026년 주주환원율 큰 폭 상향 지속에도 PBR 0.46배 및 PER 6.3배에 불과' 목표가 26,000원 - BNK투자증권 - 뉴스핌 — *뉴스핌*
-- `10-06 09:41` JB금융, 자본확충 비용 6%선까지 '껑충'...주주환원 50% 확대 '갈림길' - KB Think — *KB Think*
-- `10-06 09:15` 하나증권 "은행주 실적보다 주주환원 확대 여부가 관건, 최선호주 KB금융지주 우리금융지주" - 비즈니스포스트 — *비즈니스포스트*
-- `10-06 08:36` [개장 전 주요 공시] 한미반도체·CJ제일제당·한국금융지주·기업은행 등 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-06 08:31` "은행장 인사서 손 떼라니"…금융지주 인사권은 누구의 것? [김보형의 뷰파인더] - v.daum.net — *v.daum.net*
+- `10-06 18:49` 하나금융그룹, 글로벌 도시 인천과 함께하는 새로운 100년의 시작! - 파이낸셜리더스 — *파이낸셜리더스*
+- `10-06 17:34` iM금융지주 회장, 활동비 이중 수령 논란 - OhmyNews — *OhmyNews*
+- `10-06 17:08` 증권 호황 꺾여도 5.6조…4대 금융지주 연간 최대실적 예고 - 머니투데이 - 머니투데이 — *머니투데이*
+- `10-06 16:30` 하나금융 청라 헤드쿼터 개관 '하나금융타운' 완성 - 세이프머니 — *세이프머니*
+- `10-06 16:15` NH투자증권, 최대주주 농협금융지주 장내매수로 지분율 60.29% - 데이터투자 — *데이터투자*
+- `10-06 16:07` 농협금융지주주식회사, NH투자증권 주식 24만6000주 ↑…지분율 63.37% - 데이터투자 — *데이터투자*
+- `10-06 16:05` iM금융그룹, 청년들에 맞춤 금융교육…자립 역량 키워 - 한국경제 — *한국경제*
+- `10-06 15:39` KB금융지주 이재근 후보, 힘 빼는 지주…컨트롤타워 역할도 바뀐다 [KB 지배구조의 변화⑥] - PRESS9 — *PRESS9*
 
 ## 🇰🇷 정책·거시
-- `10-05 11:10` 부동산 정책 두고 격론 예고.. 국토위 국감 ‘폭풍전야’ - 세계비즈 — *세계비즈*
+- (48h 내 항목 없음)
 
 ## 🌍 AI·빅테크
+- `10-06 18:31` Nvidia's $500 Billion Financing Test: Lenders Want More Collateral as Grid Limits Loom - AD HOC NEWS — *AD HOC NEWS*
+- `10-06 11:38` Dan Ives Says Nvidia Fuels AI Market, But What If It Has a Lehman Moment? - Yahoo Finance — *Yahoo Finance*
+- `10-06 11:30` OpenAI in Talks for New Funding Round as Middle East Capital May Become a Major Backer - NAI500 — *NAI500*
 - `10-06 10:05` OpenAI in Talks with Middle East Investors and BlackRock to Raise $30 Billion at Up to $1.4 Trillion Valuation - finance.biggo.com — *finance.biggo.com*
+- `10-06 09:06` BlackRock and UAE Funds Discuss Joining OpenAI’s $30 Billion Round - tokenpost.com — *tokenpost.com*
+- `10-06 07:42` OpenAI seeks USD30b funding round backed by Abu Dhabi investors - Capital Brief — *Capital Brief*
 - `10-06 07:20` OpenAI $30 Billion Funding Round Could Value It at $1.4 Trillion - The Cryptonomist — *The Cryptonomist*
-- `10-06 06:56` AI Financing Partnerships Are Credit-Positive for Nvidia and Data Center Operators - Morningstar — *Morningstar*
-- `10-06 06:30` OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock - Bloomberg.com — *Bloomberg.com*
-- `10-06 05:24` Etched fields funding offers at $40B+ valuation, sources say - techcrunch.com — *techcrunch.com*
-- `10-06 02:35` OpenAI CEO Sam Altman is wrong — the world shouldn't 'accept some bad things' from AI: Zscaler CEO - Yahoo Finance — *Yahoo Finance*
-- `10-05 23:41` Nvidia seeks to turn AI chips into loan collateral, but lenders remain cautious - varindia — *varindia*
-- `10-05 12:25` Nvidia Hits Intraday Record as Depreciation Debate and Off-Balance-Sheet Liabilities Cloud the AI Boom - finance.biggo.com — *finance.biggo.com*
+- `10-06 07:11` OpenAI Seeks at Least $30 Billion in Funding, Discusses Up to $10 Billion From UAE Investors - bloomingbit — *bloomingbit*
 
 ## 🌍 연준·금리
-- `10-06 07:07` Fed rate hike odds plummet after September jobs miss - Kalshi News — *Kalshi News*
-- `10-06 05:31` Gold prices rise after weak September jobs report dims Fed rate hike - qz.com — *qz.com*
-- `10-06 05:05` High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed. - The New York Times — *The New York Times*
-- `10-06 05:03` The Fed's Rate Hike Was a Bad Call, Not Bad Faith - RealClearMarkets — *RealClearMarkets*
-- `10-06 04:40` Apollo warns Fed faces rent 'doom loop' as housing supply dries up - mpamag.com — *mpamag.com*
+- `10-06 17:47` Here We Go! President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus Over Interest Rates. - The Globe and Mail — *The Globe and Mail*
+- `10-06 16:02` Fed Rate Hike & What It Means for Mortgage Rates - HousingWire — *HousingWire*
+- `10-06 09:17` Raising Interest Rates Isn’t Central Planning Either - National Review — *National Review*
+- `10-06 09:09` Fed rate hike odds plummet after September jobs miss - Kalshi News — *Kalshi News*
+- `10-06 08:39` Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com — *Bloomberg.com*
 - `10-06 04:36` Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move - Bitcoin Foundation — *Bitcoin Foundation*
 - `10-06 03:05` Federal Reserve interest rate decision looms as inflation worries persist - Fox Business — *Fox Business*
-- `10-06 02:45` Infrastructure Capital Advisors sees earnings-driven equity gains as fed rate hikes peak - Proactive financial news — *Proactive financial news*
+- `10-06 00:27` High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed. - The New York Times — *The New York Times*
 
 ## 🌍 유가·지정학
-- `10-06 10:36` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Saudi Aramco Cuts Prices For Asian Buyers - FXEmpire — *FXEmpire*
-- `10-06 10:33` ConocoPhillips chair Ryan Lance on oil price floor outlook - qz.com — *qz.com*
-- `10-06 10:30` Is Iran charging a toll to allow oil traffic through Hormuz? - Al Jazeera — *Al Jazeera*
-- `10-06 10:09` Oil price on the rise? - The Star — *The Star*
-- `10-06 10:06` ConocoPhillips (COP) Sees Oil Price Floor Rising to $70 as It We - GuruFocus — *GuruFocus*
-- `10-06 10:00` Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most - WSJ — *WSJ*
-- `10-06 09:35` OIL PRICE WATCH as of Oct. 6, 2026 - Inquirer.net — *Inquirer.net*
-- `10-06 09:23` Iran’s oil minister resigns as conflict with US drags on - Upstream Online — *Upstream Online*
+- `10-06 18:42` Fivefold Hormuz freight surge forces Middle East crude discounts to stay competitive - Anadolu Ajansı — *Anadolu Ajansı*
+- `10-06 17:12` Tankers Sought as Iraq Pushes On with Hormuz Oil Exports - Rigzone — *Rigzone*
+- `10-06 17:05` Oil Prices Fall as Middle East Exports Recover, Shipping Risks Persist - WSJ — *WSJ*
+- `10-06 17:00` Gulf Oil Exports Recover to 81% of Pre-War Levels - oilprice.com — *oilprice.com*
+- `10-06 16:54` Oil Price Forecast: Rising Middle East Exports Limit the Rebound - FXEmpire — *FXEmpire*
+- `10-06 16:10` Qatar LNG Cargoes Resume Strait of Hormuz Transits - Egypt Oil & Gas — *Egypt Oil & Gas*
+- `10-06 16:03` Oil futures: Crude eases after G7 release, increase in Hormuz traffic - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
+- `10-06 16:00` World Bank Warns Asia Is Running Out of Money to Fight Energy Shock - oilprice.com — *oilprice.com*
 
 ## 🌍 시장 전반
-- `10-06 10:45` | Kyabram Free Press - Kyabram Free Press — *Kyabram Free Press*
-- `10-06 10:15` Wall Street’s AI rally on edge as yields rise - The Star — *The Star*
-- `10-06 10:05` KOSPI Battles for 7,000 Level on U.S. Tech Rally; KOSDAQ Breaks Above 900 - finance.biggo.com — *finance.biggo.com*
-- `10-06 09:50` Why is CMC Markets stock rallying 2% today? - Investing.com — *Investing.com*
-- `10-06 09:41` Global Market Today: Asian stocks rise after US tech rally, oil dips - The Economic Times — *The Economic Times*
-- `10-06 08:45` Brazil markets’ Bolsonaro rally sends stock exchange to record high - The Straits Times — *The Straits Times*
-- `10-06 08:30` U.S. Treasury Sell-Off Fails to Halt Stock Rally; Three Major Indices Close Higher as Nasdaq Hits Record High - Moomoo — *Moomoo*
-- `10-06 08:13` Asia Stocks Set to Rise After Tech Rally, Oil Dips: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `10-06 16:24` FTSE 100 today: Stocks rise as U.S. tech rally outweighs Iran war risk - Investing.com — *Investing.com*
+- `10-06 15:51` Will the stock market crash before 2027? - Yahoo Finance UK — *Yahoo Finance UK*
+- `10-06 14:36` Stock markets: Asia rises, driven by a rally in tech shares. Brent crude continues to fall - Il Sole 24 ORE — *Il Sole 24 ORE*
+- `10-06 14:01` Asian stocks mostly higher as tech rally offsets oil and yield pressure - Seeking Alpha — *Seeking Alpha*
+- `10-06 13:13` Why is Freshworks stock rallying today? - Investing.com — *Investing.com*
+- `10-06 12:58` Clean Energy Fuels: Sell-Off Is An Attractive Buying Opportunity (NASDAQ:CLNE) - Seeking Alpha — *Seeking Alpha*
+- `10-06 12:16` Stock market rises as real estate, mining sectors rally - Michael West Media — *Michael West Media*
+- `10-06 11:38` Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily — *Investor's Business Daily*
