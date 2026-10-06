@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-06 22:15 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-06 22:34 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,19 +18,19 @@
 - `10-06 19:23` [亞증시-종합] 반도체 강세에 일제히 상승…中 휴장 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
-- `10-06 22:10` 넥스틴, SK하이닉스에 검사장비 공급...254.4억 규모 - thelec.kr — *thelec.kr*
-- `10-06 21:37` 뱅크오브아메리카, HBM 지연·ASML 위협에 BE 세미컨덕터 등급 하향 By Investing.com - Investing.com 한국어 — *Investing.com 한국어*
+- `10-06 22:10` 넥스틴, SK하이닉스에 검사장비 공급...254.4억 규모 - 디일렉 — *디일렉*
+- `10-06 21:37` 뱅크오브아메리카, HBM 지연·ASML 위협에 BE 세미컨덕터 등급 하향 - Investing.com 한국어 — *Investing.com 한국어*
 - `10-06 21:27` 김정관 산업장관 "호남 반도체 입지, 기업이 결정" - KBC광주방송 — *KBC광주방송*
 - `10-06 21:11` [단독] 솔리다임 키우는 SK하이닉스, 세계 최초 375단 4D 낸드 핵심기술 공개 - 이코노미트리뷴 — *이코노미트리뷴*
 - `10-06 20:56` 국감 달군 '호남 반도체'..."기업 결정 맞나?" - Tbc.co.kr — *Tbc.co.kr*
-- `10-06 20:52` 경기도, 용인 SK하이닉스 가동 전 수질 선제 점검 - kchannel.kr — *kchannel.kr*
-- `10-06 20:41` 박성민 의원, 호남 반도체 광주 군공항 입지선정·이전 대책 집중 추궁 - 뉴스데일리 — *뉴스데일리*
 - `10-06 20:22` 김원이 의원, 서남권 반도체 ‘전격전’ 숙련인력 확보가 관건…조선·철강산업 상생대책 촉구 - dhns.co.kr — *dhns.co.kr*
+- `10-06 20:03` 삼전닉스 앞지른 ‘소부장’… 해킹사태로 떠오른 ‘보안’ - v.daum.net — *v.daum.net*
+- `10-06 19:38` [2026 국감] 알래스카 LNG부터 '호남 반도체'까지…與野 충돌[종합] - v.daum.net — *v.daum.net*
 
 ## 🇰🇷 금융주
-- `10-06 18:49` 하나금융그룹, 글로벌 도시 인천과 함께하는 새로운 100년의 시작! - 파이낸셜리더스 — *파이낸셜리더스*
+- `10-06 18:49` 하나금융그룹, 글로벌 도시 인천과 함께하는 새로운 100년의 시작! - fnleaders.net — *fnleaders.net*
 - `10-06 17:34` iM금융지주 회장, 활동비 이중 수령 논란 - OhmyNews — *OhmyNews*
-- `10-06 17:08` 증권 호황 꺾여도 5.6조…4대 금융지주 연간 최대실적 예고 - 머니투데이 - 머니투데이 — *머니투데이*
+- `10-06 17:08` 증권 호황 꺾여도 5.6조…4대 금융지주 연간 최대실적 예고 - 머니투데이 - mt.co.kr — *mt.co.kr*
 - `10-06 16:30` 하나금융 청라 헤드쿼터 개관 '하나금융타운' 완성 - 세이프머니 — *세이프머니*
 - `10-06 16:15` NH투자증권, 최대주주 농협금융지주 장내매수로 지분율 60.29% - 데이터투자 — *데이터투자*
 - `10-06 16:07` 농협금융지주주식회사, NH투자증권 주식 24만6000주 ↑…지분율 63.37% - 데이터투자 — *데이터투자*
@@ -51,16 +51,17 @@
 - `10-06 07:20` OpenAI $30 Billion Funding Round Could Value It at $1.4 Trillion - The Cryptonomist — *The Cryptonomist*
 
 ## 🌍 연준·금리
-- `10-06 20:40` Jim Cramer Says ‘Interest Rates Can Fall, Too!!’ as October Fed Hike Odds Fall to 21.6% — Here’s What Tra - Benzinga — *Benzinga*
+- `10-06 20:40` Jim Cramer Says ‘Interest Rates Can Fall, Too!!’ as October Fed Hike Odds Fall to 21.6% — Here’s What Tra - benzinga.com — *benzinga.com*
 - `10-06 20:10` The Fed Just Raised Rates Again - And Another Change May Be Coming - AOL.com — *AOL.com*
 - `10-06 19:42` Slowdown in money-fund cash flow hits short-term Treasuries - WKZO — *WKZO*
+- `10-06 19:39` Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com — *Bloomberg.com*
 - `10-06 19:01` Top CD rates today, Oct. 6, 2026: Lock in up to up to 5.10% - Fortune — *Fortune*
 - `10-06 17:26` Here We Go! President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus Over Interest Rates. - The Globe and Mail — *The Globe and Mail*
 - `10-06 16:02` Fed Rate Hike & What It Means for Mortgage Rates - HousingWire — *HousingWire*
 - `10-06 12:25` Gold ticks up as softer Fed rate expectations offset higher yields - CNBC — *CNBC*
-- `10-06 09:17` Raising Interest Rates Isn’t Central Planning Either - National Review — *National Review*
 
 ## 🌍 유가·지정학
+- `10-06 22:16` Twelve injured in attack on oil tanker passing through Hormuz Strait - The Arab Weekly — *The Arab Weekly*
 - `10-06 22:10` Iraq’s proposed 2027 budget assumes $58 oil price - StreetInsider — *StreetInsider*
 - `10-06 22:07` Iraq’s proposed 2027 budget assumes $58 oil price - Investing.com — *Investing.com*
 - `10-06 22:01` Iraq proposes oil price assumption of $58 per barrel in draft budget - Reuters — *Reuters*
@@ -68,14 +69,13 @@
 - `10-06 21:46` Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks - CNBC — *CNBC*
 - `10-06 21:44` Oil Tanker Hit by Unidentified Projectile While Exiting Strait of Hormuz - WANA News Agency — *WANA News Agency*
 - `10-06 21:31` UKMTO announces a time-delayed report of an outbound oil tanker was struck by an unknown projectile in the Strait of Hormuz on October 5th - Newsquawk — *Newsquawk*
-- `10-06 21:30` Oil tanker struck by unknown projectile in Strait of Hormuz: UKMTO - Anadolu Ajansı — *Anadolu Ajansı*
 
 ## 🌍 시장 전반
 - `10-06 21:03` Worried about a stock market crash? This stock has historically outperformed - Yahoo Finance UK — *Yahoo Finance UK*
 - `10-06 19:45` If a Stock Market Crash Is Coming, History Says This Is the Best ETF to Buy Right Now - The Motley Fool — *The Motley Fool*
 - `10-06 16:31` Market breadth divergence: What it tells traders about the stock market - investingLive — *investingLive*
-- `10-06 16:24` FTSE 100 today: Stocks rise as U.S. tech rally outweighs Iran war risk - Investing.com — *Investing.com*
 - `10-06 15:51` Will the stock market crash before 2027? - Yahoo Finance UK — *Yahoo Finance UK*
 - `10-06 14:01` Asian stocks mostly higher as tech rally offsets oil and yield pressure - Seeking Alpha — *Seeking Alpha*
 - `10-06 13:13` Why is Freshworks stock rallying today? - Investing.com — *Investing.com*
 - `10-06 12:58` Clean Energy Fuels: Sell-Off Is An Attractive Buying Opportunity (NASDAQ:CLNE) - Seeking Alpha — *Seeking Alpha*
+- `10-06 12:16` Stock market rises as real estate, mining sectors rally - Michael West Media — *Michael West Media*
