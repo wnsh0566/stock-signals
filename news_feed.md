@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-07 22:15 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-07 22:50 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,14 +18,14 @@
 - `10-07 17:51` 뉴욕증시 사상 최고치 행진…AI는 하락장에서도 빛났다 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
+- `10-07 22:37` 신한자산운용, 'SOL 글로벌DRAM반도체플러스' 상장 - 비즈월드 — *비즈월드*
+- `10-07 22:29` 오늘 SK하이닉스 ADR 주식 하락하는 이유는? - Investing.com 한국어 — *Investing.com 한국어*
 - `10-07 21:59` 연금계좌로 삼성전자·SK하이닉스 투자…신한운용, 글로벌 DRAM ETF 신규 상장 - 베타뉴스 — *베타뉴스*
 - `10-07 21:52` 스티펠이 주목하는 아날로그 및 엣지 AI 반도체 주식 3선 - Investing.com 한국어 — *Investing.com 한국어*
 - `10-07 21:42` 주한 이탈리아대사관 ‘Spritz Diplomacy’ 개최…글로벌 반도체 경쟁 속 한국의 경쟁력과 한·EU 협력 모색 - 외교문화뉴스 — *외교문화뉴스*
 - `10-07 21:22` 늘 바삐 일하고 얻은 건 ‘암’…“SK하이닉스 산재 인정하라” - 경향신문 — *경향신문*
 - `10-07 21:19` SK하이닉스 직업병 심사 착수…반도체 클린룸 안전망 다시 시험대 오른다 - 글로벌이코노믹 — *글로벌이코노믹*
 - `10-07 21:05` “반도체는 팀 스포츠”…국내 기업들 손잡고 ‘글로벌 AI’ 공략 - 경향신문 — *경향신문*
-- `10-07 20:41` 리사 수의 ’韓 AI 반도체 빅픽처’…삼성·SK 연쇄 회동 By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `10-07 20:36` 차마 못 보는 아내 투병 사진‥"반도체 산업재해 인정해 달라" - MBC 뉴스 — *MBC 뉴스*
 
 ## 🇰🇷 금융주
 - `10-07 20:24` 우리금융지주, 자본여력 회복…성장 기대감 커진다 - S저널 — *S저널*
@@ -45,41 +45,41 @@
 - `10-07 14:48` [현장] 취임 100일 맞은 오세훈 ‘삶의 질 특별시’ 선언 속 사법 리스크·李정부 부동산 대책에 ‘고강도 직격탄’ - 한양경제 — *한양경제*
 
 ## 🌍 AI·빅테크
+- `10-07 22:44` SpaceX seeks $40B financing to buy Nvidia AI ch... - Pluang — *Pluang*
 - `10-07 21:56` SpaceX Plans $40 Billion Financing Deal Led by Apollo to Buy Nvidia AI Chips - TIKR.com — *TIKR.com*
 - `10-07 21:35` The AI Capex Wall: Why Financing Constraints Will Trigger A Slowdown - Seeking Alpha — *Seeking Alpha*
+- `10-07 21:20` SpaceX seeks $40 billion financing to buy Nvidia AI chips - Yahoo Finance — *Yahoo Finance*
 - `10-07 21:19` SpaceX Eyes $40 Billion Debt Deal in Race for Nvidia AI Chips - New Fortune Times — *New Fortune Times*
 - `10-07 20:45` SpaceX seeks $40 billion in debt financing for Nvidia AI chips - Quartz — *Quartz*
 - `10-07 20:23` SpaceX seeks $40bn in financing for Nvidia chip purchase - StreetInsider — *StreetInsider*
 - `10-07 20:15` SpaceX Wants to Borrow $40 Billion to Buy Nvidia Chips - 24/7 Wall St. — *24/7 Wall St.*
-- `10-07 19:37` SpaceX’s $40bn Nvidia Chip Deal Exposes AI’s Dangerous Money Loop - MarketForces Africa — *MarketForces Africa*
-- `10-07 19:20` AM Markets Need to Know: SpaceX seeks $40B for Nvidia chips, Skydance leans on technology, and more - TradingView — *TradingView*
 
 ## 🌍 연준·금리
 - `10-07 21:28` Lower US Treasury yield view persists despite biggest quarterly surge since 1994: Reuters poll - WKZO — *WKZO*
+- `10-07 21:25` NY Stocks Likely in Wait-and-See Mode Ahead of FOMC Minutes; Hawkish Tone Could Renew Upward Pressure on Rates - BigGo Finance — *BigGo Finance*
 - `10-07 21:01` Markets Look to Fed Minutes for Clues on Further Rate Increases - Barron's — *Barron's*
 - `10-07 20:14` Fed minutes could detail rate-hike decision, policy path - Reuters — *Reuters*
+- `10-07 19:44` RBI raises rates amid rising inflation and global risks outlook - BBC — *BBC*
 - `10-07 18:41` Gold Falls as Stronger Dollar Puts Focus on Fed Rate Outlook - Yahoo Finance UK — *Yahoo Finance UK*
 - `10-07 18:37` TSX futures slip as oil, yields fuel rate-hike fears ahead of Fed minutes - Kitco — *Kitco*
 - `10-07 18:33` Gold Prices Fall as Dollar Strengthens Ahead of Federal Reserve Minutes - Yahoo Finance — *Yahoo Finance*
-- `10-07 18:30` U.S. Fed raises interest rates despite Trump: ‘Important shift’ Canadians must make as fixed mortgage rates respond - Yahoo! Finance Canada — *Yahoo! Finance Canada*
-- `10-07 18:14` Gold loses more than 1% ahead of Federal Reserve minutes - Economies.com — *Economies.com*
 
 ## 🌍 유가·지정학
+- `10-07 22:38` Iraq Devalues Currency as Hormuz Havoc Hits Oil Exports - Rigzone — *Rigzone*
+- `10-07 22:30` IEA Discusses G7's 100 Million-Barrel Oil and Diesel Release - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-07 22:30` US opens lower amid oil price turmoil - Breakingthenews.net — *Breakingthenews.net*
+- `10-07 22:13` Syria Set to Emerge as Hormuz-Bypass Option for Iraq’s Crude Oil - Bloomberg.com — *Bloomberg.com*
 - `10-07 21:29` Iraq Devalues Currency as Hormuz Disruption Hits Oil Exports - Bloomberg.com — *Bloomberg.com*
-- `10-07 21:26` Oil prices climb above $100 on Strait of Hormuz attacks, Gulf storm threat - AOL.com — *AOL.com*
+- `10-07 21:26` Oil prices climb above $100 on Strait of Hormuz attacks, Gulf storm threat - Yahoo Finance — *Yahoo Finance*
 - `10-07 21:10` UBS Raises December Oil Price Forecasts By $5/Bbl - TradingView — *TradingView*
 - `10-07 20:51` Watch Dalio Warns of AI Bubble, Hormuz Attacks Lift Oil - Bloomberg.com — *Bloomberg.com*
-- `10-07 20:47` Standard Chartered reports oil flow in Hormuz is not back to normal - Newsquawk — *Newsquawk*
-- `10-07 20:30` Shell's Refining Margin Jumps 75% as Fuel Supplies Dry Up - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-07 20:15` Current price of oil as of Oct. 7, 2026 - Fortune — *Fortune*
-- `10-07 19:49` Stocks decline as oil climbs on Mideast flareup - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 시장 전반
 - `10-07 21:43` The Crash-Proof Portfolio: 5 Elite Dividend Stocks Built to Survive a Market Meltdown - 24/7 Wall St. — *24/7 Wall St.*
+- `10-07 20:42` Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002 - Financial Times — *Financial Times*
 - `10-07 20:38` Europe Stocks Retreat After Three-day Rally, STOXX Hits Day's Low On High Yields, Crude Prices - NDTV Profit — *NDTV Profit*
 - `10-07 20:37` The Stock Market’s AI Rally Faces 3 Big Problems All at the Same Time - Barron's — *Barron's*
 - `10-07 20:35` The Stock Market’s AI Rally Faces 3 Big Problems All at the Same Time - Barron's — *Barron's*
 - `10-07 20:07` Warren Buffett Has a Warning for Investors as Stock Market Crash Fears Grow - CryptoRank — *CryptoRank*
 - `10-07 19:55` Ray Dalio warns AI stock rally risks burst amid rising rates and heavy debt; Spotify expands audiobooks globally. - Pluang — *Pluang*
 - `10-07 19:10` Mapping the Market: Warning signs flash for US energy shares rally - Reuters — *Reuters*
-- `10-07 18:51` Investors pick new darlings and duds as selloff rocks Europe's bond market - Reuters — *Reuters*
