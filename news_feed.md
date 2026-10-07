@@ -1,81 +1,81 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-06 23:09 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-07 09:58 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
-- **D+6** (09/30) ⭐⭐ 미 8월 PCE 21:30 KST(연례 개정 동반) — PPI 세부 기반 근원 0.3% 추정 검증 [09-17 정정: 마이크론은 10/1 05:30로 분리]
-- **D+5** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
+- **D+7** (09/30) ⭐⭐ 미 8월 PCE 21:30 KST(연례 개정 동반) — PPI 세부 기반 근원 0.3% 추정 검증 [09-17 정정: 마이크론은 10/1 05:30로 분리]
+- **D+6** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
-- `10-06 23:02` 뉴욕증시 일제히 상승 출발…S&P500·나스닥 사상 최고치 - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `10-06 22:01` 브라질 증시 선거 후 8% 급등: AI 추천 유통주 50% 상승 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-06 21:57` 뉴욕증시 프리뷰, 美 국채금리·유가 동반 하락에 주가 선물 일제 상승...엔비디아·AMD↑ - 뉴스핌 — *뉴스핌*
-- `10-06 21:50` 월가, 브라질 증시 ’비중확대’로 상향…대선 1차 투표 결과 서프라이즈 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-06 21:25` 연휴 끝 코스피, 7,000선 하회…외국인 매도 - 연합뉴스TV — *연합뉴스TV*
-- `10-06 20:29` [올댓차이나] 홍콩 증시, 뉴욕 증시 강세에 이틀째 상승 마감… H주 0.96%↑ - 뉴시스 — *뉴시스*
-- `10-06 20:01` [인도증시] 유가 하락 속 호실적이 투심 개선, 상승...예금·대출 성장 보고한 은행주 ↑ - 뉴스핌 — *뉴스핌*
-- `10-06 19:58` 레버리지 ETF '지선용 증시 띄우기' 의혹…이형일·권대영 "정치적 고려 없었다" - ebn.co.kr — *ebn.co.kr*
+- `10-07 09:51` 코스피, 상승 전환해 6,900대서 등락…코스닥은 낙폭 확대(종합) - Daum — *Daum*
+- `10-07 09:49` 삼성전자 뛰자 코스피도 상승 전환…개인 홀로 순매수 - 머니투데이 - 머니투데이 — *머니투데이*
+- `10-07 09:46` 美 증시 훈풍에도 외국인 '팔자'…코스피 보합권 등락[개장시황] - Daum — *Daum*
+- `10-07 09:43` 코스피, 1% 하락하며 6,800선에서 출발‥코스닥도 동반 하락 - Daum — *Daum*
+- `10-07 09:38` 유로화 반등·美증시 최고치…달러·원 1330원대로 하락 - 뉴스1 — *뉴스1*
+- `10-07 09:37` [이 시각 시황] 엇갈린 국내증시…백신·원전·K-뷰티株 뜬다 - Daum — *Daum*
+- `10-07 09:36` 약세 출발 코스피, 장초반 상승 반전…개인 매수세 유입 - 뉴시스 — *뉴시스*
+- `10-07 09:35` 코스피, 美 증시 강세에도 장 초반 약세···6900선 등락 - 서울파이낸스 — *서울파이낸스*
 
 ## 🇰🇷 반도체·HBM
-- `10-06 22:36` 여야, 산업부 국감서 '호남반도체'·'대미투자' 두고 신경전(종합2보) - v.daum.net — *v.daum.net*
-- `10-06 22:10` 넥스틴, SK하이닉스에 검사장비 공급...254.4억 규모 - 디일렉 — *디일렉*
-- `10-06 22:07` [영상] 이원택 “취임 100일 1순위는 반도체 특화단지…전북 강점 알리는 게 가장 어려웠다” - 투데이안 — *투데이안*
-- `10-06 21:37` 뱅크오브아메리카, HBM 지연·ASML 위협에 BE 세미컨덕터 등급 하향 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-06 21:27` 김정관 산업장관 "호남 반도체 입지, 기업이 결정" - KBC광주방송 — *KBC광주방송*
-- `10-06 21:11` [단독] 솔리다임 키우는 SK하이닉스, 세계 최초 375단 4D 낸드 핵심기술 공개 - 이코노미트리뷴 — *이코노미트리뷴*
-- `10-06 20:56` 국감 달군 '호남 반도체'..."기업 결정 맞나?" - Tbc.co.kr — *Tbc.co.kr*
-- `10-06 20:52` 경기도, 용인 SK하이닉스 가동 전 수질 선제 점검 - K채널 — *K채널*
+- `10-07 09:51` [단독]AMD 리사 수, 하정우와 비공개 회동…韓 AI 반도체 협력 논의 - Daum — *Daum*
+- `10-07 09:49` HBM·첨단 패키징 투자 확대 기대…반도체 장비주 상승 행렬 - 핀포인트뉴스 — *핀포인트뉴스*
+- `10-07 09:48` “삼성그룹 환영”…15년 전 ‘특허 악연’ 털어낸 한미반도체 - 한겨레 — *한겨레*
+- `10-07 09:45` SK하이닉스의 손자 솔리다임은 정말 상장이 필요할까 [이슈체크] - Daum — *Daum*
+- `10-07 09:43` 세계 반도체 시장 사상 첫 1조 달러 돌파…올해 1.6조 달러 넘는다 - 테크월드 — *테크월드*
+- `10-07 09:41` AI 투자와 반도체, 코인까지…2027년 경제와 자산시장의 흐름 - 뉴스1 — *뉴스1*
+- `10-07 09:40` 삼성전자·SK하이닉스 55조 자사주 매입 마무리 국면 - https://www.2news.co.kr/ — *https://www.2news.co.kr/*
+- `10-07 09:39` 케이씨텍, 반도체 장비株 강세에 이틀째 급등…12%대↑[종목now] - Daum — *Daum*
 
 ## 🇰🇷 금융주
-- `10-06 18:49` 하나금융그룹, 글로벌 도시 인천과 함께하는 새로운 100년의 시작! - 파이낸셜리더스 — *파이낸셜리더스*
-- `10-06 17:34` iM금융지주 회장, 활동비 이중 수령 논란 - OhmyNews — *OhmyNews*
-- `10-06 17:08` 증권 호황 꺾여도 5.6조…4대 금융지주 연간 최대실적 예고 - 머니투데이 - 머니투데이 — *머니투데이*
-- `10-06 16:15` NH투자증권, 최대주주 농협금융지주 장내매수로 지분율 60.29% - 데이터투자 — *데이터투자*
-- `10-06 16:07` 농협금융지주주식회사, NH투자증권 주식 24만6000주 ↑…지분율 63.37% - 데이터투자 — *데이터투자*
-- `10-06 16:05` iM금융그룹, 청년들에 맞춤 금융교육…자립 역량 키워 - 한국경제 — *한국경제*
-- `10-06 15:39` KB금융지주 이재근 후보, 힘 빼는 지주…컨트롤타워 역할도 바뀐다 [KB 지배구조의 변화⑥] - PRESS9 — *PRESS9*
-- `10-06 15:01` [금융지주 임원 인사 전망][KB금융]은행장 이재근이 발탁한 '부행장 3인'…회장 이재근의 선택은 - Naver Blog — *Naver Blog*
+- `10-07 09:32` SK증권 "하나금융지주 원/달러 환율 하락에 투자매력 높아져, 은행업종 최선호주" - 비즈니스포스트 — *비즈니스포스트*
+- `10-07 09:32` [리포트 브리핑]하나금융지주, '금리 오르고 환율 내려가고, 오히려 좋아' 목표가 167,000원 - SK증권 - 뉴스핌 — *뉴스핌*
+- `10-07 09:31` [리포트 브리핑]우리금융지주, '두 걸음 나아가는 중 ' 목표가 43,000원 - SK증권 - 뉴스핌 — *뉴스핌*
+- `10-07 09:12` 케이뱅크, 청년 ‘햇살론유스’ 출시…최대 1200만원 지원 - 이지경제 — *이지경제*
+- `10-07 09:09` 하나은행, 2026-2027 한국바둑리그 타이틀 스폰서 참여 - 이지경제 — *이지경제*
+- `10-07 08:51` NH투자 "신한금융지주 4분기 수익성 개선 기대, 올해 총주주환원율은 53%" - 비즈니스포스트 — *비즈니스포스트*
+- `10-07 07:00` KB금융지주 이재근 체제, 계열사 이사회도 달라져야 [KB 지배구조의 변화⑦] - PRESS9 — *PRESS9*
+- `10-07 06:11` 4대 금융, 3분기 누적 순익 17조 '사상 최대' 전망…KB·신한금융 나란히 '5조 클럽' - 소비자가 만드는 신문 — *소비자가 만드는 신문*
 
 ## 🇰🇷 정책·거시
 - (48h 내 항목 없음)
 
 ## 🌍 AI·빅테크
-- `10-06 22:02` Nvidia Stock Forecast: Rubin Ramp and $108 Billion Q3 Outlook Keep AI Growth Accelerating - TradingKey — *TradingKey*
-- `10-06 19:59` Watch OpenAI, DeepSeek & Moonshot Chase Billions in New AI Funding - Bloomberg.com — *Bloomberg.com*
-- `10-06 14:38` OpenAI Reportedly In Talks With UAE Funds For $30B Funding – Even As Its AI Agents Raise Fresh Concerns - Stocktwits — *Stocktwits*
-- `10-06 11:38` Dan Ives Says Nvidia Fuels AI Market, But What If It Has a Lehman Moment? - Yahoo Finance — *Yahoo Finance*
-- `10-06 11:30` OpenAI in Talks for New Funding Round as Middle East Capital May Become a Major Backer - NAI500 — *NAI500*
-- `10-06 10:05` OpenAI in Talks with Middle East Investors and BlackRock to Raise $30 Billion at Up to $1.4 Trillion Valuation - finance.biggo.com — *finance.biggo.com*
-- `10-06 07:42` OpenAI seeks USD30b funding round backed by Abu Dhabi investors - Capital Brief — *Capital Brief*
-- `10-06 07:20` OpenAI $30 Billion Funding Round Could Value It at $1.4 Trillion - The Cryptonomist — *The Cryptonomist*
+- `10-07 09:31` SpaceX Eyes $40 Billion To Lock In Nvidia AI Chips - Finimize — *Finimize*
+- `10-07 09:25` SpaceX seeking to raise US$40 billion to buy Nvidia chips: Financial Times - The Straits Times — *The Straits Times*
+- `10-07 09:24` SpaceX to Raise $40 Billion for NVIDIA Chips, Apollo Leads Financing - KuCoin — *KuCoin*
+- `10-07 09:15` SpaceX seeks $40 billion financing led by Apollo to buy Nvidia chips, FT reports - The Lufkin Daily News — *The Lufkin Daily News*
+- `10-07 08:48` SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips - TradingView — *TradingView*
+- `10-07 08:35` SpaceX Seeks $40 Billion to Fund Nvidia Chip Purchases, Led by Apollo — FT - BigGo Finance — *BigGo Finance*
+- `10-07 07:28` SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo - Financial Times — *Financial Times*
+- `10-07 03:22` OpenAI is negotiating with UAE funds to raise funding - Azernews.az — *Azernews.az*
 
 ## 🌍 연준·금리
-- `10-06 22:27` Opinion: Fed minutes coming tomorrow could give markets important clues about future rate hikes - MarketWatch — *MarketWatch*
-- `10-06 20:40` Jim Cramer Says ‘Interest Rates Can Fall, Too!!’ as October Fed Hike Odds Fall to 21.6% — Here’s What Tra - Benzinga — *Benzinga*
-- `10-06 20:10` The Fed Just Raised Rates Again - And Another Change May Be Coming - AOL.com — *AOL.com*
-- `10-06 19:42` Slowdown in money-fund cash flow hits short-term Treasuries - wkzo.com — *wkzo.com*
-- `10-06 19:39` Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com — *Bloomberg.com*
-- `10-06 19:01` Top CD rates today, Oct. 6, 2026: Lock in up to up to 5.10% - Fortune — *Fortune*
-- `10-06 17:27` Here We Go! President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus Over Interest Rates. - The Globe and Mail — *The Globe and Mail*
-- `10-06 16:02` Fed Rate Hike & What It Means for Mortgage Rates - HousingWire — *HousingWire*
+- `10-07 07:18` Economic forum: Despite challenges, 'solid' growth, more rate hikes ahead - The Center Square — *The Center Square*
+- `10-07 06:53` Volatile Treasury market sends mortgage rate lock volumes plunging in September - Scotsman Guide — *Scotsman Guide*
+- `10-07 04:45` Mortgage Rates Rise as Treasury Yields Top 5% - Eye On Housing — *Eye On Housing*
+- `10-07 04:00` Bank of Canada rate hike case weaker than Fed's, CIBC argues - Mortgage Professional America — *Mortgage Professional America*
+- `10-07 03:55` Executive says borrowers are betting on low rates that may never return - Mortgage Professional America — *Mortgage Professional America*
+- `10-07 03:18` Trump Distances Himself From Fed Chair Warsh After Rate Hike, Blames 'Hostile' Board - BigGo Finance — *BigGo Finance*
+- `10-07 03:11` Interest Rate Increases Are About Disciplining Labor - Jacobin — *Jacobin*
+- `10-07 00:40` How to feel more confident about your money amid rising interest rates - KOMO — *KOMO*
 
 ## 🌍 유가·지정학
-- `10-06 23:02` Oil Slips Even After A Reported Hormuz Tanker Attack - Finimize — *Finimize*
-- `10-06 22:41` Oil Price Forecast – Oil Drifts Lower on Tuesday - FXEmpire — *FXEmpire*
-- `10-06 22:16` Twelve injured in attack on oil tanker passing through Hormuz Strait - The Arab Weekly — *The Arab Weekly*
-- `10-06 22:10` Iraq’s proposed 2027 budget assumes $58 oil price - streetinsider.com — *streetinsider.com*
-- `10-06 22:07` Iraq’s proposed 2027 budget assumes $58 oil price - Investing.com — *Investing.com*
-- `10-06 22:01` Iraq proposes oil price assumption of $58 per barrel in draft budget - Reuters — *Reuters*
-- `10-06 21:46` Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks - CNBC — *CNBC*
-- `10-06 21:30` Oil tanker struck by unknown projectile in Strait of Hormuz: UKMTO - Anadolu Ajansı — *Anadolu Ajansı*
+- `10-07 09:00` Why $100 Oil Is Hard to Kill - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-07 08:21` Oil Steadies With Focus on Hormuz Shipments and Vessel Attacks - Bloomberg.com — *Bloomberg.com*
+- `10-07 08:00` 5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-07 07:08` Oil Price Risk Puts YPF Stock And Global Oil Producers In Focus - Yahoo Finance — *Yahoo Finance*
+- `10-07 07:00` G7's 100 Million Barrel Release Is Mostly Already Priced In - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-07 06:34` Chevron to Shed Hess Midstream Stake in Major Bakken Restructuring - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-07 06:21` WTI Crude Oil Price Forecast: $88.66 Support Signals Potential Pullback Low - FXEmpire — *FXEmpire*
+- `10-07 06:18` A brutal winter heating bill is coming for some homes - Axios — *Axios*
 
 ## 🌍 시장 전반
-- `10-06 22:52` US stocks: S&P 500 hits intraday record high as AI rally continues - economictimes.indiatimes.com — *economictimes.indiatimes.com*
-- `10-06 22:18` Jim Cramer Warns Rising Treasury Yields Could Signal Bigger Market Risks Despite AI Rally: 'Bond Sellers. - Benzinga — *Benzinga*
-- `10-06 22:05` After Huge Rally, Here’s How We’re Trading Brazilian Stocks - TheStreet Pro — *TheStreet Pro*
-- `10-06 21:03` Worried about a stock market crash? This stock has historically outperformed - Yahoo Finance UK — *Yahoo Finance UK*
-- `10-06 19:45` If a Stock Market Crash Is Coming, History Says This Is the Best ETF to Buy Right Now - The Motley Fool — *The Motley Fool*
-- `10-06 17:00` Japanese Stocks Rise After Tech Rally Pushes Nasdaq to Record Close - marketscreener.com — *marketscreener.com*
-- `10-06 16:31` Market breadth divergence: What it tells traders about the stock market - investingLive — *investingLive*
-- `10-06 15:51` Will the stock market crash before 2027? - Yahoo Finance UK — *Yahoo Finance UK*
+- `10-07 09:17` September demat account addition falls to 2.89 million amid market selloff - The Economic Times — *The Economic Times*
+- `10-07 09:16` U.S. stock futures steady after tech rally lifts S&P 500, Nasdaq to records - Investing.com — *Investing.com*
+- `10-07 08:42` US stocks rally as S&P 500, Nasdaq reach record closing highs - marketscreener.com — *marketscreener.com*
+- `10-07 08:39` Banco Bradesco Director Caffarelli Buys 31,266 Preference Shares. Is The Brazilian Bank Due to Rally? - The Motley Fool — *The Motley Fool*
+- `10-07 08:06` Market Update: S&P 500 Surpasses 7800 Points, Tech Stocks Rally - GuruFocus — *GuruFocus*
+- `10-07 06:59` Stock Market Guides Nasdaq, S&P 500 To New Highs, But This Sector Gets A Bloody Nose - Investor's Business Daily — *Investor's Business Daily*
+- `10-07 06:22` Copper price extends gains amid tech rally - Mining.com.au — *Mining.com.au*
+- `10-07 05:38` S&P 500 and Nasdaq surge to record highs after AI chipmaker rally - The Guardian — *The Guardian*
