@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-07 20:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-07 20:21 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -18,14 +18,14 @@
 - `10-07 17:32` UBS, 높은 금리와 에너지 가격에도 유럽 증시 추가 상승 전망 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
+- `10-07 20:15` 번스타인 "메모리 반도체 가격, 공급난 지속에 3분기 20% 가까이 상승" - Investing.com 한국어 — *Investing.com 한국어*
+- `10-07 20:12` 전력반도체 생태계 구축에 산학현 협력 - 디일렉 — *디일렉*
 - `10-07 19:46` 미쓰도요, 독일 드레스덴에 반도체 계측센터 개소 - 디일렉 — *디일렉*
 - `10-07 19:43` 전기먹는 하마 데이터센터…SiC·GaN 전력반도체 역할 부각 - 디일렉 — *디일렉*
 - `10-07 19:19` AMD 리사 수, 삼성·SK 수장과 만남…차세대 HBM·파운드리 AI 동맹 강화 - 인더스트리뉴스 — *인더스트리뉴스*
 - `10-07 19:13` [亞증시-종합] 반도체 약세·유가 상승에 일제히 하락 - 연합인포맥스 — *연합인포맥스*
 - `10-07 18:59` HBM 급한 AMD, 파운드리 수주 노리는 삼성… 리사 수 “더 폭넓은 파트너십” - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `10-07 18:50` 테라뷰홀딩스, 11억 규모 반도체 장비 계약… 연이은 지배구조 공시 속 이행 능력 관심 - 데일리연합 — *데일리연합*
-- `10-07 18:39` 장용성 금통위원 "내수 좋아지려면 고용 늘어야…반도체는 자본집약적" - 연합인포맥스 — *연합인포맥스*
-- `10-07 18:19` 반도체 직업병 산재 심사, ‘입증 자료’ 접근성 쟁점 - 매일일보 — *매일일보*
+- `10-07 18:44` [코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…개별주식선물 시장도 반도체주 줄줄이 하락 - 핀포인트뉴스 — *핀포인트뉴스*
 
 ## 🇰🇷 금융주
 - `10-07 19:11` “올해 순이익 4.4조 전망…하나금융지주, 환율 하락에 CET1 비율·환차익 ‘더블 호재’” - 뉴스퀘스트 — *뉴스퀘스트*
@@ -45,6 +45,7 @@
 - `10-07 14:48` [현장] 취임 100일 맞은 오세훈, ‘삶의 질 특별시’ 선언 속 사법 리스크·李정부 부동산 대책에 ‘고강도 직격탄’ - 한양경제 — *한양경제*
 
 ## 🌍 AI·빅테크
+- `10-07 20:15` SpaceX Wants to Borrow $40 Billion to Buy Nvidia Chips - 24/7 Wall St. — *24/7 Wall St.*
 - `10-07 19:47` SpaceX wants to borrow $40 billion for Nvidia chips - Techzine Global — *Techzine Global*
 - `10-07 19:37` SpaceX’s $40bn Nvidia Chip Deal Exposes AI’s Dangerous Money Loop - MarketForces Africa — *MarketForces Africa*
 - `10-07 19:20` AM Markets Need to Know: SpaceX seeks $40B for Nvidia chips, Skydance leans on technology, and more - TradingView — *TradingView*
@@ -52,10 +53,9 @@
 - `10-07 19:09` SpaceX Seeks $40 Billion Financing for Nvidia Chips, FT Reports - Yahoo Finance — *Yahoo Finance*
 - `10-07 19:01` SpaceX seeks 40 billion dollars to finance Nvidia AI hardware - www.marketscreener.com — *www.marketscreener.com*
 - `10-07 18:53` SpaceX seeks $40bn in financing for Nvidia chip purchase - StreetInsider — *StreetInsider*
-- `10-07 18:09` SpaceX plans $40B debt deal for Nvidia chips - Yeni Şafak English — *Yeni Şafak English*
 
 ## 🌍 연준·금리
-- `10-07 19:11` Fed minutes could detail rate-hike decision, policy path - Reuters — *Reuters*
+- `10-07 19:58` Fed minutes could detail rate-hike decision, policy path - Reuters — *Reuters*
 - `10-07 18:41` Gold Falls as Stronger Dollar Puts Focus on Fed Rate Outlook - Yahoo Finance UK — *Yahoo Finance UK*
 - `10-07 18:33` Gold Prices Fall as Dollar Strengthens Ahead of Federal Reserve Minutes - Yahoo Finance — *Yahoo Finance*
 - `10-07 18:30` U.S. Fed raises interest rates despite Trump: ‘Important shift’ Canadians must make as fixed mortgage rates respond - Yahoo! Finance Canada — *Yahoo! Finance Canada*
@@ -65,21 +65,21 @@
 - `10-07 16:14` What are the FOMC meeting minutes and why do they rarely move markets? - investingLive — *investingLive*
 
 ## 🌍 유가·지정학
-- `10-07 20:01` Shippers Are Offering Sailors Up to $25,000 a Trip to Sneak Oil Out of the Gulf - WSJ — *WSJ*
+- `10-07 20:15` Current price of oil as of TK - Fortune — *Fortune*
+- `10-07 19:49` Stocks decline as oil climbs on Mideast flareup - Yahoo Finance — *Yahoo Finance*
 - `10-07 19:37` Oil price today: Why Brent is above $100 as US hurricane threatens oil supply | Hindustan Times - Hindustan Times — *Hindustan Times*
 - `10-07 18:58` Silver Price Forecast: Oil Fuels Inflation Fears Despite Softer Jobs - FXEmpire — *FXEmpire*
 - `10-07 18:54` Iraq devalues its currency as the US war with Iran disrupts oil shipping routes - Ottumwa Courier — *Ottumwa Courier*
 - `10-07 17:52` Hormuz Oil Tanker Strike Injures 12 Crew Members - Marine Link — *Marine Link*
 - `10-07 17:36` Warren Blamed Trump's Iran War for $500 Heating Oil Bills, So Why Are Refiner Stocks Up Over 160%? - 24/7 Wall St. — *24/7 Wall St.*
 - `10-07 17:19` Bitcoin Falls Below $84K While Oil Surges Past $100 on Hormuz Crisis - Coinpedia Fintech News — *Coinpedia Fintech News*
-- `10-07 17:08` Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ — *WSJ*
 
 ## 🌍 시장 전반
+- `10-07 20:07` Warren Buffett Has a Warning for Investors as Stock Market Crash Fears Grow - CryptoRank — *CryptoRank*
 - `10-07 19:55` Ray Dalio warns AI stock rally risks burst amid rising rates and heavy debt; Spotify expands audiobooks globally. - Pluang — *Pluang*
 - `10-07 19:10` Mapping the Market: Warning signs flash for US energy shares rally - Reuters — *Reuters*
 - `10-07 18:51` Investors pick new darlings and duds as selloff rocks Europe's bond market - Reuters — *Reuters*
+- `10-07 18:49` U.S. stock futures dip after S&P 500, Nasdaq hit records; Fed minutes awaited - Investing.com — *Investing.com*
 - `10-07 18:30` Wall Street Hits Record High as AI Stocks Fuel Market Rally | Stock Market Update| Dawn News English - Dawn — *Dawn*
 - `10-07 17:52` Taking advantage of the domestic stock market rally that began in the second half of last year, the - 매일경제 — *매일경제*
 - `10-07 17:02` Stock market today: Dow, S&P 500, Nasdaq futures steady after tech rally - AOL.com — *AOL.com*
-- `10-07 16:19` World stocks mostly fall back despite latest earnings-driven rally on Wall Street - KTVN — *KTVN*
-- `10-07 15:34` US stock market hits all-time high as investors continue to bet on AI - Al Jazeera — *Al Jazeera*
