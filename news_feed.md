@@ -1,30 +1,30 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-08 19:54 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-08 20:21 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 - **D+7** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
+- `10-08 19:38` [베트남 증시] 유가·국채 금리 급등에 투심 위축, 하락...外人 12거래일 연속 '팔자' - 뉴스핌 — *뉴스핌*
+- `10-08 19:24` [亞증시-종합] 매크로가 심상찮다…일제히 하락 - 연합인포맥스 — *연합인포맥스*
 - `10-08 18:54` 삼성전자 역대급 실적에도…코스피 6,600선 후퇴 - 연합뉴스TV — *연합뉴스TV*
 - `10-08 18:14` [마감] 코스피, 삼성전자 ’셀온’·금리 부담에 2.62% 급락…6620선 밀려 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `10-08 18:14` 안정되지 않는 시장 금리, 증시에 부담을 지우고 있다 - Investing.com 한국어 — *Investing.com 한국어*
 - `10-08 18:11` [1008마감체크] 코스피, 삼성전자 최대 실적에도 외인·기관 팔자에 6620선 마감 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 - `10-08 18:09` [중국증시-마감] 국경절 연휴 후 하락 - 연합인포맥스 — *연합인포맥스*
 - `10-08 17:59` 삼성전자 107조 영업이익에도 코스피 6,600선 털썩…2.63% 급락 - KBC광주방송 — *KBC광주방송*
-- `10-08 17:47` [도쿄증시-마감] 美 증시·금리 부담에 닛케이 70,000선 하회 - 연합인포맥스 — *연합인포맥스*
-- `10-08 17:40` 코스피, 삼전 107조 실적에도 2%대 하락…주가 선반영? - 한겨레 — *한겨레*
-- `10-08 17:24` [亞증시-종합] 매크로가 심상찮다…일제히 하락 - KB Think — *KB Think*
 
 ## 🇰🇷 반도체·HBM
+- `10-08 20:10` 대만 TSMC, 3분기 매출 50% 급증 '역대 최대'…AI 반도체 수요 영향 - 아시아경제 — *아시아경제*
+- `10-08 20:07` '반도체 부지 점검'…최태원 SK 회장, 9일 광주 군공항 방문 - 한국경제 — *한국경제*
+- `10-08 20:07` 용인 반도체 산단 광주시 상생발전 범시민연대, 광주시민 2만여 명 서명부 제출 - 인천일보 — *인천일보*
+- `10-08 20:03` 최태원 SK그룹 회장, 9일 ‘호남 반도체’ 광주 군공항 방문 - 중앙일보 — *중앙일보*
+- `10-08 20:03` 최태원 SK그룹 회장, 9일 ‘호남 반도체’ 광주 군공항 방문 - 미주중앙일보 — *미주중앙일보*
 - `10-08 19:42` 국내 반도체부터 미국 AI 에이전트까지…AI·우량채권 ETF 4종 13일 상장 - 코리아리포트 — *코리아리포트*
+- `10-08 19:36` 최태원 SK그룹 회장, 9일 반도체 부지 광주 군공항 방문 - 연합뉴스 — *연합뉴스*
 - `10-08 19:20` 반도체 호황에 8월 경상수지 461억달러 흑자…역대 2위 - 매일일보 — *매일일보*
-- `10-08 19:20` 대만 TSMC, AI 반도체 수요에 3분기 매출 50% 급증…역대 최대 - KBS 뉴스 — *KBS 뉴스*
-- `10-08 19:15` 씨티, 3분기 실적 발표 앞두고 반도체 톱픽 5종목 선정 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-08 18:54` 대만 TSMC, AI 반도체 수요에 3분기 매출 50% 급증‥역대 최대 - MBC 뉴스 — *MBC 뉴스*
-- `10-08 18:44` 반도체 초호황인데 완제품은 적자…‘한 지붕 두 삼전’ - 한겨레 — *한겨레*
-- `10-08 18:34` SK하이닉스 솔리다임, 美 증시 노크...100억달러 IPO 시동 - 공공뉴스 — *공공뉴스*
-- `10-08 18:24` 삼성전자 HBM4 가격 협상 막바지…내년 HBM 평균가 2배 급등 전망 - 뉴스웍스 — *뉴스웍스*
 
 ## 🇰🇷 금융주
 - `10-08 18:18` [더나은미래 경제브리핑] 금융지주 순이익 ‘역대 최대’ 달성…송미령 “투기 목적 아닌 농지 처분 안 해” - 더나은미래 — *더나은미래*
@@ -47,14 +47,14 @@
 - `10-07 14:48` [현장] 취임 100일 맞은 오세훈 ‘삶의 질 특별시’ 선언 속 사법 리스크·李정부 부동산 대책에 ‘고강도 직격탄’ - 한양경제 — *한양경제*
 
 ## 🌍 AI·빅테크
+- `10-08 20:00` SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware — massive raise could fund roughly 360,000 Vera Rubin GPUs across 5,000 NVL72 racks - Tom's Hardware — *Tom's Hardware*
 - `10-08 19:32` Broadcom Eyes Over $50 Billion to Fund OpenAI’s Custom AI Chips as Oracle Also Pursues Major Chip Financi - Benzinga — *Benzinga*
+- `10-08 19:20` Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Yahoo Finance Australia — *Yahoo Finance Australia*
+- `10-08 19:20` Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com — *Bloomberg.com*
 - `10-08 17:41` SpaceX in talks to raise $40 bn in loans for Nvidia chips: report - Newagebd.net — *Newagebd.net*
 - `10-08 17:29` Broadcom Reportedly in Talks for Over $50 Billion Financing as Oracle, SpaceX Seek Funds to Buy AI Chips - TradingKey — *TradingKey*
 - `10-08 16:37` SpaceX pursues US$40 billion Nvidia chip financing while Terafab charts path to AI compute independence - digitimes — *digitimes*
 - `10-08 16:05` SpaceX Plans $40 Billion Debt Raise for Nvidia Chips; CDS Spreads Hit Record High - BigGo Finance — *BigGo Finance*
-- `10-08 13:25` Broadcom in talks for $50B+ financing deal to fund OpenAI's custom chips - Seeking Alpha — *Seeking Alpha*
-- `10-08 13:10` AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1) - AI: Reset to Zero — *AI: Reset to Zero*
-- `10-08 12:18` SPCX Stock Climbs Overnight: Jim Cramer Says SpaceX Could Become Nvidia's Largest Customer, Ives Backs $40B Chip Financing - Stocktwits — *Stocktwits*
 
 ## 🌍 연준·금리
 - `10-08 19:19` US Fed may raise interest rate again this year: September minutes - 巴士的報 — *巴士的報*
@@ -64,20 +64,20 @@
 - `10-08 17:56` Fed's Waller: More hikes needed, but there is 'flexibility' about the pace - Reuters — *Reuters*
 - `10-08 17:41` Fed Chair Kevin Warsh Fired Back at President Donald Trump's Interest Rate Critiques With a Blunt 9-Word Statement - The Globe and Mail — *The Globe and Mail*
 - `10-08 17:38` A Top Fed Official Casts Further Doubt on a Rate Rise This Month - The New York Times — *The New York Times*
-- `10-08 17:27` Fed Chair Kevin Warsh Fired Back at President Donald Trump's Interest Rate Critiques With a Blunt 9-Word Statement - The Motley Fool — *The Motley Fool*
+- `10-08 17:30` Fed's Waller says more interest rate hikes likely on the way - American Banker — *American Banker*
 
 ## 🌍 유가·지정학
+- `10-08 20:11` Sizing up the price of oil has never been harder (USO:NYSEARCA) - Seeking Alpha — *Seeking Alpha*
+- `10-08 20:04` The Hormuz bonus: Sailor salaries soar for transits amid Iran war - Al Jazeera — *Al Jazeera*
+- `10-08 20:00` Current price of oil as of Oct. 8, 2026 - Fortune — *Fortune*
+- `10-08 19:56` Oil price surges above $105 as hurricane threatens US producers - The Times — *The Times*
+- `10-08 19:52` U.S. stock futures fall amid bond market strains, oil price surge - Investing.com — *Investing.com*
+- `10-08 19:46` Oil prices jump on tanker attack and slowing flows through Strait of Hormuz - Financial Times — *Financial Times*
+- `10-08 19:34` Oil prices jump amid record tanker attacks in Hormuz - CNN — *CNN*
 - `10-08 19:30` India's Inflation Likely Hit 5.4% in September as Oil Costs Bite - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-08 19:14` UAE'S ADNOC sets Murban crude oil price at $11 over Dubai quotes - TradingView — *TradingView*
-- `10-08 19:13` Oil prices find support from Gulf storm outages and Strait of Hormuz tensions - FXStreet — *FXStreet*
-- `10-08 19:00` Middle East: Oil prices soar again amid a new escalation in the region due to clashes between the Houthis and the Saudis and an exchange of threats between Trump and Iran - voz.us — *voz.us*
-- `10-08 18:46` Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise - FXStreet — *FXStreet*
-- `10-08 18:41` Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’ - The Guardian — *The Guardian*
-- `10-08 18:14` Oil: Prices supported by supply risks and Iran tensions – Danske Bank - FXStreet — *FXStreet*
-- `10-08 18:06` Iraq cuts November Basrah Medium crude oil price to Asia - TradingView — *TradingView*
 
 ## 🌍 시장 전반
-- `10-08 19:45` Mapping the Market: Microsoft set to extend rally - The Mighty 790 KFGO — *The Mighty 790 KFGO*
+- `10-08 19:19` Mapping the Market: Microsoft set to extend rally By Reuters - Investing.com — *Investing.com*
 - `10-08 19:03` Stock Market Crash: Six big shocks for Indian markets since 2000 and how long recovery took - CNBC TV18 - LinkedIn — *LinkedIn*
 - `10-08 18:45` Why Is Stock Market Crashing Today? Crude Jitters, RBI Tone Among 3 Reasons Behind D-Street Selloff - NDTV Profit — *NDTV Profit*
 - `10-08 18:41` Are REITS Right For A Bond Rally? - Real Investment Advice — *Real Investment Advice*
