@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-08 22:22 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-08 22:58 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -47,41 +47,41 @@
 - `10-07 14:48` [현장] 취임 100일 맞은 오세훈 ‘삶의 질 특별시’ 선언 속 사법 리스크·李정부 부동산 대책에 ‘고강도 직격탄’ - 한양경제 — *한양경제*
 
 ## 🌍 AI·빅테크
+- `10-08 21:58` Broadcom's OpenAI Bet Keeps Getting Bigger - TradingView — *TradingView*
+- `10-08 21:41` Broadcom Eyes $50 Billion Financing Deal for OpenAI Chips - TradingView — *TradingView*
 - `10-08 21:16` Elon Musk’s SpaceX wants to borrow $40 billion for Nvidia chips, and its bonds just hit a record for risk - Billionaires.Africa — *Billionaires.Africa*
 - `10-08 20:00` SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware — massive raise could fund roughly 360,000 Vera Rubin GPUs across 5,000 NVL72 racks - Tom's Hardware — *Tom's Hardware*
 - `10-08 19:41` Elon Musk Is Betting $40 Billion on Nvidia Chips — SpaceX Investors Aren't So Sure as SPCX Credit Default Swaps Hit Record High: Report - TradingView — *TradingView*
 - `10-08 19:32` Broadcom Eyes Over $50 Billion to Fund OpenAI’s Custom AI Chips as Oracle Also Pursues Major Chip Financi - Benzinga — *Benzinga*
-- `10-08 19:20` Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com — *Bloomberg.com*
 - `10-08 19:20` Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Yahoo Finance — *Yahoo Finance*
-- `10-08 17:41` SpaceX in talks to raise $40 bn in loans for Nvidia chips: report - Newagebd.net — *Newagebd.net*
-- `10-08 17:35` Broadcom Reportedly in Talks for Over $50 Billion Financing as Oracle, SpaceX Seek Funds to Buy AI Chips - TradingKey — *TradingKey*
+- `10-08 19:20` Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 연준·금리
 - `10-08 22:03` Federal Reserve: More hikes ahead after October pause - UOB - FXStreet — *FXStreet*
+- `10-08 21:29` LME nickel futures rebound above $15,700, driven by fading US Federal Reserve rate hike expectations - Yieh Corp. — *Yieh Corp.*
 - `10-08 21:05` Every Fed Official Backed September’s Hike. Most Want One More Before New Year’s - 24/7 Wall St. — *24/7 Wall St.*
 - `10-08 20:34` Fed minutes show most officials back another 2026 rate hike - Wealth Professional — *Wealth Professional*
-- `10-08 19:19` US Fed may raise interest rate again this year: September minutes - 巴士的報 — *巴士的報*
 - `10-08 18:56` Gold Prices Stabilise After Two-Month Low as Investors Assess Federal Reserve Rate Outlook - Yahoo Finance — *Yahoo Finance*
+- `10-08 18:55` Prediction Markets vs FedWatch: Can Polymarket Predict the Fed Better in 2026? - TechBullion — *TechBullion*
 - `10-08 18:53` Fed officials see potential for one more rate hike by end-2026 - Azernews.az — *Azernews.az*
 - `10-08 18:35` Fed Governor Waller Says More Rate Hikes Likely Needed, But Not Necessarily at Consecutive Meetings - BigGo Finance — *BigGo Finance*
-- `10-08 17:56` Fed's Waller: More hikes needed, but there is 'flexibility' about the pace - Reuters — *Reuters*
 
 ## 🌍 유가·지정학
+- `10-08 22:53` Oil jumps 4% as Trump rules out Iran deal, stocks slip - Quartz — *Quartz*
+- `10-08 22:43` Crude Oil Price Forecast – Oil Continues to See Multiple Pressures - FXEmpire — *FXEmpire*
+- `10-08 22:30` Supertanker Rates Hit Record $1.4 Million a Day - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-08 22:18` FTSE 100 today: Stocks flat as oil surge, rising yields weigh - Investing.com — *Investing.com*
 - `10-08 21:54` Update: US Equity Futures Fall Pre-Bell as Oil Prices Rise After Trump Says He Does Not Want Iran Deal - Yahoo Finance — *Yahoo Finance*
-- `10-08 21:41` Why are oil prices surging above $104? Hormuz attacks and Hurricane Isaias raise supply fears | Hindustan Times - Hindustan Times — *Hindustan Times*
+- `10-08 21:44` Oil prices jump amid record tanker attacks in Hormuz - WJRT ABC12 — *WJRT ABC12*
+- `10-08 21:35` Stock Futures Fall on Higher Oil Prices, AI Pullback - Yahoo Finance — *Yahoo Finance*
 - `10-08 21:29` Watch Stocks Drop, Oil Rises on Iran Report; TSMC, Samsung Disappoints Investors - Bloomberg.com — *Bloomberg.com*
-- `10-08 21:23` Oil surges, stocks sink as US reportedly eyes fresh Iran strikes - AFP.com — *AFP.com*
-- `10-08 21:17` DAX Stumbles - Oil Price Rises Sharply - marketscreener.com — *marketscreener.com*
-- `10-08 21:15` Oil prices hit $105 and stocks tumble as Trump considers renewed strikes on Iran - NBC News — *NBC News*
-- `10-08 21:05` Oil prices surge 5% on reports of possible Iran strikes - Quartz — *Quartz*
-- `10-08 21:00` U.S. Responds to IRGC: Strait of Hormuz Is Open and Oil Flow Continues - IranWire — *IranWire*
 
 ## 🌍 시장 전반
+- `10-08 22:38` US Stock Market Today: Dow, S&P 500, Nasdaq In Red As Oil, Treasury Yields Jump - NDTV Profit — *NDTV Profit*
 - `10-08 19:14` Mapping the Market: Microsoft set to extend rally - Reuters — *Reuters*
 - `10-08 19:03` Stock Market Crash: Six big shocks for Indian markets since 2000 and how long recovery took - CNBC TV18 - LinkedIn — *LinkedIn*
 - `10-08 18:41` Are REITS Right For A Bond Rally? - Real Investment Advice — *Real Investment Advice*
 - `10-08 18:00` TCS To Titan: Five Frontline Stocks Gaining Ground Despite Brutal Stock Market Crash - NDTV Profit — *NDTV Profit*
 - `10-08 17:26` Nomura, Daiwa CEOs flag risk AI may spoil stock market rally - The Japan Times — *The Japan Times*
+- `10-08 16:30` AI bubble could burst within two years, triggering severe market crash, strategist warns (SP500:) - Seeking Alpha — *Seeking Alpha*
 - `10-08 15:55` Nomura, Daiwa CEOs Flag Risk AI May Spoil Stock Market Rally - Bloomberg.com — *Bloomberg.com*
-- `10-08 15:43` Understanding the Paradox: Why Do U.S. Stocks Continue to Rally Despite Mounting Stress in the Treasury Market? - Moomoo — *Moomoo*
-- `10-08 15:43` Stock market crash today: BSE Sensex tanks over 1,000 points; Nifty50 at 22,231 - top reasons for fall - The Times of India — *The Times of India*
