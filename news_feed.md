@@ -1,30 +1,30 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-08 20:21 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-08 20:38 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 - **D+7** (10/01) ⭐⭐ 마이크론 FQ4 실적 콜 05:30 KST(미국 9/30 장 마감 후) — 심판 ⓑ HBM축·H1 가설 1차 검증 [09-17 정정: 구 9/29~30 표기]
 
 ## 🇰🇷 증시·코스피
+- `10-08 20:12` [인도증시] '고유가·고금리 발작' 인도 증시 사면초가…센섹스 32개월 만에 최저치로 - 뉴스핌 — *뉴스핌*
 - `10-08 19:38` [베트남 증시] 유가·국채 금리 급등에 투심 위축, 하락...外人 12거래일 연속 '팔자' - 뉴스핌 — *뉴스핌*
 - `10-08 19:24` [亞증시-종합] 매크로가 심상찮다…일제히 하락 - 연합인포맥스 — *연합인포맥스*
+- `10-08 18:57` 삼성전자 실적 호재도 '매도세' 막지 못했다 - 코리아리포트 — *코리아리포트*
 - `10-08 18:54` 삼성전자 역대급 실적에도…코스피 6,600선 후퇴 - 연합뉴스TV — *연합뉴스TV*
 - `10-08 18:14` [마감] 코스피, 삼성전자 ’셀온’·금리 부담에 2.62% 급락…6620선 밀려 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
 - `10-08 18:14` 안정되지 않는 시장 금리, 증시에 부담을 지우고 있다 - Investing.com 한국어 — *Investing.com 한국어*
 - `10-08 18:11` [1008마감체크] 코스피, 삼성전자 최대 실적에도 외인·기관 팔자에 6620선 마감 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-08 18:09` [중국증시-마감] 국경절 연휴 후 하락 - 연합인포맥스 — *연합인포맥스*
-- `10-08 17:59` 삼성전자 107조 영업이익에도 코스피 6,600선 털썩…2.63% 급락 - KBC광주방송 — *KBC광주방송*
 
 ## 🇰🇷 반도체·HBM
+- `10-08 20:23` 최태원 SK그룹 회장, 9일 호남 반도체 클러스터 점검차 광주 군공항 시찰 - 글로벌이코노믹 — *글로벌이코노믹*
+- `10-08 20:21` TSMC, AI 반도체 수요에 3분기 매출 63조원…전년比 50% 증가 ‘역대 최대’ - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `10-08 20:19` 최태원 회장, ‘반도체 클러스터 예정지’ 광주 군공항 방문 - KBS 뉴스 — *KBS 뉴스*
+- `10-08 20:17` 최태원 SK 회장, 9일 광주 반도체 사업부지 첫 점검 - 뉴스1 — *뉴스1*
+- `10-08 20:16` 최태원 SK그룹 회장, 9일 '반도체 부지' 광주 군공항 방문 - 아시아경제 — *아시아경제*
 - `10-08 20:10` 대만 TSMC, 3분기 매출 50% 급증 '역대 최대'…AI 반도체 수요 영향 - 아시아경제 — *아시아경제*
 - `10-08 20:07` '반도체 부지 점검'…최태원 SK 회장, 9일 광주 군공항 방문 - 한국경제 — *한국경제*
 - `10-08 20:07` 용인 반도체 산단 광주시 상생발전 범시민연대, 광주시민 2만여 명 서명부 제출 - 인천일보 — *인천일보*
-- `10-08 20:03` 최태원 SK그룹 회장, 9일 ‘호남 반도체’ 광주 군공항 방문 - 중앙일보 — *중앙일보*
-- `10-08 20:03` 최태원 SK그룹 회장, 9일 ‘호남 반도체’ 광주 군공항 방문 - 미주중앙일보 — *미주중앙일보*
-- `10-08 19:42` 국내 반도체부터 미국 AI 에이전트까지…AI·우량채권 ETF 4종 13일 상장 - 코리아리포트 — *코리아리포트*
-- `10-08 19:36` 최태원 SK그룹 회장, 9일 반도체 부지 광주 군공항 방문 - 연합뉴스 — *연합뉴스*
-- `10-08 19:20` 반도체 호황에 8월 경상수지 461억달러 흑자…역대 2위 - 매일일보 — *매일일보*
 
 ## 🇰🇷 금융주
 - `10-08 18:18` [더나은미래 경제브리핑] 금융지주 순이익 ‘역대 최대’ 달성…송미령 “투기 목적 아닌 농지 처분 안 해” - 더나은미래 — *더나은미래*
@@ -57,6 +57,7 @@
 - `10-08 16:05` SpaceX Plans $40 Billion Debt Raise for Nvidia Chips; CDS Spreads Hit Record High - BigGo Finance — *BigGo Finance*
 
 ## 🌍 연준·금리
+- `10-08 20:34` Fed minutes show most officials back another 2026 rate hike - Wealth Professional — *Wealth Professional*
 - `10-08 19:19` US Fed may raise interest rate again this year: September minutes - 巴士的報 — *巴士的報*
 - `10-08 18:56` Gold Prices Stabilise After Two-Month Low as Investors Assess Federal Reserve Rate Outlook - Yahoo Finance — *Yahoo Finance*
 - `10-08 18:53` Fed officials see potential for one more rate hike by end-2026 - Azernews.az — *Azernews.az*
@@ -64,17 +65,16 @@
 - `10-08 17:56` Fed's Waller: More hikes needed, but there is 'flexibility' about the pace - Reuters — *Reuters*
 - `10-08 17:41` Fed Chair Kevin Warsh Fired Back at President Donald Trump's Interest Rate Critiques With a Blunt 9-Word Statement - The Globe and Mail — *The Globe and Mail*
 - `10-08 17:38` A Top Fed Official Casts Further Doubt on a Rate Rise This Month - The New York Times — *The New York Times*
-- `10-08 17:30` Fed's Waller says more interest rate hikes likely on the way - American Banker — *American Banker*
 
 ## 🌍 유가·지정학
+- `10-08 20:31` Why higher oil prices aren't saving Gulf economies from the Iran war - Euronews.com — *Euronews.com*
 - `10-08 20:11` Sizing up the price of oil has never been harder (USO:NYSEARCA) - Seeking Alpha — *Seeking Alpha*
-- `10-08 20:04` The Hormuz bonus: Sailor salaries soar for transits amid Iran war - Al Jazeera — *Al Jazeera*
+- `10-08 20:10` The Hormuz bonus: Sailor salaries soar for transits amid Iran war - Al Jazeera — *Al Jazeera*
 - `10-08 20:00` Current price of oil as of Oct. 8, 2026 - Fortune — *Fortune*
 - `10-08 19:56` Oil price surges above $105 as hurricane threatens US producers - The Times — *The Times*
 - `10-08 19:52` U.S. stock futures fall amid bond market strains, oil price surge - Investing.com — *Investing.com*
 - `10-08 19:46` Oil prices jump on tanker attack and slowing flows through Strait of Hormuz - Financial Times — *Financial Times*
-- `10-08 19:34` Oil prices jump amid record tanker attacks in Hormuz - CNN — *CNN*
-- `10-08 19:30` India's Inflation Likely Hit 5.4% in September as Oil Costs Bite - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-08 19:46` Oil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
 - `10-08 19:19` Mapping the Market: Microsoft set to extend rally By Reuters - Investing.com — *Investing.com*
