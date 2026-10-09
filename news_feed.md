@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-09 20:53 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-09 21:05 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -41,14 +41,14 @@
 - `10-08 05:00` [데스크 칼럼] ‘누더기 대책’에 갇힌 부동산 - 핀포인트뉴스 — *핀포인트뉴스*
 
 ## 🌍 AI·빅테크
-- `10-09 19:18` Nvidia: Jensen Huang And Lisa Su Agree On One Thing (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
 - `10-09 19:00` The AI race may be decided by financing—not just better chips - Fortune — *Fortune*
 - `10-09 18:00` Wall Street is inventing an entirely new financial system around Nvidia's AI chips - Business Insider — *Business Insider*
 - `10-09 16:47` OpenAI's $50 Billion Number Just Smacked Oracle and the Chip Stack - Money Morning — *Money Morning*
 - `10-09 15:21` OpenAI’s $50 Billion Revenue Figure Rattles the AI Trade. How Do You Miss by $20 Billion? - TradingView — *TradingView*
-- `10-09 13:31` SoftBank seeks $100bn from Gulf investors to expand AI bet - Financial Times — *Financial Times*
+- `10-09 13:30` SoftBank seeks $100bn from Gulf investors to expand AI bet - Financial Times — *Financial Times*
 - `10-09 11:56` ‘More of the Same’ in AI. OpenAI vs Anthropic, AI Debt & Rates. ARD #180 - AI: Reset to Zero — *AI: Reset to Zero*
 - `10-09 11:34` Why Nvidia-Backed Firmus Shelved Its Australian IPO? OpenAI Compute Supplier Turns to Private Fundraising - TradingKey — *TradingKey*
+- `10-09 11:24` Why Is OpenAI’s Annualized Revenue $20 Billion Below Expectations? AI Infrastructure Investment Faces Repricing - TradingKey — *TradingKey*
 
 ## 🌍 연준·금리
 - `10-09 20:36` Fed grows more hawkish on inflation but there is room to wait on rate hikes - Baltimore Sun — *Baltimore Sun*
@@ -61,14 +61,14 @@
 - `10-09 06:41` Fed signals another rate hike - ABC Columbia — *ABC Columbia*
 
 ## 🌍 유가·지정학
+- `10-09 20:40` Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters — *Reuters*
 - `10-09 20:28` US futures are rising as crude prices retreat from recent gains - 95.5 WSB — *95.5 WSB*
-- `10-09 20:19` Current price of oil as of Oct. 9, 2026 - Fortune — *Fortune*
-- `10-09 19:28` Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters — *Reuters*
+- `10-09 20:19` Current price of oil as of October 9, 2026 - Fortune — *Fortune*
+- `10-09 19:46` Donald Trump envoy Barrack pushed business partner's firm for Iraq-Syria oil pipeline - The Jerusalem Post — *The Jerusalem Post*
 - `10-09 18:28` Oil Prices Decline as Trump Comments on Iran Talks Ease Immediate Supply Concerns - Yahoo Finance — *Yahoo Finance*
 - `10-09 17:46` US targets Iran’s shadow oil fleet in fresh sanctions - The Arab Weekly — *The Arab Weekly*
 - `10-09 17:06` US targets 17 vessels in Iran’s oil trade with sanctions - mezha.net — *mezha.net*
 - `10-09 17:03` Watch Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue - Bloomberg.com — *Bloomberg.com*
-- `10-09 17:00` Venture Global Loses LNG Arbitration to Portugal's Galp - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
 - `10-09 20:02` Aging bull: Why the four-year old stock-market rally can still pack a punch - MarketWatch — *MarketWatch*
