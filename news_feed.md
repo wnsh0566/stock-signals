@@ -1,86 +1,81 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-09 12:01 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-09 19:26 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `10-09 09:59` 美증시, 유가·국채금리 상승에도 버티는 5가지 이유 - 뉴스핌 — *뉴스핌*
-- `10-09 09:44` [금산분리 완화, 韓 증시를 살릴 골든타임]①위기의 주식시장, 해법은 '자사주 매입' - 알파경제 — *알파경제*
-- `10-09 09:41` [뉴욕 증시] 美 대이란 공격 중단 선언·오픈AI 연매출 기대치 미달...뉴욕 3대 지수 혼조 - 한양경제 — *한양경제*
-- `10-09 09:32` 日증시, 美 반도체 급락 여파에 하락 출발 후 낙폭 확대 - 연합인포맥스 — *연합인포맥스*
-- `10-09 09:19` [해외시황] 뉴욕증시, AI 성장 우려·중동 긴장에 '혼조'…나스닥 1.25%↓ - 프라임경제 — *프라임경제*
-- `10-09 09:10` 뉴욕증시, 기술주 약세에 혼조 마감…나스닥 1.25%↓ - 연합뉴스TV — *연합뉴스TV*
-- `10-09 09:05` 브라질증시 폭등 예상한 전설의 ‘투자 기계’…함께 매수한 종목은? - 매일경제 마켓 — *매일경제 마켓*
-- `10-09 09:00` 현기증 나는 증시, '발행어음·국채'로 눈 돌려볼까...증권가 특판·청약은 - 오피니언뉴스 — *오피니언뉴스*
+- `10-09 19:16` [베트남 증시] 유동성 급증했지만 매도세 강력, 혼조 마감...NVL·PNJ, 약세 끊고 '상한가' - 뉴스핌 — *뉴스핌*
+- `10-09 18:13` [중국증시-마감] AI 경계에 급락하다 내수·MLCC 반등에 강보합 - 연합인포맥스 — *연합인포맥스*
+- `10-09 17:42` [도쿄증시-마감] 美 급락 추종 후 낙폭 축소…닛케이 6만9천선 사수 - 연합인포맥스 — *연합인포맥스*
+- `10-09 17:03` 日·대만 달리는데…3대 걸림돌에 막힌 코스피 - 매일경제 마켓 — *매일경제 마켓*
+- `10-09 16:11` 유럽 증시, 반등 시도에도 프랑스 국채 불안으로 주간 하락 전망 - Investing.com 한국어 — *Investing.com 한국어*
+- `10-09 15:46` 3분기 양호한 실적 전망에도 증시 지지부진한 이유는[주末머니] - 아시아경제 — *아시아경제*
+- `10-09 14:14` 두달째 답답 '코스피'…2028년까지 봐야한다는데[주末머니] - 아시아경제 — *아시아경제*
+- `10-09 14:00` 5%대 美 금리 vs 불뿜는 반도체 실적…10월 증시 향방 가를 3대 변수 - 한국경제 — *한국경제*
 
 ## 🇰🇷 반도체·HBM
-- `10-09 11:30` [오늘의 삼전닉스] '이제는 SK하이닉스 차례' 어떤 기록 세울까? - 이코노미스트 — *이코노미스트*
-- `10-09 11:16` SK하이닉스 솔리다임, 美 상장 본격화…'13조 조달' 기대 속 주주가치 훼손 우려 - www.ebn.co.kr — *www.ebn.co.kr*
-- `10-09 11:08` 한글날 쉬는 사이 美반도체 급락…SOXL 10%↓, 월요일 '삼전·하닉' 또 시험대 - 녹색경제신문 — *녹색경제신문*
-- `10-09 11:08` "괜히 TSMC·삼성전자겠나"…머스크 돈 쏟아붓는데 '절레절레' [강경주의 테크X] - 한국경제 — *한국경제*
-- `10-09 10:56` 삼성전자 영업익 107조 이어…SK하이닉스, 이익률 80% 넘보나 - 서울신문 — *서울신문*
-- `10-09 10:55` 경제부처 장관들 “반도체 초과세수로 공공주택 확충 검토” - 한겨레 — *한겨레*
-- `10-09 10:24` 램리서치, 한국서 만든 반도체 챔버 1만5000대 돌파…스타트업 투자도 확대 - 뉴스탭 — *뉴스탭*
-- `10-09 10:15` 삼성전자 분기 영업익 100조 원 이어... SK하이닉스, 영업이익률 80% 달성할까 - 한국일보 — *한국일보*
+- `10-09 19:07` 용인 반도체 공장 가동 앞두고 고삼저수지 수질 관리 과제 - 용인시민신문 — *용인시민신문*
+- `10-09 19:05` “가장 빨리, 더 크게”…호남 반도체 부지 찾은 최태원 속도전 강조 - 동아일보 — *동아일보*
+- `10-09 18:58` 최태원, 광주 군공항 찾아 "가장 빨리 짓겠다"...호남 반도체 '속도전' - 글로벌이코노믹 — *글로벌이코노믹*
+- `10-09 18:50` [시사플랫폼] 최태원 회장, 전남광주 반도체 부지 방문…‘속도전’ 강조 - KBS 뉴스 — *KBS 뉴스*
+- `10-09 18:48` 최태원, 광주 '반도체 부지' 첫 방문...속도전 강조 - YTN — *YTN*
+- `10-09 18:38` “용인도 모자란다”…최태원, 호남 400조 반도체 기지 직접 챙겼다 - 주간한국 — *주간한국*
+- `10-09 18:32` 광주 군공항 반도체 공장 조기 착공 검토…용인 3분의 2 규모 구상 - 알티케이뉴스 — *알티케이뉴스*
+- `10-09 18:24` 최태원 SK그룹 회장, “광주 반도체공장 최대한 빠른 속도로 건설” - 호남타임즈 — *호남타임즈*
 
 ## 🇰🇷 금융주
+- `10-09 14:46` 신한투자증권 ‘상환 무난’ JTBC채 넉 달 만에 회생…대표 고른 진옥동 회장 책임 심사도 맡는다 - 뉴스필드 — *뉴스필드*
+- `10-09 14:19` [친절한 경제] 6개월 평균급여 1억8400만원…SK하이닉스보다 더 받은 회사는 - https://www.standingout.kr/ — *https://www.standingout.kr/*
 - `10-09 11:15` 금리 뛰는데 은행주 왜 빠졌나…4분기엔 반전? - 매일경제 — *매일경제*
 - `10-09 10:00` 4대 금융지주 3분기 순이익 뒷걸음치나…비은행 한파 - 자본시장뉴스 — *자본시장뉴스*
 - `10-09 01:40` 상반기 금융지주 순이익 17.6조 역대 최대 - 동아일보 — *동아일보*
 - `10-09 00:31` 금융지주 상반기 순익 17.6조원…증권 호조에 13.7% 증가 - 뉴스코리아 — *뉴스코리아*
-- `10-09 00:00` 반기 만에 17.6조 벌었다…금융지주 또 '역대 최대' 실적 잔치 - CBC뉴스 — *CBC뉴스*
 - `10-08 20:28` ‘코스피 불장’에 금융지주 상반기 17.6조 벌었다…역대 최대 - 한겨레 — *한겨레*
 - `10-08 18:18` [더나은미래 경제브리핑] 금융지주 순이익 ‘역대 최대’ 달성…송미령 “투기 목적 아닌 농지 처분 안 해” - 더나은미래 — *더나은미래*
-- `10-08 17:46` 10대 금융지주 상반기 '역대 최대' 실적, 증시 호황에 금융투자 이익 73% 급증 - 비즈니스포스트 — *비즈니스포스트*
 
 ## 🇰🇷 정책·거시
 - `10-08 14:08` 모경종 의원, 8·13 부동산 대책 성공 열쇠는 “결국 주민 수용성”…“검단 과밀학급·체육시설부터 해결해야” - 인천뉴스 — *인천뉴스*
 - `10-08 08:00` [기자수첩] 수도권엔 '닥공', 지방엔 빈집…균형성장 거스른 정부의 '엇박자' - 청년일보 — *청년일보*
 - `10-08 05:00` [데스크 칼럼] ‘누더기 대책’에 갇힌 부동산 - 핀포인트뉴스 — *핀포인트뉴스*
-- `10-07 17:45` 집값·전월세 불안에 공급 실효성 도마…국토위, 부동산대책 공방 [2026 국감] - 한국금융신문 — *한국금융신문*
-- `10-07 17:07` 여야, 국토부 부동산 정책 질타…주거 불안·공급 대책 집중 추궁 - 충청투데이 — *충청투데이*
-- `10-07 16:27` 국토위, 李정부 부동산대책 공방…집값·공급 실효성 도마 - 데일리한국 — *데일리한국*
-- `10-07 15:32` [사설] 데이터에 기반한 지역별 부동산 대책을 - 인천일보 — *인천일보*
-- `10-07 14:48` [현장] 취임 100일 맞은 오세훈 ‘삶의 질 특별시’ 선언 속 사법 리스크·李정부 부동산 대책에 ‘고강도 직격탄’ - 한양경제 — *한양경제*
 
 ## 🌍 AI·빅테크
+- `10-09 19:00` The AI race may be decided by financing—not just better chips - Fortune — *Fortune*
+- `10-09 18:00` Wall Street is inventing an entirely new financial system around Nvidia's AI chips - Business Insider — *Business Insider*
+- `10-09 16:47` OpenAI's $50 Billion Number Just Smacked Oracle and the Chip Stack - Money Morning — *Money Morning*
+- `10-09 12:54` OpenAI revenue gap report rattles AI stocks - The Hindu — *The Hindu*
 - `10-09 11:56` ‘More of the Same’ in AI. OpenAI vs Anthropic, AI Debt & Rates. ARD #180 - AI: Reset to Zero — *AI: Reset to Zero*
 - `10-09 11:34` Why Nvidia-Backed Firmus Shelved Its Australian IPO? OpenAI Compute Supplier Turns to Private Fundraising - TradingKey — *TradingKey*
+- `10-09 11:24` Why Is OpenAI’s Annualized Revenue $20 Billion Below Expectations? AI Infrastructure Investment Faces Repricing - TradingKey — *TradingKey*
 - `10-09 11:16` AI Spending Risks: Can OpenAI Justify Its Huge Funding Needs? - The Acquirer's Multiple — *The Acquirer's Multiple*
-- `10-09 09:43` AI stocks fall after report puts OpenAI annualized revenue near $50 billion - FindArticles — *FindArticles*
-- `10-09 08:07` Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com — *Bloomberg.com*
-- `10-09 07:05` OpenAI's Annualized Revenue Comes in $20 Billion Below Prior Disclosures; Nasdaq Falls Over 1% as AI Stocks Slide - BigGo Finance — *BigGo Finance*
-- `10-09 06:19` OpenAI's annualized revenue $20 billion less than previously signaled, FT reports - Reuters — *Reuters*
-- `10-09 06:08` Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `10-09 08:21` Gold gains ground to near $4,150 as traders weigh Fed rate path - FXStreet — *FXStreet*
+- `10-09 19:14` Four signs it is about to get uglier in the bond market - Reuters — *Reuters*
+- `10-09 19:01` Top CD rates today, Oct. 9, 2026: Lock in up to up to 5.20% - Fortune — *Fortune*
+- `10-09 15:00` PIMCO: Fed Rate Hike in September and Future Outlook - Funds Society — *Funds Society*
+- `10-09 12:27` Gold rises on softer dollar, easing yields; Fed outlook in focus - CNBC — *CNBC*
 - `10-09 08:05` CITIC International: Expects the Federal Reserve to raise interest rates three times in 2027 - Moomoo — *Moomoo*
 - `10-09 07:45` Not too big, not too small: The just-right Fed balance sheet - Marketplace.org — *Marketplace.org*
-- `10-09 04:44` St. Louis Fed's Musalem sees more rate hikes in the next 6 months - AOL.com — *AOL.com*
-- `10-09 04:39` Fed grows more hawkish on inflation but sees room to wait on rate hikes - WKRC — *WKRC*
-- `10-09 03:59` More rate hikes are coming, says Fed's Waller - Mortgage Professional America — *Mortgage Professional America*
-- `10-09 03:59` Federal Reserve Watch for Oct. 8: Waller Says Further Rate Hikes Needed, Suggests October Hike Not Certainty - marketscreener.com — *marketscreener.com*
-- `10-09 03:23` The Fed's going to take its time with rate hikes - Axios — *Axios*
+- `10-09 06:41` Fed signals another rate hike - ABC Columbia — *ABC Columbia*
+- `10-09 05:48` Fed's Musalem says tighter monetary policy needed to lower inflation - Reuters — *Reuters*
 
 ## 🌍 유가·지정학
-- `10-09 11:39` Iran scales up Hormuz attacks, raising pressure on Trump as midterms near - The Washington Post — *The Washington Post*
-- `10-09 11:10` Crude Oil Trading Alert: Risks in the Strait of Hormuz and production cuts in the Gulf of Mexico continue to support oil prices, while U.S. crude remains volatile at lower levels. - Moomoo — *Moomoo*
-- `10-09 10:14` WTI Crude Oil Price Forecast: Bullish Breakout Targets New Highs - FXEmpire — *FXEmpire*
-- `10-09 08:30` Oil finishes sharply higher even as Trump says no attacks on Iran before midterms - Seeking Alpha — *Seeking Alpha*
-- `10-09 07:00` Cuba's Fuel Crisis Turns the Island Into a Solar Test Case - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-09 06:34` Oil prices ease after Trump rules out Iran attack before midterms - Middle East Eye — *Middle East Eye*
-- `10-09 06:11` Oil Surges as Iran Tanker Attacks Escalate - Rigzone — *Rigzone*
-- `10-09 06:03` Kpler suspects Gulf producers are paying Iran for safe passage - Oil & Gas 360 — *Oil & Gas 360*
+- `10-09 18:28` Oil Prices Decline as Trump Comments on Iran Talks Ease Immediate Supply Concerns - Yahoo Finance — *Yahoo Finance*
+- `10-09 17:51` Trump postpones possible strike on Iran, oil prices react - The New Voice of Ukraine — *The New Voice of Ukraine*
+- `10-09 17:46` US targets Iran’s shadow oil fleet in fresh sanctions - The Arab Weekly — *The Arab Weekly*
+- `10-09 17:06` US targets 17 vessels in Iran’s oil trade with sanctions - mezha.net — *mezha.net*
+- `10-09 17:03` Watch Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue - Bloomberg.com — *Bloomberg.com*
+- `10-09 17:00` Venture Global Loses LNG Arbitration to Portugal's Galp - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-09 16:45` FTSE 100 today: Stocks up as oil retreats after Trump rules out Iran strike - Yahoo Finance UK — *Yahoo Finance UK*
+- `10-09 16:20` Iraq launches new crude oil route through Syria to bypass the Strait of Hormuz - UkrAgroConsult — *UkrAgroConsult*
 
 ## 🌍 시장 전반
-- `10-09 10:42` Stock Market Today: Gift Nifty, US Tech Stocks Selloff To TCS Q2 — Five Key Factors For Sensex, Nifty 50 On Oct 9 - NDTV Profit — *NDTV Profit*
-- `10-09 09:30` Stock Market Today: All You Need To Know Going Into Trade On Oct 9 - NDTV Profit — *NDTV Profit*
-- `10-09 07:15` Cramer says Thursday's AI sell-off proves the value of this age-old investing strategy - CNBC — *CNBC*
-- `10-09 07:06` HAE, PCRX Stocks Hit Multi-Year Highs Amid Broader Market Selloff – What’s Driving The Momentum Today? - Stocktwits — *Stocktwits*
-- `10-09 03:39` Is the AI stock market rally a bubble? Analysts weigh in - Yahoo Finance — *Yahoo Finance*
-- `10-09 02:45` CoreWeave Sinks 7% as Financed AI Buildout Names Sell Off Apart From Cloud Software; Nebius Drops 6%, Oracle Falls 5% - 24/7 Wall St. — *24/7 Wall St.*
-- `10-09 00:49` British Stocks Fall on Bond Market Selloff, Oil Price Surge; Tesco Soars - Yahoo Finance UK — *Yahoo Finance UK*
-- `10-09 00:25` Why SCHD’s Strong 2026 Rally Is Bad News for Income Investors Adding Monthly - 24/7 Wall St. — *24/7 Wall St.*
+- `10-09 19:01` As Hong Kong pushes liquidity reforms, will they be enough to draw capital? - South China Morning Post — *South China Morning Post*
+- `10-09 18:27` Why are US stocks rallying despite Fed rate shock? Aswath Damodaran explains in the context of AI - The Economic Times — *The Economic Times*
+- `10-09 17:48` Treasury Yields Are Climbing—Could the Stock Market Rally Be in Trouble? - Moomoo — *Moomoo*
+- `10-09 17:41` Sensex jumps 1,000 points: 3 reasons why markets are rising today - India Today — *India Today*
+- `10-09 17:03` As the global stock market resumes its artificial intelligence (AI) rally and the new stock price co.. - 매일경제 — *매일경제*
+- `10-09 16:08` Indonesia's Danantara says it could step in during market selloffs if valuations attractive - Reuters — *Reuters*
+- `10-09 15:36` Why Is the Stock Market Rising Today? Sensex Jumps 745 Points, Nifty Gains 1.13% - India Infoline — *India Infoline*
+- `10-09 14:00` 'The dominoes are falling': A 'big chunky sell-off' is about to hit the market, strategist says. Here's where to hide - CNBC — *CNBC*
