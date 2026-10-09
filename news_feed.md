@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-09 20:19 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-09 20:31 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,14 +16,14 @@
 - `10-09 14:14` 두달째 답답 '코스피'…2028년까지 봐야한다는데[주末머니] - 아시아경제 — *아시아경제*
 
 ## 🇰🇷 반도체·HBM
-- `10-09 20:11` 광주 간 최태원 “호남 반도체, 최대한 빨리…용수·전기 늦어도 들어가버릴 것” - 한겨레 — *한겨레*
+- `10-09 20:22` 광주 간 최태원 “호남 반도체, 최대한 빨리…용수·전기 늦어도 들어가버릴 것” - 한겨레 — *한겨레*
+- `10-09 20:19` 최태원, 광주 반도체 부지 첫 점검…속도전 예고 - 연합뉴스TV — *연합뉴스TV*
+- `10-09 19:57` 최태원 SK 회장 “광주 반도체공장 최대한 빨리 건설” - 일등방송 — *일등방송*
 - `10-09 19:40` [영웅시대] SK 최태원 “호남 반도체 가장 빠른 속도로…용인 3분의 2 규모” - 뉴스스페이스 — *뉴스스페이스*
 - `10-09 19:07` 용인 반도체 공장 가동 앞두고 고삼저수지 수질 관리 과제 - 용인시민신문 — *용인시민신문*
 - `10-09 19:05` “가장 빨리, 더 크게”…호남 반도체 부지 찾은 최태원 속도전 강조 - 동아일보 — *동아일보*
 - `10-09 18:58` 최태원, 광주 군공항 찾아 "가장 빨리 짓겠다"...호남 반도체 '속도전' - 글로벌이코노믹 — *글로벌이코노믹*
 - `10-09 18:50` [시사플랫폼] 최태원 회장, 전남광주 반도체 부지 방문…‘속도전’ 강조 - KBS 뉴스 — *KBS 뉴스*
-- `10-09 18:48` 최태원, 광주 '반도체 부지' 첫 방문...속도전 강조 - YTN — *YTN*
-- `10-09 18:38` “용인도 모자란다”…최태원, 호남 400조 반도체 기지 직접 챙겼다 - 주간한국 — *주간한국*
 
 ## 🇰🇷 금융주
 - `10-09 19:46` 트루이스트, 실적 발표 앞두고 중소형 은행주 가치 주목 - Investing.com 한국어 — *Investing.com 한국어*
@@ -61,7 +61,7 @@
 - `10-09 05:48` Fed's Musalem says tighter monetary policy needed to lower inflation - Reuters — *Reuters*
 
 ## 🌍 유가·지정학
-- `10-09 20:00` Current price of oil as of October 9, 2026 - Fortune — *Fortune*
+- `10-09 20:19` Current price of oil as of Oct. 9, 2026 - Fortune — *Fortune*
 - `10-09 19:28` Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters — *Reuters*
 - `10-09 18:28` Oil Prices Decline as Trump Comments on Iran Talks Ease Immediate Supply Concerns - Yahoo Finance — *Yahoo Finance*
 - `10-09 17:51` Trump postpones possible strike on Iran, oil prices react - The New Voice of Ukraine — *The New Voice of Ukraine*
@@ -78,4 +78,4 @@
 - `10-09 19:01` As Hong Kong pushes liquidity reforms, will they be enough to draw capital? - South China Morning Post — *South China Morning Post*
 - `10-09 17:48` Treasury Yields Are Climbing—Could the Stock Market Rally Be in Trouble? - Moomoo — *Moomoo*
 - `10-09 17:41` Sensex jumps 1,000 points: 3 reasons why markets are rising today - India Today — *India Today*
-- `10-09 17:03` As the global stock market resumes its artificial intelligence (AI) rally and the new stock price co.. - 매일경제 — *매일경제*
+- `10-09 17:25` Stock index futures advance after tech selloff on AI revenue concerns (SPX:) - Seeking Alpha — *Seeking Alpha*
