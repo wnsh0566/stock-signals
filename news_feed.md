@@ -1,79 +1,86 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-10 11:33 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-12 09:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `10-10 11:29` [현장]SK하이닉스 손자회사 솔리다임, 내년 美 증시 상장 추진...최대 134조원 평가 전망 - 알파경제 — *알파경제*
-- `10-10 11:11` "증시 덮칠 '진짜 공포' 따로 있다"…증권가 '무서운 경고' [분석+] - 한국경제 — *한국경제*
-- `10-10 10:57` 증시 박스권에 파킹형 ETF 한 달 새 4.2조원 유입 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-10 10:29` [해외시황] 뉴욕증시, 중동 긴장 완화·실적 기대에 '강세'…나스닥 0.64%↑ - 프라임경제 — *프라임경제*
-- `10-10 10:26` 삼전 ‘107조원 영업이익’도 안 통했다…코스피 6600선 후퇴 [주간 증시해설서] - 더스쿠프 — *더스쿠프*
-- `10-10 10:04` [10월 둘째 주 세계경제동향 브리핑] 코스피 5%대 하락…美 증시는 동반 상승 - 기호일보 — *기호일보*
-- `10-10 09:48` 뉴욕증시 반등에도 코스피 ‘제자리’…연휴 이후 반등할까 - 에너지경제신문 — *에너지경제신문*
-- `10-10 09:48` ’박스권’ 갇힌 코스피…’파킹형’ ETF로 뭉칫돈 몰려 - 연합뉴스TV — *연합뉴스TV*
+- `10-12 09:31` 외국인 또 '팔자'…코스피 나흘 연속 약세 - 연합인포맥스 — *연합인포맥스*
+- `10-12 09:28` 코스피·코스닥, 내림세로 장 출발 - 한강타임즈 — *한강타임즈*
+- `10-12 09:28` [개장시황] 연휴 끝 '코스피' 1% 급락…외국인 매도에 4거래일 연속↓ - 뉴스핌 — *뉴스핌*
+- `10-12 09:27` 코스피, 장초반 1% 하락에 6500선 등락...오픈AI 악재로 '삼전닉스' 하락 - 오피니언뉴스 — *오피니언뉴스*
+- `10-12 09:27` [개장시황] 코스피, 외인 매도세에 1%대 하락⋯6550선까지 밀려 - 브릿지경제 — *브릿지경제*
+- `10-12 09:26` 코스피, 장 초반 외인 '팔자' 6600선 밑으로…나흘 연속 약세 - 더팩트 — *더팩트*
+- `10-12 09:26` [특징주] SK하이닉스, 장 초반 2.6% 급락…삼전도 0.9%↓ - 매일경제 마켓 — *매일경제 마켓*
+- `10-12 09:26` 코스피, 외인 매도에 6500선으로 밀려 …4거래일 연속 '하락' - MTN 머니투데이방송 — *MTN 머니투데이방송*
 
 ## 🇰🇷 반도체·HBM
-- `10-10 11:29` [현장]SK하이닉스 손자회사 솔리다임, 내년 美 증시 상장 추진...최대 134조원 평가 전망 - 알파경제 — *알파경제*
-- `10-10 11:17` 최태원 SK그룹 회장 “광주 반도체공장 최대한 빠르게 건설” - www.thepowernews.co.kr — *www.thepowernews.co.kr*
-- `10-10 11:08` 반도체 소부장주 급등에 코스닥 4.24% 상승…1000선 회복은 신중론 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-10 11:00` SK하이닉스는 왜 솔리다임을 상장하려 하나…4가지 이유[biz-플러스] - 서울경제 — *서울경제*
-- `10-10 10:52` ‘호남 반도체 팹’ 부지 찾은 최태원 “용수·전력 늦어도 착공” - 뉴스토마토 — *뉴스토마토*
-- `10-10 10:45` SK 최태원, 호남 반도체 부지 찾아···"용인과 동시 착공도 검토해야" - 스마트비즈 — *스마트비즈*
-- `10-10 10:42` HBM 노린 특허괴물 ‘쪼개기 소송’∙∙∙SK하이닉스 무효화 맞불 - 한국신용신문 — *한국신용신문*
-- `10-10 10:41` 10월 2주차 SK하이닉스 주가 하락 마감 - TopStarNews — *TopStarNews*
+- `10-12 09:35` 산업부, 서남권 반도체 산단 및 AI 조선소 현장 점검 - www.2news.co.kr — *www.2news.co.kr*
+- `10-12 09:30` 광주 군 공항 찾은 김정관 산업장관…'800兆 반도체 클러스터' 현장 점검 - 연합인포맥스 — *연합인포맥스*
+- `10-12 09:30` 산업장관, 서남권 반도체 부지 현장점검…조선업 AX도 촉진 - 연합뉴스 — *연합뉴스*
+- `10-12 09:30` 서남권 반도체 메가프로젝트 현장 찾은 김정관 "전력·용수 공급 인프라의 차질없이 확보해야" - 아시아경제 — *아시아경제*
+- `10-12 09:30` 김정관 산업장관, 전남광주 군공항서 '반도체 메가프로젝트' 점검 - BBS불교방송 — *BBS불교방송*
+- `10-12 09:29` 10월1∼10일 수출 261억달러 ‘역대 최대’…반도체 170.9%↑ - 한겨레 — *한겨레*
+- `10-12 09:27` 10월 1~10일 수출 102% 증가…반도체 수출 171% 급증 - 조세일보 — *조세일보*
+- `10-12 09:26` [특징주] SK하이닉스, 장 초반 2.6% 급락…삼전도 0.9%↓ - 매일경제 마켓 — *매일경제 마켓*
 
 ## 🇰🇷 금융주
-- `10-10 09:42` “금융지주 상반기 순익 17.6조”…금투 73%↑·은행 8%↓ - 디지털데일리 — *디지털데일리*
-- `10-09 19:46` 트루이스트, 실적 발표 앞두고 중소형 은행주 가치 주목 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-09 14:46` 신한투자증권 ‘상환 무난’ JTBC채 넉 달 만에 회생…대표 고른 진옥동 회장 책임 심사도 맡는다 - 뉴스필드 — *뉴스필드*
-- `10-09 11:15` 금리 뛰는데 은행주 왜 빠졌나…4분기엔 반전? - 매일경제 — *매일경제*
-- `10-09 10:00` 4대 금융지주 3분기 순이익 뒷걸음치나…비은행 한파 - 자본시장뉴스 — *자본시장뉴스*
-- `10-09 01:40` 상반기 금융지주 순이익 17.6조 역대 최대 - 동아일보 — *동아일보*
-- `10-09 00:31` 금융지주 상반기 순익 17.6조원…증권 호조에 13.7% 증가 - 뉴스코리아 — *뉴스코리아*
-- `10-08 20:28` ‘코스피 불장’에 금융지주 상반기 17.6조 벌었다…역대 최대 - 한겨레 — *한겨레*
+- `10-12 09:34` 한국금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `10-12 09:33` 메리츠금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `10-12 09:32` [금융지주 임원 인사 전망] [신한금융] 임기 2년여 남긴 진옥동…차기 체제까지 걸린 인사에 '긴장' - Naver Blog — *Naver Blog*
+- `10-12 09:27` “은행주, 금리 상승보다 자본 활용에 주목할 때” - 뉴스투데이 — *뉴스투데이*
+- `10-12 09:25` 금융지주 보험사, 상반기 순익 늘었지만 자산은 ‘나홀로 역성장’… 비은행 격차 벌어져 - 보험저널 — *보험저널*
+- `10-12 08:47` 하나증권 "은행주 금리 상승에 방어주 매력 부각, 3분기 실적 기대감은 제한적" - 비즈니스포스트 — *비즈니스포스트*
+- `10-12 08:16` [유럽 특징주] 佛 국채 불안에 유럽 은행주 '급락'...재정위기 공포? - 뉴스핌 — *뉴스핌*
+- `10-12 07:57` [生기업TALK] 하나금융그룹, 글로벌 도시 인천에서 새로운 100년 출발...청라 시대 열고 업무 혁신 본격 추진 - 시사캐스트 — *시사캐스트*
 
 ## 🇰🇷 정책·거시
-- `10-08 14:08` 모경종 의원, 8·13 부동산 대책 성공 열쇠는 “결국 주민 수용성”…“검단 과밀학급·체육시설부터 해결해야” - 인천뉴스 — *인천뉴스*
+- `10-12 08:30` 표적 감사부터 부동산 대책까지...국감 2주차도 여야 공방전 - 청년일보 — *청년일보*
+- `10-11 18:17` 10·15 대책 1년…서울 중하위권 뜨고 강남 위축 - 연합뉴스TV — *연합뉴스TV*
+- `10-11 18:11` 매매도 전세도 10% 오른 10.15 대책 1년...거주 불안 키워 - YTN — *YTN*
+- `10-11 18:07` 모경종 국회의원, 8·13 부동산 대책 성공 열쇠는 “결국 주민 수용성”…“검단 과밀학급·체육시설부터 해결해야” - 뉴스데일리 — *뉴스데일리*
+- `10-11 16:47` 10·15 부동산 대책 시행 1년… 경기 남부, 거래 절벽 속 양극화·풍선효과 심화 - 경기신문 — *경기신문*
+- `10-11 15:43` 10·15 대책 1년⋯강남보다 중저가 지역 집값 더 올랐다 - 아이뉴스24 — *아이뉴스24*
+- `10-11 15:33` ‘국평? 꿈도 못꿀 판’ 서울 59㎡ 평균값 11.5억…무섭게 올랐다[부동산360] - 헤럴드경제 — *헤럴드경제*
+- `10-11 14:27` 10·15 부동산 대책 1년…서울 아파트값 10.42%↑, 성북구 상승률 1위 - 뉴스투데이 — *뉴스투데이*
 
 ## 🌍 AI·빅테크
-- `10-10 07:01` Wall Street Turns Nvidia AI Chips into Collateral As Investors Build A New Market For Computing Power - Tekedia — *Tekedia*
-- `10-10 05:39` SoftBank Wants up to $100 Billion From Gulf Investors for AI — but Its $65 Billion OpenAI Bet Is Raising Eyebrows - Benzinga — *Benzinga*
-- `10-10 01:29` Oracle, Microsoft Face Fresh Test as OpenAI Metrics Get Scrutinized - TradingView — *TradingView*
-- `10-10 01:09` Nvidia-Backed Firm Seeks Major Reset After IPO Collapse - TradingView — *TradingView*
-- `10-10 00:45` Robust AI Demand Reinforces NVIDIA’s (NVDA) Market Leadership - Yahoo Finance — *Yahoo Finance*
-- `10-10 00:27` SPACEX SEEKS $40 BILLION FOR NVIDIA CHIPS AS AI INFRASTRUC­TURE... - PressReader — *PressReader*
-- `10-09 21:14` AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure in Leaked Documents - Futurism — *Futurism*
-- `10-09 21:06` The Fallout From OpenAI’s Revenue Surprise - The New York Times — *The New York Times*
+- `10-12 00:24` Nvidia stays a Buy as AI demand boosts earnings and new financing expands its market. - Pluang — *Pluang*
+- `10-12 00:05` Nvidia Stock: Finding New Ways To Extend The AI Growth Runway (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
+- `10-11 23:07` OpenAI’s $20 billion revenue gap rattles the AI trade - TheStreet — *TheStreet*
+- `10-11 22:56` Why Is OpenAI’s Annualized Revenue $20 Billion Below Expectations? AI Infrastructure Investment Faces Repricing - TradingKey — *TradingKey*
+- `10-11 19:55` Meet the Only AI Stock I'd Buy Over Nvidia in October - The Globe and Mail — *The Globe and Mail*
+- `10-11 07:11` Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy? - Yahoo Finance — *Yahoo Finance*
+- `10-11 05:23` Nvidia Reportedly in Talks to Acquire Reflection AI, Betting on Open-Weight Models and New AI Computing Demand - TradingKey — *TradingKey*
+- `10-11 05:22` Nvidia Discusses Boosting Reflection Investment, Computing Deal - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 연준·금리
-- `10-10 09:52` Fed Officials Caution Against Consecutive Rate Hikes - 조선일보 — *조선일보*
-- `10-10 09:18` Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week - TradingView — *TradingView*
-- `10-10 07:07` Trump Announces New Investigation of Federal Reserve Governor - The Well News — *The Well News*
-- `10-10 05:33` Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - PBS — *PBS*
-- `10-10 04:33` Americans 75 and older are wealthiest age group, Fed survey finds - Magnolia Tribune — *Magnolia Tribune*
-- `10-10 01:39` US Dollar strengthens as Fed rate hike fears grow - MarketPulse — *MarketPulse*
-- `10-10 01:19` Trump launches probe into Federal Reserve Governor Lisa Cook - Al Jazeera — *Al Jazeera*
-- `10-10 01:18` Four signs it is about to get uglier in the bond market as yields rise - Reuters — *Reuters*
+- `10-12 08:58` U.S. banks near third-quarter earnings as higher rates raise warning sign on deposit costs - 디지털투데이 — *디지털투데이*
+- `10-12 05:31` 3 Bank Stocks That Could Benefit From Higher Fed Rates - Simply Wall Street — *Simply Wall Street*
+- `10-12 04:00` US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path - Bloomberg.com — *Bloomberg.com*
+- `10-12 01:35` Bank of Korea Likely to Hold Rates at 3.00% on Oct. 22, Keeping Door Open for November Hike - BigGo Finance — *BigGo Finance*
+- `10-12 01:30` Everyday Economics: Higher rates have winners. The price squeeze leaves most households worse off. - The Center Square — *The Center Square*
+- `10-11 23:17` Fed’s Waller pivots on interest-rate bet as worried consumers sound inflation alarms - TheStreet — *TheStreet*
+- `10-11 21:15` Fed's Operating Income Turns Negative Again Following Rate Hike - Seeking Alpha — *Seeking Alpha*
+- `10-11 18:30` Why Economists Think Higher Bond Yields Are Here to Stay - WSJ — *WSJ*
 
 ## 🌍 유가·지정학
-- `10-10 09:45` Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC — *BBC*
-- `10-10 09:32` Oil News: Iran Talks Ease Supply Risk as Hurricane Limits Oil Losses - FXEmpire — *FXEmpire*
-- `10-10 09:00` Oil rises as Isaias cuts over 70% of US Gulf output on Oct 9 - Nation Thailand — *Nation Thailand*
-- `10-10 07:53` Trump announces Russian diesel deal amid soaring US fuel prices - Al Jazeera — *Al Jazeera*
-- `10-10 07:00` Why Record Crude Output Can't Solve America's Diesel Crisis - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-10 06:30` Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-10 06:24` Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms - NPR — *NPR*
-- `10-10 05:55` Dow soars as tech shares rebound on SpaceX deal, oil prices slip after Trump vows not to strike Iran before midterms - New York Post — *New York Post*
+- `10-12 08:35` Oil Prices Rise as Saudi Airport and Tanker Near Strait of Hormuz Come Under Attack - BigGo Finance — *BigGo Finance*
+- `10-12 07:04` IRGC Navy Says Oil Supertanker Hit Mine in Strait of Hormuz, Warns Ships: 10 outlets compared - NewsCord — *NewsCord*
+- `10-12 06:36` Saudi Arabia writes Hormuz out of its oil sales - Container News — *Container News*
+- `10-12 06:20` Portugal: PM calls for end to unnecessary oil price rises - Macau Business — *Macau Business*
+- `10-12 04:00` How Low Can the Strategic Petroleum Reserve Actually Go - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-12 03:33` An Oil Heir’s Coastal California Estate Sells for One-Fifth of Its Original $109M Asking Price - Realtor.com — *Realtor.com*
+- `10-12 02:33` Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil & Gas — *Egypt Oil & Gas*
+- `10-12 02:15` Brent And WTI Crude Oil Price Forecasts Raised As Supply Risks Persist - Exchange Rates UK — *Exchange Rates UK*
 
 ## 🌍 시장 전반
-- `10-10 07:38` A Broad Friday Rally Takes the S&P 500 Just Below Record Highs - TheStreet Pro — *TheStreet Pro*
-- `10-10 05:56` Fewer Stocks Are Driving the Market’s Rally Lately. These Experts See an Opportunity for Investors - Investopedia — *Investopedia*
-- `10-10 05:50` If a Stock Market Crash Is Coming, Billionaire Investor Bill Ackman Says You Should Do This 1 Thing Right Now - The Motley Fool — *The Motley Fool*
-- `10-10 05:43` Why Legendary Investor Peter Lynch Ignored Stock Market Crash Predictions, and Why You Should Too - The Motley Fool — *The Motley Fool*
-- `10-10 05:34` Wall Street’s Rate Shock Spreads Beneath AI-Fueled Market Rally - Bloomberg.com — *Bloomberg.com*
-- `10-10 05:23` US Equity Markets End Higher Amid Broad Rally, Strong Mega-Cap Gains - marketscreener.com — *marketscreener.com*
-- `10-10 05:22` US Equity Markets End Higher Amid Broad Rally, Strong Mega-Cap Gains - Yahoo Finance — *Yahoo Finance*
-- `10-10 05:14` Year-end rally in sight as market breadth starts improving: SA analyst (SPY:NYSEARCA) - Seeking Alpha — *Seeking Alpha*
+- `10-11 22:46` Stock Market Crash Hits Nasdaq as Index Falls 10.6% - JournalArta — *JournalArta*
+- `10-11 22:14` Top Trump official mocked online over false claim of Indian stock market crash after US green card curbs - The Times of India — *The Times of India*
+- `10-11 22:00` The bull market is turning 4 years old — but yields could crash the party - MarketWatch — *MarketWatch*
+- `10-11 22:00` Consumers Are Tapped and Wall Street Fears That’s a Rally Killer - Bloomberg.com — *Bloomberg.com*
+- `10-11 20:36` The Stock Market Is on the Verge of Doing Something for the First Time in 156 Years -- and if Historical Precedent Is Accurate, a Crash May Follow - The Motley Fool — *The Motley Fool*
+- `10-11 20:00` Stock Market Crash Hits 54% Of Stocks—Is The S&P 500 Next? - Forbes — *Forbes*
+- `10-11 12:02` The U.S. Stock Market Bull Run "Down to a Single Trade": The Fragility of a Single Point Beneath the Prosperity - 富途牛牛 — *富途牛牛*
+- `10-11 06:01` As the global stock market resumes its artificial intelligence (AI) rally and continues its march of.. - 매일경제 — *매일경제*
