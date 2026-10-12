@@ -1,19 +1,19 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-12 22:08 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-12 22:30 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
 - `10-12 22:00` "삼전닉스 보유국? 코스피는 B급 시장"...외인, 199조 순매도 [분석+] - 한국경제 — *한국경제*
+- `10-12 21:53` 뉴욕증시 프리뷰, 주가 선물 혼조…유가 106달러 돌파에 CPI·은행 실적 촉각 - 뉴스핌 — *뉴스핌*
 - `10-12 21:32` 코스피, 3.65% 급락 …‘삼전닉스’ 동반 하락 - KBS 뉴스 — *KBS 뉴스*
 - `10-12 21:13` 반도체株 던진 외국인… 코스피 6400 밑으로 끌어내렸다 - 파이낸셜뉴스 — *파이낸셜뉴스*
 - `10-12 21:00` 코스피, 연휴 후 3% 급락…두달만 6,300선 후퇴 - 연합뉴스TV — *연합뉴스TV*
 - `10-12 19:57` "역대급 실적에도" 삼전닉스 4% 급락‥코스피도 두 달 만에 6,300선으로 털석 - MBC 뉴스 — *MBC 뉴스*
 - `10-12 19:26` [亞증시-종합] 수급 살피며 혼조 - 연합인포맥스 — *연합인포맥스*
 - `10-12 19:24` 코스피 6300선 추락…삼전 실적도, 수출 호조도 ‘약발 안 먹혀’ - 한겨레 — *한겨레*
-- `10-12 19:20` 삼전 역대급 실적에도 외국인 ‘팔자’…코스피 두 달 만에 6300선으로 - 중앙일보 — *중앙일보*
 
 ## 🇰🇷 반도체·HBM
 - `10-12 22:00` "반도체 호황에 가려진 저성장 그림자…잠재성장률 제고 시급" - 한국경제 — *한국경제*
@@ -26,14 +26,7 @@
 - `10-12 19:53` [종목상담 주식민원처리반] HBM 검사장비 수주 확대 '테크윙' - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🇰🇷 금융주
-- `10-12 18:24` 유럽증시, 유가 하락·은행주 강세에 상승 출발…유로스톡스50, 0.61%↑ - 연합인포맥스 — *연합인포맥스*
-- `10-12 17:59` 이중근 부영그룹 회장 vs 조정호 메리츠금융지주 회장 법정다툼 2R서 이 회장 ‘승’ - 서울뉴스통신 — *서울뉴스통신*
-- `10-12 17:48` NH투자증권, 농협금융지주 장내매수로 최대주주 지분율 60.32% 확대 - 데이터투자 — *데이터투자*
-- `10-12 17:33` 농협금융지주, 횡성서 농촌일손돕기 - 강원도민일보 — *강원도민일보*
-- `10-12 17:10` 태국 앞서 인니 찾은 진옥동 회장, 현지 금융지주사 출범식 참석 - 아시아투데이 — *아시아투데이*
-- `10-12 16:48` 오후 이슈 [보험] : DB손해보험, 에이플러스에셋, 롯데손해보험, 메리츠금융지주, 현대해상 - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `10-12 16:14` 우리금융지주, 3분기 순익 1조 눈앞…실적 성장 지속될까 - PRESS9 — *PRESS9*
-- `10-12 15:57` 한국금융지주, IMA로 '조달여력 확대' 美 JV 검토 이유는 - FETV — *FETV*
+- (48h 내 항목 없음)
 
 ## 🇰🇷 정책·거시
 - `10-12 16:44` 대출규제·종부세 강화에 갈라진 부동산시장…강남 주춤한 사이 강북 집값 치솟았다 - https://www.ppss.kr/ — *https://www.ppss.kr/*
@@ -46,24 +39,17 @@
 - `10-11 18:11` 매매도 전세도 10% 오른 10.15 대책 1년...거주 불안 키워 - YTN — *YTN*
 
 ## 🌍 AI·빅테크
-- `10-12 22:01` Nvidia Weighs Stakes in Two AI Startups While Microsoft Tie-Up Nears Launch - ad-hoc-news.de — *ad-hoc-news.de*
-- `10-12 20:15` Adding Nvidia During The Current Uncertainty is How Fortunes Are Made - 24/7 Wall St. — *24/7 Wall St.*
-- `10-12 17:04` Coatue: AI capex could hit $2.8tn by 2028 and will need its own Fannie Mae and Freddie Mac - Dealroom — *Dealroom*
-- `10-12 16:26` SpaceX Seeks $40 Billion to Buy Nvidia AI Chips - StratNews Global — *StratNews Global*
-- `10-12 14:30` OpenAI's secret math model spent three hours of compute per answer - Startup Fortune — *Startup Fortune*
-- `10-12 11:54` Nvidia Reportedly in Talks to Acquire Reflection AI: Why This Open-Model Company Is Worth NVDA's Bet - TradingKey — *TradingKey*
-- `10-12 08:50` Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret. - Yahoo Finance — *Yahoo Finance*
-- `10-12 00:24` Nvidia stays a Buy as AI demand boosts earnings and new financing expands its market. - Pluang — *Pluang*
+- (48h 내 항목 없음)
 
 ## 🌍 연준·금리
-- `10-12 21:31` Why Economists Think Higher Bond Yields Are Here to Stay - WSJ — *WSJ*
 - `10-12 21:06` MBA expects two more Federal Reserve hikes, in December and Q1 2027 - Mortgage Professional America — *Mortgage Professional America*
 - `10-12 21:06` Fed Interest Rate Predictions for the Next 5 Years: 2026–2031 - Norada Real Estate Investments — *Norada Real Estate Investments*
 - `10-12 18:06` Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - The Motley Fool — *The Motley Fool*
 - `10-12 17:48` Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - The Globe and Mail — *The Globe and Mail*
+- `10-12 17:35` Bitcoin rises 30% despite Fed rate hike and sta... - Pluang — *Pluang*
 - `10-12 16:56` How will Fed rate hikes impact markets? - UBS — *UBS*
 - `10-12 16:09` Early rate hike ahead of Fed's move minimized economic costs: BOK chief - The Korea Times — *The Korea Times*
-- `10-12 12:35` BofA Strategist Drops a Bombshell: A Fed Rate Hike in October Could Be the Market's Biggest Tailwind - BigGo Finance — *BigGo Finance*
+- `10-12 16:05` Global Rate-Hike Wave Returns: Fed, ECB, and BOJ Likely to Hold Rates High into 2027 - BigGo Finance — *BigGo Finance*
 
 ## 🌍 유가·지정학
 - `10-12 22:01` Iran Wary Day 227: Oil Prices Climb as Trump Mulls Joining Yemen War - The American Conservative — *The American Conservative*
@@ -78,9 +64,9 @@
 ## 🌍 시장 전반
 - `10-12 21:24` Stock Market Bull Run Turns 4 as AI Boom Adds Trillions in Value - Barron's — *Barron's*
 - `10-12 20:27` Asia report: Stocks mixed but Seoul suffers steep chip sell-off - Sharecast.com — *Sharecast.com*
+- `10-12 20:00` Stumbling Equity Rally Hinges on Earnings for Year-End Boost - Yahoo Finance — *Yahoo Finance*
 - `10-12 19:40` S&P 500’s Narrow Rally Faces Fresh Tests From CPI, Bank Earnings: 3 Charts To Watch This Week - TradingView — *TradingView*
 - `10-12 18:13` Wall Street’s big but narrow rally: 4 in 10 S&P stocks are down this year By Reuters - Investing.com — *Investing.com*
 - `10-12 16:59` Stock Market Today [LIVE] : KOSPI Stock Crash - CryptoRank — *CryptoRank*
 - `10-12 15:01` History shows FTSE 100 stocks could do this if the stock market crashes - Yahoo Finance UK — *Yahoo Finance UK*
 - `10-12 14:59` Australian shares advance as banks, miners rally - CommBank — *CommBank*
-- `10-12 10:00` Beijing moves to steady A-share market after sharp tech sell-off - South China Morning Post — *South China Morning Post*
