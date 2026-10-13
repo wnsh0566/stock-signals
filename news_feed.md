@@ -1,19 +1,19 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-13 23:32 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-13 23:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-13 23:49` 폴 튜더 존스 "2027년 증시, 매우 어려운 한 해 될 것" - Investing.com 한국어 — *Investing.com 한국어*
 - `10-13 23:15` 뉴욕증시, 은행권 실적발표 속 상승 출발 - KBS 뉴스 — *KBS 뉴스*
-- `10-13 23:07` 뉴욕증시, 은행권 실적발표 속 상승 출발 - 연합인포맥스 — *연합인포맥스*
+- `10-13 23:07` 뉴욕증시, 은행권 실적발표 속 상승 출발 - 매일경제 마켓 — *매일경제 마켓*
 - `10-13 22:08` '검은 화요일' 코스피, 5%대 폭락...장중 6천선 붕괴 - YTN — *YTN*
 - `10-13 22:06` 뉴욕증시 프리뷰, 中 반도체 공세에 나스닥 선물 하락…美 은행 실적도 엇갈려 - 뉴스핌 — *뉴스핌*
 - `10-13 21:10` 반도체 영향 받는 건 같은데…코스피만 유독 타격 큰 이유? - KBS 뉴스 — *KBS 뉴스*
 - `10-13 21:09` 장중 6천 선 아래로 밀린 코스피…2달여 전으로 후퇴 - KBS 뉴스 — *KBS 뉴스*
 - `10-13 21:04` 코스피 급락하자…'빚투' 34조원 돌파, 3개월 만에 최대 - 한국경제 — *한국경제*
-- `10-13 21:02` 코스피 5% 넘게 급락…‘6000선’ 겨우 지켰다 - 경향신문 — *경향신문*
 
 ## 🇰🇷 반도체·HBM
 - `10-13 23:12` 산업부, 반도체 메가프로젝트 전담국 ‘반도체혁신성장지원단’ 출범 - 지디넷코리아 — *지디넷코리아*
@@ -26,6 +26,7 @@
 - `10-13 21:10` 반도체 영향 받는 건 같은데…코스피만 유독 타격 큰 이유? - KBS 뉴스 — *KBS 뉴스*
 
 ## 🇰🇷 금융주
+- `10-13 23:35` 뉴욕 증시, 은행주 호실적에 낙폭 제한…SK하닉은 4%대 하락 - 뉴스1 — *뉴스1*
 - `10-13 23:16` 뉴욕증시, 은행주 실적 주시하며 상승 출발…마이크론 4%대↓ - 조선비즈 - Chosunbiz — *Chosunbiz*
 - `10-13 21:47` 신한금융, 국내 금융그룹 최초로 인니에 금융지주 설립 - 이뉴스투데이 — *이뉴스투데이*
 - `10-13 21:28` iM금융그룹, 황병우 회장 활동수당 논란 해명…"정식 절차 따른 보수" - 대경일보 — *대경일보*
@@ -33,7 +34,6 @@
 - `10-13 18:35` 신한금융, 인도네시아 현지 금융지주회사 출범 - 열린뉴스통신 — *열린뉴스통신*
 - `10-13 18:23` 신한금융, 업권 첫 印尼 금융지주 설립 - 파이낸셜뉴스 — *파이낸셜뉴스*
 - `10-13 18:00` 농협금융지주, 횡성 고추농가서 수확기 일손돕기 - 농민신문 — *농민신문*
-- `10-13 17:58` 신한금융, 롯데손해보험 지분 77% 인수 계약…인도네시아 금융지주 출범 - 웹이코노미 — *웹이코노미*
 
 ## 🇰🇷 정책·거시
 - `10-13 18:00` [사설]전·월세 폭등 부른 '10·15 대책' 1년… 출구전략 마련할 때 - 동행미디어 시대 — *동행미디어 시대*
@@ -66,16 +66,17 @@
 - `10-13 02:53` Fed’s Hammack sees higher neutral rate, urges more policy restraint - FXStreet — *FXStreet*
 
 ## 🌍 유가·지정학
+- `10-13 23:46` BP Slashes Debt With Boost From Oil and Gas Trading, Refining - Bloomberg.com — *Bloomberg.com*
+- `10-13 23:38` Yet another oil tanker burns in flames in Strait of Hormuz - Mehr News Agency — *Mehr News Agency*
+- `10-13 23:18` Iran's Nadaja says that "a violating oil tanker caught fire in the eastern Strait of Hormuz", IRIB reports - Newsquawk — *Newsquawk*
 - `10-13 23:09` Crude Oil Price Forecast – WTI Oil Faces $95 Ceiling as Gulf of Mexico Supply Recovery Builds - FXEmpire — *FXEmpire*
-- `10-13 23:06` Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - American Journal of Transportation — *American Journal of Transportation*
 - `10-13 22:24` World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times — *The New York Times*
 - `10-13 21:53` Gulf oil production rebounds ahead of increase in Iran war hostilities - Financial Times — *Financial Times*
 - `10-13 21:52` Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because of Iran conflict - CNBC — *CNBC*
 - `10-13 21:32` OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ — *WSJ*
-- `10-13 21:09` Oil Prices Fall as Traders Weigh Middle East Risks, Russian Diesel Supplies - WSJ — *WSJ*
-- `10-13 21:02` EIA raises oil price forecasts for 2027 - https://www.engine.online/ — *https://www.engine.online/*
 
 ## 🌍 시장 전반
+- `10-13 23:26` Bitmine’s Tom Lee Warns Of Ethereum Selloff - Yahoo Finance — *Yahoo Finance*
 - `10-13 22:58` SK Hynix Sinks 6% as Seoul Selloff Extends to Fifth Session; Western Digital and Seagate Drop 7% - 24/7 Wall St. — *24/7 Wall St.*
 - `10-13 22:44` Paul Tudor Jones Sees AI Spending, Debt Pushing Markets To Breaking Point: ‘60-40 We’re Down That Path’ - TradingView — *TradingView*
 - `10-13 22:14` Historically, the S&P 500 Rallies After the Midterm Elections. But Here's Why That Might Not Happen This Time Around - The Motley Fool — *The Motley Fool*
@@ -83,4 +84,3 @@
 - `10-13 21:39` South Korea’s Stock Market Fell 6% in a Day and Tom Lee Says Ethereum Will Feel It. How Does a Korean Stock Crash Reach Crypto? - Yahoo Finance — *Yahoo Finance*
 - `10-13 21:39` South Korea’s Stock Market Fell 6% in a Day and Tom Lee Says Ethereum Will Feel It. How Does a Korean Stock Crash Reach Crypto? - 24/7 Wall St. — *24/7 Wall St.*
 - `10-13 21:24` TSEM Stock Bucks Market Selloff After Semtech AI Data Center Chip Deal - Stocktwits — *Stocktwits*
-- `10-13 20:49` Tech Selloff Deepens as Bank Earnings Fuel Stock Market Rotation -- Barrons.com - Moomoo — *Moomoo*
