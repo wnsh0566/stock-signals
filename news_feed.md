@@ -1,39 +1,39 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-13 11:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-13 12:08 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-13 11:47` 中 CXMT D램 시장 도전장에 일본·대만 증시 급락[Asia오전] - 머니투데이 - 머니투데이 — *머니투데이*
+- `10-13 11:47` 코스피 매도 사이드카 발동과 글로벌 경제 이슈까지 이시각 주요뉴스 - 연합인포맥스 — *연합인포맥스*
+- `10-13 11:45` '검은 화요일' 코스피 추락에 악소리…닷새만에 '7천피→5천피' - 연합뉴스 — *연합뉴스*
+- `10-13 11:43` 코스피 6,000선마저 무너져…매도 사이드카 발동 - 연합뉴스TV — *연합뉴스TV*
+- `10-13 11:34` 코스피 급락에 초고수 '반도체' 팔자 행렬…자금 옮겨간 곳은? - 한국경제 — *한국경제*
 - `10-13 11:18` 중동 리스크에 코스피 6%대 급락해 6000선 붕괴…반도체주 동반 약세 - 인더스트리뉴스 — *인더스트리뉴스*
 - `10-13 11:16` 죽어도 내년 코스피 6천 안 무너진단 증권사 - 문화일보 — *문화일보*
-- `10-13 11:13` 코스피, 中 CXMT 추격에 6000도 깨졌다…개미 투자 전략은? - 머니투데이 - 머니투데이 — *머니투데이*
-- `10-13 11:08` [장중시황] 코스피, 매도 사이드카 이어 6000선 붕괴 - 매일일보 — *매일일보*
-- `10-13 11:04` [외환] 증시 급락·외인 달러 선물 매수에 상승…1,340원 근접 - KB Think — *KB Think*
-- `10-13 11:03` 국고 3년 한 달 만에 3.8%대 거래…코스피 급락 속 위험회피 - KB Think — *KB Think*
-- `10-13 11:01` iM증권 “원화 강세에도 코스피 급락⋯외국인 환차익 매물 쏟아진 탓” - 브릿지경제 — *브릿지경제*
-- `10-13 10:59` [포토] 하락 출발한 코스피 - 아시아경제 — *아시아경제*
+- `10-13 11:13` '中메모리 쇼크' 6천피도 깨졌다..."팔까, 말까" 전문가 조언은 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🇰🇷 반도체·HBM
+- `10-13 12:00` 기업 현장과 만나 진로 탐색…교육부, 반도체·미래차 취업 역량 높인다 - 뉴스핌 — *뉴스핌*
+- `10-13 12:00` 반도체·미래차 부트캠프 학생들, 최신 기술 보고 취업 상담까지 - 아시아경제 — *아시아경제*
+- `10-13 12:00` 부트캠프 학생들, 반도체·미래차 등 첨단산업 현직자 멘토링 기회 - 한국대학신문 — *한국대학신문*
+- `10-13 11:51` 삼성·SK하이닉스, 6.6조원 규모 美 반도체 R&D 거점 참여…TSMC·인텔도 합류 - 조선비즈 - Chosunbiz — *Chosunbiz*
+- `10-13 11:50` IMF, 한국 성장률 3.3%로 올렸다…반도체 수요에 주요국 최대폭 상향 - 중앙일보 — *중앙일보*
+- `10-13 11:47` 삼성전자·SK하이닉스, 중국 경쟁 우려로 급락 - Investing.com 한국어 — *Investing.com 한국어*
+- `10-13 11:38` [단독] SK하이닉스 “본딩 개발 순항”…HBM 전략은 ‘투트랙’ - 한스경제 — *한스경제*
 - `10-13 11:34` 코스피 급락에 초고수 '반도체' 팔자 행렬…자금 옮겨간 곳은? - 한국경제 — *한국경제*
-- `10-13 11:32` 삼성전자, HBM 넘어 메모리 확장·저장까지 공략…AI 전략 다변화 - 녹색경제신문 — *녹색경제신문*
-- `10-13 11:31` IMF, 올해 한국 성장률 3.3%로 상향 조정…"반도체가 전쟁 상쇄" - 연합뉴스TV — *연합뉴스TV*
-- `10-13 11:31` SK하이닉스 주가, 오늘 왜 급락했나? - Investing.com 한국어 — *Investing.com 한국어*
-- `10-13 11:26` 대기업 탄소 배출량, 발전·철강 줄고 반도체·IT는 증가… 전체 감소율은 커져 - 문화일보 — *문화일보*
-- `10-13 11:23` [테마시황] 반도체·AI '비명'…'호남 클러스터' 품은 시멘트주만 홀로 강세 - 인포스탁데일리 — *인포스탁데일리*
-- `10-13 11:23` IMF, 올해 한국 경제성장률 3.3%로 상향‥반도체 중심 대외수요 영향 - MBC 뉴스 — *MBC 뉴스*
-- `10-13 11:23` 국조실장 "반도체 클러스터 총력전…속도감 있게 진행할 것" - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 금융주
+- `10-13 11:57` “증시 찬바람에 흔들린 실적…한국금융지주, 3분기 영업성적표 ‘어닝 쇼크’ 비상” - 뉴스퀘스트 — *뉴스퀘스트*
+- `10-13 11:40` 인니, K-금융 글로벌 전장으로…신한 이어 KB도 지주사 추진 - 헤럴드경제 — *헤럴드경제*
+- `10-13 11:36` 진옥동 신한금융 회장, 인니 금융지주 출범 … 은행·카드·증권 지배구조 통합 - 뉴데일리 — *뉴데일리*
+- `10-13 11:33` 신한금융 ‘인니 현지 금융지주’ 출범..국내 최초 - 뉴스톱 — *뉴스톱*
 - `10-13 11:25` [금융권 소식] 신한금융ㆍ하나은행ㆍNH농협금융(10.13) - 위클리오늘 — *위클리오늘*
 - `10-13 11:23` [단독] 신한, '리딩 금융그룹 마지막 퍼즐' 롯데손보 품는다 - 한국경제 — *한국경제*
 - `10-13 11:23` [카드] 신한금융, 인도네시아 금융지주회사 출범 - 프라임경제 — *프라임경제*
 - `10-13 11:22` '신한인도네시아 금융그룹' 출범 … 사업지주로 확장 - 디지털포스트 — *디지털포스트*
-- `10-13 11:21` 은행도 카드도 증권도 하나로…신한금융, 인도네시아서 첫 도전 - 위키트리 — *위키트리*
-- `10-13 11:09` 진옥동 신한금융 회장 "인도네시아 금융지주 출범…계열사 시너지 강화" - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
-- `10-13 11:09` 신한금융, 국내 금융그룹 최초 인도네시아 현지 금융지주 출범 - 이로운넷 — *이로운넷*
-- `10-13 11:04` 신한금융, '인니 금융지주회사' 출범…국내 금융그룹 최초 - 뉴스1 — *뉴스1*
 
 ## 🇰🇷 정책·거시
 - `10-13 11:17` [선우윤호의 경제본색] '부동산 대란'과 李 정부, 서울 집값 10% 넘게 오르고 전셋값도 폭등 - 펜앤마이크 — *펜앤마이크*
@@ -56,6 +56,7 @@
 - `10-12 20:06` Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place - The Motley Fool — *The Motley Fool*
 
 ## 🌍 연준·금리
+- `10-13 12:06` South Korea’s Lee says country cannot avoid raising interest rates - KELO-AM — *KELO-AM*
 - `10-13 09:32` Gold edges down as traders monitor oil prices, Fed rate outlook - The Business Times — *The Business Times*
 - `10-13 09:11` Bond Expert Advises U.S. Investment Amid High Yields, Low Exchange Rate - 조선일보 — *조선일보*
 - `10-13 09:07` Fed Interest Rate Predictions for the Next 5 Years: 2026–2031 - Norada Real Estate Investments — *Norada Real Estate Investments*
@@ -63,24 +64,23 @@
 - `10-13 06:06` Cleveland Fed President: "Small, Swift Rate Adjustments Are Preferable" - 아시아경제 — *아시아경제*
 - `10-13 05:58` Fed's Hammack: Small, Frequent Rate Adjustments Desirable to Prevent Inflation Entrenchment - news.sbs.co.kr — *news.sbs.co.kr*
 - `10-13 05:54` Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly' - Reuters — *Reuters*
-- `10-13 05:50` Federal Reserve voting member Hammack: Combatting inflation requires faster and more frequent small interest rate adjustments; guard against the entrenchment of inflation expectations. - 富途牛牛 — *富途牛牛*
 
 ## 🌍 유가·지정학
 - `10-13 11:19` IMF expects $96 oil price in 2026, $87 in 2027 - Breakingthenews.net — *Breakingthenews.net*
-- `10-13 11:08` Oil Price Today (October 13): Crude oil falls to $105 as traders assess Russian supply, Mideast attacks. W - The Economic Times — *The Economic Times*
 - `10-13 11:06` Silver Price Forecast: XAG/USD falls to near $60.00 amid higher oil prices, US Dollar - FXStreet — *FXStreet*
 - `10-13 10:45` Oil Dips On Prospect Of Russian Diesel Release - But Further Iran Hostilities Cloud Trading - Ship & Bunker — *Ship & Bunker*
 - `10-13 10:23` OIL PRICE WATCH as of Oct. 13, 2026 - Inquirer.net — *Inquirer.net*
 - `10-13 10:03` Oil Prices Today: Brent Crude Near $106 As Middle East Tensions Escalate - NDTV Profit — *NDTV Profit*
 - `10-13 09:31` Australia business confidence falls further in September amid oil price volatility - marketscreener.com — *marketscreener.com*
 - `10-13 09:30` 3rd oil tanker catches fire after mine strike in Strait of Hormuz - Qazinform — *Qazinform*
+- `10-13 09:28` energyRe Secures $815 Million for South Carolina Solar Projects - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `10-13 11:00` Kospi plunges more than 6% below 6,000 as chip selloff and oil fears hit Asian stocks - investingLive — *investingLive*
+- `10-13 11:56` Kospi sinks below 6,000, triggering first sell-side curb in nearly two months - KED Global — *KED Global*
+- `10-13 11:27` Seoul shares sharply down late Tue. morning on tech sell-off - Yonhap News Agency — *Yonhap News Agency*
 - `10-13 10:30` Stock Market Today: Gift Nifty, Inflation To Tech Stocks Selloff; Five Key Factors For Sensex, Nifty 50 On Oct 13 - NDTV Profit — *NDTV Profit*
-- `10-13 10:09` Foreign selling slams Kospi as China chip fears hit Samsung, SK Hynix - KED Global — *KED Global*
+- `10-13 10:11` Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points - Investor's Business Daily — *Investor's Business Daily*
 - `10-13 08:50` Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters — *Reuters*
-- `10-13 08:16` Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points - Investor's Business Daily — *Investor's Business Daily*
 - `10-13 07:01` Earnings preview US and Europe: Can the stock market rally continue? - FXStreet — *FXStreet*
+- `10-13 06:22` 1929 Fears Are Back for Investors — And They're Half-Right. 5 Early Warning Signs I'm Watching for the Stock Market Now. - Barchart.com — *Barchart.com*
 - `10-13 05:41` Afraid of a Stock Market Crash? 4 Great ETFs to Buy Regardless. - The Motley Fool — *The Motley Fool*
-- `10-13 05:39` Banco Bradesco Top HR Executive Purchases $1.1 Million Ahead of BBD Rally. Is the Stock Still a Buy? - The Motley Fool — *The Motley Fool*
