@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-15 18:53 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-15 19:17 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `10-15 18:44` 유럽증시, 기술주 우려 속 하락 출발…ASML 주가 6%대↓(상보) - 연합인포맥스 — *연합인포맥스*
+- `10-15 19:12` 코스피·코스닥 동반 서킷브레이커…미국발 충격에 ‘검은 목요일’ - KBS 뉴스 — *KBS 뉴스*
+- `10-15 19:01` 저가매수 여력 부족한 개미…증시 언제 반등? - 연합뉴스TV — *연합뉴스TV*
+- `10-15 18:34` 일·타이완 3~4%대 낙폭인데...국내 증시 특히 '휘청' - YTN — *YTN*
 - `10-15 18:23` [외환-마감] 코스피 급락에 外人은 이탈 중…6.30원↑ - 연합인포맥스 — *연합인포맥스*
 - `10-15 18:23` [중국증시-마감] 美 물가 충격·고금리 공포에 급락 - 연합인포맥스 — *연합인포맥스*
-- `10-15 18:01` 악재에 악재 겹친 코스피…“반전 재료 안 보여” 끝 모를 추락 - 중앙일보 — *중앙일보*
 - `10-15 18:00` [주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가 - 히트뉴스 — *히트뉴스*
 - `10-15 17:56` AI 거품론, ‘닷컴 버블’ 재림인가…코스피, 7거래일 연속·총 20.7% 폭락 - 한겨레 — *한겨레*
-- `10-15 17:48` '검은 목요일' 韓 증시…7% 폭락에 양 시장 '일시 중단' - 서울경제TV — *서울경제TV*
 - `10-15 17:47` '검은 목요일'...코스피·코스닥, 동반 서킷브레이커 - YTN — *YTN*
 
 ## 🇰🇷 반도체·HBM
+- `10-15 19:02` 닛케이지수, 4.9% 급락...AI·반도체 약세 등 여파 - YTN — *YTN*
+- `10-15 19:01` "AI 반도체 공급 부족 지속…고점 아직 멀었다" - 뉴스톱 — *뉴스톱*
+- `10-15 18:56` 삼성전자, JEDEC서 “AI 메모리 표준화 한계” 토로 - 디일렉 — *디일렉*
+- `10-15 18:55` Citi “ASML 실적, AI 반도체 수요 전망 2030년까지 이어질 것” - Investing.com 한국어 — *Investing.com 한국어*
+- `10-15 18:50` 에비던트, 나노미터 단위 정밀 측정으로 반도체 검사 지원 - 산업일보 — *산업일보*
+- `10-15 18:48` 반도체 아카데미 지원 82.8% 경기도 집중…대구·경북은 전무 - www.kyongbuk.co.kr — *www.kyongbuk.co.kr*
 - `10-15 18:39` 로이터 "SK하이닉스, 美 공장 짓는 조건으로 中 다롄 공장 생산 장비 반입 추진" By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
 - `10-15 18:31` D램서 AI 연산... SK하이닉스 'LPDDR6-PIM' 표준화 동향 소개 - 디지털포스트 — *디지털포스트*
-- `10-15 18:29` [사설 중]중국 약진, AI 수익성 논란에 다시 ‘5000피’, 반도체 축포에 대한 경고 - 경향신문 — *경향신문*
-- `10-15 18:24` 日닛케이지수, 4.9% 급락‥AI·반도체 약세 등 여파 - MBC 뉴스 — *MBC 뉴스*
-- `10-15 18:03` 대한항공 3분기 매출 역대 최대…“AI·반도체 화물 덕분” - 중앙일보 — *중앙일보*
-- `10-15 17:57` “틱톡 모회사 中 바이트댄스, 미디어텍과 반도체 구매 계약 임박” - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `10-15 17:49` "130만닉스 깨졌다" '반도체 쇼크'에 최태원도 4억 손실 - 아시아경제 — *아시아경제*
-- `10-15 17:49` “삼성 7만원·하이닉스 20만원”…이주완의 반도체 거품론, 과거 전망은 맞았나 - 주간경향 — *주간경향*
 
 ## 🇰🇷 금융주
 - `10-15 18:24` 신한금융지주회사, 롯데손해보험 인수계약 체결...신한EZ손해보험에 통합 추진 - 시사캐스트 — *시사캐스트*
@@ -47,7 +47,7 @@
 
 ## 🌍 AI·빅테크
 - `10-15 18:30` Starling, NVIDIA build AI model on UK sovereign cloud - The Paypers — *The Paypers*
-- `10-15 09:42` SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount - CNBC — *CNBC*
+- `10-15 09:42` Nvidia, AMD, Micron fall as AI stock sell-off deepens - CNBC — *CNBC*
 - `10-15 09:35` CoreWeave Plunges 15%, Putting Nvidia in a 'Bailout Dilemma' as AI Debt Risk Spreads - BigGo Finance — *BigGo Finance*
 - `10-15 08:05` Nvidia Falls 3% As Inflation Exposes A Bigger Problem For The AI Trade - The Wealth Advisor — *The Wealth Advisor*
 - `10-15 07:16` Anthropic Q3 revenue climbs to $16.8 billion: Report - Yahoo Finance — *Yahoo Finance*
@@ -56,31 +56,31 @@
 - `10-15 04:16` Nvidia, Broadcom and Marvell Stocks Fall as AI Spending Concerns Grow - TradingView — *TradingView*
 
 ## 🌍 연준·금리
+- `10-15 19:09` Warsh's quest for quiet Fed gets vocal pushback - Reuters — *Reuters*
+- `10-15 19:04` UBS extends Fed tightening cycle forecast with March rate hike after inflation surprise - KELO-AM — *KELO-AM*
 - `10-15 18:12` US, European Stocks Mixed As Inflation Boosts Odds Of Fed Rate Hike - MarketForces Africa — *MarketForces Africa*
 - `10-15 17:23` Tech stocks lead rout after US inflation fuels rate hike bets - Yahoo Finance Singapore — *Yahoo Finance Singapore*
 - `10-15 15:56` Core inflation has not cooled as expected; does the Federal Reserve still have reasons to hold off on raising interest rates? - 富途牛牛 — *富途牛牛*
 - `10-15 14:27` US inflation accelerates, complicating Fed's rate outlook - China Daily Global Edition — *China Daily Global Edition*
 - `10-15 14:10` Fed's Daly: More Rate Hikes Likely Needed, But No Urgency at October Meeting - IndexBox — *IndexBox*
 - `10-15 13:22` Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% - CoinDesk — *CoinDesk*
-- `10-15 12:23` U.S. Inflation Accelerates to 3.7%, Deepening Fed’s Rate Dilemma - Businesskorea — *Businesskorea*
-- `10-15 12:15` U.S. Inflation Rebounds; Federal Reserve Faces Dilemma Over Oil-Driven Price Pressures - BigGo Finance — *BigGo Finance*
 
 ## 🌍 유가·지정학
+- `10-15 19:09` Oil shipping costs spike, lifting prices from pump to grocery - Reuters — *Reuters*
+- `10-15 18:34` Oil prices sink amid tanker attacks near Hormuz, reports of easing U.S. sanctions - Investing.com — *Investing.com*
 - `10-15 18:30` Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-15 17:21` Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks - WSJ — *WSJ*
 - `10-15 16:55` Oil Price Forecast: WTI and Brent Ease as US Weighs Tanker Sanctions Relief - FXEmpire — *FXEmpire*
 - `10-15 16:02` Chevron CEO warns oil buffers that cushioned the Iran war shock have been ‘drained’ - Fortune — *Fortune*
 - `10-15 15:35` Trump says Iran war will end ‘very soon,’ predicts oil prices will plunge - Muslim Network TV — *Muslim Network TV*
 - `10-15 15:25` Oil Prices Could Stay High Through 2028 as Iran War Disrupts Global Energy Markets - Modern Diplomacy — *Modern Diplomacy*
-- `10-15 15:06` TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices - Reuters — *Reuters*
-- `10-15 15:00` COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters — *Reuters*
 
 ## 🌍 시장 전반
+- `10-15 19:02` Asia's AI stocks are crashing. So why is India's stock market rallying? - Moneycontrol.com — *Moneycontrol.com*
+- `10-15 18:50` Wall Street banks' bond trading revenue hit by market volatility, equities shine - The Economic Times — *The Economic Times*
+- `10-15 18:36` Global Market: European shares fall as global tech selloff, rate fears weigh on sentiment - The Economic Times — *The Economic Times*
 - `10-15 18:25` Why South Korea’s stock market crashed 7.6% as AI fears collide with US inflation - Firstpost — *Firstpost*
 - `10-15 18:22` Stock market posts worst day in months on inflation, tech selloff - Investing.com — *Investing.com*
 - `10-15 18:18` Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stock Sell-Off Intensifies — SKHY, TSM, RKLB in Focus - Benzinga — *Benzinga*
 - `10-15 17:57` Sensex jumps over 1,500 points: 5 reasons why the stock market is rising today - Firstpost — *Firstpost*
 - `10-15 17:54` Global Market: Eurozone bond yields fall as tech sell-off fuels safe-haven demand - The Economic Times — *The Economic Times*
-- `10-15 17:51` Chip selloff intensifies as investors question sustainability of AI spending (MU:NASDAQ) - Seeking Alpha — *Seeking Alpha*
-- `10-15 17:39` Tech market sell-off deepens amid fears over US inflation and AI debt - The Guardian — *The Guardian*
-- `10-15 17:18` Sensex rallies 1,500 points despite global sell-off: Why are markets rising today? - India Today — *India Today*
