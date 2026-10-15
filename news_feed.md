@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-15 18:08 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-15 18:27 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -22,8 +22,8 @@
 - `10-15 17:49` “삼성 7만원·하이닉스 20만원”…이주완의 반도체 거품론, 과거 전망은 맞았나 - 주간경향 — *주간경향*
 - `10-15 17:48` SK하이닉스, 43년 역사 담은 '초심 3부작' 구현…신문 기사 1만개 활용 - 뉴스1 — *뉴스1*
 - `10-15 17:47` 美-日, 뉴욕에 최대 29조원 반도체 프로젝트…관세 인하 후 세 번째 사업 - 연합인포맥스 — *연합인포맥스*
+- `10-15 17:45` 메모리 격차만 보다 놓칠라… 中 반도체 장비도 추격 - IT조선 — *IT조선*
 - `10-15 17:43` 홍지선 국토장관 “호남권 반도체 산단 부지, 유례없는 속도로 조성” - 조선비즈 - Chosunbiz — *Chosunbiz*
-- `10-15 17:35` C반도체, K반도체에 7년 뒤졌지만…10년후 따라잡나 - 한양경제 — *한양경제*
 
 ## 🇰🇷 금융주
 - `10-15 17:29` 금융지주 올해 주주환원 10조원 넘는다 - 한국경제 — *한국경제*
@@ -57,30 +57,30 @@
 
 ## 🌍 연준·금리
 - `10-15 17:23` Tech stocks lead rout after US inflation fuels rate hike bets - Yahoo Finance Singapore — *Yahoo Finance Singapore*
-- `10-15 15:56` Core inflation has not cooled as expected; does the Federal Reserve still have reasons to hold off on raising interest rates? - 富途牛牛 — *富途牛牛*
 - `10-15 14:27` US inflation accelerates, complicating Fed's rate outlook - China Daily Global Edition — *China Daily Global Edition*
 - `10-15 14:10` Fed's Daly: More Rate Hikes Likely Needed, But No Urgency at October Meeting - IndexBox — *IndexBox*
 - `10-15 13:22` Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% - CoinDesk — *CoinDesk*
 - `10-15 12:23` U.S. Inflation Accelerates to 3.7%, Deepening Fed’s Rate Dilemma - Businesskorea — *Businesskorea*
-- `10-15 12:15` U.S. Inflation Rebounds; Federal Reserve Faces Dilemma Over Oil-Driven Price Pressures - BigGo Finance — *BigGo Finance*
 - `10-15 11:58` Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low - Reuters — *Reuters*
+- `10-15 11:43` In Depth: BOK Financial Strategist Steve Wyett discusses impact of interest rate hikes - KOKI FOX 23 — *KOKI FOX 23*
+- `10-15 10:09` Hotter-Than-Expected CPI Signals Stubborn Inflation and Rising Costs - WWD — *WWD*
 
 ## 🌍 유가·지정학
 - `10-15 17:21` Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks - WSJ — *WSJ*
+- `10-15 16:55` Oil Price Forecast: WTI and Brent Ease as US Weighs Tanker Sanctions Relief - FXEmpire — *FXEmpire*
 - `10-15 16:02` Chevron CEO warns oil buffers that cushioned the Iran war shock have been ‘drained’ - Fortune — *Fortune*
 - `10-15 15:25` Oil Prices Could Stay High Through 2028 as Iran War Disrupts Global Energy Markets - Modern Diplomacy — *Modern Diplomacy*
+- `10-15 15:06` TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices - Reuters — *Reuters*
 - `10-15 15:00` COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters — *Reuters*
 - `10-15 14:19` Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-15 13:15` Amid Hormuz Oil Crisis, EVs saved world $20 bn. on Fuel Costs, but not Trump’s America - Informed Comment — *Informed Comment*
-- `10-15 13:09` Oil falls as investors assess Mideast tensions, International Energy Agency's report - CNBC — *CNBC*
-- `10-15 13:06` Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms - CNN — *CNN*
 
 ## 🌍 시장 전반
+- `10-15 18:22` Stock market posts worst day in months on inflation, tech selloff - Investing.com — *Investing.com*
+- `10-15 18:18` Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stock Sell-Off Intensifies — SKHY, TSM, RKLB - Benzinga — *Benzinga*
 - `10-15 17:57` Sensex jumps over 1,500 points: 5 reasons why the stock market is rising today - Firstpost — *Firstpost*
 - `10-15 17:51` Chip selloff intensifies as investors question sustainability of AI spending (MU:NASDAQ) - Seeking Alpha — *Seeking Alpha*
 - `10-15 17:39` Tech market sell-off deepens amid fears over US inflation and AI debt - The Guardian — *The Guardian*
+- `10-15 17:18` Sensex rallies 1,500 points despite global sell-off: Why are markets rising today? - India Today — *India Today*
 - `10-15 17:17` Stock Market Today: Hot Inflation and a Neocloud Shakeout Sink the Nasdaq - ChartMill — *ChartMill*
-- `10-15 17:01` Sensex jumps 1,400 points, Nifty reclaims 23,000 - Key factors behind Thursday's stock market rally - CNBC TV18 - LinkedIn — *LinkedIn*
-- `10-15 16:28` Global stocks sell-off deepens as chipmakers tumble - Financial Times — *Financial Times*
-- `10-15 16:16` News by CNBC TV18 on TradingView, 2026-10-15 — cnbctv:b37826cb7094b:0 - TradingView — *TradingView*
-- `10-15 15:40` A deepened tech sell-off drags Asian stocks lower as markets in South Korea and Japan sink - AP News — *AP News*
+- `10-15 17:14` Dan Ives Calls CoreWeave Selloff ‘Way Overdone,’ Says Hyperscaler Earnings Will Back AI Spending — CRWV S - Benzinga — *Benzinga*
