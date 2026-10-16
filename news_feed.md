@@ -1,11 +1,12 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-16 18:47 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-16 19:05 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-16 18:34` 저가 매수 유입됐나...코스피 2%·코스닥 4%대 ↑ - YTN — *YTN*
 - `10-16 18:21` 유럽증시, 亞시장 움직임 따라 강세 출발…유로스톡스50 0.51%↑ - 연합인포맥스 — *연합인포맥스*
 - `10-16 18:19` [중국증시-마감] AI 기업 자사주 매입·호실적 전망에 반등 - 연합인포맥스 — *연합인포맥스*
 - `10-16 18:19` 코스피, 반등에 성공했지만…추세적 상승엔 신중론 - 연합뉴스TV — *연합뉴스TV*
@@ -13,9 +14,9 @@
 - `10-16 17:57` 코스피 PER 26년來 최저…이렇게 싼데 선뜻 안산다 - 한국경제 — *한국경제*
 - `10-16 17:41` 하락 일단 멈췄지만 … 코스피 빚투는 부담 - 매일경제 마켓 — *매일경제 마켓*
 - `10-16 17:37` 연속 하락 끊은 코스피..."바닥 확인까지 단계적 접근" - 비즈워치 — *비즈워치*
-- `10-16 17:19` "역사적 저평가" 코스피에 골드만 1만2000 고수...'찐반등' 열쇠는 - 한국경제 — *한국경제*
 
 ## 🇰🇷 반도체·HBM
+- `10-16 18:52` 용인특례시·진주시 자매결연…반도체·우주항공 산업 협력 기반 넓힌다 - 유교신문 — *유교신문*
 - `10-16 18:02` 의대 마다한 공학도, 대만서 韓반도체 길을 묻다 - 한국경제 — *한국경제*
 - `10-16 18:01` [기업] SK하이닉스, 협력사 임직원·가족 서울랜드 초청 '땡스풀 데이' - YTN — *YTN*
 - `10-16 17:55` SK하이닉스, 협력사 직원·가족 3만명 서울랜드 초청 - 매일일보 — *매일일보*
@@ -23,7 +24,6 @@
 - `10-16 17:40` 퀄컴 "휴머노이드는 고도화된 자동차" - 디일렉 — *디일렉*
 - `10-16 17:37` 반도체 투톱 반등에도 'AI 빚' 그늘…가격 왜곡 가능성은 - 머니투데이 - 머니투데이 — *머니투데이*
 - `10-16 17:29` SK하이닉스, ‘ThanksFULL Day’ 개최…협력사 구성원·가족 3만 명 초청 - 동아일보 — *동아일보*
-- `10-16 17:28` 르네사스, 피지컬 AI 전담팀 출범…휴머노이드 반도체 공략 본격화 - 디일렉 — *디일렉*
 
 ## 🇰🇷 금융주
 - `10-16 17:41` 4대 금융지주, 3분기 순익 5조6000억 원 전망… 증권 주춤해도 은행이 실적 견인 - 인더스트리뉴스 — *인더스트리뉴스*
@@ -59,28 +59,28 @@
 - `10-16 18:27` Fed’s Warsh hails economic resilience but sees ‘bumpy’ AI road ahead - Euronews.com — *Euronews.com*
 - `10-16 17:23` There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market - The Motley Fool — *The Motley Fool*
 - `10-16 17:21` Forex Today: US Dollar extends slide as Fed Chair Warsh refrains from hinting at rate path - FXStreet — *FXStreet*
-- `10-16 16:30` Fed chair Warsh says price stability is key but shies away from signals about rates - The Boston Globe — *The Boston Globe*
+- `10-16 16:24` Fed’s Warsh sees US resilience, mum on rate-path view - The Business Times — *The Business Times*
 - `10-16 16:00` Warsh boosts market expectations of Fed rate hold in October - The Straits Times — *The Straits Times*
 - `10-16 15:55` Fed Chair Warsh Endorses AI's Long-Term Transformation, October Rate Hike Still Unanswered - BigGo Finance — *BigGo Finance*
 - `10-16 15:51` Fed chair Warsh says price stability is key but shies away from signals about rates - Bozeman Daily Chronicle — *Bozeman Daily Chronicle*
-- `10-16 15:43` Bets on Fed rate hold in October strengthen after Warsh comments - Financial Times — *Financial Times*
+- `10-16 15:15` Fed's Warsh sees US economic tailwinds, mum on rate-path view - The Standard (HK) — *The Standard (HK)*
 
 ## 🌍 유가·지정학
-- `10-16 18:34` Oil prices ease but head for another weekly gain on Middle East supply concerns - www.thenationalnews.com — *www.thenationalnews.com*
+- `10-16 18:51` Middle East conflict: Oil steady as US, Iran trade counter-accusations - www.engine.online — *www.engine.online*
+- `10-16 18:34` Oil prices ease but head for another weekly gain on Middle East supply concerns - The National — *The National*
+- `10-16 18:28` South Korea is reportedly to extend oil fuel price cap for another four weeks - Newsquawk — *Newsquawk*
 - `10-16 18:26` Ithaca Energy CEO to Retire Amid Major International Expansion - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-16 18:23` US claims new blow against Iran’s shadow fleet with 17-vessel sanctions - The Arab Weekly — *The Arab Weekly*
 - `10-16 16:49` Natural Gas and Oil Forecast: 8.6M Barrel Draw, Hormuz Risk, Can WTI Break $98.23? - FXEmpire — *FXEmpire*
 - `10-16 16:33` Ship-Fuel Squeeze Persists Despite More Hormuz Crude, Vitol Says - Bloomberg.com — *Bloomberg.com*
 - `10-16 16:11` Oil Prices Fall as Traders Weigh IEA Reserve Releases, Hormuz Risks - WSJ — *WSJ*
-- `10-16 15:27` Azerbaijani oil price drops by more than $5 - TodayPress.tv — *TodayPress.tv*
-- `10-16 14:30` Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `10-16 18:17` +105%, +77%, +31%: ’Real-economy’ stocks jump as Q3 earnings broadens market rally - Investing.com India — *Investing.com India*
+- `10-16 19:03` History Says a Stock Market Sell-Off Is Coming Eventually. Here's the Smartest ETF to Buy Right Now. - The Motley Fool — *The Motley Fool*
+- `10-16 18:50` The AI sell-off may be giving investors somewhere new to hide as Treasury bonds rally again - Business Insider — *Business Insider*
+- `10-16 18:12` +105%, +77%, +31%: ’Real-economy’ stocks jump as Q3 earnings broadens market rally - Investing.com — *Investing.com*
 - `10-16 17:57` Defense shares rally amid rising tensions in Ukraine - Investing.com — *Investing.com*
 - `10-16 17:38` European satellite stocks extend rally as Ukraine flags Starlink curbs - Investing.com — *Investing.com*
 - `10-16 17:26` Global markets rally as tech stocks gain despite hotter-than-expected US producer inflation - Anadolu Ajansı — *Anadolu Ajansı*
-- `10-16 15:12` Stocks rebound after tech sell-off and Indonesia shares sink on market downgrade warning - Toronto Star — *Toronto Star*
-- `10-16 15:11` Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch - Yahoo Finance — *Yahoo Finance*
-- `10-16 15:08` Stocks rebound after tech sell-off and Indonesia shares sink on market downgrade warning - Bozeman Daily Chronicle — *Bozeman Daily Chronicle*
-- `10-16 15:08` Stocks Rebound After Tech Sell-Off and Indonesia Shares Sink on Market Downgrade Warning - U.S. News & World Report — *U.S. News & World Report*
+- `10-16 16:47` Tokyo stocks rebound after sharp sell-off despite lingering AI concerns - 毎日新聞 — *毎日新聞*
+- `10-16 16:41` Samsung, SK hynix sell-off excessive as memory outlook stays strong: analysts - The Korea Times — *The Korea Times*
