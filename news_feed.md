@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-20 19:02 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-20 19:24 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -13,17 +13,17 @@
 - `10-20 18:01` 증시 체력의 척도인 예탁금, 1월 중순 수준까지 감소 하였는데…. - Investing.com 한국어 — *Investing.com 한국어*
 - `10-20 17:59` 韓 코스피 급락에 엇갈린 월가…'변동성 지속' vs '반등 여력' - 뉴스핌 — *뉴스핌*
 - `10-20 17:54` [도쿄증시-마감] 거센 AI·반도체주 매도세에 1%대 하락 - 연합인포맥스 — *연합인포맥스*
-- `10-20 17:50` 미 기술주 반등에도 코스피 3.7% 급락…이틀 반등분 반납 - 뉴스토마토 — *뉴스토마토*
+- `10-20 17:53` 증시 급락에 흔들린 국민연금 수익률…정은경 "장기적·종합적 평가해야" - 뉴스핌 — *뉴스핌*
 
 ## 🇰🇷 반도체·HBM
+- `10-20 19:10` 사천시, 6개 기업과 1130억원 투자 협약...반도체 부품 산업 첫 유치 - 뉴스핌 — *뉴스핌*
+- `10-20 18:54` 반도체 정전척 국산화 나선 이에스티, 11월 코스닥 상장 추진 - 아시아투데이 — *아시아투데이*
+- `10-20 18:46` 전남광주반도체포럼 공식 출범…전략연구원 설립 추진 - 전남인뉴스 — *전남인뉴스*
 - `10-20 18:44` AMD "피지컬 AI, 실시간 제어와 안정성이 중요" - 디일렉 — *디일렉*
-- `10-20 18:31` 광주 반도체 클러스터 ‘하류 지역’도 특별법으로 보호해야 - 무등일보 — *무등일보*
 - `10-20 18:31` "반도체 특수 잡아라"···광주특별시 시·군, 기업 유치전 후끈 - 무등일보 — *무등일보*
+- `10-20 18:31` 광주 반도체 클러스터 ‘하류 지역’도 특별법으로 보호해야 - 무등일보 — *무등일보*
 - `10-20 18:16` [르포] 용인 SK하이닉스 산단 공사현장은 - 기호일보 — *기호일보*
 - `10-20 18:00` '용인반도체 라온프라이빗' 564가구 - 한국경제 — *한국경제*
-- `10-20 18:00` [금융 Pick] KB국민·신한·하나·우리은행, SK하이닉스와 반도체 공급망에 2조원 금융지원 - 라이센스뉴스 — *라이센스뉴스*
-- `10-20 17:58` "日증시 아직 저평가…반도체소재·방산 유망" - 한국경제 — *한국경제*
-- `10-20 17:56` 반도체장비 글로벌기업 엑셀리스, 국내 공장 착공 - 환경일보 — *환경일보*
 
 ## 🇰🇷 금융주
 - `10-20 17:40` 금융지주 역대급 실적에도…"해킹 책임, 연임 자격 없어" - MTN 머니투데이방송 — *MTN 머니투데이방송*
@@ -56,31 +56,31 @@
 - `10-20 09:11` OpenAI seeks to accelerate fund-raising ahead of Anthropic IPO, sources say - The Straits Times — *The Straits Times*
 
 ## 🌍 연준·금리
-- `10-20 18:52` Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End. - The Motley Fool — *The Motley Fool*
+- `10-20 19:07` The Federal Reserve Just Warned More Rate Hikes Are Likely Coming. History Has Good and Bad News for Investors - The Motley Fool — *The Motley Fool*
+- `10-20 19:03` Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End. - The Motley Fool — *The Motley Fool*
+- `10-20 19:03` Can Wall Street’s Selloff Convince the Fed to Hold Interest Rates? - Modern Diplomacy — *Modern Diplomacy*
+- `10-20 19:03` Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End. - Yahoo Finance — *Yahoo Finance*
 - `10-20 17:54` What’s so wrong with high interest rates? - The Business Times — *The Business Times*
 - `10-20 16:43` Gold prices declined amid cautious anticipation of the Federal Reserve meeting and US inflation data - صوت الإمارات — *صوت الإمارات*
 - `10-20 14:47` Swiss Franc gains as US Dollar weakens on Fed rate pause bets | FXStreet - شبكة تواصل الإخبارية — *شبكة تواصل الإخبارية*
-- `10-20 13:35` Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path - Bloomberg.com — *Bloomberg.com*
-- `10-20 13:16` Gold inches up on softer dollar as investors assess Fed rate outlook - Yahoo Finance — *Yahoo Finance*
-- `10-20 13:09` United States Dollar Index weakens below 102.00 as traders assess Fed rate outlook - FXStreet — *FXStreet*
-- `10-20 11:55` Debate Over Peak in US 10-Year Treasury Yield: "Fed's Final Hike Is the Key" vs. "Era of Persistently High Rates" - BigGo Finance — *BigGo Finance*
+- `10-20 13:56` Gold inches up on softer dollar as investors assess Fed rate outlook - CNBC — *CNBC*
 
 ## 🌍 유가·지정학
+- `10-20 19:20` WTI posts fresh monthly high near $100.50 as Iran continues attacks on oil tankers - FXStreet — *FXStreet*
+- `10-20 19:16` Iran Guards Say 2 "Violating" Oil Tankers Set Ablaze In Strait Of Hormuz - NDTV — *NDTV*
+- `10-20 19:08` Iran war latest: Hegseth makes surprise visit to Israel as Netanyahu tells Trump 'we have job to finish' - The National — *The National*
 - `10-20 18:52` Two oil tankers on fire after hitting mine in Hormuz Strait - Mehr News Agency — *Mehr News Agency*
 - `10-20 18:18` Crude oil surges further amid Houthis attacks on Saudi energy targets and stalled US-Iran negotiations - investingLive — *investingLive*
 - `10-20 17:25` Gold (XAUUSD) Price Forecast: Oil Premium and December Rate Bet Keep Sellers in Control - FXEmpire — *FXEmpire*
-- `10-20 17:24` Current price of oil as of October 19, 2026 - Fortune — *Fortune*
 - `10-20 16:28` Brent Oil Prices Face Higher-for-Longer Risk as Iran War Drags On - FXEmpire — *FXEmpire*
 - `10-20 16:05` Oil holds near five-month high as Hormuz, Houthi attacks threaten supply recovery - Investing.com — *Investing.com*
-- `10-20 16:00` Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-20 15:51` Oil Price Forecast: Brent Nears $110 as Middle East Supply Risks Persist - FXEmpire — *FXEmpire*
 
 ## 🌍 시장 전반
+- `10-20 19:03` Can Wall Street’s Selloff Convince the Fed to Hold Interest Rates? - Modern Diplomacy — *Modern Diplomacy*
+- `10-20 19:02` AI-Fueled Market Rally is Unsustainable, Warns Rathbones’ David Coombs - Morningstar — *Morningstar*
 - `10-20 19:00` Monday’s Stock Market Rally Was Pathetic. Here’s Why. - RealMoney Pro — *RealMoney Pro*
-- `10-20 18:53` AI-Fueled Market Rally is Unsustainable, Warns Rathbones’ David Coombs - Morningstar — *Morningstar*
+- `10-20 18:51` Inflation Is Back. Is A Stock Market Crash Next? - Trefis — *Trefis*
 - `10-20 18:45` Worried About a Stock Market Crash? Here Are 3 Things You Should Do Now - The Motley Fool — *The Motley Fool*
 - `10-20 18:40` Worried About a Stock Market Crash? Here Are 3 Things You Should Do Now - The Globe and Mail — *The Globe and Mail*
 - `10-20 18:20` Wall Street analysts love this corner of the stock market as AI fears cause the bull rally to falter - Business Insider — *Business Insider*
 - `10-20 18:05` The Misleading Tech Sell-Off - Real Investment Advice — *Real Investment Advice*
-- `10-20 17:49` South Korea's stock market is flashing another warning about the AI trade - AOL.com — *AOL.com*
-- `10-20 15:09` Jim Cramer Compares AI Stock Sell-Off to 1987 Market Crash - TOKENPOST — *TOKENPOST*
