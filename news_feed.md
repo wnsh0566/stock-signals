@@ -1,11 +1,12 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-20 20:30 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-20 21:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-20 20:48` 코스피, 이틀간 상승분 반납…AI 우려·佛 정세불안 부각 - 연합뉴스TV — *연합뉴스TV*
 - `10-20 20:09` 삼성증권 "모니모서 신규 계좌 개설시 코스피200 주식 증정" - 연합뉴스 — *연합뉴스*
 - `10-20 20:00` "팔아야 하나, 버텨야 하나, 물타야 하나"…20% 무너진 코스피에 무력감만 [개미의 세계] - 파이낸셜뉴스 — *파이낸셜뉴스*
 - `10-20 19:34` [마켓뷰] 하루 만에 상승폭 반납한 코스피…5550선 겨우 사수 - 조선비즈 - Chosunbiz — *Chosunbiz*
@@ -13,19 +14,19 @@
 - `10-20 19:25` [베트남 증시] 글로벌 투심 위축 속 강보합...'밀수 스캔들' PNJ는 임시 주총 앞두고 상한가 - 뉴스핌 — *뉴스핌*
 - `10-20 19:07` ‘롤러코스피’에 움츠린 투심… 송도 바이오 ‘투톱’은 위를 본다 - 경인일보 — *경인일보*
 - `10-20 18:46` Citi “성장주 이탈 속 유럽 증시로 자금 유입” - Investing.com 한국어 — *Investing.com 한국어*
-- `10-20 18:32` 코스피, 다시 3%대 급락…5,500선 후퇴 - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 반도체·HBM
+- `10-20 20:55` 반도체 주식은 언제 정점에 달하나? 애널리스트의 역사적 분석 - Investing.com 한국어 — *Investing.com 한국어*
+- `10-20 20:40` 하나은행, SK하이닉스 협력기업에 7500억 금융지원 - 코리아리포트 — *코리아리포트*
 - `10-20 19:37` 청주 SK로에 ‘가로수길’ … SK하이닉스 도시 숲 준공 - 충청타임즈 — *충청타임즈*
 - `10-20 19:26` 하나은행, 용인 반도체 클러스터서 중소·중견기업 상생 금융 물꼬 - 인사이드비나 — *인사이드비나*
 - `10-20 19:21` 충남도, 반도체·디스플레이 협력 장 마련 - 천지일보 — *천지일보*
 - `10-20 19:20` 반도체 연구단지부터 역세권 개발까지...이천의 미래 청사진 - YTN — *YTN*
 - `10-20 19:10` 사천시, 6개 기업과 1130억원 투자 협약...반도체 부품 산업 첫 유치 - 뉴스핌 — *뉴스핌*
 - `10-20 19:00` "물·전력 공급하고 군공항도 이전하는데...반도체 혜택 함께 누려야" [와이드이슈] - KBC광주방송 — *KBC광주방송*
-- `10-20 18:54` 반도체 정전척 국산화 나선 이에스티, 11월 코스닥 상장 추진 - 아시아투데이 — *아시아투데이*
-- `10-20 18:46` 전남광주반도체포럼 공식 출범…전략연구원 설립 추진 - 전남인뉴스 — *전남인뉴스*
 
 ## 🇰🇷 금융주
+- `10-20 20:33` iM금융지주, 27일 3분기 실적 발표…국내외 투자자 대상 IR - 마켓인 — *마켓인*
 - `10-20 19:55` 금융지주 지배구조 민낯...연임 연령제한 변경부터 퇴임 후 7억 고문료까지 - 국토일보 — *국토일보*
 - `10-20 17:40` 금융지주 역대급 실적에도…"해킹 책임, 연임 자격 없어" - MTN 머니투데이방송 — *MTN 머니투데이방송*
 - `10-20 17:36` JB금융그룹, AI 기업 업스테이지 전략적 투자…AX 가속화 - FETV — *FETV*
@@ -33,7 +34,6 @@
 - `10-20 17:06` 우리금융지주 주가 150원 상승 후 장마감 - 아시아뉴스통신 — *아시아뉴스통신*
 - `10-20 17:03` 단순 투자 맞나… OK금융, 지방금융 지분 확보하고 영향력 확대 - 매일신문 — *매일신문*
 - `10-20 16:54` 금융지주 지배구조 개선 압박…KB금융은 '모범 사례' - 위키리크스한국 — *위키리크스한국*
-- `10-20 16:16` "AI 시대 맞춰 일하는 방식 혁신"…JB금융, 업스테이지 400억 투자 - 전민일보 — *전민일보*
 
 ## 🇰🇷 정책·거시
 - `10-20 17:57` 정쟁에 가려진 지역 현안…KTX··부동산·환경 대책 촉구 - SK브로드밴드 회사소개 — *SK브로드밴드 회사소개*
@@ -60,27 +60,27 @@
 - `10-20 19:03` Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End. - The Motley Fool — *The Motley Fool*
 - `10-20 19:03` Can Wall Street’s Selloff Convince the Fed to Hold Interest Rates? - Modern Diplomacy — *Modern Diplomacy*
 - `10-20 19:03` Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End. - Yahoo Finance — *Yahoo Finance*
+- `10-20 19:01` Top CD rates today, Oct. 20, 2026: Lock in up to up to 5.25% - Fortune — *Fortune*
 - `10-20 17:54` What’s so wrong with high interest rates? - The Business Times — *The Business Times*
 - `10-20 16:43` Gold prices declined amid cautious anticipation of the Federal Reserve meeting and US inflation data - صوت الإمارات — *صوت الإمارات*
 - `10-20 16:07` Central Bank Commentary (September-26): Federal Reserve, Bank of England, Bank of Japan, and the Swiss National Bank - Forex Factory — *Forex Factory*
-- `10-20 14:47` Swiss Franc gains as US Dollar weakens on Fed rate pause bets | FXStreet - شبكة تواصل الإخبارية — *شبكة تواصل الإخبارية*
 
 ## 🌍 유가·지정학
+- `10-20 20:48` Oil prices rise as Strait of Hormuz tanker attacks escalate - Quartz — *Quartz*
+- `10-20 20:42` Why Is the WTI Oil Price Rising More than Brent Intraday? - Rigzone — *Rigzone*
 - `10-20 20:18` US oil price soars over 5% on Mideast conflict - The Times of Israel — *The Times of Israel*
 - `10-20 20:03` Hormuz oil trade remains subdued - Yahoo — *Yahoo*
 - `10-20 20:00` US oil price soars over 5% on Mideast conflict - HESPRESS English - Morocco News — *HESPRESS English - Morocco News*
 - `10-20 19:55` The Strait of Hormuz Crisis Is Repricing Freight, Not Just Oil - Global Trade Magazine — *Global Trade Magazine*
 - `10-20 19:48` U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions - CNBC — *CNBC*
 - `10-20 19:45` US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack - Al Jazeera — *Al Jazeera*
-- `10-20 19:33` Oil hovers near five-month high as Hormuz, Houthi attacks threaten supply recovery - Investing.com — *Investing.com*
-- `10-20 19:28` Oil Above $100 a Barrel as Middle East Risks Persist - WSJ — *WSJ*
 
 ## 🌍 시장 전반
+- `10-20 20:42` The AI Selloff Is Back as Korean IPO Shock Spooks Tech Stocks - Barron's — *Barron's*
 - `10-20 20:25` 4 Stocks With Demand So Sticky That the AI Sell-Off Barely Touched Them at All - MarketBeat — *MarketBeat*
+- `10-20 20:23` Jim Cramer compared the AI stock sell-off to the 1987 Black Monday crash - Quartz — *Quartz*
 - `10-20 19:59` Tom Lee Predicts S&P 500 At 8,400 By Year-End, Says Midterm Elections Could Trigger ‘Risk-On’ Rally in Te - Benzinga — *Benzinga*
 - `10-20 19:12` Stocks sell off globally as crisis grips France and Saudi Arabia cancels ‘Davos in the Desert’ - Fortune — *Fortune*
 - `10-20 19:03` Can Wall Street’s Selloff Convince the Fed to Hold Interest Rates? - Modern Diplomacy — *Modern Diplomacy*
 - `10-20 19:02` AI-Fueled Market Rally is Unsustainable, Warns Rathbones’ David Coombs - Morningstar — *Morningstar*
 - `10-20 19:00` Monday’s Stock Market Rally Was Pathetic. Here’s Why. - RealMoney Pro — *RealMoney Pro*
-- `10-20 18:51` Inflation Is Back. Is A Stock Market Crash Next? - Trefis — *Trefis*
-- `10-20 18:45` Worried About a Stock Market Crash? Here Are 3 Things You Should Do Now - The Motley Fool — *The Motley Fool*
