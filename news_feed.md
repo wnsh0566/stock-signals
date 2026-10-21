@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-21 19:34 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-21 20:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-21 20:17` [인도증시] 브렌트유 110달러 돌파에 투심 약화, 하락...'재평가' 기대에 IT지수 '나홀로' 상승 - 뉴스핌 — *뉴스핌*
+- `10-21 19:57` AI 호실적에 오늘은 반등‥'급등락' 코스피에 개미는 "공포·도박" - MBC 뉴스 — *MBC 뉴스*
+- `10-21 19:46` 기업은 가치 높이고 투자자는 오래 머물게…해외 증시서 찾는 해법 - 마켓인 — *마켓인*
+- `10-21 19:43` [베트남 증시] 예금 금리 인하 조치에 투심 회복, 6개월래 최대 폭 상승...外人 순매수 전환 - 뉴스핌 — *뉴스핌*
+- `10-21 19:25` 도쿄 증시 닛케이 0.85% 반발…AI·반도체 중심으로 매수세 - 글로벌이코노믹 — *글로벌이코노믹*
 - `10-21 19:18` [亞증시-종합] 기술주 강세 속 혼조 - 연합인포맥스 — *연합인포맥스*
+- `10-21 19:10` 국내 증시 저평가 이유는…“반도체 쏠림·고금리가 직접적 원인” - 한겨레 — *한겨레*
 - `10-21 18:57` '삼전닉스 쌍끌이'에 증시 반등..."AI 투심 개선" - YTN — *YTN*
-- `10-21 18:32` 국내 증시 저평가 이유는…“반도체 쏠림·고금리가 직접적 원인” - 한겨레 — *한겨레*
-- `10-21 18:22` 유럽증시, 혼조 출발…유로스톡스 0.27%↑ - 연합인포맥스 — *연합인포맥스*
-- `10-21 18:20` [중국증시-마감] CATL 급락·소비주 약세에 하락 - 연합인포맥스 — *연합인포맥스*
-- `10-21 18:13` 외국인, 삼전닉스 1조 순매수에…코스피 반등 - 한국경제 — *한국경제*
-- `10-21 18:07` 홍콩 증시서 Tencent 하락에 프로서스 주가 3% 내려 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-21 18:02` [마감시황] 코스피, 외국인 매수에 5730선 회복…반도체주 5%대 급등 - 한양경제 — *한양경제*
 
 ## 🇰🇷 반도체·HBM
-- `10-21 19:02` SK하이닉스, 40조원 자사주 매입 조기 완료…전량 소각 예정 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-21 19:00` "반도체 초호황 안 끝난다"…돈 쓸어담는 '3국' 역대급 기록 [테크로그] - 한국경제 — *한국경제*
-- `10-21 18:36` 전남광주특별시 출범 후 첫 국감···통합 갈등·반도체 등 화두 - 무등일보 — *무등일보*
-- `10-21 18:32` 국내 증시 저평가 이유는…“반도체 쏠림·고금리가 직접적 원인” - 한겨레 — *한겨레*
-- `10-21 18:14` SK하이닉스, 40조 자사주 매입 끝냈다…국내 상장사 중 최대 규모 - 전남일보 — *전남일보*
-- `10-21 18:06` 두산, 엔비디아와 AI 파트너십 가속…반도체 생태계 입지 다진다 - 매일일보 — *매일일보*
-- `10-21 18:06` SK하이닉스, 40조 규모 자사주 매입 완료…계획보다 한 달 당겨 - 머니투데이 - 머니투데이 — *머니투데이*
-- `10-21 18:02` 차량용 반도체 생태계 역량 결집…‘차량용 반도체 원팀 TF’ 출범 - 지디넷코리아 — *지디넷코리아*
+- `10-21 20:35` 삼성전기, 엔비디아에 손잡았다...AI 반도체 기판 공급 확대 - 경기일보 — *경기일보*
+- `10-21 20:34` 삼성전기, 엔비디아와 반도체 기판 파트너십...세종·부산에 전용 라인 증설 - 조선일보 — *조선일보*
+- `10-21 20:31` 반도체 월 수출 603억달러…산업 이끈 주역 54명 정부 포상 - 뉴스톱 — *뉴스톱*
+- `10-21 20:30` 삼성전기, 엔비디아와 전략적 협력…"AI 반도체 기판 공급망 강화" - 매일일보 — *매일일보*
+- `10-21 20:26` 미 집중 견제에도…딥시크, 화웨이와 AI 반도체 개발 협력 정황 - 경향신문 — *경향신문*
+- `10-21 20:25` 송재혁 반도체협회장 "반도체, 적기 투자 중요" - 디일렉 — *디일렉*
+- `10-21 20:18` 서스퀘하나 “반도체 업계 실적, 예상치 소폭 웃돌 전망” - Investing.com 한국어 — *Investing.com 한국어*
+- `10-21 20:16` SK하이닉스 ADR, 오늘 장전 거래에서 왜 오르나? - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 금융주
 - `10-21 18:12` 금융지주 퇴임 임원 38명 계열사 고문·자문 직행…연 보수만 57억원 육박 - 알파경제 — *알파경제*
@@ -45,6 +45,7 @@
 - `10-20 09:11` 김은혜 “경기도민 주거 부담 키운 부동산 규제 풀어야”…추미애 “필요 지역 토허제 해제 건의” - 경인신문 — *경인신문*
 
 ## 🌍 AI·빅테크
+- `10-21 20:30` Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin - Yahoo Finance — *Yahoo Finance*
 - `10-21 18:34` NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment - Yahoo Finance — *Yahoo Finance*
 - `10-21 15:12` OpenAI ‘agents’ disabled their own monitoring systems - Financial Times — *Financial Times*
 - `10-21 15:07` Nvidia CEO to deliver keynote speech as his firm faces investor scrutiny over AI - South China Morning Post — *South China Morning Post*
@@ -52,34 +53,33 @@
 - `10-21 09:18` OpenAI Seeks $30 Billion Funding, Valuation Hits $1.4 Trillion - Intellectia AI — *Intellectia AI*
 - `10-21 09:14` Breaking News: OpenAI Urges $28B (200B Yuan) Massive Financing to Compete Head-to-Head With Anthropic for Top Global Investors - 36Kr — *36Kr*
 - `10-21 08:55` OpenAI Buys Orchestra Bio, Pushing AI Agents Into Drug Development - BigGo Finance — *BigGo Finance*
-- `10-21 07:16` 3 Stocks That Can Benefit From SpaceX’s Surprise Q3 Earnings - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `10-21 20:30` Explained: What the U.S. Federal Reserve does, and why it matters to Australia - Ticker News — *Ticker News*
+- `10-21 20:00` Dollar-Yen Stuck in Upper 157 Range as FOMC, BOJ Meeting Keep Trading Rangebound - BigGo Finance — *BigGo Finance*
+- `10-21 18:54` Gold Prices Slip Below $4,120 as Iran War Uncertainty and Fed Rate Expectations Persist - Yahoo Finance UK — *Yahoo Finance UK*
 - `10-21 17:57` Treasury yields steady as investors await jobless claims, mortgage data - CNBC — *CNBC*
+- `10-21 16:40` Oil’s Return to $110 Boosts Fed Hike Expectations, Pressuring Gold for Fourth Day Toward $4,100 - TradingKey — *TradingKey*
 - `10-21 16:35` USD/MXN (USDMXN) Moved Sharply on Oct 21: Are Central Bank Expectations Shifting? - TradingKey — *TradingKey*
 - `10-21 12:28` A survey of 100 economists unanimously predicts another rate hike by the Federal Reserve in December. With action paused in October, persistent inflation and economic resilience have placed policymakers in a dilemma. - 富途牛牛 — *富途牛牛*
-- `10-21 08:30` COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever - Reuters — *Reuters*
-- `10-21 08:05` Every 1% Fed Hike Adds $95 Billion a Year to U.S. Debt Interest, BofA Says - BigGo Finance — *BigGo Finance*
-- `10-21 04:00` Experts warn of interest rate hike; new mortgages could cost buyers thousands more - AL.com — *AL.com*
-- `10-21 03:01` Federal Reserve: December hike seen as cycle peak – BNY | FXStreet - شبكة تواصل الإخبارية — *شبكة تواصل الإخبارية*
-- `10-21 02:50` Housing is flashing warning signs just as the Fed weighs more interest rate hikes - CNBC — *CNBC*
+- `10-21 10:33` Gold dips for fourth session as oil rally fans inflation concerns - The Business Times — *The Business Times*
 
 ## 🌍 유가·지정학
+- `10-21 20:30` Morgan Stanley Global Fuel Market Will Stay Tight Through Mid-2027 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-21 20:12` Platinum Price Forecast: Oil Above $110 Keeps Fed Hike Risks in Focus - FXEmpire — *FXEmpire*
+- `10-21 19:04` Momentum behind WTI and Brent crude oil price gains is waning - Moomoo — *Moomoo*
 - `10-21 19:00` Iran war sparks heating crisis in US north-east as winter approaches - Financial Times — *Financial Times*
 - `10-21 18:30` Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar - Yahoo Finance — *Yahoo Finance*
 - `10-21 18:10` FX daily: Dollar shows fresh vulnerability to Oil price drops - FXStreet — *FXStreet*
+- `10-21 18:06` Rumors of US-Iran negotiations trigger oil price volatility; tanker attack raises risk premium again - Moomoo — *Moomoo*
 - `10-21 18:01` Debunking the Latest Oil Price Myths - Robin J Brooks | Substack — *Robin J Brooks | Substack*
-- `10-21 17:46` Indian Oil to trim Middle East oil imports under annual deals amid Iran war - Reuters — *Reuters*
-- `10-21 17:35` Oil rises as Iran tensions, US crude stock draw fuel supply concerns - Anadolu Ajansı — *Anadolu Ajansı*
-- `10-21 17:30` India's Coal Crisis Deepens as Power Demand Surges - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-21 17:25` Silver Price Forecast: XAG/USD declines to near $57.40 as oil price remains broadly firm - FXStreet — *FXStreet*
 
 ## 🌍 시장 전반
+- `10-21 20:11` Market's early rally fizzles out as banking, financial stocks weigh on benchmarks - The Hindu — *The Hindu*
+- `10-21 20:10` Stock Market Today: Defensive Rally Lifts the Dow 1% as Netflix Slips After Hours and Musk Puts a SpaceX-Tesla Merger on the Table - ChartMill — *ChartMill*
+- `10-21 20:07` Musk's SpaceX helps fuel stock market gains - Yahoo Finance UK — *Yahoo Finance UK*
+- `10-21 19:45` Asian shares are mixed, with Kospi up 3% after US stocks rally on strong earnings - LancasterOnline — *LancasterOnline*
+- `10-21 19:14` Real estate loses ground in Danish pension portfolios as stocks rally - AMWatch — *AMWatch*
 - `10-21 19:04` Mapping the Market: UnitedHealth shares look ready to extend rally - Reuters — *Reuters*
 - `10-21 19:00` How higher bond yields are threatening the AI-fueled stock rally - The Hill — *The Hill*
-- `10-21 18:39` World shares are mostly higher after US stocks rally on strong earnings - LancasterOnline — *LancasterOnline*
-- `10-21 17:40` Stock Market Crash: Key factors behind the steep Sensex, Nifty sell-off on Wednesday - CNBC TV18 — *CNBC TV18*
-- `10-21 16:49` Asian stocks rally as tech firms enjoy bounce ahead of key earnings - Yahoo Finance Singapore — *Yahoo Finance Singapore*
-- `10-21 16:42` Singapore hits back over claims it rigged Indonesia’s stock market crash - South China Morning Post — *South China Morning Post*
-- `10-21 16:29` If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make - The Motley Fool — *The Motley Fool*
-- `10-21 13:53` Asian Shares Are Mixed, With Kospi up 3% After US Stocks Rally on Strong Earnings - U.S. News & World Report — *U.S. News & World Report*
+- `10-21 18:56` Tom Lee sees AI dip as buying opportunity, cites Cisco’s 1990s rally - TradingView — *TradingView*
