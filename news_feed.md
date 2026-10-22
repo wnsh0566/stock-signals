@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-22 21:20 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-22 21:56 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-22 21:47` 유가 급등·AI 투자 변동성에 아시아 증시 급락…골드만삭스 분석 - Investing.com 한국어 — *Investing.com 한국어*
+- `10-22 21:35` 코스피 5500선 추락했는데…與대변인 “내년 1만피 갈것” - 동아일보 — *동아일보*
 - `10-22 20:59` 코스피 또 급락…AI·수급·금리 우려 복합 작용 - 연합뉴스TV — *연합뉴스TV*
 - `10-22 19:57` Barclays “중국 증시, 단기 숏 스퀴즈 가능성” - Investing.com 한국어 — *Investing.com 한국어*
 - `10-22 19:56` 중동 유가 급등에 세계 증시 동반 하락…유럽 국채시장도 흔들 - 글로벌이코노믹 — *글로벌이코노믹*
 - `10-22 19:47` [인도증시] 유가발 인플레 우려에 투심 악화, 하락...인증서 해킹 경고에 이무드라 '폭락' - 뉴스핌 — *뉴스핌*
 - `10-22 19:33` 한화투자증권 "내년 코스피 최대 9,300"…5,500대 급락장서 강세 전망 - 매일신문 — *매일신문*
 - `10-22 19:33` [亞증시-종합] 기술주 매도세 속 하락 - 연합인포맥스 — *연합인포맥스*
-- `10-22 19:23` [베트남 증시] 혼조...유동성 감소 속 빈그룹이 VN지수 상승 견인 - 뉴스핌 — *뉴스핌*
-- `10-22 18:54` 연일 출렁이는데…한화증권 "내년 코스피 최대 9,300" 전망 - 매일경제 마켓 — *매일경제 마켓*
 
 ## 🇰🇷 반도체·HBM
+- `10-22 21:31` UBS, 10월 반도체 유통업체 재고 2% 증가 - Investing.com 한국어 — *Investing.com 한국어*
+- `10-22 21:30` 충북반도체고, 오페라‘라보엠’ 관람으로 문화예술 감수성 키워 : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `10-22 21:15` "반도체 클러스터 주민 수용성 확보해야" - KBC광주방송 — *KBC광주방송*
+- `10-22 21:15` “광주엔 반도체, 예천엔 더 큰 소음 온다” - 경향신문 — *경향신문*
+- `10-22 20:49` 삼성전자 노조, 합의 5개월 만에 ‘반도체 성과급’ 개선 요구 반영 추진… 개선안 81% 찬성 - 조선비즈 - Chosunbiz — *Chosunbiz*
 - `10-22 20:15` "중국 희토류 없이 반도체 만든다"…TSMC,희토류없는 모터 찾기 - 한국경제 — *한국경제*
 - `10-22 19:50` ‘반도체 기술 무단 유출’…삼성전자 자회사서 기술 유출한 전 직원 구속기소 - 문화일보 — *문화일보*
 - `10-22 19:50` '큰손' SK하이닉스 돌아왔다…운용사에 3조원 맡겨 채권시장 기대 - www.ebn.co.kr — *www.ebn.co.kr*
-- `10-22 19:44` 현대차·기아, SDV·전동화 대응 車반도체 로드맵 제시 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-22 19:25` [이슈국감] SK하이닉스 1주가 부른 828억 청산…NXT 대표 사과 - 한스경제 — *한스경제*
-- `10-22 19:18` ‘상대적 박탈감일까? 하나도 기쁘지 않아’…반도체 대기업, 내년 성과급 70조 예상 - 문화일보 — *문화일보*
-- `10-22 19:09` 호남 반도체의 ‘말잔치’ [슬기로운 기자생활] - 한겨레 — *한겨레*
 
 ## 🇰🇷 금융주
 - `10-22 20:12` iM사회공헌재단, 창립 15주년 기념식 개최…따뜻한 금융 실천 다짐 - 비즈월드 — *비즈월드*
@@ -47,15 +47,16 @@
 
 ## 🌍 AI·빅테크
 - `10-22 20:30` NVIDIA AI chips were funded without QumulusAI issuing new shares. - Stock Titan — *Stock Titan*
+- `10-22 20:12` Nvidia's Huang says scarce capital is holding back neocloud growth (NVDA:NASDAQ) - Seeking Alpha — *Seeking Alpha*
 - `10-22 20:07` Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up - The Tech Buzz — *The Tech Buzz*
 - `10-22 19:57` Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’ - Yahoo Finance — *Yahoo Finance*
 - `10-22 16:42` Tesla, Nvidia Invest $2.8B in Samsung Electro-Mechanics for AI Chips - Global Banking & Finance Review — *Global Banking & Finance Review*
 - `10-22 14:41` Europe's Banks Ditch Closed AI for NVIDIA-Powered Open Models - The Tech Buzz — *The Tech Buzz*
 - `10-22 09:30` OpenAI Safety Expert Returns After Months Away, Citing Rising AI Risks - Yahoo Finance — *Yahoo Finance*
 - `10-22 05:38` Vertiv Stocks Jump 5.35% as Nvidia Design Targets Faster AI Output - Yahoo Finance — *Yahoo Finance*
-- `10-22 01:22` AI is building out the new Industrial Revolution: Nvidia's Jensen Huang - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `10-22 21:26` Markets Bet Warsh Holds Rates Steady, But He Won't Say So Himself - Startup Fortune — *Startup Fortune*
 - `10-22 20:37` What Happens to AI Stocks if the Fed Hikes Rates Again? - AOL.com — *AOL.com*
 - `10-22 19:30` The Fed’s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary? - Barron's — *Barron's*
 - `10-22 18:12` United States Dollar Index falls to near 101.50 due to Fed rate pause bets - FXStreet — *FXStreet*
@@ -63,19 +64,19 @@
 - `10-22 16:35` Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path - Bloomberg.com — *Bloomberg.com*
 - `10-22 16:10` USD/CHF (USDCHF) Is down 0.52% on Oct 22: What Is Driving the Move? - TradingKey — *TradingKey*
 - `10-22 15:18` US dollar slips as Treasury yields fall ahead of Federal Reserve meeting - Economies.com — *Economies.com*
-- `10-22 15:06` The Inflation Nemesis—More Fed Rate Hikes Are Coming - Cabot Wealth Network — *Cabot Wealth Network*
 
 ## 🌍 유가·지정학
+- `10-22 21:31` WSJ: Iran’s Southeast Asian Floating Oil Storage Virtually Empty - IranWire — *IranWire*
+- `10-22 21:28` WTI Oil Price Forecast: Buyers eye breakout above $100 as upside pressure builds - FXStreet — *FXStreet*
+- `10-22 21:18` Iran Claimed to Hit Several More Tankers in The Hormuz Strait. Oil Prices are Climbing Further. - Yahoo — *Yahoo*
+- `10-22 21:15` Oil prices increase as 7 tankers reported damaged in Hormuz - Transport Topics — *Transport Topics*
 - `10-22 21:11` US sanctions law firm accused of helping Iran evade oil embargo - ICLG — *ICLG*
+- `10-22 21:07` Oil prices gain on worries of Iran-US escalations after midterms - AOL.com — *AOL.com*
 - `10-22 21:06` Iran claims 7 oil tankers damaged in Hormuz, warns strikes on bases if US facilitates passage - The Times of India — *The Times of India*
 - `10-22 21:04` Oil Prices Surge to Highest Level Since May as Houthi Attacks, Hormuz Threats Fuel Supply Fears - The Diplomatic Insight — *The Diplomatic Insight*
-- `10-22 21:02` WSJ: Iran’s Southeast Asian Floating Oil Storage Virtually Empty - IranWire — *IranWire*
-- `10-22 21:01` Iran: 7 ships hit in the Strait of Hormuz - The Hill — *The Hill*
-- `10-22 21:00` Current price of oil as of October 22, 2026 - Fortune — *Fortune*
-- `10-22 20:59` Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - Oskaloosa Herald — *Oskaloosa Herald*
-- `10-22 20:59` Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - The Batesville Daily Guard — *The Batesville Daily Guard*
 
 ## 🌍 시장 전반
+- `10-22 21:23` China’s stock market enters bear territory: 3 reasons behind the sell-off - Firstpost — *Firstpost*
 - `10-22 20:46` Indonesian leader rejects market downgrade warning after stock market sell-off - CT Insider — *CT Insider*
 - `10-22 20:41` Yen set for biggest rally in a month as investors seek safe havens - Yahoo Finance — *Yahoo Finance*
 - `10-22 20:03` Indonesian leader rejects market downgrade warning after stock market sell-off - WTOP News — *WTOP News*
@@ -83,4 +84,3 @@
 - `10-22 20:01` Indonesian leader rejects market downgrade warning after stock market sell-off - Bozeman Daily Chronicle — *Bozeman Daily Chronicle*
 - `10-22 20:01` Indonesian leader rejects market downgrade warning after stock market sell-off - Eagle-Tribune — *Eagle-Tribune*
 - `10-22 20:01` Indonesian leader rejects market downgrade warning after stock market sell-off | Associated Press | syndication news - Enidnews.com — *Enidnews.com*
-- `10-22 19:41` Citi downgrades Motiva stock rating on valuation after election rally - Investing.com — *Investing.com*
