@@ -1,28 +1,28 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-22 20:45 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-22 21:20 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-22 20:59` 코스피 또 급락…AI·수급·금리 우려 복합 작용 - 연합뉴스TV — *연합뉴스TV*
 - `10-22 19:57` Barclays “중국 증시, 단기 숏 스퀴즈 가능성” - Investing.com 한국어 — *Investing.com 한국어*
 - `10-22 19:56` 중동 유가 급등에 세계 증시 동반 하락…유럽 국채시장도 흔들 - 글로벌이코노믹 — *글로벌이코노믹*
+- `10-22 19:47` [인도증시] 유가발 인플레 우려에 투심 악화, 하락...인증서 해킹 경고에 이무드라 '폭락' - 뉴스핌 — *뉴스핌*
 - `10-22 19:33` 한화투자증권 "내년 코스피 최대 9,300"…5,500대 급락장서 강세 전망 - 매일신문 — *매일신문*
 - `10-22 19:33` [亞증시-종합] 기술주 매도세 속 하락 - 연합인포맥스 — *연합인포맥스*
 - `10-22 19:23` [베트남 증시] 혼조...유동성 감소 속 빈그룹이 VN지수 상승 견인 - 뉴스핌 — *뉴스핌*
 - `10-22 18:54` 연일 출렁이는데…한화증권 "내년 코스피 최대 9,300" 전망 - 매일경제 마켓 — *매일경제 마켓*
-- `10-22 18:27` "내년에 1만피 간다면서요"…속 타는 개미들 '멘붕' - 한국경제 — *한국경제*
-- `10-22 18:22` [중국증시-마감] 기술주 약세·부양책 기대 약화에 하락 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
+- `10-22 21:15` "반도체 클러스터 주민 수용성 확보해야" - KBC광주방송 — *KBC광주방송*
 - `10-22 20:15` "중국 희토류 없이 반도체 만든다"…TSMC,희토류없는 모터 찾기 - 한국경제 — *한국경제*
 - `10-22 19:50` ‘반도체 기술 무단 유출’…삼성전자 자회사서 기술 유출한 전 직원 구속기소 - 문화일보 — *문화일보*
 - `10-22 19:50` '큰손' SK하이닉스 돌아왔다…운용사에 3조원 맡겨 채권시장 기대 - www.ebn.co.kr — *www.ebn.co.kr*
 - `10-22 19:44` 현대차·기아, SDV·전동화 대응 車반도체 로드맵 제시 - 글로벌이코노믹 — *글로벌이코노믹*
 - `10-22 19:25` [이슈국감] SK하이닉스 1주가 부른 828억 청산…NXT 대표 사과 - 한스경제 — *한스경제*
 - `10-22 19:18` ‘상대적 박탈감일까? 하나도 기쁘지 않아’…반도체 대기업, 내년 성과급 70조 예상 - 문화일보 — *문화일보*
-- `10-22 19:18` 우리는 반도체 미래 일꾼 - 기호일보 — *기호일보*
 - `10-22 19:09` 호남 반도체의 ‘말잔치’ [슬기로운 기자생활] - 한겨레 — *한겨레*
 
 ## 🇰🇷 금융주
@@ -46,41 +46,41 @@
 - `10-21 10:34` 김호경 의정부시의회 운영위원장 “전세사고 피해 예방·부동산 시장 활성화 대책 필요” - 포커스경제 — *포커스경제*
 
 ## 🌍 AI·빅테크
+- `10-22 20:30` NVIDIA AI chips were funded without QumulusAI issuing new shares. - Stock Titan — *Stock Titan*
 - `10-22 20:07` Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up - The Tech Buzz — *The Tech Buzz*
-- `10-22 19:57` Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’ - TradingView — *TradingView*
-- `10-22 18:29` Mapping circular financing in AI: Does it Add Instability? - LSEG — *LSEG*
-- `10-22 18:15` Morgan Stanley says these 24 AI infrastructure stocks are built to hold up even if capex slows - Business Insider — *Business Insider*
+- `10-22 19:57` Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’ - Yahoo Finance — *Yahoo Finance*
 - `10-22 16:42` Tesla, Nvidia Invest $2.8B in Samsung Electro-Mechanics for AI Chips - Global Banking & Finance Review — *Global Banking & Finance Review*
 - `10-22 14:41` Europe's Banks Ditch Closed AI for NVIDIA-Powered Open Models - The Tech Buzz — *The Tech Buzz*
 - `10-22 09:30` OpenAI Safety Expert Returns After Months Away, Citing Rising AI Risks - Yahoo Finance — *Yahoo Finance*
 - `10-22 05:38` Vertiv Stocks Jump 5.35% as Nvidia Design Targets Faster AI Output - Yahoo Finance — *Yahoo Finance*
+- `10-22 01:22` AI is building out the new Industrial Revolution: Nvidia's Jensen Huang - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `10-22 20:37` What Happens to AI Stocks if the Fed Hikes Rates Again? - AOL.com — *AOL.com*
 - `10-22 19:30` The Fed’s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary? - Barron's — *Barron's*
 - `10-22 18:12` United States Dollar Index falls to near 101.50 due to Fed rate pause bets - FXStreet — *FXStreet*
-- `10-22 17:43` The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market - The Globe and Mail — *The Globe and Mail*
 - `10-22 17:07` Two Cheers For Warsh's "Quiet" Federal Reserve - RealClearMarkets — *RealClearMarkets*
 - `10-22 16:35` Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path - Bloomberg.com — *Bloomberg.com*
 - `10-22 16:10` USD/CHF (USDCHF) Is down 0.52% on Oct 22: What Is Driving the Move? - TradingKey — *TradingKey*
 - `10-22 15:18` US dollar slips as Treasury yields fall ahead of Federal Reserve meeting - Economies.com — *Economies.com*
-- `10-22 15:00` The Inflation Nemesis—More Fed Rate Hikes Are Coming - Cabot Wealth Network — *Cabot Wealth Network*
+- `10-22 15:06` The Inflation Nemesis—More Fed Rate Hikes Are Coming - Cabot Wealth Network — *Cabot Wealth Network*
 
 ## 🌍 유가·지정학
-- `10-22 20:35` AUD/USD Price Forecast: Rising oil prices push antipodeans under pressure - FXStreet — *FXStreet*
-- `10-22 20:31` Iran says 7 oil tankers were attacked in the Strait of Hormuz as fears grow of a return to war - Hartford Courant — *Hartford Courant*
-- `10-22 20:24` 7 oil tankers damaged in Strait of Hormuz, Iran’s state television says - Washington Times — *Washington Times*
-- `10-22 20:16` Nasdaq Futures Slide Premarket As AI Spending Worries Resurface — Oil Tops $112 On Iran Tensions, Supply Concerns - TradingView — *TradingView*
-- `10-22 20:02` Iran says 7 oil tankers are on fire or damaged in Strait of Hormuz - WRAL — *WRAL*
-- `10-22 20:01` US Sanctions Greek Law Firm, Singapore and Dubai Shipping Agents Over Iran Shadow Fleet - News and Statistics - IndexBox — *IndexBox*
-- `10-22 19:56` Iran says 7 oil tankers were attacked in the Strait of Hormuz as fears grow of a return to war - Ottumwa Courier — *Ottumwa Courier*
-- `10-22 19:56` Iran says 7 oil tankers were attacked in the Strait of Hormuz as fears grow of a return to war - The Batesville Daily Guard — *The Batesville Daily Guard*
+- `10-22 21:11` US sanctions law firm accused of helping Iran evade oil embargo - ICLG — *ICLG*
+- `10-22 21:06` Iran claims 7 oil tankers damaged in Hormuz, warns strikes on bases if US facilitates passage - The Times of India — *The Times of India*
+- `10-22 21:04` Oil Prices Surge to Highest Level Since May as Houthi Attacks, Hormuz Threats Fuel Supply Fears - The Diplomatic Insight — *The Diplomatic Insight*
+- `10-22 21:02` WSJ: Iran’s Southeast Asian Floating Oil Storage Virtually Empty - IranWire — *IranWire*
+- `10-22 21:01` Iran: 7 ships hit in the Strait of Hormuz - The Hill — *The Hill*
+- `10-22 21:00` Current price of oil as of October 22, 2026 - Fortune — *Fortune*
+- `10-22 20:59` Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - Oskaloosa Herald — *Oskaloosa Herald*
+- `10-22 20:59` Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - The Batesville Daily Guard — *The Batesville Daily Guard*
 
 ## 🌍 시장 전반
+- `10-22 20:46` Indonesian leader rejects market downgrade warning after stock market sell-off - CT Insider — *CT Insider*
+- `10-22 20:41` Yen set for biggest rally in a month as investors seek safe havens - Yahoo Finance — *Yahoo Finance*
 - `10-22 20:03` Indonesian leader rejects market downgrade warning after stock market sell-off - WTOP News — *WTOP News*
 - `10-22 20:02` Indonesian leader rejects market downgrade warning after stock market sell-off - The Seattle Times — *The Seattle Times*
 - `10-22 20:01` Indonesian leader rejects market downgrade warning after stock market sell-off - Bozeman Daily Chronicle — *Bozeman Daily Chronicle*
-- `10-22 20:01` Indonesian leader rejects market downgrade warning after stock market sell-off - The Joplin Globe — *The Joplin Globe*
+- `10-22 20:01` Indonesian leader rejects market downgrade warning after stock market sell-off - Eagle-Tribune — *Eagle-Tribune*
+- `10-22 20:01` Indonesian leader rejects market downgrade warning after stock market sell-off | Associated Press | syndication news - Enidnews.com — *Enidnews.com*
 - `10-22 19:41` Citi downgrades Motiva stock rating on valuation after election rally - Investing.com — *Investing.com*
-- `10-22 19:03` Mapping the Market: Colgate-Palmolive shares look ready to extend rally - Reuters — *Reuters*
-- `10-22 18:43` Stock Market Today: S&P 500, Dow Futures Drop Following Asian Market Sell-off, Middle East Tensions — NFL - Benzinga — *Benzinga*
-- `10-22 18:27` QQQ Leads Pre-Market Selloff; Can SPX Hold the 7,700 Put Wall Tonight? | Options Market Statistics - Moomoo — *Moomoo*
