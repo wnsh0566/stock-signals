@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-23 18:20 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-23 18:36 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -10,20 +10,20 @@
 - `10-23 18:03` 외국인 반도체 매도 폭탄 ‘일단 멈춤’…5500선 지킨 코스피, 다음주 실적 발표 시험대 - 주간동아 — *주간동아*
 - `10-23 18:00` [1023마감체크] 코스피, 장중 4%대 급락 딛고 반등... 5500선 사수 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 - `10-23 17:52` 코스피, 장중 4% 급락 딛고 0.30% 상승 마감…삼성전자·SK하이닉스 반등 - 인더스트리뉴스 — *인더스트리뉴스*
+- `10-23 17:46` [마감시황] 코스피, 4% 급락 딛고 막판 상승 전환…5500선 사수 - 한양경제 — *한양경제*
 - `10-23 17:40` 반도체 ‘쌍끌이’에 웃은 코스피, 5550선 회복…코스닥은 1.6% 하락 - 더나은미래 — *더나은미래*
 - `10-23 17:10` [마감시황] 美 기술주 급락에도 기관 '사자'…코스피, 5500선 되찾았다 - 신아일보 — *신아일보*
 - `10-23 17:00` 코스피, 장 마감 직전 상승해 5,500선 회복 - 연합뉴스TV — *연합뉴스TV*
-- `10-23 17:00` 코스피, 5500선 회복 마감… 솔리다임 상장 중단 소식 영향(종합) - 천지일보 — *천지일보*
 
 ## 🇰🇷 반도체·HBM
 - `10-23 18:14` 정부, 반도체 산단 속도전…인허가·보상·설계 동시 추진 - 매일일보 — *매일일보*
+- `10-23 18:08` "韓英, 반도체공급망 최적 파트너" - 한국경제 — *한국경제*
 - `10-23 18:03` [마감] 코스피, SK하이닉스 반등에 0.30% 상승…장중 4% 급락 딛고 5550선 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
 - `10-23 18:03` 외국인 반도체 매도 폭탄 ‘일단 멈춤’…5500선 지킨 코스피, 다음주 실적 발표 시험대 - 주간동아 — *주간동아*
 - `10-23 18:02` SK하이닉스, 주주 반발에 솔리다임 상장 ‘스톱’ - 주간한국 — *주간한국*
+- `10-23 18:00` '솔리다임 IPO' 중단한 SK하이닉스…숙제로 남은 투자자금, 해법은 - 뉴스웍스 — *뉴스웍스*
 - `10-23 17:52` 코스피, 장중 4% 급락 딛고 0.30% 상승 마감…삼성전자·SK하이닉스 반등 - 인더스트리뉴스 — *인더스트리뉴스*
 - `10-23 17:44` 李 "반도체 주 52시간 예외, 새로운 제도 만들 필요까지 있나" - 조선일보 — *조선일보*
-- `10-23 17:40` 반도체 ‘쌍끌이’에 웃은 코스피, 5550선 회복…코스닥은 1.6% 하락 - 더나은미래 — *더나은미래*
-- `10-23 17:38` DGIST, 모토닉과 반도체 산업 AX 촉진 업무협약 체결 - 매일신문 — *매일신문*
 
 ## 🇰🇷 금융주
 - `10-23 18:14` 하나금융·두나무, 스테이블코인 결제 실증...차세대 지급결제망 구축 - 청년일보 — *청년일보*
@@ -37,12 +37,9 @@
 
 ## 🇰🇷 정책·거시
 - `10-23 13:52` 국토위 종합감사 '부동산 정책' 공방…與 "오세훈 공급 지연" 野 "李 대책 한계" - 뉴시스 — *뉴시스*
-- `10-23 11:39` 오세훈 “10·15 부동산 대책 1년, 성적표 참담…정책 실패 인정해야” - 쿠키뉴스 — *쿠키뉴스*
 - `10-22 14:45` 정점식 "월세 급등, 李 정부 부동산 정책의 실패…남 탓 바빠" - 뉴시스 — *뉴시스*
-- `10-22 14:22` ‘부동산 대책 1년, 집값 잡았나’…경인방송 집중 진단 [머니카운터 방송 예고] - 경인방송 뉴스 — *경인방송 뉴스*
 - `10-22 11:49` “10.15 부동산대책 효과 없다” 66.5%의 답변-코리아정보리서치 - 문화일보 — *문화일보*
 - `10-22 10:23` 권칠승 주택 공급 지표 청신호…국민 체감 높이는 부동산 대책 마련할 것 - 아주경제 — *아주경제*
-- `10-22 06:00` [천지일보 여론조사] 국민 66.5% “10.15 부동산 대책 효과 없었다” - 천지일보 — *천지일보*
 
 ## 🌍 AI·빅테크
 - `10-23 14:02` AI: Nvidia’s $170 Billion Neocloud Safety Net. AI-RTZ #1248 - AI: Reset to Zero — *AI: Reset to Zero*
@@ -66,20 +63,20 @@
 
 ## 🌍 유가·지정학
 - `10-23 18:03` New Record in Oil Prices: Brent Reaches $114 - IranWire — *IranWire*
+- `10-23 18:02` U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare - CNBC — *CNBC*
 - `10-23 17:33` Update on Iran’s New Oil Targets in the Region - WANA News Agency — *WANA News Agency*
 - `10-23 17:30` UK Rules Out Winter Energy Shortages as Gas Prices Soar - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-23 16:42` Are global oil reserves sufficient to withstand renewed US-Iran war? - Al Jazeera — *Al Jazeera*
 - `10-23 16:26` Oil Heads for Weekly Gain on Fears of Renewed U.S.-Iran Escalation - WSJ — *WSJ*
 - `10-23 16:24` Physical Oil Prices Drop in Mideast as Flows Via Hormuz Hold Up - Bloomberg.com — *Bloomberg.com*
-- `10-23 15:58` Once US blockaded Iran, China’s ‘Malaysian’ oil imports dried up - Iran International — *Iran International*
-- `10-23 15:32` Oil: Hormuz risks and freight costs drive prices higher – Rabobank - FXStreet — *FXStreet*
+- `10-23 16:19` Gold and Silver Price Forecast: Gold Tests $4,000 as Oil Surges - FXEmpire — *FXEmpire*
 
 ## 🌍 시장 전반
+- `10-23 18:27` Gold price falls below $4,000 amid stock market rout - Equiti Global — *Equiti Global*
+- `10-23 18:01` Hedge fund returns worsen this week as tech selloff deepens - Reuters — *Reuters*
 - `10-23 17:43` Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com — *Bloomberg.com*
 - `10-23 17:40` If I Could Only Buy 1 AI Stock in November After This Sell-Off, It Would Be This One. - The Motley Fool — *The Motley Fool*
 - `10-23 17:11` Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains - Bloomberg.com — *Bloomberg.com*
 - `10-23 17:03` Oil hits $114 for first time since May as global stocks knocked by AI fears - Financial Times — *Financial Times*
 - `10-23 17:02` AI selloff in focus; Western Digital reports - what’s moving markets - Investing.com — *Investing.com*
-- `10-23 17:00` Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market - WSJ — *WSJ*
 - `10-23 16:00` Market sell-off, tax scrutiny and growth: key figures shaping investor sentiment - South China Morning Post — *South China Morning Post*
-- `10-23 15:17` Hedge Funds Log Widest Daily Drawdown Since Covid in Stock Rout - Bloomberg.com — *Bloomberg.com*
