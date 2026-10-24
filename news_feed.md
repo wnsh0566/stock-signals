@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-24 08:57 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-24 09:58 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-24 09:34` [뉴욕증시]중동 확전 우려에 국제유가 급등…3대 지수 하락 - 아시아경제 — *아시아경제*
+- `10-24 09:29` 美·이란 전운에 유가 급등…뉴욕증시 3대 지수 일제히 하락 - 한국경제 — *한국경제*
+- `10-24 09:16` ‘국장 못 믿겠다’…4개월만 증시 대기자금 51조 원 감소 - 서울경제 — *서울경제*
+- `10-24 09:12` 미국 뉴욕증시, 중동 확전 우려에 하락…다우 1.23%↓ - BBS불교방송 — *BBS불교방송*
+- `10-24 09:12` "파랗게 질린 계좌 보기 지겨워"…'이것' 잡아야 韓증시 뜬다는데[주末머니] - 아시아경제 — *아시아경제*
+- `10-24 09:06` 뉴욕증시, 중동 긴장·유가 급등에 일제히 하락…다우 1.23%↓ - 서울경제TV — *서울경제TV*
+- `10-24 09:00` [ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아 - 비즈워치 — *비즈워치*
 - `10-24 08:53` 증시 대기자금 연초 수준으로 되돌림…4개월 새 51조 '증발' - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-24 08:00` 투자자예탁금 4개월여만에 51조 감소…올해 최저 수준으로 뚝 - 연합뉴스 — *연합뉴스*
-- `10-24 07:58` [뉴욕증시] 확전 공포, 우량주 매도·반도체 반등···브렌트 116달러·금 4천달러 붕괴 - 서울파이낸스 — *서울파이낸스*
-- `10-24 07:45` 뉴욕증시 3대 지수 일제히 하락...중동 긴장·국제유가 급등에 투자심리 위축 - M이코노미뉴스 — *M이코노미뉴스*
-- `10-24 07:36` [오늘의 글로벌마켓] 뉴욕증시, 유가 급등에 투자심리 위축...다우 1.2%↓ - 오피니언뉴스 — *오피니언뉴스*
-- `10-24 07:23` 중동 긴장 고조에 뉴욕증시 약세…다우 1%대↓ - 연합뉴스TV — *연합뉴스TV*
-- `10-24 07:01` 솔리다임 상장 접은 SK하이닉스…‘30조 주주환원’, 코스피 반등 카드 될까 - 서울경제 — *서울경제*
-- `10-24 07:00` [아! 코스피] ④ 국민연금 보유주식 평가액 182조 줄어…반도체 쏠림에 부담↑ - 뉴스핌 — *뉴스핌*
 
 ## 🇰🇷 반도체·HBM
-- `10-24 08:47` AI가 삼켜버린 메모리 반도체, 인도 민초들의 손짓을 멈춰 세우다 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-24 08:25` 용인반도체 산단 관련 안성시 긴급 기자회견, 향후 과제와 전망... “안성시민 피해 담보로 한 재협상, 산 넘어 산” - 시사안성 — *시사안성*
-- `10-24 08:13` 미국증시 다우 652포인트 급락…유가 급등에도 반도체 반등, SK하이닉스 ADR 4% 상승 - 톱스타뉴스 — *톱스타뉴스*
-- `10-24 08:01` HBM만으론 부족한 AI인프라…삼전닉스, 차세대 메모리 전쟁 - 매일경제 마켓 — *매일경제 마켓*
-- `10-24 08:00` HBM에 가려진 낸드 경쟁…中 YMTC 추격에 삼성·SK 대응 고심 - 뷰어스 — *뷰어스*
-- `10-24 08:00` 솔리다임 IPO 접은 SK하이닉스…자본배분 셈법 복잡 - 서울경제TV — *서울경제TV*
-- `10-24 08:00` [분석] HBM 설계부터 고객사와 공조…SK하이닉스, AI 하드웨어 대전환 - 파이낸셜포스트 — *파이낸셜포스트*
-- `10-24 08:00` 반도체 전력낭비 잡고, 색소없이 색 내는 신기술…29일 전격 공개 - 유니콘팩토리 — *유니콘팩토리*
+- `10-24 09:33` 반도체 투자 확대 기대에...1주일간 40% 오른 '이 종목' - 한국경제 — *한국경제*
+- `10-24 09:30` 솔리다임 상장 '전격 철회'…"SK하이닉스 주가 반등 신호탄" [강경주의 테크X] - 한국경제 — *한국경제*
+- `10-24 09:24` 용인 통삼2 일반산단 승인…반도체 관련 기업 입주 추진 - 동방일보 — *동방일보*
+- `10-24 09:12` 서울 마이스터고 지원율 266%로 ‘급증’…반도체고 4.73대 1 - 동방일보 — *동방일보*
+- `10-24 09:08` 삼성E&A, 화공서 반도체·AI로 체질 전환…3분기 영업이익 183.6% 급증 - 리드경제 — *리드경제*
+- `10-24 09:06` 안성시, 반도체산단 방류수·농업용수 국가 기준 마련 추진 - 경인미래신문 — *경인미래신문*
+- `10-24 09:00` 반도체부터 K컬처까지…국가 역량을 다시 설계하다 - 서울경제 — *서울경제*
+- `10-24 09:00` [위클리 PICK 3] 10월 수출 '616억 달러' 돌파부터 SK하이닉스 솔리다임 IPO 철회까지 - 오피니언뉴스 — *오피니언뉴스*
 
 ## 🇰🇷 금융주
 - `10-24 06:00` '방어주' 은행주도 못 버텼다…4대 금융지주 한 주 새 5~7%↓ - MTN 머니투데이방송 — *MTN 머니투데이방송*
@@ -48,11 +48,11 @@
 - `10-24 05:12` Cassava Technologies Expands AI Infrastructure with NVIDIA Nemotron Models - Tech In Africa — *Tech In Africa*
 - `10-24 05:07` Nvidia NVDA Stock Falls 4.4% to $212.21 as AI Financing Fears Hit Chips - FXLeaders — *FXLeaders*
 - `10-24 03:18` Nvidia’s European AI push faces a fresh market test - Techi — *Techi*
+- `10-24 03:08` OpenAI's Joseph Kim: AI Models Will Beat Top Human Experts by 2027 — and Finance Is First in Line - BigGo Finance — *BigGo Finance*
 - `10-24 03:05` OpenAI Funding Round Valuation Cut to $1.25 Trillion, Down $150 Billion From Original Target - BigGo Finance — *BigGo Finance*
 - `10-24 02:45` ‘Bouncing Back’ in AI. OpenAI, Anthropic & Mr. Market. ARD #191 - AI: Reset to Zero — *AI: Reset to Zero*
 - `10-24 01:35` Chips as Collateral! AI Debt Market Seen Reaching $1 Trillion as Broadcom, Nvidia Step In to Backstop - BigGo Finance — *BigGo Finance*
 - `10-24 01:31` The AI Rout: Sorting CAPEX Fact From Fiction - Zacks Investment Research — *Zacks Investment Research*
-- `10-24 00:59` OpenAI Makes Stunning Financial Move Ahead of Potential IPO - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
 - `10-24 04:35` Federal Reserve Votes Unanimously to Raise Rates 25 Basis Points to 3.75%-4.00%; Warsh Defies White House Pressure to Launch Tightening Cycle - BigGo Finance — *BigGo Finance*
@@ -68,18 +68,18 @@
 - `10-24 08:33` Oil Climbs To Six-Month High As Analysts Concede U.S./Iran War May Soon Resume - Ship & Bunker — *Ship & Bunker*
 - `10-24 08:00` Trump's Reverse Nixon Strategy Bring Russia In, Shut China Out - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-24 07:24` Oil Prices End the Week Higher on Fears of U.S.-Iran Escalation - Barron's — *Barron's*
-- `10-24 07:23` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Soars 4% As U.S. Ambassador To Turkey Says U.S. Could Strike Iran - FXEmpire — *FXEmpire*
+- `10-24 06:40` Consumer Cos Down on Oil Price Fears - Consumer Roundup - marketscreener.com — *marketscreener.com*
 - `10-24 05:48` Oil Price Jump Hurts Shares - Newser — *Newser*
 - `10-24 05:35` IRGC posts burning tanker graphic showing oil climbing to $117 - Iran International — *Iran International*
 - `10-24 05:29` UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks - The Maritime Executive — *The Maritime Executive*
 - `10-24 05:22` Trump says Iran war will end ‘very soon,’ predicts oil prices will fall - WINK News — *WINK News*
 
 ## 🌍 시장 전반
-- `10-24 06:39` Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months - Yahoo Finance — *Yahoo Finance*
 - `10-24 06:21` Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally - Reuters — *Reuters*
 - `10-24 05:36` Moderna stock extends losses as investors digest melanoma vaccine trial data - Yahoo Finance — *Yahoo Finance*
+- `10-24 05:19` GM Analysts Say Buy the Dip as Stock Eyes Worst Week Since 2025 - Bloomberg.com — *Bloomberg.com*
 - `10-24 05:19` Stock Selloff Continues as Oil Surges - WSJ — *WSJ*
 - `10-24 05:10` U.S. stocks end in weekly losses as a tech stock selloff drags markets - Seeking Alpha — *Seeking Alpha*
 - `10-24 05:05` Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `10-24 04:10` Procter & Gamble Has Raised Its Dividend for 70 Straight Years. Here's Why That Matters in a Sell-Off - The Motley Fool — *The Motley Fool*
 - `10-24 03:27` Positioned for a Rally: 5 Reasons Stocks Could Soar into Year-End - Yahoo Finance — *Yahoo Finance*
-- `10-24 03:12` Procter & Gamble Has Raised Its Dividend for 70 Straight Years. Here's Why That Matters in a Sell-Off - The Motley Fool — *The Motley Fool*
