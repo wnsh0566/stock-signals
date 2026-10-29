@@ -1,86 +1,86 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-29 11:39 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-29 18:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `10-29 11:12` 하이닉스가 버티면 뭐하나…코스피, 하락 종목 7배 '와르르' - 머니투데이 - 머니투데이 — *머니투데이*
-- `10-29 11:10` 코스피, 삼성전자 실적 발표 후 2%대 급락…6천선 다시 하회 - 연합인포맥스 — *연합인포맥스*
-- `10-29 11:10` 코스피 장중 2%대 하락 전환…삼성전자 주주환원 실망매물에 5%↓ - 뉴스핌 — *뉴스핌*
-- `10-29 11:07` 주주환원 기대 못미쳤나‥삼전 4%대↓, 코스피도 2%대 하락 - MBC 뉴스 — *MBC 뉴스*
-- `10-29 11:05` 코스피 하락·부총리 발언에 국고채 강세…3년물 5bp↓ - KB Think — *KB Think*
-- `10-29 11:02` 삼성전자 주주환원 실망에 5% 급락…코스피 5800선 추락[장중시황] - 뉴스1 — *뉴스1*
-- `10-29 10:59` 대신증권, 2027년 코스피 전망·투자전략 온라인 세미나 개최 - 디지털데일리 — *디지털데일리*
-- `10-29 10:58` 삼성전자 주주환원 계획에 실망?…코스피 3% 가까이 급락 - 한국경제 — *한국경제*
+- `10-29 18:40` "M&A 제안 공시 베어허그, 韓증시 저평가 해소 출발점" - 아시아경제 — *아시아경제*
+- `10-29 18:16` [속보]삼성전자 '주주환원 실망'…코스피 하루 만에 6천선 반납 - KBC광주방송 — *KBC광주방송*
+- `10-29 18:10` [중국증시-마감] 기술주 약세 흐름에 하락 - 연합인포맥스 — *연합인포맥스*
+- `10-29 17:52` '107조' 삼전 털썩…코스피 하루 만에 6천선 반납 - SBS Biz — *SBS Biz*
+- `10-29 17:48` ‘무규제 대출’의 역습…폭증한 예담대, ‘빚투’로? 증시 폭락 시 위험 눈덩이 - 중앙일보 — *중앙일보*
+- `10-29 17:32` UBS, 환율·실적 영향에 코스피 전망치 8000→7500…“내년에는 회복세” - Chosunbiz — *Chosunbiz*
+- `10-29 17:23` [1029마감체크] 코스피, 하루 만에 6000선 반납…주주환원 실망에 삼성전자 4%↓ - 인포스탁데일리 — *인포스탁데일리*
+- `10-29 17:21` 대신증권, 연말 증시 넘어 2027년 투자전략 짚는다 - 리버티코리아포스트 — *리버티코리아포스트*
 
 ## 🇰🇷 반도체·HBM
-- `10-29 11:25` 이상일 용인시장, 네덜란드 ASML 등과 반도체 협력 방안 논의 - 아시아투데이 — *아시아투데이*
-- `10-29 11:24` 삼성전자 "HBM4 매출 3배 급증…내년 물량도 완판"(종합 2보) - KB Think — *KB Think*
-- `10-29 11:22` 삼성전자 "2027년 HBM 이미 완판"...메모리 공급 부족 2028년까지 이어진다 - 오피니언뉴스 — *오피니언뉴스*
-- `10-29 11:22` [리포트 브리핑]SK스퀘어, 'SK하이닉스 최대주주' 목표가 1,850,000원 - SK증권 - 뉴스핌 — *뉴스핌*
-- `10-29 11:19` 삼성전자 "내년 HBM 완판…10개사와 메모리 장기계약 협상중" - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
-- `10-29 11:19` “반도체 훈풍, 중소기업까지”…기업심리 4년여 만에 최고 - 에너지경제신문 — *에너지경제신문*
-- `10-29 11:18` [리포트 브리핑]SK하이닉스, '거를 타선이 없었던 실적' 목표가 3,000,000원 - 신한투자증권 - 뉴스핌 — *뉴스핌*
-- `10-29 11:15` [사진]'SEP 2026' 새로운 사이클을 준비하는 반도체의 AI 전환 - 머니투데이 - 머니투데이 — *머니투데이*
+- `10-29 18:46` [서경 금융전략포럼] 신진창 "AI·반도체 투자 경쟁…금융이 뒷받침해야" - 서울경제TV — *서울경제TV*
+- `10-29 18:34` 삼성, 반도체로 106조 벌었다…3분기 30조 현금배당 - 서울경제TV — *서울경제TV*
+- `10-29 18:33` AI·반도체 올인한 SK스퀘어, 이번엔 티맵 내려놓나 - 천지일보 — *천지일보*
+- `10-29 18:27` 이상일 용인시장, 네덜란드 ASML 본사 방문... 반도체 협력 확대 논의 - OhmyNews — *OhmyNews*
+- `10-29 18:20` HBM 잘 만드는 한국, 핵심 소재는 일본산…국산화 가로막는 '검증의 벽' - 아시아경제 — *아시아경제*
+- `10-29 18:18` SK스퀘어, 티맵모빌리티 매각 추진…AI·반도체 중심 리밸런싱 속도 - 뉴스핌 — *뉴스핌*
+- `10-29 18:18` 자람테크놀로지, 30억 규모 ASIC 공급...하이패스 결제용 - 디일렉 — *디일렉*
+- `10-29 18:15` 북미 산업용 로봇 주문 24.8% 증가…자동차 부품·반도체가 견인 - 로봇신문 — *로봇신문*
 
 ## 🇰🇷 금융주
-- `10-29 11:07` 신한금융지주, 해외 순익 7000억 육박…금융 수출 성장모델 입증 - PRESS9 — *PRESS9*
-- `10-29 10:21` [장중수급포착] 메리츠금융지주, 외국인 5일 연속 순매수행진... 주가 +3.32% - 뉴스핌 — *뉴스핌*
-- `10-29 10:20` 하나금융, 지난해 ESG 임팩트 6.8조...전년比 24% 증가 - 스마트투데이 — *스마트투데이*
-- `10-29 09:54` 한국금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `10-29 09:48` 메리츠금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `10-29 09:43` 우리금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `10-29 09:30` 하나금융그룹,『2025 ESG 임팩트 보고서』발간! - 한국경제 — *한국경제*
-- `10-29 09:21` 우리금융, 올해 가장 가파른 주주환원율 개선 - 알파경제 — *알파경제*
+- `10-29 18:40` 금융지주 '효자' 증권사, 3분기 거래 위축에 이익 비중 '뚝' - 뉴스1 — *뉴스1*
+- `10-29 18:39` [뱅크 NOW] IBK기업은행·NH농협은행·JB금융그룹 - 위키리크스한국 — *위키리크스한국*
+- `10-29 18:29` KB, 은행·증권 균형잡힌 성장… 금융지주 첫 순익 6조 눈앞 - 파이낸셜뉴스 — *파이낸셜뉴스*
+- `10-29 18:28` 5대 금융 1∼3분기 순이익 '역대 최대'…KB '리딩금융' 수성 - 금융소비자뉴스 — *금융소비자뉴스*
+- `10-29 18:10` [이슈] 5대 금융지주, 3분기 누적 순익 20조원 육박..."이자·비이자 동반 성장" - 팍스경제TV — *팍스경제TV*
+- `10-29 18:08` 1년 새 자산 38조 늘린 우리자산운용…금융지주 ‘숨은 효자’로 - 아시아투데이 — *아시아투데이*
+- `10-29 18:06` “역대급 수수료 이익에 주주환원까지”… KB금융그룹, 2026년 3분기 순이익 1조9000억원 돌파 ‘탄탄한 체력 입증’ - 스마트경제 — *스마트경제*
+- `10-29 18:01` 금융지주 계열 보험사 순이익 줄줄이 감소... 하나손보·ABL생명·신한EZ·하나생명은 '적자' - 소비자가 만드는 신문 — *소비자가 만드는 신문*
 
 ## 🇰🇷 정책·거시
+- `10-29 16:42` LH, 사이버보안 점검 및 대책 회의 개최 - 뉴스드림 — *뉴스드림*
+- `10-29 15:30` 8·13 대책 후속 신규택지 7.7만가구 발표 | 이재명 정부 여덟번째 부동산 대책 - 매일경제 — *매일경제*
+- `10-29 10:40` [아유경제_부동산] 국토부, 3기 신도시 광역교통대책 전수 점검… “사업 지연 최소화” - 아유경제 — *아유경제*
 - `10-29 10:00` 집 지을 땅 찾아도 출퇴근 어떡해…태릉CC 교통대책 온도차 [부동산360] - 헤럴드경제 — *헤럴드경제*
+- `10-29 10:00` [10·29 공급대책] 하남감일2에 6500가구…3호선 연계 추진 - 뉴스핌 — *뉴스핌*
 - `10-28 20:32` 수도권 중심 부동산정책, 온기 돌던 대구 주택시장에 되레 찬물 - 영남일보 — *영남일보*
 - `10-28 17:40` [기자의눈] 서울 집값 잡는 사이…지방 부동산은 길을 잃었다 - 아시아투데이 — *아시아투데이*
-- `10-28 16:23` 민주당 국감 끝나자 '8·13 부동산 대책' 후속 입법 속도, 공공주택법안·도시정비법안 연내 처리 '총력' - 비즈니스포스트 — *비즈니스포스트*
-- `10-28 11:20` [아유경제_부동산] 김이탁 국토1차관 “모듈러주택, 건설업계 난제 해결 열쇠… 공공이 마중물 역할” - 아유경제 — *아유경제*
-- `10-28 05:10` [사설] 서울 집값만 보는 정부, 지방 부동산 위기는 눈 감아 - 부산일보 — *부산일보*
-- `10-27 18:22` [벼랑 끝 지역 부동산] 곡소리 나는 지역 부동산, 안중에도 없는 정부 - 부산일보 — *부산일보*
-- `10-27 18:06` 與, 내일 가상자산 당정 협의…부동산 대책도 국토부와 논의 - 아주경제 — *아주경제*
+- `10-28 17:09` 청약통장 없어도, 집 있어도 OK? 반포 신축 40억 ‘무제한 청약’ 떴다 [분양나우(牛)] - 매일경제 — *매일경제*
 
 ## 🌍 AI·빅테크
+- `10-29 18:35` Nvidia's $3 Billion Meta Stake Spotlights a 30-Fold Jump in AI Ecosystem Financing - BigGo Finance — *BigGo Finance*
+- `10-29 16:04` FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase - Bloomberg — *Bloomberg*
+- `10-29 11:30` Chinese AI Firms Use OpenAI’s GPT-6 Astra for Model Training: Report - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `10-29 09:43` OpenAI Plans to Buy Google’s AI Chips, Challenging Nvidia’s Dominance｜Daily News Digest｜2026-10-29｜web only - 天下雜誌 — *天下雜誌*
 - `10-29 09:19` Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test - Yahoo Finance — *Yahoo Finance*
-- `10-29 08:10` Microsoft Lowers 2026 Capex View to $170B, Eyes New Funding - FourWeekMBA — *FourWeekMBA*
 - `10-29 08:03` Nvidia’s $3 billion Meta bet reveals a 30-fold shift - TheStreet — *TheStreet*
-- `10-29 07:11` OpenAI plans to buy Google’s AI chips - Ticker News — *Ticker News*
-- `10-29 04:16` OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report - Yahoo Finance — *Yahoo Finance*
-- `10-29 01:55` OpenAI Touts Legora as Legal AI Push Follows $550 Million Raise at $8.8 Billion Valuation - BigGo Finance — *BigGo Finance*
-- `10-29 01:22` Would Capex and Chip Funding Lift Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL), Broadcom (NASDAQ:AVGO) and SK hynix (NASDAQ:SKHY) in 2026? - kalkine.ca — *kalkine.ca*
-- `10-28 23:14` This Nvidia chart shows why the AI compute shortage remains acute - Yahoo Finance — *Yahoo Finance*
+- `10-29 08:02` OpenAI plans to buy Google’s AI chips - Ticker News — *Ticker News*
+- `10-29 05:05` NVIDIA (NVDA) Deepens AI Infrastructure Push With New Digital Twin And Agent Deals - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `10-29 11:30` Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike - WXOW — *WXOW*
-- `10-29 11:00` US Fed holds interest rate steady ahead of midterm elections - chinadailyhk — *chinadailyhk*
-- `10-29 10:55` Dollar steady after Fed hold leaves rate path murky - Reuters — *Reuters*
-- `10-29 10:02` Federal Reserve holds interest rates steady - The Washington Post — *The Washington Post*
-- `10-29 10:00` Federal Reserve keeps benchmark rate at 3.75-4%, no relief from high rates - cbs8.com — *cbs8.com*
-- `10-29 09:38` Federal Reserve holds off on another interest rate hike - WFTV — *WFTV*
-- `10-29 09:32` Federal Reserve holds interest rates steady as midterm elections loom - MyCentralOregon.com — *MyCentralOregon.com*
-- `10-29 09:32` Federal Reserve set to issue interest rate decision as midterm elections loom - Rural Radio Network — *Rural Radio Network*
+- `10-29 18:32` US Federal Reserve keeps its key rate unchanged at about 3.9% despite stubbornly high inflation - Yahoo News Canada — *Yahoo News Canada*
+- `10-29 18:03` In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation - The New York Times — *The New York Times*
+- `10-29 18:00` Warsh’s AI Optimism May Box Him In at the Fed - Bloomberg — *Bloomberg*
+- `10-29 18:00` Analysis: Warsh is learning to wield the Fed's power without showing his hand - CNBC — *CNBC*
+- `10-29 17:57` Nasdaq futures slide as mixed Big Tech results test AI trade - Reuters — *Reuters*
+- `10-29 15:57` Federal Reserve holds interest rates steady as midterm elections loom - WHIO TV — *WHIO TV*
+- `10-29 15:54` The storm following the Federal Reserve’s interest rate decision has yet to subside: U.S. Q3 GDP and September PCE data are imminent! - 富途牛牛 — *富途牛牛*
+- `10-29 15:00` Federal Reserve holds interest rates steady as inflation surges - The San Joaquin Valley Sun — *The San Joaquin Valley Sun*
 
 ## 🌍 유가·지정학
-- `10-29 11:24` Oil Price Today (October 29): Crude oil dips to $113 as diplomatic talks outweigh infra attacks. Can oil f - The Economic Times — *The Economic Times*
-- `10-29 11:04` New Zealand Businesses Stay Upbeat Despite The Oil Price Shock - Finimize — *Finimize*
-- `10-29 10:05` Petrobras Oil and Gas Output Jumps 11.7% to Record High in Q3 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-29 10:00` Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel? - WSJ — *WSJ*
-- `10-29 09:53` Oil Drops As Iran Touts Diplomacy – And The Gulf Braces For An “Intense Military Campaign” - Ship & Bunker — *Ship & Bunker*
-- `10-29 09:40` Oil's War Premium Could Vanish Fast Once a Hormuz Deal Lands, Analysts Warn - Yahoo Finance — *Yahoo Finance*
-- `10-29 09:31` LA pushes oil drilling shutdown despite industry warnings of lawsuits, gas price hikes - New York Post — *New York Post*
-- `10-29 09:22` New Zealand businesses stay optimistic despite oil price volatility, survey shows By Reuters - Investing.com — *Investing.com*
+- `10-29 18:25` WTI Oil eases from highs on Iran peace hopes but remains above $100.00 - FXStreet — *FXStreet*
+- `10-29 18:15` EU Rules Out New Climate Finance Pledges at COP31 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-29 17:58` Iran’s Revolutionary Guards say three oil tankers hit mines in Strait of Hormuz - Arab News — *Arab News*
+- `10-29 17:53` Oil Prices Ease On Hope Of Fresh US-Iran Talks, Brent Dips To $110 - MarketForces Africa — *MarketForces Africa*
+- `10-29 17:25` The oil market should brace for a forever stalemate in Iran - SMH.com.au — *SMH.com.au*
+- `10-29 17:17` Shell profits double to $10.8bn as Iran war pushes up profit margin on oil - The Guardian — *The Guardian*
+- `10-29 17:11` Middle East latest: Oil prices decline on fresh diplomatic efforts in Iran war - The National — *The National*
+- `10-29 16:59` Oil Prices Fall as US-Iran Diplomacy Eases Fears of Renewed Strikes - سانا — *سانا*
 
 ## 🌍 시장 전반
+- `10-29 18:39` The stock market is flashing a bubble warning seen prior to dot-com crash, Bank of America warns - Business Insider — *Business Insider*
+- `10-29 18:10` Why is market rallying today? Sensex jumps 850 points, Nifty above 22,900. 6 key factors behind Rs 5 lakh - The Economic Times — *The Economic Times*
+- `10-29 17:45` Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap - Bloomberg — *Bloomberg*
+- `10-29 16:34` Global Market: China stocks fall as tech selloff deepens despite Fed rate pause - The Economic Times — *The Economic Times*
+- `10-29 12:45` Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff - The Defiant — *The Defiant*
 - `10-29 11:14` China’s tech darlings are losing their shine. Here’s what’s behind the sell-off - CNBC — *CNBC*
-- `10-29 09:56` Goldman thinks there aren't many Fed hikes left. Stocks could rally - CNBC TV18 — *CNBC TV18*
 - `10-29 08:22` Why is Avepoint stock rallying today? - Investing.com — *Investing.com*
-- `10-29 08:00` Why Stocks Can Rally Through A December Hike (SPX) - Seeking Alpha — *Seeking Alpha*
-- `10-29 07:43` The AI stocks crash is coming, here's what to do about it - Market Index — *Market Index*
-- `10-29 05:11` Global stocks rally as AI optimism lifts markets ahead of Big Tech earnings - The American Bazaar — *The American Bazaar*
-- `10-29 03:06` Optical Stocks Climb as Analysts Flag AI Bottleneck: Lumentum Rises 4%, Applied Optoelectronics and Corning Gain 3%, Coherent Sits Out the Rally - 24/7 Wall St. — *24/7 Wall St.*
-- `10-29 02:35` Why analysts say the US stock market may be on the cusp of a double-digit rally - Business Insider — *Business Insider*
+- `10-29 05:30` Vertiv Guides for 38% Growth, GE Vernova's Orders Jumped 96%. Which AI Power Stock Is the Better Buy After the Sell-off? - The Motley Fool — *The Motley Fool*
