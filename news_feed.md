@@ -1,13 +1,13 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-29 22:39 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-29 23:13 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-29 23:05` 뉴욕증시, 알파벳 실적 소화하며 하락 출발 - 연합인포맥스 — *연합인포맥스*
 - `10-29 21:50` 뉴욕증시 개장 전 특징주...일라이릴리·MS·루멘텀·쉘↑ VS 알파벳·서비스나우·마벨테크놀로지↓ - 뉴스핌 — *뉴스핌*
-- `10-29 21:28` 알파벳·캐터필러 실적 쇼크에 뉴욕증시 선물 급락…S&P 500 4일 만에 꺾이나 - 글로벌이코노믹 — *글로벌이코노믹*
 - `10-29 21:23` 뉴욕증시 프리뷰, 알파벳 11% 폭락에 나스닥 선물 1%대 하락...PCE 주목 - 뉴스핌 — *뉴스핌*
 - `10-29 20:01` 출발증시 1부 - 한국경제TV — *한국경제TV*
 - `10-29 19:34` 원화 강세에 실적 부담…UBS, 코스피 목표 7500으로 올해 두번째 하향 - 경북매일 — *경북매일*
@@ -23,7 +23,7 @@
 - `10-29 21:03` [만물상] ‘사우디 석유’ 제친 ‘K 반도체’ - 조선일보 — *조선일보*
 - `10-29 21:01` 한·독 정상회담, '강화된 전략적 동반자 관계' 수립‥반도체, 방산 협력 강화 - MBC 뉴스 — *MBC 뉴스*
 - `10-29 21:01` 류기준 의원, 차세대융합기술연구원·SK하이닉스와 손잡고 고양시 화정고서 ‘찾아가는 반도체 교실’ 성료 등 - 사회적경제뉴스 — *사회적경제뉴스*
-- `10-29 20:42` 임광현 "반도체 메가프로젝트 신속 추진 위해 규제완화 필요" - 연합인포맥스 — *연합인포맥스*
+- `10-29 20:56` “삼성·SK는 수억원 받는데...“ 반도체 장비업체 6곳 노조까지 나섰다 - 위키트리 — *위키트리*
 
 ## 🇰🇷 금융주
 - `10-29 22:09` 5대 금융지주, 3분기 누적 순익 19.6조원 … 역대 최대 실적 - 워크투데이 — *워크투데이*
@@ -56,31 +56,31 @@
 - `10-29 09:19` Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `10-29 23:03` Despite pausing rate hikes, ‘inflation is too high’: Fed chair - Construction Dive — *Construction Dive*
+- `10-29 22:46` Federal Reserve pauses federal funds rate after first increase in more than three years - Logistics Management — *Logistics Management*
 - `10-29 22:33` Mortgage rates could still rise after Fed holds rates steady - TheStreet — *TheStreet*
-- `10-29 22:17` Federal Reserve holds interest rates steady even as inflation remains high - CBS News — *CBS News*
-- `10-29 22:12` Gold Edges Lower After Fed Holds Rates With Limited Guidance - Bloomberg.com — *Bloomberg.com*
+- `10-29 22:05` COMMENTARY: Warsh's muddled messaging revives Fed credibility doubts - Reuters — *Reuters*
 - `10-29 22:03` Federal Reserve holds interest rates steady despite high inflation - WPLG Local 10 — *WPLG Local 10*
 - `10-29 21:59` In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation - The New York Times — *The New York Times*
+- `10-29 21:54` Fed Chair Kevin Warsh’s warning to AI investors: ‘Interest rates get in the cracks’ - Fortune — *Fortune*
 - `10-29 21:53` US economy grew at 3.4% annualized rate in 3rd quarter, government data shows - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
-- `10-29 21:42` October FOMC Statement: The Fed's Conundrum (SP500) - Seeking Alpha — *Seeking Alpha*
-- `10-29 21:41` The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy - Fortune — *Fortune*
 
 ## 🌍 유가·지정학
+- `10-29 23:00` Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-29 22:56` Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks - WSJ — *WSJ*
+- `10-29 22:55` Iran says 3 oil tankers struck mines, and other Mideast news - Toronto Star — *Toronto Star*
+- `10-29 22:48` Current price of oil as of October 29, 2026 - Fortune — *Fortune*
+- `10-29 22:45` JD Vance Proposed Renewed Talks With Iran. Oil Prices Are Dropping. - International Business Times — *International Business Times*
 - `10-29 22:30` Iran War Hikes EU's Oil Import Bill By $11 Billion Per Month - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-29 22:29` World Bank Forecast: Average Oil Price to Reach $91 in 2026 and $79 in 2027 - صحيفة مال — *صحيفة مال*
-- `10-29 22:18` Iran says 3 oil tankers struck mines, and other Mideast news - Oskaloosa Herald — *Oskaloosa Herald*
-- `10-29 22:02` Current price of oil as of October 29, 2026 - Fortune — *Fortune*
-- `10-29 21:50` Oil Prices Fall as Vance Letter to Iran Revives Negotiation Hopes - News and Statistics - IndexBox — *IndexBox*
-- `10-29 21:50` Iran says 3 oil tankers struck mines, and other Mideast news - Toronto Star — *Toronto Star*
-- `10-29 21:10` Iran Says Three Oil Tankers Caught Fire After Hitting Mines in Strait of Hormuz - Kurdistan24 — *Kurdistan24*
-- `10-29 21:05` Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy - WSJ — *WSJ*
+- `10-29 22:25` Iran says 3 oil tankers struck mines, and other Mideast news - The Seattle Times — *The Seattle Times*
 
 ## 🌍 시장 전반
+- `10-29 23:00` Stocks Pare Tech-Led Losses, Crude Oil Declines: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `10-29 21:44` Indian Equities Rally: Sensex Jumps 905 Pts, Nifty Tops 22,900 - Rediff — *Rediff*
 - `10-29 21:11` Micron shares dip as Samsung’s post-earnings selloff spreads to memory peers - Yahoo Finance — *Yahoo Finance*
-- `10-29 20:59` Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `10-29 21:07` Market wrap: Adani Ports SEZ, Adani Ent, Trent, Maruti Suzuki top gainers and losers on Nifty and Sensex - The Economic Times — *The Economic Times*
+- `10-29 20:41` Share Market Today: Nifty 50, Bank Nifty | Oct 29, 2026 - Liquide Blog — *Liquide Blog*
 - `10-29 20:30` Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally - Bloomberg.com — *Bloomberg.com*
 - `10-29 20:27` Can Vistra Stock Rally 50% After This Dip? - Yahoo Finance — *Yahoo Finance*
-- `10-29 19:28` 3 Indications a Market Crash Could Be Coming Soon - Yahoo Finance — *Yahoo Finance*
-- `10-29 19:28` 3 Indications a Market Crash Could Be Coming Soon - The Motley Fool — *The Motley Fool*
-- `10-29 19:22` Mapping the Market: Beaten-down McDonald's stock may be ripe for a rally - Reuters — *Reuters*
-- `10-29 19:20` The stock market is flashing a bubble warning seen prior to dot-com crash, Bank of America warns - Business Insider — *Business Insider*
+- `10-29 20:25` Green Energy Stocks Rally As Sector Gains Momentum In Indian Stock Market (29 October 2026) - SolarQuarter — *SolarQuarter*
