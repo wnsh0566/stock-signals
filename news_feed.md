@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-29 20:30 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-29 20:44 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -13,7 +13,7 @@
 - `10-29 19:03` 코스피, 6000선 내줬다…삼성전자 주주환원 실망에 하락 - 팍스경제TV — *팍스경제TV*
 - `10-29 18:55` 삼성전자 최대 실적에도 급락…코스피 6,000선 반납 - 연합뉴스TV — *연합뉴스TV*
 - `10-29 18:48` UBS, '8000→7500' 코스피 목표치 또 낮춰…"원화강세 부담" - 연합뉴스 — *연합뉴스*
-- `10-29 18:16` [속보]삼성전자 '주주환원 실망'…코스피 하루 만에 6천선 반납 - KBC광주방송 — *KBC광주방송*
+- `10-29 18:40` [심층분석] 코스피, 대형 반도체 주도 1%대 강세 - 데일리연합 — *데일리연합*
 
 ## 🇰🇷 반도체·HBM
 - `10-29 20:20` 고려아연, 美 반도체 황산 시장 공략… 마이크론·인텔과 협력 논의 - Chosunbiz — *Chosunbiz*
@@ -53,34 +53,34 @@
 - `10-29 09:43` OpenAI Plans to Buy Google’s AI Chips, Challenging Nvidia’s Dominance｜Daily News Digest｜2026-10-29｜web only - 天下雜誌 — *天下雜誌*
 - `10-29 09:19` Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test - Yahoo Finance — *Yahoo Finance*
 - `10-29 06:55` CoreWeave Rises 7% as Denmark AI Capacity Goes Live, Then Slips After Microsoft Capex Miss - BigGo Finance — *BigGo Finance*
-- `10-29 05:05` NVIDIA (NVDA) Deepens AI Infrastructure Push With New Digital Twin And Agent Deals - Yahoo Finance — *Yahoo Finance*
+- `10-29 06:19` Oracle Forecasts $30B Cash Flow By FY29, Helping Calm AI Capex Concerns, Pushing ORCL Stock To Its Best Day In Five Months - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `10-29 20:36` Federal Reserve holds interest rates steady ahead of midterms despite rising inflation - WCNC — *WCNC*
+- `10-29 20:31` Nasdaq futures slide as Alphabet results intensify AI spending fears - Reuters — *Reuters*
+- `10-29 20:30` Federal Reserve keeps interest rates unchanged despite elevated inflation concerns - Dailyfly News — *Dailyfly News*
+- `10-29 20:10` Warsh Puts a Spotlight on AI Financing’s Vulnerability to Fed Policy - Bloomberg — *Bloomberg*
 - `10-29 20:10` Federal Reserve will not increase interest rates, but it may go up next time - WFAA — *WFAA*
-- `10-29 20:01` Federal Reserve keeps interest rates unchanged despite elevated inflation concerns - KVEC News Talk 920 AM 96.5 FM — *KVEC News Talk 920 AM 96.5 FM*
-- `10-29 20:00` Warsh Puts a Spotlight on AI Financing’s Vulnerability to Fed Policy - Bloomberg — *Bloomberg*
 - `10-29 19:48` Treasury yields ease after Federal Reserve rate hold - CNBC — *CNBC*
 - `10-29 19:43` COMMENTARY: Morning Bid: Firefighting cash burn - Reuters — *Reuters*
-- `10-29 18:58` Nasdaq futures fall 1% as Alphabet results intensify AI spending fears - Reuters — *Reuters*
 - `10-29 18:57` U.S. Treasury, European Bond Yields Fall After Fed Decision, Ahead of ECB Meeting - WSJ — *WSJ*
-- `10-29 18:56` Federal Reserve Holds Rates Steady in 10-2 Vote; Warsh Refuses Forward Guidance as December Hike Odds Surge to 85% - BigGo Finance — *BigGo Finance*
 
 ## 🌍 유가·지정학
+- `10-29 20:38` Three Oil Tankers Hit Mines on Unauthorized Route in Strait of Hormuz: IRGC - تسنیم — *تسنیم*
+- `10-29 20:35` Iran says 3 oil tankers struck mines, and other Mideast news - RochesterFirst — *RochesterFirst*
+- `10-29 20:35` Iran says 3 oil tankers struck mines, and other Mideast news - Herald Bulletin — *Herald Bulletin*
+- `10-29 20:30` Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-29 20:30` TotalEnergies Profit Doubles as War Boosts Refining and Trading - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-29 20:25` Shell posts second-highest profit ever after oil price surge - The Telegraph — *The Telegraph*
-- `10-29 20:01` 3 Oil Tankers On Fire After Hitting Mines In Hormuz, Say Iran Guards - NDTV — *NDTV*
-- `10-29 19:54` Crude oil remains capped by renewed US-Iran deal hopes, but upside risks persist - investingLive — *investingLive*
-- `10-29 19:39` Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran - Bloomberg — *Bloomberg*
-- `10-29 19:30` Equinor Doubles Estimate for Major North Sea Gas Discovery - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-29 19:20` 3 oil tankers caught fire after hitting mines in Strait of Hormuz, Iran's Revolutionary Guard says - The Times of Israel — *The Times of Israel*
-- `10-29 19:06` Shell profits double to $10.8bn as Iran war pushes up margin on oil - The Guardian — *The Guardian*
-- `10-29 19:05` Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel? - WSJ — *WSJ*
+- `10-29 20:23` Oil prices fall as renewed US-Iran peace talks ease supply concerns amid Middle East tensions | Hindustan Times - Hindustan Times — *Hindustan Times*
+- `10-29 20:16` The never-ending absurdity of global oil markets - The Economist — *The Economist*
 
 ## 🌍 시장 전반
 - `10-29 19:57` Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap - Bloomberg — *Bloomberg*
-- `10-29 19:36` GLOBAL MARKETS-European bonds and stocks rally; ECB meeting in focus as Lagarde confirms early exit - Devdiscourse — *Devdiscourse*
 - `10-29 19:28` 3 Indications a Market Crash Could Be Coming Soon - Yahoo Finance — *Yahoo Finance*
 - `10-29 19:28` 3 Indications a Market Crash Could Be Coming Soon - The Motley Fool — *The Motley Fool*
 - `10-29 19:22` Mapping the Market: Beaten-down McDonald's stock may be ripe for a rally - Reuters — *Reuters*
 - `10-29 18:56` Why is WPP stock rallying today? - Investing.com — *Investing.com*
 - `10-29 18:27` The stock market is flashing a bubble warning seen prior to dot-com crash, Bank of America warns - Business Insider — *Business Insider*
 - `10-29 18:10` Why is market rallying today? Sensex jumps 850 points, Nifty above 22,900. 6 key factors behind Rs 5 lakh - The Economic Times — *The Economic Times*
+- `10-29 12:45` Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff - The Defiant — *The Defiant*
