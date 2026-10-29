@@ -1,31 +1,32 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-29 10:55 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-29 11:39 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `10-29 10:48` 삼성전자, 주주환원 발표 후 4% 급락…코스피 5800선으로 ‘털썩’ - Chosunbiz — *Chosunbiz*
-- `10-29 10:40` [포토] 코스피, 장중 하락 전환…5900선 붕괴 - 아시아경제 — *아시아경제*
-- `10-29 10:39` 주주환원 기대 못미쳤나…삼전 4%대↓, 코스피도 2%대 하락(종합) - 연합뉴스 — *연합뉴스*
-- `10-29 10:39` 30조 배당에도 삼성전자 4%대 하락…코스피 6000선 다시 내줘 - 조선일보 — *조선일보*
-- `10-29 10:34` 내릴 만큼 내린 국고채 금리…코스피 급등에 강세 되돌림 시작되나 - 연합인포맥스 — *연합인포맥스*
-- `10-29 10:31` 코스피 6%대 급등…외국인 NDF 환헤지가 환율 상승 부추겼나 - 연합인포맥스 — *연합인포맥스*
-- `10-29 10:25` "12월 인상하겠지만…워시, 급하지 않은 느낌"…채권시장, FOMC보다 증시 주목 - 연합인포맥스 — *연합인포맥스*
-- `10-29 10:21` 코스피, 美 금리 동결·반도체주 강세에 상승...6000선 회복 - 녹색경제신문 — *녹색경제신문*
+- `10-29 11:12` 하이닉스가 버티면 뭐하나…코스피, 하락 종목 7배 '와르르' - 머니투데이 - 머니투데이 — *머니투데이*
+- `10-29 11:10` 코스피, 삼성전자 실적 발표 후 2%대 급락…6천선 다시 하회 - 연합인포맥스 — *연합인포맥스*
+- `10-29 11:10` 코스피 장중 2%대 하락 전환…삼성전자 주주환원 실망매물에 5%↓ - 뉴스핌 — *뉴스핌*
+- `10-29 11:07` 주주환원 기대 못미쳤나‥삼전 4%대↓, 코스피도 2%대 하락 - MBC 뉴스 — *MBC 뉴스*
+- `10-29 11:05` 코스피 하락·부총리 발언에 국고채 강세…3년물 5bp↓ - KB Think — *KB Think*
+- `10-29 11:02` 삼성전자 주주환원 실망에 5% 급락…코스피 5800선 추락[장중시황] - 뉴스1 — *뉴스1*
+- `10-29 10:59` 대신증권, 2027년 코스피 전망·투자전략 온라인 세미나 개최 - 디지털데일리 — *디지털데일리*
+- `10-29 10:58` 삼성전자 주주환원 계획에 실망?…코스피 3% 가까이 급락 - 한국경제 — *한국경제*
 
 ## 🇰🇷 반도체·HBM
-- `10-29 10:52` [리포트 브리핑]SK하이닉스, '높아지는 이익의 눈높이, 달라지는 메모리 사이클' 목표가 3,150,000원 - 한화투자증권 - 뉴스핌 — *뉴스핌*
-- `10-29 10:48` [오늘의 증권가 콜] SK하이닉스, 삼성전기, HD현대중공업, HMM, HD한국조선해양, 두산퓨얼셀, 호텔신라 등 - 한국경제 — *한국경제*
-- `10-29 10:47` 일주일 새 30% 오른 SK하이닉스...이익 확정 나선 초고수 [주식 초고수는 지금] - 매일경제 — *매일경제*
-- `10-29 10:46` 'AI 피크아웃' 우려 불식시킨 韓반도체…내년 계약도 선점, 600조 간다 - 아시아경제 — *아시아경제*
-- `10-29 10:46` [리포트 브리핑]SK하이닉스, '이번은 다르다고 할 수 있는 근거' 목표가 3,700,000원 - 유진투자증권 - 뉴스핌 — *뉴스핌*
-- `10-29 10:44` 반도체 생산 넘어 기술·인재까지…이상일 용인시장, 네덜란드서 협력망 확대 - 글로벌이코노믹 — *글로벌이코노믹*
-- `10-29 10:44` 토스증권 리서치센터, AI 시대 한국 메모리 반도체 분석 리포트 '여기는, 한국입니다' 발간 - 청년투데이 — *청년투데이*
-- `10-29 10:44` 삼성전자, 테크기업 최초 영업익 100조 돌파…반도체 부문 이익률 72% - 더나은미래 — *더나은미래*
+- `10-29 11:25` 이상일 용인시장, 네덜란드 ASML 등과 반도체 협력 방안 논의 - 아시아투데이 — *아시아투데이*
+- `10-29 11:24` 삼성전자 "HBM4 매출 3배 급증…내년 물량도 완판"(종합 2보) - KB Think — *KB Think*
+- `10-29 11:22` 삼성전자 "2027년 HBM 이미 완판"...메모리 공급 부족 2028년까지 이어진다 - 오피니언뉴스 — *오피니언뉴스*
+- `10-29 11:22` [리포트 브리핑]SK스퀘어, 'SK하이닉스 최대주주' 목표가 1,850,000원 - SK증권 - 뉴스핌 — *뉴스핌*
+- `10-29 11:19` 삼성전자 "내년 HBM 완판…10개사와 메모리 장기계약 협상중" - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
+- `10-29 11:19` “반도체 훈풍, 중소기업까지”…기업심리 4년여 만에 최고 - 에너지경제신문 — *에너지경제신문*
+- `10-29 11:18` [리포트 브리핑]SK하이닉스, '거를 타선이 없었던 실적' 목표가 3,000,000원 - 신한투자증권 - 뉴스핌 — *뉴스핌*
+- `10-29 11:15` [사진]'SEP 2026' 새로운 사이클을 준비하는 반도체의 AI 전환 - 머니투데이 - 머니투데이 — *머니투데이*
 
 ## 🇰🇷 금융주
+- `10-29 11:07` 신한금융지주, 해외 순익 7000억 육박…금융 수출 성장모델 입증 - PRESS9 — *PRESS9*
 - `10-29 10:21` [장중수급포착] 메리츠금융지주, 외국인 5일 연속 순매수행진... 주가 +3.32% - 뉴스핌 — *뉴스핌*
 - `10-29 10:20` 하나금융, 지난해 ESG 임팩트 6.8조...전년比 24% 증가 - 스마트투데이 — *스마트투데이*
 - `10-29 09:54` 한국금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
@@ -33,7 +34,6 @@
 - `10-29 09:43` 우리금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
 - `10-29 09:30` 하나금융그룹,『2025 ESG 임팩트 보고서』발간! - 한국경제 — *한국경제*
 - `10-29 09:21` 우리금융, 올해 가장 가파른 주주환원율 개선 - 알파경제 — *알파경제*
-- `10-29 09:19` 유안타증권 "JB금융 대출 확대에도 자본비율 지켜, 주주환원율 50% 넘을 것" - 비즈니스포스트 — *비즈니스포스트*
 
 ## 🇰🇷 정책·거시
 - `10-29 10:00` 집 지을 땅 찾아도 출퇴근 어떡해…태릉CC 교통대책 온도차 [부동산360] - 헤럴드경제 — *헤럴드경제*
@@ -56,31 +56,31 @@
 - `10-28 23:14` This Nvidia chart shows why the AI compute shortage remains acute - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `10-29 11:30` Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike - WXOW — *WXOW*
+- `10-29 11:00` US Fed holds interest rate steady ahead of midterm elections - chinadailyhk — *chinadailyhk*
+- `10-29 10:55` Dollar steady after Fed hold leaves rate path murky - Reuters — *Reuters*
 - `10-29 10:02` Federal Reserve holds interest rates steady - The Washington Post — *The Washington Post*
 - `10-29 10:00` Federal Reserve keeps benchmark rate at 3.75-4%, no relief from high rates - cbs8.com — *cbs8.com*
 - `10-29 09:38` Federal Reserve holds off on another interest rate hike - WFTV — *WFTV*
+- `10-29 09:32` Federal Reserve holds interest rates steady as midterm elections loom - MyCentralOregon.com — *MyCentralOregon.com*
 - `10-29 09:32` Federal Reserve set to issue interest rate decision as midterm elections loom - Rural Radio Network — *Rural Radio Network*
-- `10-29 09:19` Federal Reserve holds interest rates steady as inflation surges - The San Joaquin Valley Sun — *The San Joaquin Valley Sun*
-- `10-29 09:03` Federal Reserve Holds Interest Rates Steady Ahead of Midterms. Here's What That Means for the Market. - Yahoo Finance — *Yahoo Finance*
-- `10-29 08:57` Federal Reserve Holds Interest Rates Steady as Inflation Remains a Concern - NBC Palm Springs — *NBC Palm Springs*
-- `10-29 08:53` Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters — *Reuters*
 
 ## 🌍 유가·지정학
+- `10-29 11:24` Oil Price Today (October 29): Crude oil dips to $113 as diplomatic talks outweigh infra attacks. Can oil f - The Economic Times — *The Economic Times*
+- `10-29 11:04` New Zealand Businesses Stay Upbeat Despite The Oil Price Shock - Finimize — *Finimize*
 - `10-29 10:05` Petrobras Oil and Gas Output Jumps 11.7% to Record High in Q3 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-29 10:00` Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel? - WSJ — *WSJ*
 - `10-29 09:53` Oil Drops As Iran Touts Diplomacy – And The Gulf Braces For An “Intense Military Campaign” - Ship & Bunker — *Ship & Bunker*
 - `10-29 09:40` Oil's War Premium Could Vanish Fast Once a Hormuz Deal Lands, Analysts Warn - Yahoo Finance — *Yahoo Finance*
 - `10-29 09:31` LA pushes oil drilling shutdown despite industry warnings of lawsuits, gas price hikes - New York Post — *New York Post*
 - `10-29 09:22` New Zealand businesses stay optimistic despite oil price volatility, survey shows By Reuters - Investing.com — *Investing.com*
-- `10-29 09:20` New Zealand Business Confidence Rises Despite Oil Price Volatility - Global Banking & Finance Review — *Global Banking & Finance Review*
-- `10-29 09:18` Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran - Bloomberg — *Bloomberg*
-- `10-29 09:00` Peace Talks Won't Save Oil Buyers From $100-Plus Oil - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
+- `10-29 11:14` China’s tech darlings are losing their shine. Here’s what’s behind the sell-off - CNBC — *CNBC*
 - `10-29 09:56` Goldman thinks there aren't many Fed hikes left. Stocks could rally - CNBC TV18 — *CNBC TV18*
 - `10-29 08:22` Why is Avepoint stock rallying today? - Investing.com — *Investing.com*
+- `10-29 08:00` Why Stocks Can Rally Through A December Hike (SPX) - Seeking Alpha — *Seeking Alpha*
 - `10-29 07:43` The AI stocks crash is coming, here's what to do about it - Market Index — *Market Index*
 - `10-29 05:11` Global stocks rally as AI optimism lifts markets ahead of Big Tech earnings - The American Bazaar — *The American Bazaar*
 - `10-29 03:06` Optical Stocks Climb as Analysts Flag AI Bottleneck: Lumentum Rises 4%, Applied Optoelectronics and Corning Gain 3%, Coherent Sits Out the Rally - 24/7 Wall St. — *24/7 Wall St.*
 - `10-29 02:35` Why analysts say the US stock market may be on the cusp of a double-digit rally - Business Insider — *Business Insider*
-- `10-29 02:22` Midterm Elections Could Set Up a 21% Stock Market Rally in 2027 - Here’s What 76 Years of History Show - 24/7 Wall St. — *24/7 Wall St.*
-- `10-29 02:15` NEPSE rises 33.29 points as hydropower stocks drive market rally - The Farsight Nepal — *The Farsight Nepal*
