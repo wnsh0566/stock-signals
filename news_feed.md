@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-30 22:28 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-30 23:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -29,11 +29,11 @@
 - `10-30 18:30` 주식과 은행주가 하락 압력을 받으면서 VN 지수는 10월 마지막 거래일에 거의 14포인트 하락했습니다. - Vietnam.vn — *Vietnam.vn*
 - `10-30 18:03` [3분기 금융지주 실적] 5대 금융지주 누적 순익 19조6297억···4대 은행 NIM 일제히 하락 - 위클리오늘 — *위클리오늘*
 - `10-30 16:42` ‘17兆 순익’ 쌓은 4대 금융지주...비은행 경쟁력 ‘격차’ - 에너지경제신문 — *에너지경제신문*
-- `10-30 16:33` ‘사라진 100억 어디로?’ 메리츠화재 계약 해지 진실 공방 - 일요시사 — *일요시사*
 - `10-30 16:07` ‘어닝쇼크’ BNK, JB에 쫓긴다 [재계톡톡] - 매일경제 — *매일경제*
 - `10-30 15:51` 4대 금융지주, 순익 총 17조 돌파했지만…올 3분기 비이자이익은 일제히 감소 - 오피니언뉴스 — *오피니언뉴스*
 - `10-30 15:50` 농협금융, 1000억 출연해 미소금융 참여 협약 체결 - 뉴스프리존 — *뉴스프리존*
 - `10-30 15:50` 5대 금융지주, 올해 3분기 누적 19조6297억원…이자이익 40조원 돌파 - NSP통신 — *NSP통신*
+- `10-30 15:09` 양종희 KB금융그룹 회장, 6조원 클럽 눈앞…‘선택과 집중’ 통했다 - 인사이트코리아 — *인사이트코리아*
 
 ## 🇰🇷 정책·거시
 - `10-30 16:07` 국힘, 민주에 '3+3 부동산 협의체' 제안… "공급 대책 마련하자" - 대전일보 — *대전일보*
@@ -46,14 +46,14 @@
 - `10-29 17:31` 지방 부동산 대책은 빠졌다…또 수도권 주택공급만 - 대전일보 — *대전일보*
 
 ## 🌍 AI·빅테크
+- `10-30 22:00` Nvidia Weighs Billions in Guarantees for Nscale AI Project - Yahoo Finance — *Yahoo Finance*
 - `10-30 18:23` Market Chatter: Nvidia Chip Buyer AM Intelligence Plans Up to $3 Billion Capital Raise - Yahoo Finance — *Yahoo Finance*
+- `10-30 17:06` Nvidia Weighs Credit Backstop for Nscale Data Center as AI Chip Stocks Slide - BigGo Finance — *BigGo Finance*
 - `10-30 16:22` NVDA Stock Drops: Nvidia May Back Data Center Loan For Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report - Yahoo Finance — *Yahoo Finance*
 - `10-30 14:05` ‘The Gang’s All Here’ in AI. Amazon, SpaceXSI & Nvidia. ARD #196 - AI: Reset to Zero — *AI: Reset to Zero*
 - `10-30 11:55` Nvidia in Talks to Back Anthropic Data Center With Multibillion-Dollar Credit Guarantee as AI Financing Web Expands - BigGo Finance — *BigGo Finance*
-- `10-30 11:00` Nvidia Invests $3 Billion in Meta AI Collaboration Deal - RS Web Solutions — *RS Web Solutions*
 - `10-30 10:54` Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order - Bloomberg News - TradingView — *TradingView*
 - `10-30 10:34` Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order - Bloomberg — *Bloomberg*
-- `10-30 10:17` Nvidia's web of AI bets: smart strategy or bubble risk? - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
 - `10-30 20:37` What does shake-up of future Federal Reserve meetings mean for interest rates? - Baltimore Sun — *Baltimore Sun*
@@ -61,26 +61,26 @@
 - `10-30 19:12` New economic data challenges Fed chief's not-too-hot perspective - Reuters — *Reuters*
 - `10-30 18:54` Fed Plans Fewer Rate-Setting Meetings and Less Guidance for Markets - Globest — *Globest*
 - `10-30 17:09` U.S. Treasury yields fall as investors await more economic data - CNBC — *CNBC*
+- `10-30 16:56` Will the Fed Hike Rates in December? Here’s What the Prediction Market Is Saying - Benzinga — *Benzinga*
 - `10-30 16:47` Federal Reserve keeps rates unchanged despite elevated inflation - Bluefield Daily Telegraph — *Bluefield Daily Telegraph*
 - `10-30 12:59` Gold slips as higher oil, U.S. inflation data bolster Fed hike bets - CNBC — *CNBC*
-- `10-30 10:33` Can Bitcoin rally if the Federal Reserve keeps rates higher for longer? - FXStreet — *FXStreet*
 
 ## 🌍 유가·지정학
+- `10-30 23:00` Trump Considers Lifting Sanctions on Putin's 'Slush Fund' - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-30 22:35` Shafaq News..Two oil tankers stopped south of Strait of Hormuz - شفق نيوز — *شفق نيوز*
+- `10-30 22:30` Japan to Tap $7 Billion from Government Fund to Subsidize Gasoline Prices - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `10-30 22:24` Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears - WSJ — *WSJ*
+- `10-30 22:07` Iranian Navy says it destroyed enemy submarine and damaged two oil tankers near Strait of Hormuz - The Tribune — *The Tribune*
 - `10-30 22:04` Exxon Raises Its Dividend Yet Again as Oil-Price Rally Boosts Earnings - Barron's — *Barron's*
 - `10-30 22:03` Oil Prices Head for Fourth Monthly Gain After Tanker Attack in Strait of Hormuz - The Diplomatic Insight — *The Diplomatic Insight*
-- `10-30 21:52` Current price of oil as of October 30, 2026 - Fortune — *Fortune*
 - `10-30 21:52` Gold drops below $4,000, silver tumbles as Hormuz attack lifts oil prices - Kitco AM Report - Kitco — *Kitco*
-- `10-30 21:52` COMMENTARY: Big Oil's spending caution speaks louder than its profits - Reuters — *Reuters*
-- `10-30 21:50` Oil prices jump more than 2% as Strait of Hormuz attacks revive supply fears - Economies.com — *Economies.com*
-- `10-30 21:30` Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `10-30 21:20` Iran Claimed Four Vessels Were Hit in the Hormuz Strait. Oil Prices Are Jumping Again. - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 시장 전반
+- `10-30 22:34` The sell-off for tech stocks worsens and drowns out strength elsewhere on Wall Street - Union-Bulletin — *Union-Bulletin*
 - `10-30 22:06` Tech Stocks Sell Off as Amazon and Intel Earnings Spook Investors - Morningstar — *Morningstar*
 - `10-30 21:36` Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap - Bloomberg — *Bloomberg*
+- `10-30 21:08` Wall Street sell-off continues as investors question returns on massive AI spending - CNN — *CNN*
 - `10-30 21:07` Tech giants' spending spooks investors and drives bonds rally - Yahoo Finance — *Yahoo Finance*
 - `10-30 21:04` Nifty rises, but most sectors fall: Why the stock market's headline rally may not reflect your portfolio - TradingView — *TradingView*
 - `10-30 20:56` If a Stock Market Crash Is Coming, History Suggests These Are 2 Crucial Moves to Make. - The Motley Fool — *The Motley Fool*
 - `10-30 20:05` Halloween 'carnage' on Wall Street as AI share price slump sparks fears of stock market crash - This is Money — *This is Money*
-- `10-30 19:44` Tech Sell-Off Visits Asian Stock Markets - marketscreener.com — *marketscreener.com*
-- `10-30 19:43` Tech Sell-Off Visits Asian Stock Markets - Yahoo Finance — *Yahoo Finance*
