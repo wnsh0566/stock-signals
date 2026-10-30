@@ -1,6 +1,6 @@
 # 📅 매크로 캘린더 대조 (자동 수집)
 
-> 생성: 2026-10-30 11:46 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
+> 생성: 2026-10-30 18:55 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
 > ⚠️ 소싱 전용 — 등재 여부 판단·실제 등재는 사람이(정본 = _automation/calendar.json → 리포 붙여넣기).
 > ✓ = 같은 KST 날짜에 등재 이벤트 있음(내용 일치까지 보장 안 함 — 라벨 육안 대조) / ⚠️ = 그 날짜에 등재 0건.
 
@@ -19,10 +19,10 @@
 | 2026-10-29 | 22:15 | EUR | High | Monetary Policy Statement | ⚠️ 미등재 후보 |
 | 2026-10-29 | 22:45 | EUR | High | ECB Press Conference | ⚠️ 미등재 후보 |
 | 2026-10-30 | 08:30 | JPY | Low | Unemployment Rate | ⚠️ 미등재 후보 |
-| 2026-10-30 | 11:30 | JPY | High | BOJ Policy Rate | ⚠️ 미등재 후보 |
-| 2026-10-30 | 11:30 | JPY | High | Monetary Policy Statement | ⚠️ 미등재 후보 |
-| 2026-10-30 | 11:31 | JPY | High | BOJ Outlook Report | ⚠️ 미등재 후보 |
-| 2026-10-30 | 14:30 | JPY | High | BOJ Press Conference | ⚠️ 미등재 후보 |
+| 2026-10-30 | 12:02 | JPY | High | BOJ Outlook Report | ⚠️ 미등재 후보 |
+| 2026-10-30 | 12:02 | JPY | High | BOJ Policy Rate | ⚠️ 미등재 후보 |
+| 2026-10-30 | 12:02 | JPY | High | Monetary Policy Statement | ⚠️ 미등재 후보 |
+| 2026-10-30 | 15:30 | JPY | High | BOJ Press Conference | ⚠️ 미등재 후보 |
 | 2026-10-30 | 19:00 | EUR | Low | Unemployment Rate | ⚠️ 미등재 후보 |
 | 2026-10-31 | 01:00 | USD | Low | FOMC Member Daly Speaks | ⚠️ 미등재 후보 |
 | 2026-10-31 | 01:30 | USD | Low | FOMC Member Musalem Speaks | ⚠️ 미등재 후보 |
