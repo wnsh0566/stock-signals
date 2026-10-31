@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-10-31 10:45 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-10-31 11:38 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `10-31 10:42` 기술주에 흔들린 뉴욕증시 '급락' - 한스경제 — *한스경제*
 - `10-31 10:40` 인텔, 52년 만의 최악 폭락...뉴욕 증시도 털썩 - 조선일보 — *조선일보*
+- `10-31 10:27` 뉴욕증시 일제히 급락...AI 투자 우려 재점화에 나스닥 2.86%↓ - M이코노미뉴스 — *M이코노미뉴스*
+- `10-31 10:05` 인텔 실적 실망에 주가 28%↓…AI 투자 우려 확산에 뉴욕증시 하락 마감 - 동아일보 — *동아일보*
 - `10-31 09:52` 알파벳에 흔들린 삼전닉스… 이번엔 ‘인텔 쇼크’ 덮치나 [주간 증시해설서] - 더스쿠프 — *더스쿠프*
 - `10-31 09:42` 뉴욕증시, AI 투자 수익성 우려에 급락…인텔 29%↓ - 서울경제TV — *서울경제TV*
+- `10-31 09:41` [뉴욕증시] 인텔 28.58% 폭락…AI 회의론에 반도체주 투매 - 자본시장뉴스 — *자본시장뉴스*
 - `10-31 09:30` 10월 증시를 마감하며 : 역대급 하락을 만든 한 달 - Investing.com 한국어 — *Investing.com 한국어*
-- `10-31 09:30` 앤트로픽 IPO에 웃고, AI 우려에 울고…하닉 11%↑[김근희의 증시 랩업] - 머니투데이 - 머니투데이 — *머니투데이*
-- `10-31 09:12` [오늘증시] 코스피 3.48% 급락해 5,730선 마감…외국인 1조6천억 '팔자'에 매도 사이드카까지 - 톱뉴스 — *톱뉴스*
-- `10-31 09:00` [K증시돋보기] '주주환원 카드' 삼전·닉스, 코스피 반등할까 - 주간한국 — *주간한국*
-- `10-31 08:24` “상장 첫날 던지라는 말이 맞나요”…한국증시 암울하게 하는 새내기주 - 매일경제 — *매일경제*
 
 ## 🇰🇷 반도체·HBM
-- `10-31 10:36` 성수석 이천시장 “SK하이닉스 방류수 규제, 종합적 검토 필요” - 경충일보 — *경충일보*
-- `10-31 10:30` [마켓노트] 금리 안정이 주식시장 반등 조건 - 연합뉴스 — *연합뉴스*
-- `10-31 10:00` 찐링 연구원 "中 반도체 투자, 국가기금은 출발점…지방정부·빅테크까지 가세" [경제일타강사] - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `10-31 10:00` SK하이닉스, 日서 첫 파트너스데이…소부장 20여개사와 공급망 협력 - FETV — *FETV*
-- `10-31 09:55` 10월 마지막주 SK하이닉스 주가 변동성 확대 - 톱스타뉴스 — *톱스타뉴스*
-- `10-31 09:26` 고양시, AI 허브 유치에 반도체·컴퓨팅 기술 협력 추진 - 더글로벌기빙뉴스 — *더글로벌기빙뉴스*
-- `10-31 09:25` 화성시, 美오스틴시와 교류 추진…삼성반도체 생산시설 공통점 - TV서울 — *TV서울*
-- `10-31 09:20` '반도체·에너지·항공우주'…첨단산업에 투자 집중 - 마켓인 — *마켓인*
+- `10-31 11:26` 방산·AI·반도체 국비 반영 추진…구미시, 국회 심의 대비 - 오늘경제 — *오늘경제*
+- `10-31 11:05` SK하이닉스, 사장급 인사 단행 - 디지털경제뉴스 — *디지털경제뉴스*
+- `10-31 11:00` 반도체 부품부터 전력까지…빅테크, 수요자에서 공급자 변신 - 연합뉴스TV — *연합뉴스TV*
+- `10-31 11:00` [청년발언대] 현대 기술이 만드는 반도체 공정의 혁신 - 청년일보 — *청년일보*
+- `10-31 10:56` “‘반도체 업황 연동’ 보안株라 불러주세요”…36% 반등한 한화비전 [이주의 Bull기둥] - 매일경제 — *매일경제*
+- `10-31 10:56` 한국폴리텍대 청주캠퍼스, 충북 명장회와 반도체 인재 양성 맞손 - 경충일보 — *경충일보*
+- `10-31 10:52` “AI·반도체부터 해상풍력까지”…전남광주 과학기술계, 통합특별시 미래 청사진 제시 - 전자신문 — *전자신문*
+- `10-31 10:50` 김이탁 차관 “용인반도체 국가산단 10월 부지 착공, 이언주 의원 각별한 관심과 노력이 큰 힘” - 뉴뉴스 — *뉴뉴스*
 
 ## 🇰🇷 금융주
 - `10-30 18:03` [3분기 금융지주 실적] 5대 금융지주 누적 순익 19조6297억···4대 은행 NIM 일제히 하락 - 위클리오늘 — *위클리오늘*
@@ -46,16 +46,17 @@
 - `10-30 09:50` 부산성모병원 ‘수어’로 전하는 건강강좌 - 부산일보 — *부산일보*
 
 ## 🌍 AI·빅테크
+- `10-31 11:12` Nasdaq Index: AI Selling Deepens as Financing and Capex Risks Hit Tech - FXEmpire — *FXEmpire*
 - `10-31 10:28` Nvidia Eyes Cosigning Nscale's West Virginia AI Data Center Loan - The Tech Buzz — *The Tech Buzz*
 - `10-31 10:20` Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia - TechCrunch — *TechCrunch*
-- `10-31 10:16` Nasdaq Index: AI Selling Deepens as Financing and Capex Risks Hit Tech - FXEmpire — *FXEmpire*
 - `10-31 09:46` OpenAI cuts its funding round target by 10 billion dollars amid market jitters - Startup Fortune — *Startup Fortune*
 - `10-31 09:17` OpenAI cuts funding target by $10 billion, FT reports - Reuters — *Reuters*
 - `10-31 09:06` OpenAI slashes funding target by $10bn as tech anxieties mount - Financial Times — *Financial Times*
+- `10-31 05:24` Why Nvidia stock fell on Friday, and why October is its worst month in a year - Nacionale — *Nacionale*
 - `10-31 05:23` Wall Street closes sharply lower as AI cash burn fears spark tech selloff - Yahoo Finance — *Yahoo Finance*
-- `10-31 04:37` AMZN Stock Set To Drop For Third Straight Week: Amazon Taps $80B Credit Line To Fund AI Capex - Stocktwits — *Stocktwits*
 
 ## 🌍 연준·금리
+- `10-31 06:23` Warsh wants the Fed to say less. Two officials are pushing for more transparency. - MarketWatch — *MarketWatch*
 - `10-31 05:03` Fed officials make case for rate hikes amid ongoing inflation concerns - Reuters — *Reuters*
 - `10-31 04:36` Fed’s Logan Sees Two More Hikes, But Says Pace Can Be Gradual - Bloomberg.com — *Bloomberg.com*
 - `10-31 04:33` FOMC Will Need to Raise Interest Rate 'Soon' to Tame Inflation, St. Louis Fed's Musalem Says - Yahoo Finance — *Yahoo Finance*
@@ -63,7 +64,6 @@
 - `10-31 03:20` Fed's Musalem and Logan signal more interest rate hikes - Quartz — *Quartz*
 - `10-31 03:13` Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says - WSJ — *WSJ*
 - `10-31 03:00` Hold the rate. The Fed can’t pump oil. - The Hill — *The Hill*
-- `10-31 02:42` Skipping a rate hike doesn't change monetary policy destination: FOMC's Logan (US10Y:) - Seeking Alpha — *Seeking Alpha*
 
 ## 🌍 유가·지정학
 - `10-31 08:59` Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran - Rigzone — *Rigzone*
@@ -72,15 +72,15 @@
 - `10-31 08:00` Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-31 07:00` Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `10-31 06:45` IRGC Navy: Fourth Oil Tanker Explodes in Strait of Hormuz - WANA News Agency — *WANA News Agency*
-- `10-31 06:34` Big Oil’s profits soar as Iran war keeps drivers paying more at the pump - Scripps News — *Scripps News*
 - `10-31 06:18` Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news - The Business Journal — *The Business Journal*
+- `10-31 05:53` Ships carrying 2M barrels of oil hit mines, explode in Strait of Hormuz: Iran - New York Post — *New York Post*
 
 ## 🌍 시장 전반
-- `10-31 10:20` GLOBAL MARKETS: Stocks Fall on AI Cash Burn Worries While Bonds Rally with Oil - KONTAN — *KONTAN*
+- `10-31 09:38` US stocks end sharply lower as AI cash burn fears spark tech selloff - marketscreener.com — *marketscreener.com*
 - `10-31 09:36` Binance Hack, Then a Stock Market Crash: Is There a Link? - CryptoTicker.io — *CryptoTicker.io*
 - `10-31 09:15` Big tech selloff spooks Wall Street as energy stocks outpace market - Fox Business — *Fox Business*
 - `10-31 09:13` TSX falls 600 points amid tech stock selloff on both sides of the border - Castanet — *Castanet*
 - `10-31 09:02` Stock Market Crash: Why US Stocks Now Swing Like Meme Tokens - CryptoTicker.io — *CryptoTicker.io*
-- `10-31 08:36` What To Do After Market Sell-Off; Apple, Elections On Deck - Investor's Business Daily — *Investor's Business Daily*
+- `10-31 08:36` Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do - Investor's Business Daily — *Investor's Business Daily*
 - `10-31 08:23` US stock Market today: Wall Street stocks that jump on tough trading day for S&P 500, Nasdaq, Dow Jones, R - The Economic Times — *The Economic Times*
 - `10-31 07:57` Halloween 'carnage' on Wall Street as tech share price slump sparks fears of stock market crash - This is Money — *This is Money*
