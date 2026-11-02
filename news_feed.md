@@ -1,39 +1,39 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-02 11:41 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-02 19:55 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-02 11:20` [외환] 코스피 반등에 동반 상승…외인 달러선물 매수 - KB Think — *KB Think*
-- `11-02 11:16` 코스피, 상승 전환해 1%대 강세…삼전닉스도 반등(종합) - 연합뉴스 — *연합뉴스*
-- `11-02 11:14` 코스피, 인텔 쇼크에도 상승 전환…미국 선거 변동성은 경계 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-02 11:13` 증시 반등 속 채권시장 약세…국고 3년 3.4bp↑ - KB Think — *KB Think*
-- `11-02 11:08` 美 기술주 급락에도 코스피 반등…기관이 떠받쳤다 - 연합뉴스TV — *연합뉴스TV*
-- `11-02 10:50` "개미들 6300억 던졌는데"…SK하닉 결단에 '대반전' 일어났다 - 한국경제 — *한국경제*
-- `11-02 10:47` [뉴욕 주간 프리뷰] AI 의구심 커진 美 증시…중간선거·실적·고용 '슈퍼위크' - 뉴스핌 — *뉴스핌*
-- `11-02 10:43` 코스피, 장중 상승 전환…코스닥도 반등 - KBS 뉴스 — *KBS 뉴스*
+- `11-02 19:44` ‘인텔 쇼크’ 주식창 열기 겁났는데…코스피는 반등, 왜? - JTBC — *JTBC*
+- `11-02 19:17` [亞증시-종합] 테크주 약세에 혼조 마감 - 연합인포맥스 — *연합인포맥스*
+- `11-02 18:56` 코스피, '블랙먼데이' 우려 딛고 2%대 상승…5800선 회복 - 팍스경제TV — *팍스경제TV*
+- `11-02 18:43` Citi “공화당이 상원 지키면 미국 증시 상승 가능” - Investing.com 한국어 — *Investing.com 한국어*
+- `11-02 18:21` [1102마감체크] 코스피 지수 2.24% 급등하며 5800선 회복…3거래일 만에 반등 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-02 18:17` [마감] 코스피, 기관 저가 매수에 2.24% 반등…’인텔 쇼크’ 딛고 5850선 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `11-02 18:11` [중국증시-마감] 정책 기대감에 상승 - 연합인포맥스 — *연합인포맥스*
+- `11-02 18:00` [밸류업시그널③] “저PBR 낙인 시작”… 코스피 ‘유통사’ 0.15~0.17배 수준 - 이코노미톡뉴스 — *이코노미톡뉴스*
 
 ## 🇰🇷 반도체·HBM
-- `11-02 11:35` 李, 첨단산업 성장 시대 연다…반도체·AI '21.3조' R&D '39.5조' 투자 - 전자신문 — *전자신문*
-- `11-02 11:34` 반도체·전력기기 호조에 충청권 경기 소폭 개선... 자동차·석유화학 ‘부진 지속’ - 충청게릴라뉴스 — *충청게릴라뉴스*
-- `11-02 11:34` 평택시·삼성전자, 반도체 방류수 미량오염물질 관리 ‘맞손’ - 아시아경제 — *아시아경제*
-- `11-02 11:31` 익산시, 반도체 소부장 특화단지 조성 비전…타운홀미팅 - 뉴스핌 — *뉴스핌*
-- `11-02 11:29` [테마시황] '수출·수주·인프라' 3박자 호조… 조선·건설·반도체 테마↑ - 인포스탁데일리 — *인포스탁데일리*
-- `11-02 11:29` 국민대 김대환 교수, ‘2026 세계 최상위 2% 연구자’ 선정…산화물 반도체 연구 두각 - 한국대학신문 — *한국대학신문*
-- `11-02 11:25` 오줌에서 반도체까지…올해 수출 '1조 달러 달성' 코앞 - 뉴스핌 — *뉴스핌*
-- `11-02 11:21` 광주 반도체 반사이익은 어디? [리부팅 지방시대] - 연합뉴스TV — *연합뉴스TV*
+- `11-02 19:42` 전력·용수·폐수까지···광주 반도체 필수 인프라 공급안 윤곽 - 무등일보 — *무등일보*
+- `11-02 18:58` "국산 AI 반도체 우주로…2028년 누리호로 첫 실증" - 뉴스핌 — *뉴스핌*
+- `11-02 18:31` "반도체 클러스터 속도 더해야"…정부, 팹 조기 구축에 '한목소리' - 지디넷코리아 — *지디넷코리아*
+- `11-02 18:12` 전남대, 반도체 클러스터 성공 조건 논의…전력·용수·인재 전략 모색 - 매일일보 — *매일일보*
+- `11-02 18:11` SK, ‘美 대관비’ 삼성 2배…반도체 투자·중국 규제 대응 영향 - 아시아투데이 — *아시아투데이*
+- `11-02 18:00` AI 반도체가 끌어올린 충청 경기…자동차·건설은 '찬바람' - 충청투데이 — *충청투데이*
+- `11-02 17:53` 아마존 자체 AI 반도체 수요 폭증…그라비톤·트레이니움 계약 규모 20배 이상 증가 - 인공지능신문 — *인공지능신문*
+- `11-02 17:51` OCI그룹, 임원 10명 승진…반도체 소재·AX 조직 신설 - 글로벌이코노믹 — *글로벌이코노믹*
 
 ## 🇰🇷 금융주
-- `11-02 11:11` 올들어 유달리 실적 부진한 부산-경남은행...빈대인 회장의 선택은? - 금융소비자뉴스 — *금융소비자뉴스*
-- `11-02 10:53` 한국투자금융지주, 일본 SBI와 10조원 펀드 조성…AI 데이터센터 투자 - PRESS9 — *PRESS9*
-- `11-02 10:52` 신한금융지주, 롯데손보 인수의 숨은 가치…신한EZ손보 적자 해소 - PRESS9 — *PRESS9*
-- `11-02 09:52` 한국금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `11-02 09:48` 메리츠금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `11-02 09:44` 은행주, 실적 모멘텀 둔화에 ‘방어주 프리미엄’ 약화…배당·주주환원에 주목 [주가동향] - 조세일보 — *조세일보*
-- `11-02 09:42` 우리금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
-- `11-02 09:16` [모닝 리포트] 은행주, 일회성 빼면 순익 12%↓…"주주환원 확대 주목" - 뉴스핌 — *뉴스핌*
+- `11-02 18:17` [단독] 금융지주 임추위 “이래서 회장 추천”… 주주에게 직접 설명한다 - 서울신문 — *서울신문*
+- `11-02 17:58` 기업은행, 한국금융지주와 20년 지분 관계 끝…전량 매각 - 프라임경제 — *프라임경제*
+- `11-02 17:48` 금융지주 회장 '장기 집권' 막는다…연임할수록 '찬성표' 더 받아야 - 뉴스1 — *뉴스1*
+- `11-02 17:45` 4대 금융그룹서 어부지리로 2등된 카드사 - 한국경제 — *한국경제*
+- `11-02 17:42` IBK기업은행, 한국금융지주 잔여 지분 전량 매각…20년 만에 정리 - 알파경제 — *알파경제*
+- `11-02 17:40` KB도 신한도 인니 지주사 설립 '전력'…새 성장동력 속도 - CEO스코어데일리 — *CEO스코어데일리*
+- `11-02 17:31` [금융단신] 우리금융지주·신한은행·수협은행·빗썸 - 데일리한국 — *데일리한국*
+- `11-02 17:12` 기업은행, 한국투자금융지주 매각대금 '포용금융 재원'으로 활용할까 - FETV — *FETV*
 
 ## 🇰🇷 정책·거시
 - `11-02 11:09` 정점식 "수도권은 전월세 대란…10·15 대책부터 폐기하라" - 뉴스웍스 — *뉴스웍스*
@@ -41,46 +41,43 @@
 - `11-01 18:33` 보안점검에도 해킹 잇따라…금융당국, 5일 추가 대책회의 - 뉴시안 — *뉴시안*
 - `11-01 14:36` 정부 부동산 대책서 빠진 서울…오세훈·홍지선, 대화도 단절됐다 - www.dt.co.kr — *www.dt.co.kr*
 - `11-01 13:59` 금융당국, AI 해킹 확산에 대응책 촉구…내주 보안대책 회의 - 뉴시스 — *뉴시스*
-- `11-01 12:43` 금융당국, 해킹 피해 확산에 전 금융권 대책 회의 - YTN — *YTN*
-- `10-31 16:37` [사는 곳이 계급인 나라⑭-지방은 안중에 없는 부동산 정책] ‘과열-침체’ 정반대 시장에도 대책은 수도권용 - 영남일보 — *영남일보*
-- `10-31 16:03` 강남은 진화, 강북은 방화? 집값 90주 상승에 與 ‘文 트라우마’ - 시사저널 — *시사저널*
 
 ## 🌍 AI·빅테크
+- `11-02 18:53` OpenAI Trims Funding Target and Plans Post-Midterm Push to Reshape AI Debate - AI Insider — *AI Insider*
+- `11-02 17:07` OpenAI CEO signs UAE energy, investment deals - The Edge Singapore — *The Edge Singapore*
+- `11-02 14:36` OpenAI to Merge ChatGPT, Codex Usage Limits; Funding Target Cut to $20 Billion - BigGo Finance — *BigGo Finance*
 - `11-02 00:01` Meta AI Capex Hits $135B, Outruns Cash Flow [2026] - shattered.io — *shattered.io*
 - `11-01 23:05` OpenAI Launches Policy Offensive After U.S. Midterm Elections, Plans "Speed Limits" for Frontier AI - BigGo Finance — *BigGo Finance*
-- `11-01 22:15` OpenAI raises $11 billion of $30 billion, cuts target to $20 billion - Pasquale Pillitteri — *Pasquale Pillitteri*
 - `11-01 19:25` Nasdaq's 5.3% October Swoon: AI Capex Fears Meet a History of 24% Rebound Years - BigGo Finance — *BigGo Finance*
 - `11-01 16:11` OpenAI Cuts Funding Target by $10 Billion as AI Stock Selloff Pressures Valuation - Tekedia — *Tekedia*
 - `11-01 09:15` 3 Stocks to Watch as AI Data Center Financing Comes Into Focus - Yahoo Finance — *Yahoo Finance*
-- `11-01 04:56` OpenAI pares fundraising goal, now seeking up to $20 billion in latest round - CNBC — *CNBC*
-- `11-01 03:45` ‘Quite terrible’: Sam Altman says the RAM in your PC is a waste. OpenAI could soak up as much as 40% of supply - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `11-02 18:26` 2 Words From Fed Chair Kevin Warsh Are Echoing Through Wall Street and Unnerving Investors - The Globe and Mail — *The Globe and Mail*
+- `11-02 18:06` 2 Words From Fed Chair Kevin Warsh Are Echoing Through Wall Street and Unnerving Investors - The Motley Fool — *The Motley Fool*
+- `11-02 17:45` Kevin Warsh Offered a Warning on Inflation. Here's What History Says Is Coming Next. - The Globe and Mail — *The Globe and Mail*
+- `11-02 17:12` Kevin Warsh Offered a Warning on Inflation. Here's What History Says Is Coming Next. - The Motley Fool — *The Motley Fool*
+- `11-02 16:35` Gold Recovers Above $3,900 as Oil Slips and Investors Await Fed Rate Decision - BigGo Finance — *BigGo Finance*
+- `11-02 14:01` AI mania can’t survive higher interest rates - Financial Times — *Financial Times*
 - `11-02 08:37` Federal Reserve holds interest rates steady - InsuranceNewsNet — *InsuranceNewsNet*
 - `11-01 23:49` US Federal Reserve Officials Justify Interest Rate Hikes Amid Persistent Inflation Concerns - صحيفة مال — *صحيفة مال*
-- `11-01 22:39` Tech selloff may ease pressure on the Federal Reserve, says BMO economist - Crypto Briefing — *Crypto Briefing*
-- `11-01 16:53` Bitcoin price swings spike more around U.S. jobs and inflation reports than Fed rate decisions - Pluang — *Pluang*
-- `11-01 16:00` What would a December rate rise mean for family offices’ property portfolios? - South China Morning Post — *South China Morning Post*
-- `11-01 12:44` Federal Reserve keeps rates unchanged despite elevated inflation - Chronicle-Tribune — *Chronicle-Tribune*
-- `11-01 12:15` US jobs pickup may keep Federal Reserve on track to hike rates again - Business Standard — *Business Standard*
-- `11-01 00:27` Two Fed Officials Just Called for More Rate Hikes, Starting Soon - 24/7 Wall St. — *24/7 Wall St.*
 
 ## 🌍 유가·지정학
-- `11-02 11:21` Iran's IRGC: 2 'violating' oil tankers exploded after hitting mines in Hormuz - chinadailyhk — *chinadailyhk*
-- `11-02 11:17` Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks continue to end war. What are ex - The Economic Times — *The Economic Times*
-- `11-02 11:12` Oil prices today: Crude falls over 1% as Iran-Qatar talks raise hopes of diplomatic progress - The Times of India — *The Times of India*
-- `11-02 11:07` Oil slips as Iran says Qatar-brokered plan could reopen Hormuz in two days - investingLive — *investingLive*
-- `11-02 10:35` Goldman raises oil price forecast for December and 2027. Here's why - CNBC — *CNBC*
-- `11-02 10:30` Oil falls as Trump favours Iran diplomacy before midterm elections - Investing.com — *Investing.com*
-- `11-02 10:15` Oil Falls Ahead of U.S. Midterms Despite Hormuz Tensions on Hopes for Diplomatic Solution - bloomingbit — *bloomingbit*
-- `11-02 10:00` Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-02 19:52` Global shares are mixed and US futures advance, while oil prices fall nearly 4% - The Washington Post — *The Washington Post*
+- `11-02 19:50` Iran war latest: Oil prices slide more than 3% as Trump signals more time for Iran diplomacy - The National — *The National*
+- `11-02 19:43` Oil News: Crude Oil Outlook Turns Cautious as Iran Talks Test War Premium - FXEmpire — *FXEmpire*
+- `11-02 19:42` Oil prices fall as Iran and Qatari mediators hold talks to end war - The Times — *The Times*
+- `11-02 19:21` Oil falls on Hormuz deal hopes as Trump keeps strikes on the table - Euronews.com — *Euronews.com*
+- `11-02 19:12` Scott Bessent Says World Can ‘Live Without Iranian Oil’ as Hormuz Flows Return to Pre-Conflict Levels - Benzinga — *Benzinga*
+- `11-02 19:00` Iraq's Oil Exports via Turkey Surge to 500,000 Bpd - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-02 19:00` ADNOC Approves Major UAE Gas Development to Boost Domestic Supply - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `11-02 11:35` Kospi reverses early losses to gain near 1%; market seen in over-sold territory - KED Global — *KED Global*
-- `11-02 11:30` India Large Caps Gain Favor Amid Global AI Selloff, Small-Cap Slump - Bloomberg.com — *Bloomberg.com*
-- `11-02 11:22` China’s stocks rebound from worst sell-off in decade amid hope of state support - South China Morning Post — *South China Morning Post*
-- `11-02 10:47` Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `11-02 10:37` After Tech Sell-Off, Investors Brace for More Market Volatility - The New York Times — *The New York Times*
-- `11-02 10:29` Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2 - NDTV Profit — *NDTV Profit*
-- `11-02 09:35` Futures Rise After Sell-Off; Elections Could Swing Markets - Investor's Business Daily — *Investor's Business Daily*
-- `11-02 07:38` 3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week - Yahoo Finance — *Yahoo Finance*
+- `11-02 19:41` Taiwan Stock Market Selloff: Woman Buys 390 Lots of 00631L in Two Hours, Only Realizes "Too Impulsive" When Facing NT$14.26 Million Settlement - BigGo Finance — *BigGo Finance*
+- `11-02 19:34` Sensex surges 1,233 points, Nifty reclaims 23,400: 5 reasons why stock market rallied today - IndiaIPO — *IndiaIPO*
+- `11-02 19:29` Stock Market Today: Dow Jones, S&P 500 Futures Rise Ahead of Apple, Palantir Earnings: RYAAY, USLM, INO in Focus - Yahoo Finance — *Yahoo Finance*
+- `11-02 19:20` The S&P 500 may be headed for 'outsized gains' despite tech-stock rout, JPMorgan says - Business Insider — *Business Insider*
+- `11-02 19:18` US Tech Stocks Slide as AI Investment Fears Trigger Market Selloff - Investing.com South Africa — *Investing.com South Africa*
+- `11-02 19:16` Nigerian Stock Market Approaches Key Resistance as Valuation Concerns Grow - www.nigeriahousingmarket.com — *www.nigeriahousingmarket.com*
+- `11-02 19:14` After Tech Sell-Off, Investors Brace for More Market Volatility - The New York Times — *The New York Times*
+- `11-02 19:12` Reliance Industries shares record biggest single-day jump since April 2020 as Q2 earnings spark Rs 2 lakh - The Economic Times — *The Economic Times*
