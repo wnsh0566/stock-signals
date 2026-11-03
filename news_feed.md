@@ -1,39 +1,39 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-03 23:37 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-04 03:40 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-04 03:34` 유럽증시, 미 중간선거 결과에 촉각 곤두세우며 일제히 하락… 기술주 1% 떨어져 - 뉴스핌 — *뉴스핌*
+- `11-04 00:57` ​​​​​​​외국인 1.5조 매도에 코스피 3.6% 급락…美반도체 반등에도 삼성·하이닉스 수급 불안 - 녹색경제신문 — *녹색경제신문*
+- `11-04 00:30` AI 투자 우려-美 중간선거 불확실성에 코스피 ‘출렁’ - 동아일보 — *동아일보*
+- `11-04 00:07` 뉴욕증시, 혼조출발…유가 하락·美 중간 선거에 ‘촉각’ - Chosunbiz — *Chosunbiz*
+- `11-04 00:01` 뉴욕증시, 중간선거 결과 대기하며 혼조 출발 - 연합뉴스 — *연합뉴스*
+- `11-03 23:48` [뉴욕증시]중간선거 시작, 혼조세…애플 하락에 다우 ↓ - 아시아경제 — *아시아경제*
+- `11-03 23:41` 美 AI 자금난 우려에 반도체 직격탄…코스피 3.59% 급락해 5,640선 후퇴 - 일간투데이 — *일간투데이*
 - `11-03 23:01` 美 중간선거 민주당 압승 땐 증시 충격 우려…AI·방산주 하락 가능성 - 뉴스핌 — *뉴스핌*
-- `11-03 22:30` 뉴욕증시 프리뷰, 중간선거 앞두고 주가 선물 혼조…애플·팔란티어 급락에 AI 투자 우려 지속 - 뉴스핌 — *뉴스핌*
-- `11-03 22:14` 코스피, AI 투자 우려에 3.59% 급락…외인 1.5조 매도 By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `11-03 21:04` ’AI 거품론’에 발목 잡힌 증시…코스피 3%대 급락 - 연합뉴스TV — *연합뉴스TV*
-- `11-03 20:33` 美 중간선거 결과 따른 코스피 '경우의 수'는? - MBC 뉴스 — *MBC 뉴스*
-- `11-03 19:15` [亞증시-종합] 기술주 매도에 中·대만↓…홍콩↑ - 연합인포맥스 — *연합인포맥스*
-- `11-03 18:52` 미 반도체 약세·중간선거 경계에...코스피 3.6%↓ - YTN — *YTN*
-- `11-03 18:47` [채권-마감] 강세 플래트닝…美 중간선거 불확실성 속 증시 부진 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
-- `11-03 23:12` 반도체·군 공항·SOC…전남광주시-국회의원 공조 - KBC광주방송 — *KBC광주방송*
-- `11-03 23:11` 반도체 클러스터 인프라 구축 방안 논의 속도 - KBC광주방송 — *KBC광주방송*
-- `11-03 23:11` 용인시정연구원, "반도체 성장 맞춰 시민과 함께 재생에너지 이익공유 모델 제안" - 팔당유역신문 — *팔당유역신문*
-- `11-03 22:59` 이천시의회, 반도체 산업 현장 점검… 지역 상생 방안 모색 - 서희신문 — *서희신문*
-- `11-03 22:20` 용인시의회 경제환경위, 2027 본예산 앞두고 소상공인 지원·반도체클러스터 점검 - 팔당유역신문 — *팔당유역신문*
-- `11-03 21:26` 청주시, SK하이닉스 P&T7·M17 공업용수 공급사업 ‘순항’ - 영남신문 — *영남신문*
-- `11-03 21:25` 석유화학 위기 여수산단, 반도체 소재산업서 새 활로 찾아야 - 광주in — *광주in*
-- `11-03 21:02` [속보]반도체 공장서 질산 500ℓ 누출 사고 …150여평 대피, 6명 경상 - 문화일보 — *문화일보*
+- `11-04 02:40` “코스피 1만 넘을 수도”…월가까지 주목한 한국 증시, 반도체 말고도 있다 - 데일리25 — *데일리25*
+- `11-04 02:19` “삼성전자·SK하이닉스 또 급락”…美 중간선거 누가 이겨도 한국 경제 ‘비상’ - 데일리25 — *데일리25*
+- `11-04 01:06` 이천시의회, 반도체 현장에서 지역산업 성장 기반 짚다 - 동방일보 — *동방일보*
+- `11-04 01:00` 청주시, SK하이닉스 공업용수 공급망 구축 속도 - 천지일보 — *천지일보*
+- `11-04 00:59` SK하이닉스·청주노조, 취약계층에 6200만원 기탁 - 천지일보 — *천지일보*
+- `11-04 00:58` 민주당 이기면 '반도체 걱정' 공화당은 '관세 압박' - SBS 뉴스 — *SBS 뉴스*
+- `11-04 00:57` ​​​​​​​외국인 1.5조 매도에 코스피 3.6% 급락…美반도체 반등에도 삼성·하이닉스 수급 불안 - 녹색경제신문 — *녹색경제신문*
+- `11-04 00:34` 美 반도체 기업 마벨, 광통신 베팅 "광학 업체 루멘텀 154조원에 인수" - 조선일보 — *조선일보*
 
 ## 🇰🇷 금융주
+- `11-04 00:35` 5대 금융지주, ‘포용금융’에 9월까지 16조원 공급 - Chosunbiz — *Chosunbiz*
+- `11-04 00:29` 한국금융지주, 5일 3분기 누적 실적 공시 - 비건뉴스 — *비건뉴스*
 - `11-03 21:54` 금융지주 보험사, 보험손익 개선에도 투자손실에 실적 뒷걸음…CSM은 성장세 - 비즈트리뷴 — *비즈트리뷴*
 - `11-03 21:22` 지방금융지주, 대손충당금 적립률 9년 만에 최저 - 세계일보 — *세계일보*
 - `11-03 18:08` [더나은미래 경제브리핑] 금융지주 회장 문턱 높인다, 3연임 시 주주 75% 찬성 추진...애플, 분기 매출 154조 ‘역대 최대’ - 더나은미래 — *더나은미래*
 - `11-03 17:58` 금융지주 회장 연임 문턱 높인다…iM금융 인선 촉각 - 서울경제TV — *서울경제TV*
 - `11-03 17:33` 높아진 금융지주 회장 연임 문턱…핵심은 '66%룰'과 '75%룰' - 한국경제 — *한국경제*
 - `11-03 17:31` 금융지주 회장 연임 키 '임추위'가 쥔다 - 비즈워치 — *비즈워치*
-- `11-03 16:57` 금융지주 회장, 3연임 청신호…강제 제한 안하고 주총 요건 강화 - 중앙일보 — *중앙일보*
-- `11-03 16:57` 금융지주 회장 장기집권 제동걸리나?…3연임 땐 주주 75% 동의 필요 - 조세일보 — *조세일보*
 
 ## 🇰🇷 정책·거시
 - `11-03 18:35` 지방 부동산 회복 지원법 추진 - 부산일보 — *부산일보*
@@ -42,41 +42,41 @@
 - `11-02 09:30` 서울 아파트값 90주 연속 폭등에 野 "李 부동산 폭정 멈춰라" - 조선일보 — *조선일보*
 
 ## 🌍 AI·빅테크
+- `11-04 03:27` OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ — *WSJ*
+- `11-03 23:05` Micron, Nvidia, and AMD lead chip stocks rebound - Yahoo Finance — *Yahoo Finance*
 - `11-03 20:31` AI & recycled capex. Total social financing. Schacht-maxxing & the West Virginia coal wars. - Adam Tooze | Substack — *Adam Tooze | Substack*
+- `11-03 20:25` Nvidia Reportedly Restricts Chinese Access to AI Computing Through Overseas Data Centers - Yahoo Finance — *Yahoo Finance*
 - `11-03 19:55` Investors Were Set To Pour $30 Billion Into OpenAI: Now They’re Having Second Thoughts - www.techtimes.co.uk — *www.techtimes.co.uk*
+- `11-03 17:10` Nebius Stock: A 9.3% Slide, a $3.5 Billion Bridge Loan, and the Contracts Still Waiting to Be Signed - ad-hoc-news.de — *ad-hoc-news.de*
 - `11-03 17:09` Nvidia orders data center clients to reduce China exposure: FT - Yahoo Finance — *Yahoo Finance*
-- `11-03 15:41` USD.AI Leads $106MM GPU Financing for NexGen Cloud - ABF Journal — *ABF Journal*
-- `11-03 14:39` Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg — *Bloomberg*
-- `11-03 14:05` PIMCO CEO Warns AI Capex Financing Needs Could Hit $10 Trillion Over Five Years, Ultimately Becoming "Excessive" - BigGo Finance — *BigGo Finance*
-- `11-03 14:00` Nvidia orders data centre clients to reduce China exposure - Financial Times — *Financial Times*
-- `11-03 10:53` AI Jitters Hit Private Markets: Will OpenAI's Smaller Raise Spook Investors? - BeInCrypto — *BeInCrypto*
+- `11-03 16:08` Top Tech News: OpenAI’s USD 20B Funding, AI Chip Initiative and More - Analytics Insight — *Analytics Insight*
 
 ## 🌍 연준·금리
+- `11-04 00:17` Federal Reserve Holds Rates as December Decision Comes Into Focus - kalkine.ca — *kalkine.ca*
+- `11-03 23:53` Federal Reserve Keeps Interest Rates Unchanged Despite Elevated Inflation Concerns - Big 102.1 — *Big 102.1*
+- `11-03 22:56` Mortgage Rates Are Falling Even as a December Fed Hike Looms - Norada Real Estate Investments — *Norada Real Estate Investments*
 - `11-03 22:37` Rate Hikes Could Be Coming: History Likes These 4 Bank Stocks - 24/7 Wall St. — *24/7 Wall St.*
 - `11-03 22:24` Fed rate pause raises concerns over costs and global growth - Oman Observer — *Oman Observer*
 - `11-03 19:59` Fed’s Rate Hold Sends Bond Yields in Different Directions - WSJ — *WSJ*
-- `11-03 19:48` Renaissance Macro Economist Forecasts Four or Five Fed Rate Hikes - Globest — *Globest*
+- `11-03 19:53` Renaissance Macro Economist Forecasts Four or Five Fed Rate Hikes - Globest — *Globest*
 - `11-03 18:30` Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Globe and Mail — *The Globe and Mail*
-- `11-03 18:06` Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Motley Fool — *The Motley Fool*
-- `11-03 09:44` The Fed Doesn't Set Interest Rates. Just Ask a Retiree - RealClearMarkets — *RealClearMarkets*
-- `11-03 05:28` Dallas Fed president explains why she is pushing for interest rate hikes - Dallas News — *Dallas News*
 
 ## 🌍 유가·지정학
-- `11-03 23:17` Stock Market Today: Dow Futures Plunge 323 Points, Apple Sinks, and Iran Strikes Send Oil Soaring - 24/7 Wall St. — *24/7 Wall St.*
-- `11-03 23:04` Alaska North Slope crude oil records fifth-highest monthly average price in history - Alaska Beacon — *Alaska Beacon*
-- `11-03 22:30` Indian Refiner BPCL Buys U.S. WTI Crude Oil Cargo - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-03 22:16` Oil prices climb after U.S. strikes Iran's Qeshm Island in Strait of Hormuz - Quartz — *Quartz*
-- `11-03 22:15` Oil prices rebound after U.S. attacks Iran - Transport Topics — *Transport Topics*
-- `11-03 22:15` Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns - WSJ — *WSJ*
-- `11-03 21:52` Iran says 3 oil tankers hit naval mines, catch fire in Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
-- `11-03 21:51` Oman Crude Oil Price Falls by $3.41 to $102.23 per Barrel - Fana News - — *Fana News -*
+- `11-04 03:30` Iran War Triples Logistics Costs for Oil Services Firms - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-04 03:15` Oil Continues Downward As Peace Hopes Defy Iran's Refusal To Budge From Demands - Ship & Bunker — *Ship & Bunker*
+- `11-04 03:11` Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy - WSJ — *WSJ*
+- `11-04 03:00` Brazil's Data Center Push Hinges on Gas Rules, Grid Access and a New Congress - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-04 02:58` Oil Services Industry Face Cost Pressures Amidst Iran Crisis - Marine News Magazine — *Marine News Magazine*
+- `11-04 02:30` Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-04 02:19` Iraq boosts Turkey oil exports, signs West Qurna-2 deal with Chevron amid war - The Jerusalem Post — *The Jerusalem Post*
+- `11-04 02:15` Aramco begins expansion of oil export route bypassing Hormuz - Al-Monitor — *Al-Monitor*
 
 ## 🌍 시장 전반
-- `11-03 22:02` Dan Ives Calls Tech Selloff a 'Gut Check' — Names His Top Stocks to Own for the Next 5 Years - Benzinga — *Benzinga*
-- `11-03 21:06` US Pre-Market: Memory Chip Stocks Rally Broadly, SanDisk and Micron Each Up More Than 3% - BigGo Finance — *BigGo Finance*
-- `11-03 21:05` MRVL Stock Hits Nearly 6-Month Low — Top Analyst Says Selloff Is ‘Aimed at the Wrong Thing’ - Benzinga — *Benzinga*
-- `11-03 20:37` Midterm elections could jolt stocks if Democrats sweep Congress - CNBC — *CNBC*
-- `11-03 20:05` Stock market impact of midterm elections 2026: Experts warn of ‘uniquely difficult’ year - Fast Company — *Fast Company*
-- `11-03 19:20` How to Invest for a Coming Stock-Market Rally: Morgan Stanley - Business Insider — *Business Insider*
-- `11-03 19:18` VN-Index falls below 1,700 as large-caps weigh on market, steel stocks rally - vietnamnews.vn — *vietnamnews.vn*
-- `11-03 19:08` The Stock Market Will Make a Big Move in the Next 6 Months if History Repeats Itself - Yahoo Finance — *Yahoo Finance*
+- `11-04 03:27` David Driscoll’s Top Picks for Nov. 3, 2026 - BNN Bloomberg — *BNN Bloomberg*
+- `11-04 03:09` Morgan Stanley Flags Major Turning Point for Stock Market - Yahoo Finance Singapore — *Yahoo Finance Singapore*
+- `11-04 01:43` Coinbase Stock Rallies Again. Here’s How Much Crypto Risk Is Hiding in Your ETFs - 24/7 Wall St. — *24/7 Wall St.*
+- `11-04 00:43` Chip stocks rebound as Nvidia, AMD and Intel gain after $3.7 trillion semiconductor sell-off | Hindustan Times - Hindustan Times — *Hindustan Times*
+- `11-04 00:16` Why is Micron Technology stock rallying today? - Investing.com — *Investing.com*
+- `11-04 00:03` AMD to report Q3 results as chip stocks rebound following last week's steep selloff - Yahoo Finance — *Yahoo Finance*
+- `11-04 00:03` Penny stock under Rs.10 jumps 7.5% after Q2 Results 2026 following Indian stock market rally; do you own? - TradingView — *TradingView*
+- `11-03 23:56` Why is Advanced Micro Devices stock rallying today? - Investing.com — *Investing.com*
