@@ -1,11 +1,12 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-03 12:39 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-03 12:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-03 12:28` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
 - `11-03 11:57` 코스피·코스닥 장 초반 약세...장중 2%대 낙폭 - YTN — *YTN*
 - `11-03 11:51` 中, 증시 하락세에 테크기업 '주가 방어형 자사주 매입' 압박 - 연합뉴스 — *연합뉴스*
 - `11-03 11:51` 패닉 증시에 3.6조 순발행했지만…ELS원금북, 여전채 안 사는 이유 - 연합인포맥스 — *연합인포맥스*
@@ -13,7 +14,6 @@
 - `11-03 11:46` 코스피 하락 출발 - 문화일보 — *문화일보*
 - `11-03 11:45` 코스피, 낙폭 2%대로 축소…삼전닉스 약세 지속 - 연합뉴스TV — *연합뉴스TV*
 - `11-03 11:38` 꺼지지 않는 AI 수익성 우려… 코스피, 5700선 '공방' - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-03 11:26` “美 중간선거 끝나면 오른다던데”…트럼프가 증시 복병될까 [머니+] - 에너지경제신문 — *에너지경제신문*
 
 ## 🇰🇷 반도체·HBM
 - `11-03 12:33` 마이크론, 반도체 공장 증설에 지역사회 투자 확대…주택·교통에 297억원 - 임팩트온 — *임팩트온*
@@ -23,7 +23,7 @@
 - `11-03 11:51` 한국폴리텍 반도체융합캠퍼스, 기업과 반도체 인력양성 방안 논의 - 헬로티 — *헬로티*
 - `11-03 11:39` 경기 집값 상승 상위 10곳 중 6곳 첨단산업 거점…반도체 배후지 분양 잇따라 - 한국경제 — *한국경제*
 - `11-03 11:36` 여수산단, 반도체 소재 공급망 진입으로 위기 돌파구 모색 - 남해안신문 — *남해안신문*
-- `11-03 11:31` 반도체·AI 등 첨단산업 품은 新 주거생활권, 부동산 새 성장동력 될까 - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
+- `11-03 11:32` 美 중간선거 D-1, '민주당 우세' 전망에 반도체 정책 변화 '주목' - 서울파이낸스 — *서울파이낸스*
 
 ## 🇰🇷 금융주
 - `11-03 11:45` 금융지주 회장 3연임 ‘문턱’ 높였지만… 주요업체 인선 끝나 ‘뒷북 규제’ 논란 - 문화일보 — *문화일보*
@@ -39,6 +39,7 @@
 - `11-02 11:09` 정점식 "수도권은 전월세 대란…10·15 대책부터 폐기하라" - 뉴스웍스 — *뉴스웍스*
 - `11-02 09:30` 서울 아파트값 90주 연속 폭등에 野 "李 부동산 폭정 멈춰라" - 조선일보 — *조선일보*
 - `11-01 18:33` 보안점검에도 해킹 잇따라…금융당국, 5일 추가 대책회의 - 뉴시안 — *뉴시안*
+- `11-01 14:36` 정부 부동산 대책서 빠진 서울…오세훈·홍지선, 대화도 단절됐다 - www.dt.co.kr — *www.dt.co.kr*
 - `11-01 13:59` 금융당국, AI 해킹 확산에 대응책 촉구…내주 보안대책 회의 - 뉴시스 — *뉴시스*
 
 ## 🌍 AI·빅테크
@@ -62,14 +63,14 @@
 - `11-03 00:10` Fed Holds Rates Steady - Advancing American Freedom — *Advancing American Freedom*
 
 ## 🌍 유가·지정학
+- `11-03 12:45` Oil Price Forecast: WTI and Brent Rebound on US Strike in Iran - FXEmpire — *FXEmpire*
+- `11-03 12:41` OIL PRICE UPDATE ‼️ Fuel price adjustments took effect on Tuesday, November 3, 2026, with gasoline prices increasing by ₱3.50 per liter. Meanwhile, diesel prices went down by ₱1 per liter, while kerosene prices dropped by ₱1.90 per liter. Liquefied petrol - Facebook — *Facebook*
 - `11-03 12:11` Crude Oil Trading Alert: Geopolitical premium eases as US-Iran negotiations continue; US crude accelerates correction - Moomoo — *Moomoo*
 - `11-03 12:11` Oil price rebound clashes with midterm election uncertainty: Which way will the USD/CAD exchange rate move? - Moomoo — *Moomoo*
 - `11-03 12:11` Diamondback Energy Raises Dividend and 2026 Oil Production Outlook - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-03 11:59` U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP - PBS — *PBS*
-- `11-03 11:41` Oil Price Today (November 3): Crude oil falls as peace talk hopes outweigh attacks. Will prices dip furthe - The Economic Times — *The Economic Times*
-- `11-03 11:29` Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `11-03 11:28` US strikes Iran's Qeshm Island as Trump signals progress in talks - France 24 — *France 24*
-- `11-03 11:11` 3 Oil And Gas Stocks For Investors Watching Oil Price Risk - Yahoo Finance — *Yahoo Finance*
+- `11-03 11:55` Stocks mostly down as AI concerns top plunge in oil prices - Yahoo Finance UK — *Yahoo Finance UK*
+- `11-03 11:41` Oil Price Today (November 3): Crude oil rebounds to $105 as fresh attacks outweigh peace talks. What are e - The Economic Times — *The Economic Times*
 
 ## 🌍 시장 전반
 - `11-03 10:03` Global Market Today: Asian stocks slide as US chip selloff deepens - The Economic Times — *The Economic Times*
