@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-03 21:47 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-03 21:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -26,6 +26,7 @@
 - `11-03 19:29` 반도체 장비, 3년뒤 계약까지 줄섰다 - 전자신문 — *전자신문*
 
 ## 🇰🇷 금융주
+- `11-03 21:54` 금융지주 보험사, 보험손익 개선에도 투자손실에 실적 뒷걸음…CSM은 성장세 - 비즈트리뷴 — *비즈트리뷴*
 - `11-03 21:22` 지방은행, 대손충당금 적립률 9년 만에 최저치 - 세계일보 — *세계일보*
 - `11-03 18:08` [더나은미래 경제브리핑] 금융지주 회장 문턱 높인다, 3연임 시 주주 75% 찬성 추진...애플, 분기 매출 154조 ‘역대 최대’ - 더나은미래 — *더나은미래*
 - `11-03 17:58` 금융지주 회장 연임 문턱 높인다…iM금융 인선 촉각 - 서울경제TV — *서울경제TV*
@@ -33,7 +34,6 @@
 - `11-03 17:31` 금융지주 회장 연임 키 '임추위'가 쥔다 - 비즈워치 — *비즈워치*
 - `11-03 16:57` 금융지주 회장, 3연임 청신호…강제 제한 안하고 주총 요건만 강화 - 중앙일보 — *중앙일보*
 - `11-03 16:57` 금융지주 회장 장기집권 제동걸리나?…3연임 땐 주주 75% 동의 필요 - 조세일보 — *조세일보*
-- `11-03 16:40` [뉴스후] 금융지주 회장 연임 문턱 강화, ‘3연임 출석 의결권 75%’ 규정 - 데일리연합 — *데일리연합*
 
 ## 🇰🇷 정책·거시
 - `11-03 19:15` 이 대통령 “집값 하락 대책 이미 강구 중…정권 운명보다 망국적 부동산투기공화국 탈출이 더 중요” - 경향신문 — *경향신문*
@@ -52,6 +52,7 @@
 - `11-03 10:53` AI Jitters Hit Private Markets: Will OpenAI's Smaller Raise Spook Investors? - BeInCrypto — *BeInCrypto*
 
 ## 🌍 연준·금리
+- `11-03 19:59` Fed’s Rate Hold Sends Bond Yields in Different Directions - WSJ — *WSJ*
 - `11-03 19:48` Renaissance Macro Economist Forecasts Four or Five Fed Rate Hikes - Globest — *Globest*
 - `11-03 18:30` Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Globe and Mail — *The Globe and Mail*
 - `11-03 18:06` Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Motley Fool — *The Motley Fool*
@@ -59,7 +60,6 @@
 - `11-03 05:28` Dallas Fed president explains why she is pushing for interest rate hikes - Dallas News — *Dallas News*
 - `11-03 03:01` Warsh Fed Should Heed New Zealand's Cautionary Tale - Bloomberg — *Bloomberg*
 - `11-03 02:26` Fed Chair Kevin Warsh is cutting the number of rate-setting votes - Quartz — *Quartz*
-- `11-03 02:25` Fed to Cut Rate Votes to Six a Year by 2027 as Warsh Curbs Guidance - BigGo Finance — *BigGo Finance*
 
 ## 🌍 유가·지정학
 - `11-03 21:30` ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
@@ -67,9 +67,9 @@
 - `11-03 21:04` Republicans could pay political price for surging oil prices in US midterms - Anadolu Ajansı — *Anadolu Ajansı*
 - `11-03 21:03` Aramco Profit Beats Estimates After Refining Boom, Oil Surge - Bloomberg — *Bloomberg*
 - `11-03 21:00` Current price of oil as of November 3, 2026 - Fortune — *Fortune*
-- `11-03 20:52` Europe Stocks Dip As Strait Of Hormuz Risks Lift Oil - Finimize — *Finimize*
 - `11-03 20:48` U.S. MIDTERM MADNESS: Oil Prices Rebound as U.S. Strikes Iran’s Qeshm Island, Renewing Middle East Supply Fears - WTI Near $98, Brent Above $106 - EnergyNow — *EnergyNow*
 - `11-03 20:36` Morning Bid: Midterms and mediation - Yahoo Finance Singapore — *Yahoo Finance Singapore*
+- `11-03 20:26` Aramco looking to circumvent Strait of Hormuz via pipeline expansion, CEO says - The Jerusalem Post — *The Jerusalem Post*
 
 ## 🌍 시장 전반
 - `11-03 21:06` US Pre-Market: Memory Chip Stocks Rally Broadly, SanDisk and Micron Each Up More Than 3% - BigGo Finance — *BigGo Finance*
