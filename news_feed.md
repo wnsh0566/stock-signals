@@ -1,83 +1,82 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-03 12:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-03 19:44 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-03 12:28` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
-- `11-03 11:57` 코스피·코스닥 장 초반 약세...장중 2%대 낙폭 - YTN — *YTN*
-- `11-03 11:51` 中, 증시 하락세에 테크기업 '주가 방어형 자사주 매입' 압박 - 연합뉴스 — *연합뉴스*
-- `11-03 11:51` 패닉 증시에 3.6조 순발행했지만…ELS원금북, 여전채 안 사는 이유 - 연합인포맥스 — *연합인포맥스*
-- `11-03 11:51` 미국 AI 악재에 코스피 5700선 흔들 [장중시황] - www.2news.co.kr — *www.2news.co.kr*
-- `11-03 11:46` 코스피 하락 출발 - 문화일보 — *문화일보*
-- `11-03 11:45` 코스피, 낙폭 2%대로 축소…삼전닉스 약세 지속 - 연합뉴스TV — *연합뉴스TV*
-- `11-03 11:38` 꺼지지 않는 AI 수익성 우려… 코스피, 5700선 '공방' - 머니투데이 - 머니투데이 — *머니투데이*
+- `11-03 19:15` [亞증시-종합] 기술주 매도에 中·대만↓…홍콩↑ - 연합인포맥스 — *연합인포맥스*
+- `11-03 19:02` [증시와이드] 불확실성 커진 증시…우량주 중심 냉정한 대응을 - 국제신문 — *국제신문*
+- `11-03 18:52` 미 반도체 약세·중간선거 경계에...코스피 3.6%↓ - YTN — *YTN*
+- `11-03 18:47` [채권-마감] 강세 플래트닝…美 중간선거 불확실성 속 증시 부진 - 연합인포맥스 — *연합인포맥스*
+- `11-03 18:21` 코스피·코스닥 3%대 급락…AI 투자 수익성 우려에 반도체주 '휘청' - 팍스경제TV — *팍스경제TV*
+- `11-03 18:19` [중국증시-마감] 부양책 실망에 기술주 약세…지수 하락 - 연합인포맥스 — *연합인포맥스*
+- `11-03 18:11` 카카오페이, 증시 효과 사라지자 '스테이블코인' 화두 꺼냈다 - 톱데일리 — *톱데일리*
+- `11-03 18:09` [여명] 떠나는 외국인, 살얼음판 증시 - 서울경제 — *서울경제*
 
 ## 🇰🇷 반도체·HBM
-- `11-03 12:33` 마이크론, 반도체 공장 증설에 지역사회 투자 확대…주택·교통에 297억원 - 임팩트온 — *임팩트온*
-- `11-03 12:30` 네이처 실린 반도체 신기술…티디에스이노베이션, 63억 투자유치 - 유니콘팩토리 — *유니콘팩토리*
-- `11-03 12:08` [테마시황] 보안주 ’활짝’, 반도체·정유주 ’울상’ By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
-- `11-03 12:02` [CEONEWS 뉴스팝콘 121] 반도체 호황에 취한 820조 슈퍼예산, 청구서는 미래세대에게? - CEONEWS — *CEONEWS*
-- `11-03 11:51` 한국폴리텍 반도체융합캠퍼스, 기업과 반도체 인력양성 방안 논의 - 헬로티 — *헬로티*
-- `11-03 11:39` 경기 집값 상승 상위 10곳 중 6곳 첨단산업 거점…반도체 배후지 분양 잇따라 - 한국경제 — *한국경제*
-- `11-03 11:36` 여수산단, 반도체 소재 공급망 진입으로 위기 돌파구 모색 - 남해안신문 — *남해안신문*
-- `11-03 11:32` 美 중간선거 D-1, '민주당 우세' 전망에 반도체 정책 변화 '주목' - 서울파이낸스 — *서울파이낸스*
+- `11-03 19:18` 안산 반도체 부품 공장서 질산 500ℓ 누출…6명 경상(종합) - 연합뉴스 — *연합뉴스*
+- `11-03 19:12` 미국 그린트위드社와 반도체 발전·투자 논의 - 충청타임즈 — *충청타임즈*
+- `11-03 19:07` 영남이공대, 졸업생 초청 반도체 실무 특강 개최 - 경북신문 — *경북신문*
+- `11-03 18:57` 정혜경 의원 “반도체 호황에 국세 40% 늘었는데…국민 삶은 더 팍팍” - 경남도민일보 — *경남도민일보*
+- `11-03 18:52` 미 반도체 약세·중간선거 경계에...코스피 3.6%↓ - YTN — *YTN*
+- `11-03 18:46` 한미반도체 VS 한화세미텍, TC본더 특허분쟁 조정 돌입…재판 연기 - 아이뉴스24 — *아이뉴스24*
+- `11-03 18:22` 이천시의회, SK하이닉스 및 반도체 교육·지원 시설 현장 방문 - 경인미래신문 — *경인미래신문*
+- `11-03 18:18` [기고] AI 반도체 거품붕괴론의 실체 - 한국경제 — *한국경제*
 
 ## 🇰🇷 금융주
-- `11-03 11:45` 금융지주 회장 3연임 ‘문턱’ 높였지만… 주요업체 인선 끝나 ‘뒷북 규제’ 논란 - 문화일보 — *문화일보*
-- `11-03 11:45` ‘포용금융’ 평가 앞두고… 5대 금융지주, 전담조직 가동 - 문화일보 — *문화일보*
-- `11-03 11:27` 우리금융그룹, 2027년 탁상형 달력 ‘우리가 지켜야 할 우리의 자산’ 제작·배포 - 퍼블릭뉴스통신 — *퍼블릭뉴스통신*
-- `11-03 11:01` ‘임기 끝자락’ 선 카드사 CEO...금융지주 눈높이 맞췄나 - 에너지경제신문 — *에너지경제신문*
-- `11-03 11:00` [이슈] 5대 금융지주, 16조 공급 '포용금융' 관리체계 새판 짠다 - 오늘경제 — *오늘경제*
-- `11-03 11:00` 본업 살아나도 채권에 발목…금융지주 보험사 실적 ‘흔들’ - 조세일보 — *조세일보*
-- `11-03 11:00` [DQN] BNK금융, JB와 순익 격차 1913억→266억원…흔들리는 지방금융 맏형 [2026 3분기 금융사 리그테이블] - 금융신문 — *금융신문*
-- `11-03 10:55` [부고] 배헌(BNK금융지주 상무)씨 부친상 - 신아일보 — *신아일보*
+- `11-03 17:58` 금융지주 회장 연임 문턱 높인다…iM금융 인선 촉각 - 서울경제TV — *서울경제TV*
+- `11-03 17:33` 높아진 금융지주 회장 연임 문턱…핵심은 '66%룰'과 '75%룰' - 한국경제 — *한국경제*
+- `11-03 17:31` 금융지주 회장 연임 키 '임추위'가 쥔다 - 비즈워치 — *비즈워치*
+- `11-03 16:57` 금융지주 회장, 3연임 청신호…강제 제한 안하고 주총 요건만 강화 - 중앙일보 — *중앙일보*
+- `11-03 16:57` 금융지주 회장 장기집권 제동걸리나?…3연임 땐 주주 75% 동의 필요 - 조세일보 — *조세일보*
+- `11-03 16:40` [뉴스후] 금융지주 회장 연임 문턱 강화, ‘3연임 출석 의결권 75%’ 규정 - 데일리연합 — *데일리연합*
+- `11-03 16:11` 우리금융, 2027년 달력에 전통공예 무형유산 담아…장인 이야기 QR영상 제공 - 라이센스뉴스 — *라이센스뉴스*
+- `11-03 15:47` 금융지주 보험사 순익 31% 급감…10곳 중 4곳 적자 - 뉴스웍스 — *뉴스웍스*
 
 ## 🇰🇷 정책·거시
+- `11-03 18:35` 지방 부동산 회복 지원법 추진 - 부산일보 — *부산일보*
+- `11-03 16:07` 이 대통령 “집값 하락 대책 이미 강구 중…정권 운명보다 망국적 부동산투기공화국 탈출이 더 중요” - 경향신문 — *경향신문*
 - `11-02 11:09` 정점식 "수도권은 전월세 대란…10·15 대책부터 폐기하라" - 뉴스웍스 — *뉴스웍스*
 - `11-02 09:30` 서울 아파트값 90주 연속 폭등에 野 "李 부동산 폭정 멈춰라" - 조선일보 — *조선일보*
-- `11-01 18:33` 보안점검에도 해킹 잇따라…금융당국, 5일 추가 대책회의 - 뉴시안 — *뉴시안*
-- `11-01 14:36` 정부 부동산 대책서 빠진 서울…오세훈·홍지선, 대화도 단절됐다 - www.dt.co.kr — *www.dt.co.kr*
-- `11-01 13:59` 금융당국, AI 해킹 확산에 대응책 촉구…내주 보안대책 회의 - 뉴시스 — *뉴시스*
 
 ## 🌍 AI·빅테크
+- `11-03 18:27` OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ — *WSJ*
+- `11-03 16:08` Top Tech News: OpenAI’s USD 20B Funding, AI Chip Initiative and More - Analytics Insight — *Analytics Insight*
+- `11-03 14:02` Nvidia orders data centre clients to reduce China exposure - Financial Times — *Financial Times*
+- `11-03 13:51` Nvidia's Price Target Cut Is Really a Question About Who Foots the AI Bill - ad-hoc-news.de — *ad-hoc-news.de*
 - `11-03 10:53` AI Jitters Hit Private Markets: Will OpenAI's Smaller Raise Spook Investors? - BeInCrypto — *BeInCrypto*
+- `11-03 08:17` META_TITLE_QUOTE - Yahoo Finance — *Yahoo Finance*
 - `11-03 07:58` OpenAI hires former US Army secretary as military seeks to expand AI use - Financial Times — *Financial Times*
 - `11-03 03:43` Cohere Hits US$25bn as Canada & NVIDIA Fund Sovereign AI - AI Magazine — *AI Magazine*
-- `11-03 02:16` OpenAI lowers funding goal and valuation as investors pull back - Yahoo Finance — *Yahoo Finance*
-- `11-03 01:16` Oracle plans $20 billion in stock, bond sales to fund AI expansion - Anadolu Ajansı — *Anadolu Ajansı*
-- `11-03 01:07` What Does CoreWeave (CRWV) Need To Prove As AI Funding Questions Grow? - Yahoo Finance — *Yahoo Finance*
-- `11-03 00:37` OpenAI Cuts Funding Target to $20 Billion Amid AI Fears - Hoodline — *Hoodline*
-- `11-02 23:23` Sam Altman courts UAE investors as OpenAI funding target reportedly shrinks - Invezz — *Invezz*
 
 ## 🌍 연준·금리
+- `11-03 18:30` Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Globe and Mail — *The Globe and Mail*
+- `11-03 18:06` Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Motley Fool — *The Motley Fool*
+- `11-03 13:14` Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation - TradingView — *TradingView*
+- `11-03 09:44` The Fed Doesn't Set Interest Rates. Just Ask a Retiree - RealClearMarkets — *RealClearMarkets*
 - `11-03 05:28` Dallas Fed president explains why she is pushing for interest rate hikes - Dallas News — *Dallas News*
-- `11-03 04:50` The Fed Is Suddenly on Hold. When Could It Start Hiking Interest Rates Again? - The Globe and Mail — *The Globe and Mail*
-- `11-03 04:05` Gold Rebounds From One-Year Low as Oil Slump Eases Rate-Hike Fears; Silver Tops $50 - BigGo Finance — *BigGo Finance*
 - `11-03 02:26` Fed Chair Kevin Warsh is cutting the number of rate-setting votes - Quartz — *Quartz*
 - `11-03 02:25` Fed to Cut Rate Votes to Six a Year by 2027 as Warsh Curbs Guidance - BigGo Finance — *BigGo Finance*
-- `11-03 02:10` Federal Reserve cuts rate-setting votes, raising risk of slower borrowing relief - Traders Union — *Traders Union*
 - `11-03 01:57` Fed will vote on rates less often. What that could mean for borrowers - CNBC — *CNBC*
-- `11-03 00:10` Fed Holds Rates Steady - Advancing American Freedom — *Advancing American Freedom*
 
 ## 🌍 유가·지정학
-- `11-03 12:45` Oil Price Forecast: WTI and Brent Rebound on US Strike in Iran - FXEmpire — *FXEmpire*
-- `11-03 12:41` OIL PRICE UPDATE ‼️ Fuel price adjustments took effect on Tuesday, November 3, 2026, with gasoline prices increasing by ₱3.50 per liter. Meanwhile, diesel prices went down by ₱1 per liter, while kerosene prices dropped by ₱1.90 per liter. Liquefied petrol - Facebook — *Facebook*
-- `11-03 12:11` Crude Oil Trading Alert: Geopolitical premium eases as US-Iran negotiations continue; US crude accelerates correction - Moomoo — *Moomoo*
-- `11-03 12:11` Oil price rebound clashes with midterm election uncertainty: Which way will the USD/CAD exchange rate move? - Moomoo — *Moomoo*
-- `11-03 12:11` Diamondback Energy Raises Dividend and 2026 Oil Production Outlook - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-03 11:59` U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP - PBS — *PBS*
-- `11-03 11:55` Stocks mostly down as AI concerns top plunge in oil prices - Yahoo Finance UK — *Yahoo Finance UK*
-- `11-03 11:41` Oil Price Today (November 3): Crude oil rebounds to $105 as fresh attacks outweigh peace talks. What are e - The Economic Times — *The Economic Times*
+- `11-03 19:27` Crude oil trims losses as US strikes Iran's Qeshm Island while CIA Director calls for continued economic pressure - investingLive — *investingLive*
+- `11-03 18:45` Saudi Aramco Profit Beats Expectations as Oil Prices Soar - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-03 18:35` Aramco Profit Beats Estimates After Refining Boom, Oil Surge - Bloomberg.com — *Bloomberg.com*
+- `11-03 18:32` Oil edges up after report of US strike on Iran's Qeshm Island - صحيفة مال — *صحيفة مال*
+- `11-03 18:12` Goldman Sachs raises 2027 oil price forecast to US$ 88 per barrel - Egypt Independent — *Egypt Independent*
+- `11-03 17:45` Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns - WSJ — *WSJ*
+- `11-03 17:19` Watch US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge - Bloomberg.com — *Bloomberg.com*
+- `11-03 17:15` CVR Energy Nears $4 Billion Refinery Deal With Marathon - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `11-03 10:03` Global Market Today: Asian stocks slide as US chip selloff deepens - The Economic Times — *The Economic Times*
-- `11-03 08:36` Jim Cramer says lower oil prices are giving stocks a boost. Can it last? - CNBC — *CNBC*
-- `11-03 08:30` COMMENTARY: Brutal AI selloff stirs recession fears: McGeever - Reuters — *Reuters*
-- `11-03 08:28` Tech Stock Sell-Off Persists Despite Oil Price Plunge - 조선일보 — *조선일보*
-- `11-03 07:56` US Stock Market Fails To Recover as $700 Billion Comeback Collapses - Yahoo Finance — *Yahoo Finance*
-- `11-03 07:56` US Stock Market Fails To Recover as $700 Billion Comeback Collapses - BeInCrypto — *BeInCrypto*
-- `11-03 07:46` Tech Selloff Doesn’t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga — *Benzinga*
-- `11-03 07:36` US Equity Indexes Mixed as Sell-Off in Technology Continues, Crude Oil Sinks Ahead of Midterm Elections - marketscreener.com — *marketscreener.com*
+- `11-03 19:20` How to Invest for a Coming Stock-Market Rally: Morgan Stanley - Business Insider — *Business Insider*
+- `11-03 19:02` Reliance’s $19 Billion Rally Keeps India Stock Bulls in the Game - Bloomberg.com — *Bloomberg.com*
+- `11-03 18:58` Is the AI boom losing steam? Global economy faces growing risks - The Economic Times — *The Economic Times*
+- `11-03 17:55` China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider — *Business Insider*
+- `11-03 17:07` Stock market today: BSE Sensex rises over 1,000 points, Nifty50 crosses 23,700; top 5 reasons for rally - The Times of India — *The Times of India*
+- `11-03 15:42` China Stock Market: CSI 300 Loses 8.5% as Sell-Off Deepens - Coinpedia — *Coinpedia*
+- `11-03 15:00` 2 Unstoppable Quantum Computing Stocks to Buy Hand Over Fist Before the Next Rally - The Motley Fool — *The Motley Fool*
+- `11-03 14:12` Ben Cowen Says “Everyone Expects It” Was a Bad Reason to Bet Against the Q4 Market Selloff - Yahoo Finance — *Yahoo Finance*
