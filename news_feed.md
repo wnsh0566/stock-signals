@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-03 23:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-03 23:37 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-03 23:01` 美 중간선거 민주당 압승 땐 증시 충격 우려…AI·방산주 하락 가능성 - 뉴스핌 — *뉴스핌*
 - `11-03 22:30` 뉴욕증시 프리뷰, 중간선거 앞두고 주가 선물 혼조…애플·팔란티어 급락에 AI 투자 우려 지속 - 뉴스핌 — *뉴스핌*
 - `11-03 22:14` 코스피, AI 투자 우려에 3.59% 급락…외인 1.5조 매도 By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `11-03 22:02` 美 중간선거 결과 따른 코스피 '경우의 수'는? - MBC 뉴스 — *MBC 뉴스*
 - `11-03 21:04` ’AI 거품론’에 발목 잡힌 증시…코스피 3%대 급락 - 연합뉴스TV — *연합뉴스TV*
+- `11-03 20:33` 美 중간선거 결과 따른 코스피 '경우의 수'는? - MBC 뉴스 — *MBC 뉴스*
 - `11-03 19:15` [亞증시-종합] 기술주 매도에 中·대만↓…홍콩↑ - 연합인포맥스 — *연합인포맥스*
-- `11-03 19:02` [증시와이드] 불확실성 커진 증시…우량주 중심 냉정한 대응을 - 국제신문 — *국제신문*
 - `11-03 18:52` 미 반도체 약세·중간선거 경계에...코스피 3.6%↓ - YTN — *YTN*
 - `11-03 18:47` [채권-마감] 강세 플래트닝…美 중간선거 불확실성 속 증시 부진 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
+- `11-03 23:12` 반도체·군 공항·SOC…전남광주시-국회의원 공조 - KBC광주방송 — *KBC광주방송*
+- `11-03 23:11` 반도체 클러스터 인프라 구축 방안 논의 속도 - KBC광주방송 — *KBC광주방송*
+- `11-03 23:11` 용인시정연구원, "반도체 성장 맞춰 시민과 함께 재생에너지 이익공유 모델 제안" - 팔당유역신문 — *팔당유역신문*
+- `11-03 22:59` 이천시의회, 반도체 산업 현장 점검… 지역 상생 방안 모색 - 서희신문 — *서희신문*
 - `11-03 22:20` 용인시의회 경제환경위, 2027 본예산 앞두고 소상공인 지원·반도체클러스터 점검 - 팔당유역신문 — *팔당유역신문*
 - `11-03 21:26` 청주시, SK하이닉스 P&T7·M17 공업용수 공급사업 ‘순항’ - 영남신문 — *영남신문*
 - `11-03 21:25` 석유화학 위기 여수산단, 반도체 소재산업서 새 활로 찾아야 - 광주in — *광주in*
 - `11-03 21:02` [속보]반도체 공장서 질산 500ℓ 누출 사고 …150여평 대피, 6명 경상 - 문화일보 — *문화일보*
-- `11-03 20:58` 이천시의회, 반도체 현장에서 지역산업 성장 기반 짚다 - 투데이경제 — *투데이경제*
-- `11-03 20:40` PER 2배대 SK하이닉스, 고점 대비 반토막…반등 조건은 '이익 지속성'과 외국인 귀환 - 마켓잉크 — *마켓잉크*
-- `11-03 19:53` 안산 반도체 부품 공장서 질산 500리터 누출…6명 경상 - 연합뉴스TV — *연합뉴스TV*
-- `11-03 19:50` 안산 반도체 공장서 ‘질산 누출’… 6명 병원 이송… 市, 재난 문자 - 경인일보 — *경인일보*
 
 ## 🇰🇷 금융주
 - `11-03 21:54` 금융지주 보험사, 보험손익 개선에도 투자손실에 실적 뒷걸음…CSM은 성장세 - 비즈트리뷴 — *비즈트리뷴*
@@ -45,11 +45,11 @@
 - `11-03 20:31` AI & recycled capex. Total social financing. Schacht-maxxing & the West Virginia coal wars. - Adam Tooze | Substack — *Adam Tooze | Substack*
 - `11-03 19:55` Investors Were Set To Pour $30 Billion Into OpenAI: Now They’re Having Second Thoughts - www.techtimes.co.uk — *www.techtimes.co.uk*
 - `11-03 17:09` Nvidia orders data center clients to reduce China exposure: FT - Yahoo Finance — *Yahoo Finance*
-- `11-03 16:08` Top Tech News: OpenAI’s USD 20B Funding, AI Chip Initiative and More - Analytics Insight — *Analytics Insight*
 - `11-03 15:41` USD.AI Leads $106MM GPU Financing for NexGen Cloud - ABF Journal — *ABF Journal*
 - `11-03 14:39` Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg — *Bloomberg*
 - `11-03 14:05` PIMCO CEO Warns AI Capex Financing Needs Could Hit $10 Trillion Over Five Years, Ultimately Becoming "Excessive" - BigGo Finance — *BigGo Finance*
 - `11-03 14:00` Nvidia orders data centre clients to reduce China exposure - Financial Times — *Financial Times*
+- `11-03 10:53` AI Jitters Hit Private Markets: Will OpenAI's Smaller Raise Spook Investors? - BeInCrypto — *BeInCrypto*
 
 ## 🌍 연준·금리
 - `11-03 22:37` Rate Hikes Could Be Coming: History Likes These 4 Bank Stocks - 24/7 Wall St. — *24/7 Wall St.*
@@ -62,14 +62,14 @@
 - `11-03 05:28` Dallas Fed president explains why she is pushing for interest rate hikes - Dallas News — *Dallas News*
 
 ## 🌍 유가·지정학
-- `11-03 22:46` US futures in a holding pattern ahead of midterm elections though oil rebounds after US attacks Iran - Boston Herald — *Boston Herald*
+- `11-03 23:17` Stock Market Today: Dow Futures Plunge 323 Points, Apple Sinks, and Iran Strikes Send Oil Soaring - 24/7 Wall St. — *24/7 Wall St.*
+- `11-03 23:04` Alaska North Slope crude oil records fifth-highest monthly average price in history - Alaska Beacon — *Alaska Beacon*
 - `11-03 22:30` Indian Refiner BPCL Buys U.S. WTI Crude Oil Cargo - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-03 22:16` Oil prices climb after U.S. strikes Iran's Qeshm Island in Strait of Hormuz - Quartz — *Quartz*
 - `11-03 22:15` Oil prices rebound after U.S. attacks Iran - Transport Topics — *Transport Topics*
 - `11-03 22:15` Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns - WSJ — *WSJ*
 - `11-03 21:52` Iran says 3 oil tankers hit naval mines, catch fire in Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
 - `11-03 21:51` Oman Crude Oil Price Falls by $3.41 to $102.23 per Barrel - Fana News - — *Fana News -*
-- `11-03 21:30` ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
 - `11-03 22:02` Dan Ives Calls Tech Selloff a 'Gut Check' — Names His Top Stocks to Own for the Next 5 Years - Benzinga — *Benzinga*
