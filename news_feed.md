@@ -1,11 +1,12 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-05 21:46 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-05 22:11 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-05 21:45` ‘블루 쓰나미’에 파랗게 질린 증시 - 경향신문 — *경향신문*
 - `11-05 20:30` ‘블루웨이브 쇼크’에 코스피 급락…삼전 7%↓·하닉 9%↓ - 한겨레 — *한겨레*
 - `11-05 20:07` 반도체 급락에 코스피 5%↓…자동차는 강세 - 연합뉴스TV — *연합뉴스TV*
 - `11-05 20:04` 데이터센터 차질?‥'푸른 쓰나미'에 '반도체' 증시도 파랗게 질려 - MBC 뉴스 — *MBC 뉴스*
@@ -13,9 +14,9 @@
 - `11-05 19:56` 파란 쓰나미에 코스피도…외국인들 팔아치운 주식 보니 - SBS 뉴스 — *SBS 뉴스*
 - `11-05 19:30` 최태원, 서울대학교서 특강…"美 중간선거 결과에 증시 요동" - 연합뉴스TV — *연합뉴스TV*
 - `11-05 19:20` [亞증시-종합] 순환매 속 엇갈림…中·홍콩↑ 臺↓ 日혼조 - 연합인포맥스 — *연합인포맥스*
-- `11-05 19:17` ‘블루 웨이브’ 환호한 美증시, 퍼렇게 질린 韓증시(종합) - 국제신문 — *국제신문*
 
 ## 🇰🇷 반도체·HBM
+- `11-05 21:53` 청주대, 반도체 AX 오픈랩 실무형 인재 양성 ‘성과’ - 뉴데일리 충청세종 — *뉴데일리 충청세종*
 - `11-05 21:27` [사설] 6조원 반도체 지원 사업, 비전문가들이 심의한다니 - 서울신문 — *서울신문*
 - `11-05 21:22` 일본 구마모토현, 반도체 통해 새 미래 그려나가 - KBC광주방송 — *KBC광주방송*
 - `11-05 21:16` 미 민주 ‘데이터센터 규제 강화’ 기조…한국 반도체 ‘숨 고르기’ - 경향신문 — *경향신문*
@@ -23,9 +24,9 @@
 - `11-05 21:11` [보도설명자료] 「전남광주통합특별시 지원위원회 민간위원 반도체 전문가 없어」(11.5.,조선, 중앙, 한경 등) 보도 관련 - 대한민국 정책브리핑 — *대한민국 정책브리핑*
 - `11-05 21:10` 브이원텍 자회사 시스콘로보틱스, 반도체 소재 가공공정용 MTR 34억원 수주 쾌거 - 로봇신문 — *로봇신문*
 - `11-05 21:07` 미 선거에 흔들린 반도체…복잡해진 우리 경제 셈법 - KBS 뉴스 — *KBS 뉴스*
-- `11-05 21:05` 최태원 “이제 롤러코스터 장세는 상수…반도체 수요 계속 커진다” - 주간한국 — *주간한국*
 
 ## 🇰🇷 금융주
+- `11-05 21:43` 한국금융지주 3분기 영업익 3004억원…누적은 40.1% 증가 - 비건뉴스 — *비건뉴스*
 - `11-05 19:56` [금융 게시판] 우리금융, 소상공인 400명 나눔봉사단 출범…하나금융, 수입차 금융 협력 확대 - 라이센스뉴스 — *라이센스뉴스*
 - `11-05 19:39` iM금융·노브랜드, 선스틱·미스트 출시 - 경북일보 — *경북일보*
 - `11-05 18:14` JB금융그룹, 이주민과 ‘JB 헬로 투게더 마켓' 성료 - 전북중앙 — *전북중앙*
@@ -33,7 +34,6 @@
 - `11-05 18:04` 한국금융지주, 3분기 누적 순익 2조1968억원…전년比 31.2%↑ - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
 - `11-05 17:59` 한국금융지주 3분기 순이익 2818억으로 58% 줄어, 한투증권 실적도 후퇴 - 비즈니스포스트 — *비즈니스포스트*
 - `11-05 17:44` [단독] 금융지주 '독립이사 주주추천제' 도입 가닥…법 개정 대신 '모범관행' - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `11-05 17:34` JB금융그룹, 이주민 상생 바자회 ‘JB 헬로 투게더 마켓' 성료 - 글로벌경제신문 — *글로벌경제신문*
 
 ## 🇰🇷 정책·거시
 - `11-05 19:03` 민주당 서울시당, 부동산 세제 개편·공급 대책 당정협 추진 - 미디어펜 — *미디어펜*
@@ -44,13 +44,13 @@
 
 ## 🌍 AI·빅테크
 - `11-05 12:50` Nvidia's Build-Out Meets Its Balance Sheet: Melius Trims Target to $315 Ahead of 17 November Results - ad-hoc-news.de — *ad-hoc-news.de*
-- `11-05 09:56` Democratic Sweep Lifts Big Tech by Nearly $1 Trillion as Investors Bet on Slower AI Capex - BigGo Finance — *BigGo Finance*
 - `11-05 06:37` 5-star analyst resets Nvidia stock target after Intel crash - TheStreet — *TheStreet*
 - `11-05 03:57` Big Tech Stocks And Mag7 ETF Jumps After Democratic Sweep Raises Bets For Easing AI Capex - Yahoo Finance — *Yahoo Finance*
 - `11-05 02:45` Hive lines up $129 million to buy Nvidia AI chips - TheStreet — *TheStreet*
 - `11-05 02:06` Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank - Yahoo Finance — *Yahoo Finance*
 - `11-04 22:26` OpenAI's New Funding Round Undersubscribed at Less Than Half Its Target, Valuation Slashed to $1.25 Trillion - BigGo Finance — *BigGo Finance*
 - `11-04 22:09` AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day - Yahoo Finance — *Yahoo Finance*
+- `11-04 20:29` Exclusive: OpenAI targets Microsoft's GitHub with deal for startup - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
 - `11-05 21:15` Fed independence may stabilize post-election, boosting 2026 rate hike expectations - Crypto Briefing — *Crypto Briefing*
@@ -70,9 +70,10 @@
 - `11-05 21:01` Oil prices and UK mortgage costs - Energy & Climate Intelligence Unit | ECIU — *Energy & Climate Intelligence Unit | ECIU*
 - `11-05 21:00` Current price of oil as of Nov. 5, 2026 - Fortune — *Fortune*
 - `11-05 20:47` Oil Tanker Hits Mine East of Hormuz Strait: Iran’s Army - تسنیم — *تسنیم*
-- `11-05 20:45` Oil Prices Plunge As Vance Blames Iran War For Republican Election Defeat - Yahoo — *Yahoo*
+- `11-05 20:42` COMMENTARY: Morning Bid: Oil and the blame game - Reuters — *Reuters*
 
 ## 🌍 시장 전반
+- `11-05 20:56` A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’ - MarketWatch — *MarketWatch*
 - `11-05 20:23` The Case for a Year-End US Stocks Rally - Bloomberg.com — *Bloomberg.com*
 - `11-05 20:21` Mapping the Market: After hot run, Dollar Tree shares could rally further - Reuters — *Reuters*
 - `11-05 20:10` Sensex surges 2,009 points, Nifty up 576 amid global optimism - Rediff — *Rediff*
@@ -80,4 +81,3 @@
 - `11-05 19:16` Bull run on D-Street: Sensex settles 2,000 pts higher, Nifty reclaims 24,500; key factors behind market... - Moneycontrol.com — *Moneycontrol.com*
 - `11-05 19:15` Toyota’s stock rallies after the company lowered sales guidance. Here’s how rare that is. - MarketWatch — *MarketWatch*
 - `11-05 18:19` Dow futures outperform day after Wall Street's post-midterm rally (SPX:) - Seeking Alpha — *Seeking Alpha*
-- `11-05 18:09` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Nearly 70 Years' Worth of History. - The Motley Fool — *The Motley Fool*
