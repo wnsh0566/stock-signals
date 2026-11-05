@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-05 21:18 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-05 21:46 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,14 +16,14 @@
 - `11-05 19:17` ‘블루 웨이브’ 환호한 美증시, 퍼렇게 질린 韓증시(종합) - 국제신문 — *국제신문*
 
 ## 🇰🇷 반도체·HBM
+- `11-05 21:27` [사설] 6조원 반도체 지원 사업, 비전문가들이 심의한다니 - 서울신문 — *서울신문*
+- `11-05 21:22` 일본 구마모토현, 반도체 통해 새 미래 그려나가 - KBC광주방송 — *KBC광주방송*
+- `11-05 21:16` 미 민주 ‘데이터센터 규제 강화’ 기조…한국 반도체 ‘숨 고르기’ - 경향신문 — *경향신문*
+- `11-05 21:14` 호남 반도체 지원 사업 심의에 비전문가 포진 - Tbc.co.kr — *Tbc.co.kr*
+- `11-05 21:11` [보도설명자료] 「전남광주통합특별시 지원위원회 민간위원 반도체 전문가 없어」(11.5.,조선, 중앙, 한경 등) 보도 관련 - 대한민국 정책브리핑 — *대한민국 정책브리핑*
+- `11-05 21:10` 브이원텍 자회사 시스콘로보틱스, 반도체 소재 가공공정용 MTR 34억원 수주 쾌거 - 로봇신문 — *로봇신문*
 - `11-05 21:07` 미 선거에 흔들린 반도체…복잡해진 우리 경제 셈법 - KBS 뉴스 — *KBS 뉴스*
 - `11-05 21:05` 최태원 “이제 롤러코스터 장세는 상수…반도체 수요 계속 커진다” - 주간한국 — *주간한국*
-- `11-05 21:00` `6조` 호남 반도체 예산 심의에 카페 대표, 의사가?…민간위원 면면 보니 - 매일신문 — *매일신문*
-- `11-05 20:57` 용인반도체고 첫 신입생 모집에 620명 지원…경쟁률 4.8대 1 - 한국경제 — *한국경제*
-- `11-05 20:46` 美 민주당 의회 장악에 미·중 갈등 격화 우려…대만·반도체가 새 뇌관 - 뉴스핌 — *뉴스핌*
-- `11-05 20:24` 팹 유치 실패 아픔 딛고…시스템반도체 싹틔우는 대구 - 영남일보 — *영남일보*
-- `11-05 20:07` 반도체 급락에 코스피 5%↓…자동차는 강세 - 연합뉴스TV — *연합뉴스TV*
-- `11-05 20:06` 인천 반도체·바이오, 3분기도 웃었다 - 경인일보 — *경인일보*
 
 ## 🇰🇷 금융주
 - `11-05 19:56` [금융 게시판] 우리금융, 소상공인 400명 나눔봉사단 출범…하나금융, 수입차 금융 협력 확대 - 라이센스뉴스 — *라이센스뉴스*
@@ -55,22 +55,22 @@
 ## 🌍 연준·금리
 - `11-05 21:15` Fed independence may stabilize post-election, boosting 2026 rate hike expectations - Crypto Briefing — *Crypto Briefing*
 - `11-05 21:09` How the Federal Reserve Emerged as a Winner From the US Election - Bloomberg.com — *Bloomberg.com*
+- `11-05 20:04` Top CD rates today, Nov. 5, 2026: Lock in up to up to 5.05% - Fortune — *Fortune*
 - `11-05 20:00` The Fed Needs a Better Way to Talk About Interest Rates - Bloomberg.com — *Bloomberg.com*
 - `11-05 19:41` The Monthly Check From These 3 Treasury ETFs Moves With Interest Rates. Here's What Retirees Should Expect - 24/7 Wall St. — *24/7 Wall St.*
 - `11-05 18:06` The Federal Reserve's Initial November Inflation Forecast Has Arrived, and Things Are Getting Downright Ugly for Wall Street - The Motley Fool — *The Motley Fool*
 - `11-05 17:45` Gold and stocks rally after US midterms, greenback dips: Key takeaways for Singapore investors - The Straits Times — *The Straits Times*
 - `11-05 15:33` US October Nonfarm Payrolls Preview: Can Employment Rebound? US Stocks, Dollar and Gold Face Key Test - TradingKey — *TradingKey*
-- `11-05 15:28` Democrats’ Senate Win Could Strengthen Federal Reserve Independence - www.tokenpost.com — *www.tokenpost.com*
 
 ## 🌍 유가·지정학
+- `11-05 21:33` Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon - MarketWatch — *MarketWatch*
+- `11-05 21:31` Interest rate rise – Iran crisis linked to mortgage costs, new analysis - Energy & Climate Intelligence Unit | ECIU — *Energy & Climate Intelligence Unit | ECIU*
+- `11-05 21:30` India to Require State Utilities to Add Energy Storage Capacity - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-05 21:22` Oil Prices Rebound Following Historic Selloff as Markets Weigh Iran War Risks and U.S. Election Fallout - EnergyNow — *EnergyNow*
 - `11-05 21:01` Oil prices and UK mortgage costs - Energy & Climate Intelligence Unit | ECIU — *Energy & Climate Intelligence Unit | ECIU*
 - `11-05 21:00` Current price of oil as of Nov. 5, 2026 - Fortune — *Fortune*
-- `11-05 20:48` Oil Prices Rebound Following Historic Selloff as Markets Weigh Iran War Risks and U.S. Election Fallout - EnergyNow.com — *EnergyNow.com*
 - `11-05 20:47` Oil Tanker Hits Mine East of Hormuz Strait: Iran’s Army - تسنیم — *تسنیم*
-- `11-05 20:42` COMMENTARY: Morning Bid: Oil and the blame game - Reuters — *Reuters*
-- `11-05 20:28` IRGC Says Two Oil Tankers and Tugboat Catch Fire in Strait of Hormuz: how 6 outlets framed it - NewsCord — *NewsCord*
-- `11-05 20:24` Oil Prices Fall Below $103 as Democrats Win Congress and Trump Signals No New Iran Strikes - CryptoRank — *CryptoRank*
-- `11-05 20:15` Iran Reports More Tanker Fires in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-05 20:45` Oil Prices Plunge As Vance Blames Iran War For Republican Election Defeat - Yahoo — *Yahoo*
 
 ## 🌍 시장 전반
 - `11-05 20:23` The Case for a Year-End US Stocks Rally - Bloomberg.com — *Bloomberg.com*
@@ -79,5 +79,5 @@
 - `11-05 19:30` Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed After Post-Midterm Rally — TM, ARM, QCOM in Focus - TradingView — *TradingView*
 - `11-05 19:16` Bull run on D-Street: Sensex settles 2,000 pts higher, Nifty reclaims 24,500; key factors behind market... - Moneycontrol.com — *Moneycontrol.com*
 - `11-05 19:15` Toyota’s stock rallies after the company lowered sales guidance. Here’s how rare that is. - MarketWatch — *MarketWatch*
+- `11-05 18:19` Dow futures outperform day after Wall Street's post-midterm rally (SPX:) - Seeking Alpha — *Seeking Alpha*
 - `11-05 18:09` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Nearly 70 Years' Worth of History. - The Motley Fool — *The Motley Fool*
-- `11-05 17:45` Gold and stocks rally after US midterms, greenback dips: Key takeaways for Singapore investors - The Straits Times — *The Straits Times*
