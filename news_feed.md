@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-06 11:44 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-06 12:31 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-06 11:35` ’블루 쓰나미’에 코스피 장중 5,000선 무너져 - 연합뉴스TV — *연합뉴스TV*
-- `11-06 11:34` 코스피 급락에…野 “미래대응기금 백지화해야” - 경기일보 — *경기일보*
-- `11-06 11:33` 美 '블루웨이브' 충격에 코스피 장중 5000선 무너져 - 경북신문 — *경북신문*
-- `11-06 11:28` 야권, 코스피 5천 붕괴에 "거품 꺼졌다"‥정부 책임론 주장 - MBC 뉴스 — *MBC 뉴스*
-- `11-06 11:27` '블루웨이브 쇼크' 파랗게 질린 증시…장중 5천피 무너지며 폭락장세 - 매일경제 마켓 — *매일경제 마켓*
-- `11-06 11:23` [외환] 반도체발 증시 급락에 1,350원 중후반대 횡보 - KB Think — *KB Think*
-- `11-06 11:20` [증시바닥 진단] 오천피 붕괴…증권가 "최악 선반영…기회 찾을 때"(종합) - 연합인포맥스 — *연합인포맥스*
-- `11-06 11:20` 코스피 시총 고점대비 ’40%·3천조’ 증발…개미들 “패닉“ 성토 - 연합뉴스TV — *연합뉴스TV*
+- `11-06 12:20` 코스피 5000선 붕괴·서킷브레이커 발동…F4 긴급 회동 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `11-06 12:20` 수능날 증시 오전 10시 개장…넥스트레이드 프리마켓 휴장 By 알파경제 alphabiz - Investing.com 한국어 — *Investing.com 한국어*
+- `11-06 12:14` 이형일 "증시 지나치게 반응 않도록 필요한 조치 선제적 강구·" - YTN — *YTN*
+- `11-06 12:12` AI 투자 우려에 일본·한국 증시 급락 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-06 12:05` 野, 코스피 5,000 붕괴에 "억지 부양하더니 국민 피눈물" 총공세 - 연합인포맥스 — *연합인포맥스*
+- `11-06 12:05` [속보] 한동훈, 코스피 5000선 붕괴에 “국민 노후 담보로 투기판 벌인 대가…李 대통령 직접 답하라” - 강원일보 — *강원일보*
+- `11-06 12:02` 코스피 폭락…9개월 만에 5천선 아래로 - KBS 뉴스 — *KBS 뉴스*
+- `11-06 11:59` AI 패닉셀… 녹아내린 K증시 - 문화일보 — *문화일보*
 
 ## 🇰🇷 반도체·HBM
+- `11-06 12:08` 美 민주당發 AI 규제 공포… 우려 커진 韓 반도체 과잉 의존[사설] - 문화일보 — *문화일보*
+- `11-06 12:06` ‘블루쓰나미’ 덮친 ‘반도체 외끌이’ 韓경제… 수출·환율 줄타격 - 문화일보 — *문화일보*
+- `11-06 12:00` “반도체 수요 줄어들것”… 호남 클러스터 ‘속도조절론’ - 문화일보 — *문화일보*
+- `11-06 12:00` 국힘 “李 억지부양에 코스피 반토막”… 한동훈 “국민연금 반도체 몰빵 규명” - 문화일보 — *문화일보*
+- `11-06 11:54` [긴급진단]AI 투자 호황에 제동… 반도체 슈퍼사이클 분수령 맞았다 - 비즈체크 — *비즈체크*
+- `11-06 11:40` AI가 키운 메모리 황금기…삼성·SK, HBM·D램 주도권 경쟁 격화 By EBN - Investing.com 한국어 — *Investing.com 한국어*
+- `11-06 11:32` AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파 - 매일경제 마켓 — *매일경제 마켓*
 - `11-06 11:27` 155조원 빅딜에 AI 반도체 '지각변동'…삼성, 광반도체 공략 - 뉴스핌 — *뉴스핌*
-- `11-06 11:26` SK하이닉스, 산업보건 선진화위 10년 활동 성과 공유 - 뉴스핌 — *뉴스핌*
-- `11-06 11:23` [외환] 반도체발 증시 급락에 1,350원 중후반대 횡보 - KB Think — *KB Think*
-- `11-06 11:19` SK하이닉스, 산업보건 선진화 10년 성과 공유회 개최 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-06 11:17` "영우디에스피, PER 3.1배 저평가…로봇·반도체 사업 확대" - 밸류파인더 - 뉴스핌 — *뉴스핌*
-- `11-06 11:12` SK하이닉스 주가, 오늘 급락한 이유는? - Investing.com 한국어 — *Investing.com 한국어*
-- `11-06 11:07` LS일렉트릭, 한전 ‘고장예측’ 기술 품는다…반도체·AI 데이터센터 공략 - 에너지경제신문 — *에너지경제신문*
-- `11-06 11:04` 블루 쓰나미 덮친 AI 인프라…美 표심에 K반도체 긴장 - 에너지경제신문 — *에너지경제신문*
 
 ## 🇰🇷 금융주
 - `11-06 11:36` 한국금융지주, 증권주 중 최대 20% 급락...업종 평균 웃도는 낙폭에 '촉각' - 녹색경제신문 — *녹색경제신문*
@@ -32,16 +32,18 @@
 - `11-06 11:27` 한국금융지주, 실적 눈높이 낮아졌다…목표가 줄하향 - 비즈트리뷴 — *비즈트리뷴*
 - `11-06 11:23` 임종룡, MSCI CEO 만나 ‘기후·AI 금융’ 논의...녹색금융 속도 - 에너지경제신문 — *에너지경제신문*
 - `11-06 11:21` 한국금융지주 주가 장중 20%대 급락, '실적 부진'에 증권가 목표주가 하향 - 비즈니스포스트 — *비즈니스포스트*
-- `11-06 11:18` KB국민은행, 아동수당통장 출시…최고 연 3.1% 금리 - 이지경제 — *이지경제*
+- `11-06 11:13` [특징주] 한국금융지주, 실적 부진·목표가 줄하향에 '급락' - 컨슈머타임스 — *컨슈머타임스*
 - `11-06 11:08` 한국금융지주, 3분기 누적 순익 2조1968억원…전년比 31.2%↑ - 뉴스워치 — *뉴스워치*
 
 ## 🇰🇷 정책·거시
+- `11-06 12:21` 정부 부천·수원 추가 규제 등 부동산 대책 지라시 사실 아냐 - 아주경제 — *아주경제*
+- `11-06 12:10` 국토교통부, “현재 유포되고 있는 부동산 대책 관련 내용 사실 아니고, 수사 의뢰 등 강력 대응” - 문화일보 — *문화일보*
+- `11-06 12:09` 대만 금융당국, 6일 오후 증시 안정 대책 발표 예고 - 토큰포스트 — *토큰포스트*
+- `11-06 12:08` [참고] 현재 유포되고 있는 부동산 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다. - 서울Pn — *서울Pn*
+- `11-06 11:53` 국토부 “‘11월 중순 부동산 대책’ 유포글 사실 아냐”…추가 수사 의뢰 예고 - 에너지경제신문 — *에너지경제신문*
 - `11-06 10:43` [아유경제_부동산] 대광위, 하남교산 교통 대책 점검… “주요 교통시설 적기 구축에 총력” - 아유경제 — *아유경제*
 - `11-05 19:03` 민주당 서울시당, 부동산 세제 개편·공급 대책 당정협 추진 - 미디어펜 — *미디어펜*
 - `11-05 18:28` 與 서울 의원들 정부 대책 맞춰 당 차원 부동산 세제·공급 대책 마련 - 아주경제 — *아주경제*
-- `11-05 15:12` 정부, 7.6만 가구 대책 후 '현장 밀착형' 부동산 점검 행보 잇따라 - 매일경제TV — *매일경제TV*
-- `11-05 11:02` [생생뉴스] 지역 부동산 시장 양극화 심화, 현황과 대책은? - KBS 뉴스 — *KBS 뉴스*
-- `11-05 09:05` 공무원 1만명 오는 세종, 전월세 부족할라…오송까지 주거대책 확대 [부동산360] - 헤럴드경제 — *헤럴드경제*
 
 ## 🌍 AI·빅테크
 - `11-06 09:09` Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade - 24/7 Wall St. — *24/7 Wall St.*
@@ -64,21 +66,21 @@
 - `11-06 04:00` Federal Reserve holds interest rates steady as inflation and consumer debt remain concerns - Spectrum News — *Spectrum News*
 
 ## 🌍 유가·지정학
+- `11-06 11:41` WTI Price Forecast: Crude Oil Rebounds From Critical Support - FXEmpire — *FXEmpire*
+- `11-06 11:40` EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89% - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-06 11:04` As high oil prices curb demand, fresh signs of glut appear - Reuters — *Reuters*
 - `11-06 11:00` America's Rare Earth Reckoning Is Less Than 60 Days Away - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-06 10:53` The Iran war has cost U.S. households nearly $2,000 each. New strikes could keep the bill climbing - Fortune — *Fortune*
 - `11-06 10:31` 80% odds of renewed military attack in Iran, oil risk premium to head higher: Bob McNally - CNBC — *CNBC*
 - `11-06 10:19` Oil Heads for Steep Weekly Loss as Mideast Peace Prospects Rise - Bloomberg.com — *Bloomberg.com*
 - `11-06 10:00` Oil Rebounds Toward $100 as Democrats' Sweep Rattles Energy Stocks - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-06 09:15` EDP Net Profit Climbs 25% as Grids and Renewables Boost Earnings - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-06 09:00` U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
+- `11-06 12:15` Stock Market Glossary: Terms for Navigating a Market Meltdown - Bloomberg.com — *Bloomberg.com*
+- `11-06 11:53` Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `11-06 11:52` Anthropic IPO Valuation Could Fall to $1 Trillion, May Delay: Report - Tema Photonics & Optical ETF (ARCA - Benzinga — *Benzinga*
+- `11-06 11:52` Why the midterm blue wave just triggered a red Wall Street - USA Today — *USA Today*
+- `11-06 11:41` Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally - Bloomberg.com — *Bloomberg.com*
+- `11-06 11:31` Japan and Korea tech stocks sink amid global AI rout - Financial Times — *Financial Times*
+- `11-06 11:10` Exclusive | Hedge Funds Dump Positions and Cut Staff as Selloff Deepens - WSJ — *WSJ*
 - `11-06 11:09` Asia's Tech Giants Are Getting Crushed in the AI Trade Rout - Business Insider — *Business Insider*
-- `11-06 11:05` Dow Futures Fall, Techs Jump After Market Sell-Off. What To Do. - Investor's Business Daily — *Investor's Business Daily*
-- `11-06 10:54` 'Worst Drop In 19 Months': Why US Stocks Came Under Fire Day After Rally - NDTV — *NDTV*
-- `11-06 10:53` Stocks plunge as election outcome and AI worries crush tech shares - NBC News — *NBC News*
-- `11-06 10:44` Major tech stocks plunge as US midterms add to fears of AI slowdown - BBC — *BBC*
-- `11-06 10:33` Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `11-06 10:22` Brutal sell-off for AI stocks sends Wall Street reeling - CNA — *CNA*
-- `11-06 10:09` Trump blames Democrats for stock market plunge after sweeping midterm victories - Fox Business — *Fox Business*
