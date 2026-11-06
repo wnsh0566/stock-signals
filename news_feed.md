@@ -1,21 +1,22 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-06 20:26 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-06 21:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-06 20:30` [뉴스프라임] 증시 덮친 '블루쓰나미'…백악관, 보수단체에 경고 - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
+- `11-06 20:29` [뉴스프라임] 증시 덮친 ’블루쓰나미’…백악관, 보수단체에 경고 - 연합뉴스TV — *연합뉴스TV*
+- `11-06 20:24` AI 관련주 급락 속 인도 증시에 하루 16억 달러 외국인 자금 유입 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-06 20:13` 5천선 간신히 지킨 코스피…‘서킷·사이드카 몸살’ 연기금이 방어 - 한겨레 — *한겨레*
 - `11-06 19:50` 석달 전 코스피 '5000 붕괴' 적중한 전문가…"연말 추가 하락 가능성은 낮아" - 아시아경제 — *아시아경제*
 - `11-06 19:47` 코스피 장중 5천선 붕괴…108배 하며 “원금만이라도” - 채널A — *채널A*
 - `11-06 19:45` '블루 쓰나미' 여파에 코스피 '검은 금요일'‥세계 증시도 동반 '충격' - MBC 뉴스 — *MBC 뉴스*
 - `11-06 19:14` ’천당과 지옥’ 오간 코스피…AI 반도체에 웃고 울었다 - 연합뉴스TV — *연합뉴스TV*
-- `11-06 19:11` 코스피 ’검은 금요일’…블루웨이브 쇼크에 6% 폭락 - 연합뉴스TV — *연합뉴스TV*
-- `11-06 19:08` 與, 증시 급락에 긴급 간담회... “투자자 불안 해소에 모든 수단 투입” - 국제신문 — *국제신문*
-- `11-06 19:01` 코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 - KBS 뉴스 — *KBS 뉴스*
-- `11-06 18:59` 민주, 증시 급락에 긴급 당정…김민석 “개인 투자자 보호·시장 신뢰 회복” - 한겨레 — *한겨레*
 
 ## 🇰🇷 반도체·HBM
+- `11-06 20:39` [쏙쏙뉴스] 미국 민주당 압승이 반도체 위기? "우린 훨씬 유리해졌다" - OhmyNews — *OhmyNews*
 - `11-06 19:50` 반도체 호황 끝나나?‥미중 AI경쟁은 여전히 유효 - MBC 뉴스 — *MBC 뉴스*
 - `11-06 19:47` [이슈+] 美 데이터센터 규제 우려에 반도체주 급락…HBM 수요는 괜찮나 - 비즈트리뷴 — *비즈트리뷴*
 - `11-06 19:42` AI가 반도체 쓸어가자 자동차업계 '비상'…내년 가격 폭등 경고 - 지디넷코리아 — *지디넷코리아*
@@ -23,7 +24,6 @@
 - `11-06 19:26` SEM 전문 코셈, 반도체 공정용 검사장비 진입 추진 - 디일렉 — *디일렉*
 - `11-06 19:24` 미국 반도체 주식, 전날 급락 후 강하게 반등 - Investing.com 한국어 — *Investing.com 한국어*
 - `11-06 19:14` ’천당과 지옥’ 오간 코스피…AI 반도체에 웃고 울었다 - 연합뉴스TV — *연합뉴스TV*
-- `11-06 18:42` 반도체 이틀 급락에 삼전닉스 레버리지 90% 증발 - KBS 뉴스 — *KBS 뉴스*
 
 ## 🇰🇷 금융주
 - `11-06 18:40` 하나금융그룹, 창사 이래 첫 번째 개인주주 초청 간담회 개최 - 국제일보 — *국제일보*
@@ -56,6 +56,7 @@
 - `11-06 09:05` The Inmates Are Running the Asylum: Wall Street’s AI Capex Contradiction - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter — *Dr. Robert Castellano's Semiconductor Deep Dive Newsletter*
 
 ## 🌍 연준·금리
+- `11-06 20:01` Top CD rates today, Nov. 6, 2026: Lock in up to up to 5.05% - Fortune — *Fortune*
 - `11-06 20:00` Fed’s New Schedule for Rate-setting Meetings Turns Back the Clock for ‘Strategy’ Sessions - Bloomberg.com — *Bloomberg.com*
 - `11-06 18:15` Fed Chair Kevin Warsh Is Planning to Break 45 Years of Precedent With a Stunning Change to Monetary Policy -- It Could Rattle Wall Street for Years to Come - The Motley Fool — *The Motley Fool*
 - `11-06 17:43` US Treasury Traders Make Bullish Bets Ahead of Jobs Report - Bloomberg.com — *Bloomberg.com*
@@ -63,24 +64,23 @@
 - `11-06 12:43` Gold Price Forecast: Gold Falls Below $4,100, Can October Nonfarm Payrolls Fuel Another Rally? - TradingKey — *TradingKey*
 - `11-06 09:56` Barkin, Hammack Both Back Gradual Rate Hikes as Market Odds of December Increase Top 80% - BigGo Finance — *BigGo Finance*
 - `11-06 09:40` Democrats Secure Congressional Majorities, Reshaping Fed Appointment Dynamics - Businesskorea — *Businesskorea*
-- `11-06 06:40` Friday’s Jobs Report: A Good Number Is a Green Light for a Fed Rate Increase - Barron's — *Barron's*
 
 ## 🌍 유가·지정학
+- `11-06 20:52` Two Oil Tankers Catch Fire After Hitting Mines in Strait of Hormuz - Caspian Post — *Caspian Post*
+- `11-06 20:44` Brent oil price benchmark set for biggest weekly drop since 2020 - Euronext Markets: Real-time Stock Market Data | live — *Euronext Markets: Real-time Stock Market Data | live*
+- `11-06 20:30` Oil Declines on Signs of Moves Toward Gulf War De-Escalation - Bloomberg.com — *Bloomberg.com*
 - `11-06 20:15` India's HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-06 19:00` Iran exempts Iraq from Strait of Hormuz restrictions as oil exports rise - IraqiNews — *IraqiNews*
+- `11-06 19:23` Iran exempts Iraq from Strait of Hormuz restrictions as oil exports rise - IraqiNews — *IraqiNews*
 - `11-06 18:07` Oil set for sharp weekly drop after US midterms raise hopes of more Mideast crude exports - Yahoo Finance — *Yahoo Finance*
-- `11-06 18:03` Two oil tankers struck by mines in Strait of Hormuz - NewsNation — *NewsNation*
 - `11-06 17:59` Iran's IRGC says two oil tankers hit mines, catch fire in Strait of Hormuz - A News — *A News*
 - `11-06 17:45` China's Carbon Emissions Plunge 3.1% as Oil Demand Slumps - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-06 17:38` IAG Says It Will Keep Rewarding Investors Even as Fuel Surges - Bloomberg.com — *Bloomberg.com*
-- `11-06 17:30` ADNOC Signs 10-Year LNG Supply Deal With India's Gujarat Energy - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
+- `11-06 20:55` Healthcare Stocks Fall as Market Rout Spreads - WSJ — *WSJ*
+- `11-06 20:30` AI Has Taken Over Every Corner of the Market - Bloomberg.com — *Bloomberg.com*
 - `11-06 20:16` Wall Street reverses course as Dow drops nearly 1,700 points, Nasdaq enters correction territory - Big Country News | — *Big Country News |*
+- `11-06 20:14` Stock Market Today: Nasdaq Crashes 5.5% as Midterm Fallout Turns Into a Brutal AI Chip Selloff - ChartMill — *ChartMill*
 - `11-06 20:07` The market rout is stinging investors, but the internet is seeing the funny side - markets.businessinsider.com — *markets.businessinsider.com*
 - `11-06 20:01` Nasdaq plunges as semiconductor stocks lead broad market selloff - www.equiti.com — *www.equiti.com*
-- `11-06 19:42` The biggest losers of the massive tech stock sell-off - Techzine Global — *Techzine Global*
-- `11-06 19:35` Taiwan to Deploy Market Stabilization Fund After Stock Rout - Bloomberg.com — *Bloomberg.com*
 - `11-06 19:22` Nasdaq futures rise after steep AI selloff as chip stocks stabilize - Reuters — *Reuters*
 - `11-06 19:22` Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph - The Guardian — *The Guardian*
-- `11-06 19:06` Nasdaq Futures Rally After Asian AI Rout as Investors Brace for Jobs Day - WSJ — *WSJ*
