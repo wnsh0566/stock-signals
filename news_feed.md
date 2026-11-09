@@ -1,86 +1,82 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-07 12:02 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-09 10:51 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-07 11:43` [속보]"`블루웨이브 쇼크`에 세계증시 시총 하루만에 4800조 원 증발" - 국제신문 — *국제신문*
-- `11-07 11:34` 국내 증시 부진에 ‘서학개미’ 미국 주식 매수 급증...일주일 새 3조원 육박 - M이코노미뉴스 — *M이코노미뉴스*
-- `11-07 11:34` 코스피 5000선 붕괴에도…노무라 "1만피 간다" - 아시아경제 — *아시아경제*
-- `11-07 11:22` [해외시황] 뉴욕증시, 반도체株 반등·금리 인상 우려에 '혼조'…나스닥 1.09%↑ - 프라임경제 — *프라임경제*
-- `11-07 11:00` [판으로 읽는 경제] 美 '블루 쓰나미'에 코스피 붕괴…왜 한국이 더 아팠나 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `11-07 10:49` 뉴욕 증시 반등 성공…美 10월 일자리 늘었다 - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
-- `11-07 10:49` 월가 AI 회의론에 출렁인 코스피, 삼성전자·SK하이닉스 데이터센터 수주 시험대 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-07 10:45` [11월 첫째 주 세계경제동향 브리핑] 코스피·코스닥 11%대 동반 폭락…美 증시도 급락 - 기호일보 — *기호일보*
+- `11-09 10:47` '살얼음판' 코스피, 5000 깨진 뒤 5100 위로 - 비즈워치 — *비즈워치*
+- `11-09 10:35` 5000선 사수전 들어간 코스피…이번주 반등이냐 2차 충격이냐 - 이로운넷 — *이로운넷*
+- `11-09 10:29` 5100선 올라섰던 코스피, 어디로?…삼전닉스 상승에도 외국인은 ‘팔자’ - 매일경제 마켓 — *매일경제 마켓*
+- `11-09 10:28` 코스피 'AI 우려 진정' 장중 약보합 5040선, 코스닥은 1%대 하락 - 비즈니스포스트 — *비즈니스포스트*
+- `11-09 10:25` 코스피, 하락 출발 후 상승 전환…5,100선 상회 - 연합뉴스TV — *연합뉴스TV*
+- `11-09 10:16` 코스피, 개인·기관 쌍끌이 매수에 5100 회복 - 머니투데이 - 머니투데이 — *머니투데이*
+- `11-09 10:13` 코스피,장초반 소폭 올라 5,100선 회복...삼전·닉스 상승 - 서울이코노미뉴스 — *서울이코노미뉴스*
+- `11-09 10:11` 하락 출발 코스피 장 초반 상승 전환...삼성전자 1.8%, SK하이닉스 2.7% 올라 - 조선일보 — *조선일보*
 
 ## 🇰🇷 반도체·HBM
-- `11-07 11:51` 지자체 세수만 ‘최대 12배’…삼성·SK 반도체 호황에 웃는 지역 어디? - 조세일보 — *조세일보*
-- `11-07 11:26` [반도체 고 인기몰이] 용인교육지원청, 용인반도체고 경쟁률 4.8대 1 넘어 … 지원자 620명 돌파 - 서울뉴스통신 — *서울뉴스통신*
-- `11-07 11:22` [해외시황] 뉴욕증시, 반도체株 반등·금리 인상 우려에 '혼조'…나스닥 1.09%↑ - 프라임경제 — *프라임경제*
-- `11-07 11:20` 코스피 5000선 흔들리자 AI 거품론 재점화…반도체 실적보다 투자 속도가 변수 - 하이뉴스 — *하이뉴스*
-- `11-07 11:04` 삼성·SK ‘반도체 잭팟’…경기 지자체 세수 최대 12배 폭증 - 문화일보 — *문화일보*
-- `11-07 11:01` “이 숫자를 봐라 … 반도체 투자 둔화기에 메모리가 가장 먼저 꺾인다” - 매일경제 — *매일경제*
-- `11-07 10:58` [박근종 칼럼] 사상 최대 600억 달러 흑자, ‘반도체 착시’를 경계하고 투자 선순환 구조 구축해야 - 시사일보 — *시사일보*
-- `11-07 10:57` 코스피, AI 투심 악화에 붕괴…미 데이터센터 규제에 신용·투자 잡음까지 - 한겨레 — *한겨레*
+- `11-09 10:41` 신성이엔지, 반도체 클린룸 부문 누적 수주 역대 최대…3분기 흑자 전환 - 문화일보 — *문화일보*
+- `11-09 10:38` DGIST·연세대, 휘어지는 반도체 '미세 변형' 손상 없이 찾아내는 기술 개발 - BBS불교방송 — *BBS불교방송*
+- `11-09 10:35` 반도체 도시 용인, 크로아티아 자다르시와 ‘교류’ - 용인신문 — *용인신문*
+- `11-09 10:34` 반도체 공정 '탄소·안전' 문제 풀 스타트업 한자리에…KIIN 포럼 개최 - 헬로티 — *헬로티*
+- `11-09 10:28` 테슬라 직접 반도체 생산 본격화…日서 장비 조달 나서 [도쿄나우] - 한국경제 — *한국경제*
+- `11-09 10:26` 내년 금리는 어떻게 될까…“반도체 꺾이면 한은도 돌아선다” 씨티銀 분석 - 매일경제 마켓 — *매일경제 마켓*
+- `11-09 10:26` 용인특례시, 시민 대상 반도체 교육 진행 - 일간투데이 — *일간투데이*
+- `11-09 10:25` SK하이닉스·삼성전자, 美 사업에 기술통 전면배치…HBM 수주전 재편 - 서울이코노미뉴스 — *서울이코노미뉴스*
 
 ## 🇰🇷 금융주
-- `11-07 09:14` '실적 쇼크'에 17% 폭락 한국금융지주…배당수익률 9%대, 매력일까 함정일까 - 미디어펜 — *미디어펜*
-- `11-06 21:48` 메리츠금융지주, 메리츠증권 배당 2835억원 수령 예정 - 비건뉴스 — *비건뉴스*
-- `11-06 18:40` 하나금융그룹, 창사 이래 첫 번째 개인주주 초청 간담회 개최 - 국제일보 — *국제일보*
-- `11-06 18:35` 하나금융, 창사 첫 개인주주 간담회 개최…주주환원 정책 설명 - 더나은미래 — *더나은미래*
-- `11-06 18:25` “운용손익 -1800억·ROE 반토막…삼중고(증시·금리·환율)에 갇힌 한국금융지주” - 뉴스퀘스트 — *뉴스퀘스트*
-- `11-06 17:58` 하나금융그룹, 창사 이래 첫 번째 개인주주 초청 간담회 가져 - 디지털경제뉴스 — *디지털경제뉴스*
-- `11-06 17:31` [리포트 브리핑]한국금융지주, '반등 모멘텀 약하나 주가는 충분히 조정' 목표가 230,000원 - LS증권 - 뉴스핌 — *뉴스핌*
-- `11-06 17:20` 증시 급락에 주목 받는 경기방어주, SKT·KT&G·우리금융지주 실적 안정성과 배당 매력 눈길 - 비즈니스포스트 — *비즈니스포스트*
+- `11-09 10:30` 예탁결제원, 홍콩 금융사 130명 앞에서 T+1 띄웠다 - 자본시장뉴스 — *자본시장뉴스*
+- `11-09 09:35` 한국금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `11-09 09:31` 우리금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `11-09 09:00` [금융지주 임원 인사 전망] [하나금융] 부행장 다음은 계열사 CEO…굳어진 '은행맨 공식' 이어질까 - 딜사이트 — *딜사이트*
+- `11-09 08:55` 하나증권 "은행주 중장기 투자 유효, 최선호주 KB금융지주 우리금융지주" - 비즈니스포스트 — *비즈니스포스트*
+- `11-09 08:33` 키움證 "한국금융지주, 증시 부진 여파에 감익 우려…목표가↓" - 뉴시스 — *뉴시스*
+- `11-09 08:07` [금융그룹/DB④] 급증하는 내부거래…오너회사·자회사로 몰린다 - 데일리브리프 — *데일리브리프*
+- `11-09 07:42` 하나증권 “증시 급락에도 은행주 방어력 부각..4분기 일회성 이익 3350억원 전망” - 한국정경신문 — *한국정경신문*
 
 ## 🇰🇷 정책·거시
-- `11-07 10:00` 금융당국 해킹 대책 발표한 날…최대 증권사 미래에셋 뚫렸다 - 비즈워치 — *비즈워치*
-- `11-07 06:00` 23년 만에 다시 나온 '10·29 부동산 대책'…이번엔 다를까 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `11-06 22:50` 국토부 "추가 부동산 대책 유포 내용 사실 아냐" - YTN — *YTN*
-- `11-06 19:06` 국토부 “추가 부동산 대책 유포 내용 사실 아냐”…수사의뢰 예정 : 부동산 - 재경일보 — *재경일보*
-- `11-06 18:13` 국토부, 추가 부동산 대책 배포설에 "허위 사실, 경찰 수사 의뢰" - 메디컬투데이 — *메디컬투데이*
-- `11-06 16:44` 25억 초과 주담대 금지·규제지역 확대‘ 소문에 정부 “사실무근” - 브릿지경제 — *브릿지경제*
-- `11-06 16:37` 국토부 “추가 부동산 대책 유포 내용 사실무근…수사 의뢰할 것” - 아시아투데이 — *아시아투데이*
-- `11-06 16:18` '25억원 초과 주담대 전면 제한' 허위정보 확산…금융위, 추가 수사의뢰 방침 - https://www.ppss.kr/ — *https://www.ppss.kr/*
+- `11-09 04:30` 금융당국 ‘해킹대책 강화’ 발표날, 증권 1위 미래에셋도 뚫렸다 - 동아일보 — *동아일보*
+- `11-08 18:22` 점검해도 또 뚫리는 금융권… 금융당국 대책 실효성 도마 - 한국일보 — *한국일보*
+- `11-08 12:00` 與, 부동산 세제·공급 대책 속도전…불안한 민심 챙긴다 - 매일일보 — *매일일보*
+- `11-07 15:44` 홍지선 장관 “부동산 허위정보 무관용”…정부 대책 사칭에 수사 의뢰 - 뉴시안 — *뉴시안*
 
 ## 🌍 AI·빅테크
-- `11-07 10:30` Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg - Yahoo Finance — *Yahoo Finance*
-- `11-07 09:08` OpenAI Secures $11B in Initial Funding at $1.25T Valuation - Unite.AI — *Unite.AI*
-- `11-07 09:05` OpenAI $11 Billion Funding at $1.25T Value [2026] - https://tech-insider.org/ — *https://tech-insider.org/*
-- `11-07 08:19` OpenAI gets $11 billion funding at $1.25 trillion valuation, source says - Reuters — *Reuters*
-- `11-07 06:52` SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture - Yahoo Finance — *Yahoo Finance*
-- `11-07 06:41` OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value - Bloomberg.com — *Bloomberg.com*
-- `11-07 06:40` OpenAI closes $11 billion funding at $1.25 trillion valuation - report - Yahoo Finance UK — *Yahoo Finance UK*
-- `11-07 05:58` OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value - Yahoo Finance — *Yahoo Finance*
+- `11-09 09:06` OpenAI Valuation Hits $1.25 Trillion in New Funding Round - PYMNTS.com — *PYMNTS.com*
+- `11-09 06:36` Palantir AMD Earnings: $2.31B, $13.38B Beats [2026] - https://tech-insider.org/ — *https://tech-insider.org/*
+- `11-09 05:14` Nvidia CEO Jensen Huang admits affair, board to launch investigation - Yahoo Finance — *Yahoo Finance*
+- `11-09 05:06` Nvidia Board to Probe Spying Case After CEO Admits Affair - Yahoo Finance — *Yahoo Finance*
+- `11-09 02:10` Why Nvidia Stock Looks Like a Bargain Right Now - Yahoo Finance — *Yahoo Finance*
+- `11-09 00:15` AI Spending Boom Nears Peak? Jefferies Flags Risks To Big Tech's $1 Trillion Capex - NDTV Profit — *NDTV Profit*
+- `11-08 20:00` AI stocks like Nvidia, Micron, and Sandisk have been blown up, but keep this in mind - Yahoo Finance — *Yahoo Finance*
+- `11-08 14:00` NVIDIA reportedly to invest billions in additional CoWoS capacity: SPIL becomes a key partner for AI accelerators - igor´sLAB — *igor´sLAB*
 
 ## 🌍 연준·금리
-- `11-07 09:13` Platinum crashes to 2026 lows as rate fears erase its record January rally - Startup Fortune — *Startup Fortune*
-- `11-07 07:14` Richmond Fed President Thomas Barkin Says Gradual Rate Hikes Remain Reasonable - www.tokenpost.com — *www.tokenpost.com*
-- `11-07 07:05` The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So - Barron's — *Barron's*
-- `11-07 06:23` Nasdaq Rebounds 1% After Yesterday's 5% Slump Led by Tech, SpaceX Shares Jump Over 8% - TradingKey — *TradingKey*
-- `11-07 06:22` U.S. adds 165,000 jobs as unemployment rate falls to 4.1% - Honolulu Star-Advertiser — *Honolulu Star-Advertiser*
-- `11-07 05:58` Fed policymakers consider rate hike after strong jobs report - Reuters — *Reuters*
-- `11-07 05:36` US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets - Bloomberg.com — *Bloomberg.com*
-- `11-07 05:35` San Francisco Fed President Daly: Further Rate Hikes Still Needed to Fight Inflation; Tech Stock Pullback Remains Orderly - BigGo Finance — *BigGo Finance*
+- `11-09 10:01` Gold edges up as softer crude tempers inflation concerns - The Economic Times — *The Economic Times*
+- `11-09 09:31` Gold Price Today: Yellow metal holds near $4,100 as weak US dollar counters Fed rate hike bets - ET Now — *ET Now*
+- `11-09 08:55` Gold prices fall as strong US jobs data fuels December rate hike expectations - Crypto Briefing — *Crypto Briefing*
+- `11-09 08:44` Rising Rates Cleave AI Infrastructure Stocks (NASDAQ: CRWV, NBIS, MSFT, MU) Into Winners And Losers - Foreign Policy Journal — *Foreign Policy Journal*
+- `11-09 08:40` Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets - Bloomberg — *Bloomberg*
+- `11-09 08:25` US October Nonfarm Payrolls Surge by 165,000; Market Bets on Fed Restarting Rate Hikes in December - BigGo Finance — *BigGo Finance*
+- `11-09 01:52` The Fed’s $6.75 Trillion Balance Sheet Is Growing Again — Should Americans Be Worried? - 24/7 Wall St. — *24/7 Wall St.*
+- `11-09 01:01` Fed Rate-Hike Odds Rise to 76% as Inflation Stays Above Target - TOKENPOST — *TOKENPOST*
 
 ## 🌍 유가·지정학
-- `11-07 10:59` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Pulls Back As Iran Is Reportedly Ready To Discuss Its Nuclear Program - FXEmpire — *FXEmpire*
-- `11-07 08:29` Oil prices fall as mid-terms signal possible end to Iran war - Oil & Gas Journal — *Oil & Gas Journal*
-- `11-07 08:00` Wall Street's "Energy Transition" Funds Are Packed With Natural Gas - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-07 07:03` Oil Prices Plunge 13% in One Week as U.S. Election Results Raise Hopes of Iran Peace Deal — WTI Closes Below $91, Brent Below $99 - EnergyNow.com — *EnergyNow.com*
-- `11-07 06:39` Brent oil price benchmark set for biggest weekly drop since 2020 - Euronext Markets: Real-time Stock Market Data | live — *Euronext Markets: Real-time Stock Market Data | live*
-- `11-07 06:30` Big oil price cuts seen, tied to Trump poll rout - Inquirer.net — *Inquirer.net*
-- `11-07 06:01` OIL PRICE WATCH: Big-time rollback looms after Trump's election rout - ABS-CBN — *ABS-CBN*
-- `11-07 06:00` America's Nuclear Revival Is Running Into a Fuel Supply Wall - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-09 10:40` Brent and WTI Crude Oil Prices Fall as Trump Signals Iran Deal More Likely Than Renewed Military Action - FXLeaders — *FXLeaders*
+- `11-09 10:34` Oil Logs Biggest Weekly Drop Since 2020 as Market Watches US-Iran Talks - bloomingbit — *bloomingbit*
+- `11-09 10:12` Oil Prices Slip As Brent Falls To US$97.67, WTI Drops To US$90.51 Amid Easing Iran Tensions - BusinessToday Malaysia — *BusinessToday Malaysia*
+- `11-09 10:08` Oil falls on open as Trump says fresh Iran attacks 'unlikely' - The Economic Times — *The Economic Times*
+- `11-09 09:39` Oil prices dip as Trump says new Iran attacks ‘unlikely’ if talks progress - Investing.com — *Investing.com*
+- `11-09 09:00` Iraq's 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-09 08:57` US-Iran war news: Donald Trump says renewed Iran attacks 'unlikely' if nuclear program, Strait of Hormuz talks show progress - ABC7 Chicago — *ABC7 Chicago*
+- `11-09 08:50` Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters — *Reuters*
 
 ## 🌍 시장 전반
-- `11-07 11:15` Tech stocks steady to end volatile week for markets - The Washington Post — *The Washington Post*
-- `11-07 11:12` What triggered the brutal stock market sell-off? - CBC — *CBC*
-- `11-07 08:39` Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks - WSJ — *WSJ*
-- `11-07 07:45` DW News. . Concerns that newly elected US leaders will increase AI regulation sparked a multi-trillion dollar market sell-off, wiping out billions in tech valuations and rattling investors. The sharp decline has renewed debate over the future of the AI boom and w - Facebook — *Facebook*
-- `11-07 07:42` Did the Stock Market Crash Today? Nasdaq Rebounds After $2.5 Trillion Selloff as Dow Futures Signal Volatility - finchannel — *finchannel*
-- `11-07 07:39` Wall Street stocks rally after heavy AI-related selloff - Yahoo Finance — *Yahoo Finance*
-- `11-07 07:03` AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week - Toledo Blade — *Toledo Blade*
-- `11-07 06:53` Investors try to regain their footing after tech stocks tank - NBC News — *NBC News*
+- `11-09 10:44` Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg — *Bloomberg*
+- `11-09 09:53` GLOBAL MARKETS-Wall Street stocks rally after heavy AI-related selloff - Metrobank Wealth Insights — *Metrobank Wealth Insights*
+- `11-09 06:00` Warren Buffett Has 1 Simple Rule for Surviving a Stock Market Crash, and History Says It's Never Once Failed - The Motley Fool — *The Motley Fool*
+- `11-09 05:46` The market bloodbath just exposed Wall Street's true fears about U.S. debt, top economist warns - Fortune — *Fortune*
+- `11-09 05:00` Treasury Rally Gets New Boost as Election Hammers the AI Trade - Bloomberg — *Bloomberg*
+- `11-09 03:35` A Stock Market Crash Could Be Life-Changing for Investors Who Have These 3 Things - AOL.com — *AOL.com*
+- `11-09 03:15` A Stock Market Crash Could Be Life-Changing for Investors Who Have These 3 Things - The Motley Fool — *The Motley Fool*
+- `11-09 01:47` Wall Street Just Set a Record That Could Signal Trouble for the Stock Market - Yahoo Finance — *Yahoo Finance*
