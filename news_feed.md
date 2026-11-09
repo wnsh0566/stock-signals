@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-09 21:02 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-09 21:50 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-09 21:35` 코스피, 3거래일 연속 하락…장중 5170선 반등에도 '5000선' 턱걸이 마감 - 인더스트리뉴스 — *인더스트리뉴스*
+- `11-09 21:21` Rollins 주가가 미국 증시 개장 전 오르는 이유는? - Investing.com 한국어 — *Investing.com 한국어*
+- `11-09 21:05` 저가 매수에도 밀린 코스피…반등은 언제? - KBS 뉴스 — *KBS 뉴스*
+- `11-09 20:58` 증시 반대매매 완화했지만…"폭탄 돌리기" 우려도 - 연합뉴스TV — *연합뉴스TV*
+- `11-09 20:57` 코스피, 美반도체 반등에도 하락…5,000선 ’턱걸이’ - 연합뉴스TV — *연합뉴스TV*
 - `11-09 20:03` [인도증시] 유가 하락에 소폭 상승, 8개월래 최고치...호실적 제약주 '강세' - 뉴스핌 — *뉴스핌*
+- `11-09 19:25` 한국증시 흐름, 12년 전 중국증시 버블과 비슷한 듯 다른 듯 - Investing.com 한국어 — *Investing.com 한국어*
 - `11-09 19:11` [亞증시-종합] 기술주 강세에도 혼조…日·臺↑홍콩↓中 혼조 - 연합인포맥스 — *연합인포맥스*
-- `11-09 19:04` 증시 폭락에도 멘탈 지키려면?…장기 투자 방패 TDF에 주목 [주린이ABC] - 매일경제 마켓 — *매일경제 마켓*
-- `11-09 19:03` AI發 증시 불안 커지는데…전문가 신중한 반등 전망 - 국제신문 — *국제신문*
-- `11-09 19:01` 저가 매수에도 밀린 코스피…반등은 언제? - KBS 뉴스 — *KBS 뉴스*
-- `11-09 18:54` [베트남 증시] 유동성 약세 지속, 하락 마감...대형주 중심으로 11월 전망은 '긍정적' - 뉴스핌 — *뉴스핌*
-- `11-09 18:38` HSBC, 신용 성장·밸류에이션에 인도 증시 상향…중국은 하향 - Investing.com 한국어 — *Investing.com 한국어*
-- `11-09 18:34` [사설] 내우외환 증시, 정부 안정화 대책 서둘러라 - 국제신문 — *국제신문*
 
 ## 🇰🇷 반도체·HBM
+- `11-09 21:29` 젠슨 황, 중 기업인과 불륜 인정…미·중 ‘반도체 전쟁’ 새 뇌관 - 경향신문 — *경향신문*
+- `11-09 21:27` [엔비디아 AI 데이] 엔비디아 기술 업은 반도체 시뮬레이션…삼성·SK하이닉스 열·기계 해석 가속 - 팍스경제TV — *팍스경제TV*
+- `11-09 21:24` 한화세미텍, 37세 김진우 신임 대표 내정···반도체 장비 사업 확대 - 팍스경제TV — *팍스경제TV*
+- `11-09 21:11` [삼성전자·SK하이닉스] 나란히 내렸다… SK하이닉스 10.44% - CEO경제신문 — *CEO경제신문*
+- `11-09 20:59` "엔비디아냐 AMD냐"...기로에 선 K-반도체 - 지디넷코리아 — *지디넷코리아*
+- `11-09 20:57` 코스피, 美반도체 반등에도 하락…5,000선 ’턱걸이’ - 연합뉴스TV — *연합뉴스TV*
+- `11-09 20:56` 국산 AI반도체, 엔비디아 생태계 편입 - 경향신문 — *경향신문*
 - `11-09 20:44` SK하이닉스, 엔비디아 AI로 반도체 식각·열변형 시뮬레이션 속도 30배↑ - 뉴스톱 — *뉴스톱*
-- `11-09 20:30` Raymond James “중국의 Nvidia 첩보 보도, 반도체 수출 규제법 지지 높일 것” - Investing.com 한국어 — *Investing.com 한국어*
-- `11-09 20:11` [서학개미 레이더] SK하이닉스 4.6%·삼성전자 2.4% 반등… CPI 앞둔 SOXL 쏠림 시험대 - 코인리더스 — *코인리더스*
-- `11-09 20:04` AI 찬물 끼얹은 젠슨 황… 삼전닉스 HBM 공급 차질 빚을 수도 - 서울신문 — *서울신문*
-- `11-09 19:50` ‘젠슨 황 리스크’ 한국 반도체로 번지나…미, 대중국 규제가 변수 - 한겨레 — *한겨레*
-- `11-09 19:46` 삼성·현대자동차그룹 첫 경영진 회동…차량 반도체부터 로봇까지 ‘합종연횡’ 협력 - 서울신문 — *서울신문*
-- `11-09 19:42` 젠슨 황 논란에 中 반도체 제재 강화되나…반도체업계 "삼성·SK엔 기회 될 수도" - 아이뉴스24 — *아이뉴스24*
-- `11-09 19:21` ‘깐부 동맹인데’ 한국 기업 불똥 튈라…K-반도체 예의주시 - JTBC — *JTBC*
 
 ## 🇰🇷 금융주
 - `11-09 20:45` [단독] 한국금융지주, 베트남서 은행 지분투자 나선다…현지 금융사업 확대 - 이코노미트리뷴 — *이코노미트리뷴*
@@ -53,31 +53,31 @@
 - `11-09 12:34` AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `11-09 19:45` Gold and Silver Recover After Recent Sell-Off: 3 Factors to Watch - TradingView — *TradingView*
+- `11-09 19:07` Federal Reserve: Expectations of December rate hike strengthen – Commerzbank - www.tmgm.com — *www.tmgm.com*
 - `11-09 18:29` Gold slips in early Asian trade as rate-hike expectations grow - سانا — *سانا*
 - `11-09 18:04` Rate Hikes Are Back: What a Hawkish Turn Means for Crypto Investors - TechBullion — *TechBullion*
 - `11-09 17:01` US Fed rate hike in December faces uncertainty as jobs surge, but CPI and oil hold the key - The Financial Express — *The Financial Express*
 - `11-09 16:53` US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React? - TradingKey — *TradingKey*
-- `11-09 15:24` US dollar holds gains as Fed rate hike bets rise - Profit by Pakistan Today — *Profit by Pakistan Today*
+- `11-09 16:32` US dollar holds gains as Fed rate hike bets rise - Profit by Pakistan Today — *Profit by Pakistan Today*
 - `11-09 11:50` Gold Extends Decline as Strong US Jobs Data Strengthens Fed Rate-Hike Outlook - bloomingbit — *bloomingbit*
-- `11-09 11:25` Strong October U.S. Jobs Rebound Lifts Dollar Index, Which Holds Above 102; December Rate-Hike Bets Rise to 79% - BigGo Finance — *BigGo Finance*
-- `11-09 08:55` Gold prices fall as strong US jobs data fuels December rate hike expectations - Crypto Briefing — *Crypto Briefing*
 
 ## 🌍 유가·지정학
-- `11-09 20:40` Oil prices fall on renewed hopes for an end to Iran war - Semafor — *Semafor*
-- `11-09 20:35` SIGN NA PARA MAGPAKARGA ⛽ Motorists will experience a slight sigh of relief as fuel companies will implement a price rollback on pump products starting Tuesday, November 10, the Department of Energy (DOE) said on Monday. Read more: https://www.g - Facebook — *Facebook*
-- `11-09 20:34` Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands - Bloomberg.com — *Bloomberg.com*
-- `11-09 20:33` Oil Prices Fall Below $90 as Trump Signals Reduced Risk of New Iran Attacks — Middle East Supply Recovery Pressures Crude Markets - EnergyNow.com — *EnergyNow.com*
-- `11-09 20:32` US Hits Several Iran Oil Tankers in Response to Warship Attack - Insurance Journal — *Insurance Journal*
-- `11-09 20:30` Iraq's Oil Sales to America Fall to Lowest Since the 2003 War - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-09 20:21` THERE will be a big-time oil price rollback on Tuesday, November 10, 2026. The Department of Energy (DOE) said prices of gasoline will go down by P16.80 per liter, while diesel will drop by P4.10 per liter and kerosene by P3.70 per liter. FULL STORY: https:/ - Facebook — *Facebook*
-- `11-09 20:10` MEGA OIL PRICE ROLLBACK LOOK: Oil prices are set to drop significantly starting tomorrow, Nov. 10, with gasoline prices decreasing by P16.80 per liter, diesel by P4.10 per liter, and kerosene by P3.70 per liter, according to Energy Secretary Sharon Garin. - Facebook — *Facebook*
+- `11-09 21:45` Current price of oil as of Nov. 9, 2026 - Fortune — *Fortune*
+- `11-09 21:40` WTI oil deepens losses towards $87.00 as efforts continue to restart US-Iran talks - www.tmgm.com — *www.tmgm.com*
+- `11-09 21:33` WTI OIl extends losses nearing $87.00 amid efforts to resume US-Iran negotiations - FXStreet — *FXStreet*
+- `11-09 21:30` IEA Backs Electrification Efforts at COP31 Climate Summit - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-09 21:21` Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns | Hindustan Times - Hindustan Times — *Hindustan Times*
+- `11-09 21:14` Bitcoin and Oil: Would a New Iran Spike Push BTC Lower? - Tokenist — *Tokenist*
+- `11-09 21:00` OIL PRICE WATCH: Gasoline falls almost P17, diesel down more than P4 - ABS-CBN — *ABS-CBN*
+- `11-09 20:40` Oil prices fall on renewed hopes for an end to Iran war - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 시장 전반
+- `11-09 21:09` Cantor sees AI infrastructure stock selloff as overreaction By Investing.com - Investing.com Canada — *Investing.com Canada*
 - `11-09 20:33` Sensex Gains 107 Points and Nifty Closed Above 25,000 - SMEStreet — *SMEStreet*
+- `11-09 20:29` Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave - Stocktwits — *Stocktwits*
 - `11-09 20:16` US markets still reliant on tech stocks despite AI selloff and Democrat-win triggered political risks - The Economic Times — *The Economic Times*
-- `11-09 20:08` Banks, investors grow wary of AI debt, spooked by market selloff - The Economic Times — *The Economic Times*
+- `11-09 20:14` Banks, investors grow wary of AI debt, spooked by market selloff By Reuters - Investing.com — *Investing.com*
 - `11-09 20:03` Mapping the Market: Alphabet shares may be ready for a corrective rally - Reuters — *Reuters*
 - `11-09 19:49` Joakim Hannisdahl’s hedge fund divests tanker stocks in market selloff - TradeWinds News — *TradeWinds News*
 - `11-09 19:41` Fearing an AI stock market crash? These 2 FTSE 100 cash cows are worth a closer look - Yahoo Finance UK — *Yahoo Finance UK*
-- `11-09 19:36` Stock Market Today: Dow, S&P 500 Futures Rise Despite Nvidia Sell-Off Over Jensen Huang Controversy — NVD - Benzinga — *Benzinga*
-- `11-09 19:35` Why Are Bitcoin and US Stock Market Falling? Will the Sell-Off Continue This Week? - Coinpedia — *Coinpedia*
