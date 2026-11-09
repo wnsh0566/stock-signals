@@ -1,11 +1,12 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-09 22:53 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-09 23:19 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-09 23:02` 뉴욕증시 개장 전 특징주...엔비디아 5%↓·AMD·아마존·메타↑ - 뉴스핌 — *뉴스핌*
 - `11-09 21:51` 뉴욕증시 프리뷰, 유가 급락에 주가 선물 일제 상승...다우 선물 1%↑ - 뉴스핌 — *뉴스핌*
 - `11-09 21:35` 코스피, 3거래일 연속 하락…장중 5170선 반등에도 '5000선' 턱걸이 마감 - 인더스트리뉴스 — *인더스트리뉴스*
 - `11-09 21:21` Rollins 주가가 미국 증시 개장 전 오르는 이유는? - Investing.com 한국어 — *Investing.com 한국어*
@@ -13,17 +14,16 @@
 - `11-09 20:58` 증시 반대매매 완화했지만…"폭탄 돌리기" 우려도 - 연합뉴스TV — *연합뉴스TV*
 - `11-09 20:57` 코스피, 美반도체 반등에도 하락…5,000선 ’턱걸이’ - 연합뉴스TV — *연합뉴스TV*
 - `11-09 20:03` [인도증시] 유가 하락에 소폭 상승, 8개월래 최고치...호실적 제약주 '강세' - 뉴스핌 — *뉴스핌*
-- `11-09 19:25` 한국증시 흐름, 12년 전 중국증시 버블과 비슷한 듯 다른 듯 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
+- `11-09 23:05` 구글, 엔비디아 추격 박차…AI 반도체 'TPU' 제품군 확대 - KB Think — *KB Think*
+- `11-09 23:00` 엔비디아, 업스테이지·모티프·리얼월드 투자 계획 발표 - 디일렉 — *디일렉*
+- `11-09 22:40` 장녀 방한 취소에도 "협력 지속"...국내 업계 촉각 - YTN — *YTN*
+- `11-09 22:37` ‘젠슨 황 리스크’ 한국 반도체로 번지나…미, 대중국 규제가 변수 - 한겨레 — *한겨레*
 - `11-09 22:20` 삼성전자·LG전자, 엔비디아 기술로 반도체 엔지니어링·로봇 학습 고도화 - 와우테일 — *와우테일*
 - `11-09 22:11` [삼성전자·SK하이닉스] 나란히 내렸다… SK하이닉스 10.44% - CEO경제신문 — *CEO경제신문*
 - `11-09 22:04` [단독] 구글, AI 반도체 2종 공개…용도 따라 AI칩 골라 쓴다｜Global Money Club - 중앙일보 — *중앙일보*
 - `11-09 22:00` 골드만삭스 "韓반도체 지금보다 주가 2배 오를 여력 있다" - 한국경제 — *한국경제*
-- `11-09 21:29` 젠슨 황, 중 기업인과 불륜 인정…미·중 ‘반도체 전쟁’ 새 뇌관 - 경향신문 — *경향신문*
-- `11-09 21:27` [엔비디아 AI 데이] 엔비디아 기술 업은 반도체 시뮬레이션…삼성·SK하이닉스 열·기계 해석 가속 - 팍스경제TV — *팍스경제TV*
-- `11-09 21:24` 한화세미텍, 37세 김진우 신임 대표 내정···반도체 장비 사업 확대 - 팍스경제TV — *팍스경제TV*
-- `11-09 20:59` "엔비디아냐 AMD냐"...기로에 선 K-반도체 - 지디넷코리아 — *지디넷코리아*
 
 ## 🇰🇷 금융주
 - `11-09 22:12` iM금융지주, 11일 국내 기관에 3분기 실적 설명 - 비건뉴스 — *비건뉴스*
@@ -43,41 +43,41 @@
 - `11-08 12:00` 與, 부동산 세제·공급 대책 속도전…불안한 민심 챙긴다 - 매일일보 — *매일일보*
 
 ## 🌍 AI·빅테크
+- `11-09 22:54` Google’s chip business is on a faster track than Nvidia’s own AI boom - Yahoo Finance — *Yahoo Finance*
+- `11-09 22:14` Google expands AI chip lineup as Nvidia faces CEO spy scandal - Yahoo Finance — *Yahoo Finance*
 - `11-09 21:20` Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most. - Yahoo Finance — *Yahoo Finance*
 - `11-09 20:28` AI’s Giant Fundraisers Test the Market After Midterm Rout - Bloomberg.com — *Bloomberg.com*
 - `11-09 19:39` Wall St futures rise after rough week, but Nvidia unsettles investors - Yahoo Finance — *Yahoo Finance*
 - `11-09 18:59` US Stock Futures Mixed as Investors Assess Berkshire Hathaway Earnings, Nvidia Reports and AI Regulation Plans: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance — *Yahoo Finance*
 - `11-09 18:55` Nvidia CEO Jensen Huang just made his already surprisingly cheap stock that much cheaper - Yahoo Finance — *Yahoo Finance*
 - `11-09 18:40` Aletheia Capital downgrades Nvidia to hold over $165 billion in AI financing commitments - Crypto Briefing — *Crypto Briefing*
-- `11-09 14:55` Nvidia Board Probes CEO Spy Allegations, Testing AI Rally - BigGo Finance — *BigGo Finance*
-- `11-09 14:47` NYU Professor Gary Marcus Says OpenAI Could Become the ‘WeWork of AI’ After IPO Delay - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `11-09 22:26` US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React? - TradingKey — *TradingKey*
 - `11-09 19:45` Gold and Silver Recover After Recent Sell-Off: 3 Factors to Watch - TradingView — *TradingView*
-- `11-09 19:23` U.S. Markets Brace for October CPI Report After Hot Jobs Data Pushes December Rate Hike Odds past 65% - TipRanks — *TipRanks*
 - `11-09 19:07` Federal Reserve: Expectations of December rate hike strengthen – Commerzbank - www.tmgm.com — *www.tmgm.com*
 - `11-09 18:29` Gold slips in early Asian trade as rate-hike expectations grow - سانا — *سانا*
 - `11-09 18:04` Rate Hikes Are Back: What a Hawkish Turn Means for Crypto Investors - TechBullion — *TechBullion*
 - `11-09 17:01` US Fed rate hike in December faces uncertainty as jobs surge, but CPI and oil hold the key - The Financial Express — *The Financial Express*
-- `11-09 16:53` US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React? - TradingKey — *TradingKey*
 - `11-09 16:32` US dollar holds gains as Fed rate hike bets rise - Profit by Pakistan Today — *Profit by Pakistan Today*
+- `11-09 14:01` Does a Hot Jobs Report Guarantee a December Rate Hike? - The Daily Upside — *The Daily Upside*
 
 ## 🌍 유가·지정학
-- `11-09 22:47` Oil plunges 4% as Iran tensions ease - Breakingthenews.net — *Breakingthenews.net*
-- `11-09 22:34` Trump to meet Qataris as oil markets believe Iran deal is closer - TradeWinds News — *TradeWinds News*
+- `11-09 23:13` US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week - marketscreener.com — *marketscreener.com*
+- `11-09 23:04` Oil prices fall on disputed report Iran eased Hormuz demands - Capital Brief — *Capital Brief*
+- `11-09 23:00` Update: US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week - Moomoo — *Moomoo*
+- `11-09 22:58` Brent oil falls 4 percent on Iran deal hopes - IG Bank — *IG Bank*
 - `11-09 22:30` Oil Sinks to $94 as Iran's $8 Billion Hormuz Deal Heads to Trump - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-09 22:26` Oil prices decline as Iran reviews Qatar proposals - Transport Topics — *Transport Topics*
 - `11-09 22:19` 3 Value Stocks Under $5 to Buy Amid Oil Price Volatility - Zacks Investment Research — *Zacks Investment Research*
-- `11-09 22:06` Oil slips below $100 as Trump played down further Iran strikes - Quartz — *Quartz*
-- `11-09 22:03` Gas prices fall slightly after oil prices fell as tensions with Iran cool down - WFAA — *WFAA*
-- `11-09 22:00` US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week - Moomoo — *Moomoo*
-- `11-09 21:57` US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week - marketscreener.com — *marketscreener.com*
+- `11-09 22:13` Oil falls further on report that Trump asked Iraqi PM to bring Iran proposals to end the war - investingLive — *investingLive*
 
 ## 🌍 시장 전반
+- `11-09 22:57` Banking stocks rally 1.5% as PSU lenders lead; broader markets pause after six-day bull run - The Hindu — *The Hindu*
 - `11-09 22:22` Gold Gains as NVDA 'Spy' Scandal Extends Nasdaq Tech Stock Sell-Off - BullionVault — *BullionVault*
 - `11-09 22:20` Nvidia Slides Premarket as Stock Futures Rally - Yahoo Finance — *Yahoo Finance*
+- `11-09 22:02` Banks, investors grow wary of AI debt, spooked by market selloff - Reuters — *Reuters*
+- `11-09 21:44` ATI's Shares Rally 53% YTD: Should You Buy the Stock Now? - Yahoo Finance — *Yahoo Finance*
 - `11-09 21:39` U.S. midterm selloff in Canadian energy stocks is overshot, analysts say - Yahoo! Finance Canada — *Yahoo! Finance Canada*
-- `11-09 21:39` SEC stock report leads with LSU football market crash - DawgNation — *DawgNation*
 - `11-09 21:39` Coinbase Wins Federal Trust Charter, But COIN Stock Still Faces Bitcoin Pressure - Stocktwits — *Stocktwits*
 - `11-09 21:09` Cantor sees AI infrastructure stock selloff as overreaction By Investing.com - Investing.com Canada — *Investing.com Canada*
-- `11-09 21:02` Focus: Banks, investors grow wary of AI debt, spooked by market selloff - Reuters — *Reuters*
-- `11-09 20:29` Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave - Stocktwits — *Stocktwits*
