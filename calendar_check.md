@@ -1,6 +1,6 @@
 # 📅 매크로 캘린더 대조 (자동 수집)
 
-> 생성: 2026-11-10 04:44 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
+> 생성: 2026-11-10 13:16 KST · 소스: ForexFactory 주간 피드(고임팩트 + 중앙은행 키워드·USD/EUR/JPY/CNY) vs calendar.json
 > ⚠️ 소싱 전용 — 등재 여부 판단·실제 등재는 사람이(정본 = _automation/calendar.json → 리포 붙여넣기).
 > ✓ = 같은 KST 날짜에 등재 이벤트 있음(내용 일치까지 보장 안 함 — 라벨 육안 대조) / ⚠️ = 그 날짜에 등재 0건.
 
@@ -21,9 +21,9 @@
 | 2026-11-11 | 08:30 | USD | Low | FOMC Member Paulson Speaks | ⚠️ 미등재 후보 |
 | 2026-11-11 | 18:45 | EUR | Medium | ECB President Lagarde Speaks | ⚠️ 미등재 후보 |
 | 2026-11-12 | 18:00 | EUR | Low | ECB Economic Bulletin | ⚠️ 미등재 후보 |
-| 2026-11-12 | 23:00 | USD | Low | FOMC Member Hammack Speaks | ⚠️ 미등재 후보 |
+| 2026-11-12 | 22:30 | USD | Low | FOMC Member Hammack Speaks | ⚠️ 미등재 후보 |
 | 2026-11-13 | 00:00 | USD | Low | FOMC Member Barr Speaks | ⚠️ 미등재 후보 |
-| 2026-11-13 | 01:30 | USD | Low | FOMC Member Goolsbee Speaks | ⚠️ 미등재 후보 |
+| 2026-11-13 | 01:15 | USD | Low | FOMC Member Goolsbee Speaks | ⚠️ 미등재 후보 |
 | 2026-11-13 | 03:10 | USD | Low | FOMC Member Daly Speaks | ⚠️ 미등재 후보 |
 | 2026-11-13 | 03:30 | USD | Low | FOMC Member Schmid Speaks | ⚠️ 미등재 후보 |
 | 2026-11-13 | 04:00 | USD | Low | Federal Budget Balance | ⚠️ 미등재 후보 |
