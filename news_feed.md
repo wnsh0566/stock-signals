@@ -1,12 +1,11 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-10 22:27 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-10 22:45 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-10 22:21` 뉴욕증시 프리뷰, 미 주가선물 혼조…CPI 발표 앞두고 나스닥 약세 - 뉴스핌 — *뉴스핌*
 - `11-10 21:09` 4거래일 만에 반등…코스피·코스닥서 매수 사이드카 - KBS 뉴스 — *KBS 뉴스*
 - `11-10 21:08` 젠슨 황 리스크에도 코스피 4% 반등‥상승세 이어갈까? - MBC 뉴스 — *MBC 뉴스*
 - `11-10 21:04` 美훈풍에 코스피·코스닥 동반 급등…4거래일만 반등 - 연합뉴스 한민족센터 — *연합뉴스 한민족센터*
@@ -14,6 +13,7 @@
 - `11-10 20:25` [속보] `증시 급락`에 강제처분 주식 300억원대로 뛰어…전장 5배 넘어 - 매일신문 — *매일신문*
 - `11-10 20:13` 반등 성공한 코스피…이 대통령 "금융시장 동요 없도록" - OBS경인TV — *OBS경인TV*
 - `11-10 19:12` [亞증시-종합] AI 관련주 매수세에 일제히 상승 - 연합인포맥스 — *연합인포맥스*
+- `11-10 18:59` 미 선거 충격 딛고 급반등…코스피·코스닥 매수 사이드카 - KBS 뉴스 — *KBS 뉴스*
 
 ## 🇰🇷 반도체·HBM
 - `11-10 21:43` 중국 굴기 덮친 '스파이 스캔들'...반도체 생태계 '휘청' - YTN — *YTN*
@@ -45,17 +45,17 @@
 - `11-08 23:45` 국토부 “허위 부동산 대책 유포, 추가 수사 의뢰” - 국토교통신문 — *국토교통신문*
 
 ## 🌍 AI·빅테크
+- `11-10 22:31` Moonshot AI rented restricted Nvidia AI chips inside China, documents show - Quartz — *Quartz*
+- `11-10 21:00` Prediction: Nov. 17 Will Be a Huge Day for the Stock Market - The Motley Fool — *The Motley Fool*
 - `11-10 20:24` OpenAI Is SoftBank’s Investment, Customer and Collateral. What Could Go Wrong? - Open Magazine — *Open Magazine*
 - `11-10 20:22` OpenAI's biggest backer reveals stunning $7 billion loss - TradingView — *TradingView*
 - `11-10 20:03` A Jensen Huang Exit From Nvidia Could Slow AI Dealmaking, Financing Across The Industry, Morningstar Warns - Stocktwits — *Stocktwits*
 - `11-10 20:01` A Jensen Huang Exit From Nvidia Could Slow AI Dealmaking, Financing Across The Industry, Morningstar Warns - Yahoo Finance — *Yahoo Finance*
 - `11-10 18:46` 1 Year Ago, Jensen Huang Said, “China Is Going To Win The AI Race.” Now Nvidia’s Board Is Investigating His Relationship With An Alleged Chinese Intelligence Asset - Yahoo Finance — *Yahoo Finance*
 - `11-10 18:26` What If Jensen Huang Leaves Nvidia? NVDA Succession, Control and AI Supply Chain Risk Analysis - TradingKey — *TradingKey*
-- `11-10 17:39` As Nvidia begins Huang probe, Korean chipmakers brace for impact - Korea JoongAng Daily — *Korea JoongAng Daily*
-- `11-10 17:16` China’s Moonshot AI rents advanced Nvidia chips: Bloomberg - TradingView — *TradingView*
 
 ## 🌍 연준·금리
-- `11-10 21:47` Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Reuters — *Reuters*
+- `11-10 22:14` Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Reuters — *Reuters*
 - `11-10 21:47` Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Belleville News-Democrat — *Belleville News-Democrat*
 - `11-10 21:15` Fed’s Waller Backs December Rate Hike, Open to Larger Move - Bloomberg.com — *Bloomberg.com*
 - `11-10 21:09` Dollar steadies as Waller argues for more rate hikes, inflation up next - Yahoo Finance — *Yahoo Finance*
@@ -65,21 +65,21 @@
 - `11-10 20:50` Bank of America stock faces Fed test as inflation call firms - ad-hoc-news.de — *ad-hoc-news.de*
 
 ## 🌍 유가·지정학
+- `11-10 22:30` Tribunal Hearings Begin in UK-Argentina Row Over Falklands Oil Project - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-10 21:49` Iran says two oil tankers on fire in Hormuz - Naharnet — *Naharnet*
 - `11-10 21:43` Watch Oil Market Starting to Price In a US-Iran Deal, Says Analyst Sen - Bloomberg.com — *Bloomberg.com*
 - `11-10 21:41` UAE Cuts Flagship Oil Price as Mideast Supply Jump Stirs Rivalry - Bloomberg.com — *Bloomberg.com*
 - `11-10 21:41` Oil prices drop as Trump signals restraint on Iran - Fox Business — *Fox Business*
-- `11-10 21:39` First Thing: Oil price relief as Trump says US war on Iran ‘ending fairly soon’ - The Guardian — *The Guardian*
+- `11-10 21:39` Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing - The Guardian — *The Guardian*
 - `11-10 21:30` China Is Buying Oil Again After Months of Living Off Its Stockpiles - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-10 21:27` TSX futures steady amid upcoming U.S. inflation data, oil price decline - Investing.com — *Investing.com*
-- `11-10 21:16` Watch Oil and Gas Fall on Iran De-escalation Hopes - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 시장 전반
+- `11-10 22:31` US Stock market crash risks rise as AI investment faces new challenges - Beinsure — *Beinsure*
+- `11-10 22:19` 'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal - CNBC — *CNBC*
+- `11-10 22:14` Anthropic cuts valuation to $1.4tn after AI sell-off - The Telegraph — *The Telegraph*
+- `11-10 21:42` Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com — *Bloomberg.com*
 - `11-10 21:33` Nvidia couldn’t derail the stock market’s rally. Hot inflation might. - MarketWatch — *MarketWatch*
 - `11-10 21:25` Dangote Cement Pauses London Listing Plan After Market Selloff - Bloomberg.com — *Bloomberg.com*
-- `11-10 20:10` Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com — *Bloomberg.com*
 - `11-10 19:48` Stocks rally as investors snap up tech shares at lower prices - Euronews.com — *Euronews.com*
 - `11-10 19:02` Stock Market Sell-Off: Meet the Unstoppable Vanguard ETF Obliterating the S&P 500 in 2026 - The Motley Fool — *The Motley Fool*
-- `11-10 18:16` Asia stocks rally as Korean chips surge and oil retreat lifts sentiment - Investing.com — *Investing.com*
-- `11-10 18:14` Why is Oxford Instruments stock rallying today? - Investing.com — *Investing.com*
-- `11-10 17:43` Hong Kong shares rally as major financial, chip stocks advance at market close - The Standard (HK) — *The Standard (HK)*
