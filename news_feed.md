@@ -1,83 +1,86 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-10 04:44 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-10 13:16 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-10 04:20` 코스피 살까, 팔까… "美기술주가 힌트" - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-10 03:18` 유럽증시, 은행·방산 강한 오름세 타고 일제히 상승… 국제유가는 4% 이상 하락 - 뉴스핌 — *뉴스핌*
-- `11-10 00:36` 줄어든 증시 거래대금에 증권가는 ‘MTS 전쟁’ - Chosunbiz — *Chosunbiz*
-- `11-10 00:35` [뉴욕증시]국제유가 하락에 일제히 상승세…엔비디아 4% 급락 - 아시아경제 — *아시아경제*
-- `11-10 00:35` [속보]뉴욕증시 상승 출발…‘젠슨황 불륜’ 앤비디아 7%↓ - 문화일보 — *문화일보*
-- `11-10 00:30` 코스피 출렁이자… 투자자들, 안전자산 피신 확산 - 동아일보 — *동아일보*
-- `11-09 23:50` 뉴욕증시, 저가매수·유가하락에 상승출발 - 연합뉴스 — *연합뉴스*
-- `11-09 23:02` 뉴욕증시 개장 전 특징주...엔비디아 5%↓·AMD·아마존·메타↑ - 뉴스핌 — *뉴스핌*
+- `11-10 12:52` 한국 반도체 급등·유가 하락에 아시아 증시 강세 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-10 12:34` '증시 한파' 뚫은 상지건설…유상증자로 82억 모집 - 뉴스토마토 — *뉴스토마토*
+- `11-10 12:27` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
+- `11-10 12:05` 코스피 4~5%대 급등…코스피·코스닥 잇따라 매수 사이드카 - KBS 뉴스 — *KBS 뉴스*
+- `11-10 12:03` 반도체 훈풍에‥코스피·코스닥 '매수 사이드카' - MBC 뉴스 — *MBC 뉴스*
+- `11-10 12:00` 오늘은 장초반 급등… 코스피·코스닥 ‘매수 사이드카’ - 문화일보 — *문화일보*
+- `11-10 11:38` 코스피 급등과 엔비디아 이슈까지 이시각 주요뉴스 - 연합인포맥스 — *연합인포맥스*
+- `11-10 11:36` 최근 하락 딛고 반등...코스피 코스닥 매수 사이드카 - YTN — *YTN*
 
 ## 🇰🇷 반도체·HBM
-- `11-10 04:30` 반도체 호황 끝나면 한국도 안심 못 해…빨라진 기초연금 30조원 시대, 佛 닮아가나 - 한국일보 — *한국일보*
-- `11-10 03:25` 지갑 닫는 미국 가계에 장바구니 비명…IT·반도체 수출 전선 긴장 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-10 03:09` 엔비디아, 2028년까지 한국 리벨리온 AI 반도체 자사 플랫폼에 탑재 추진 - 블루밍비트 — *블루밍비트*
-- `11-10 03:00` 폭락에 겁먹지 마라⋯ ‘반도체 거위’ 배 가를 정치인 없다 - 조선일보 — *조선일보*
-- `11-10 02:03` 젠슨 황 간첩 의혹, 中 AI 산업에 역풍 가능성…화웨이 반사이익도 제한적 - 초이스스탁US — *초이스스탁US*
-- `11-10 01:57` 부산서 반도체 제조기술 국제학술대회 열려 15개국·지역 전문가 800여 명 참가 - https://www.entv.kr/ — *https://www.entv.kr/*
-- `11-10 00:53` 용인교육지원청, 관내 중학생 3천명 대상 찾아가는 반도체 진로체험 버스 운영 - 일간투데이 — *일간투데이*
-- `11-10 00:36` ChipMOS 실적 발표 앞둬…AI 반도체 호황에 추가 성장 가능할까? - Investing.com 한국어 — *Investing.com 한국어*
+- `11-10 13:08` 반도체에 기댄 韓수출…10대 기업 `의존도` 역대 첫 60% 돌파 - 국제신문 — *국제신문*
+- `11-10 13:05` 반도체 날개 단 대기업 수출 2배 껑충…10대 기업 쏠림 첫 60% 돌파 - 아시아경제 — *아시아경제*
+- `11-10 12:55` “용인 재생에너지, 시민 소득과 반도체 경쟁력 잇는 상생모델로 전환을” - 기호일보 — *기호일보*
+- `11-10 12:53` 아이엠티, SK하이닉스와 HBM 수율 난제 해결 기술 공동개발…자금·경영 지원까지 - 마켓잉크 — *마켓잉크*
+- `11-10 12:52` 한국 반도체 급등·유가 하락에 아시아 증시 강세 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-10 12:45` 딥엑스 차세대 AI 반도체 DX-M2, CES 2027 혁신상 AI 부문 수상 선정 - 헬로티 — *헬로티*
+- `11-10 12:30` SK하이닉스·삼성전자, 동반 급등...아시아 반도체 대반격 시작 - 코인리더스 — *코인리더스*
+- `11-10 12:28` 중국 굴기 덮친 '스파이 스캔들'...반도체 생태계 '휘청' - YTN — *YTN*
 
 ## 🇰🇷 금융주
-- `11-09 22:12` iM금융지주, 11일 국내 기관에 3분기 실적 설명 - 비건뉴스 — *비건뉴스*
-- `11-09 20:45` [단독] 한국금융지주, 베트남서 은행 지분투자 나선다…현지 금융사업 확대 - 이코노미트리뷴 — *이코노미트리뷴*
-- `11-09 18:45` OK금융, 보험 품고 간판 변경…종합금융그룹 전환 '속도' - 서울경제TV — *서울경제TV*
-- `11-09 17:49` 기금형 퇴직연금 도입 앞두고…금융지주 '진출 전략' 고심 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `11-09 17:35` [리포트 브리핑]우리금융지주, '실속있는 선택지' 목표가 44,000원 - 흥국증권 - 뉴스핌 — *뉴스핌*
-- `11-09 17:35` [리포트 브리핑]하나금융지주, '꾸준히 좋아지는 중' 목표가 160,000원 - 흥국증권 - 뉴스핌 — *뉴스핌*
-- `11-09 17:35` [리포트 브리핑]iM금융지주, '새로운 목표를 향해서 ' 목표가 22,000원 - 흥국증권 - 뉴스핌 — *뉴스핌*
-- `11-09 17:35` [리포트 브리핑]JB금융지주, '건전성 관리가 관건' 목표가 35,000원 - 흥국증권 - 뉴스핌 — *뉴스핌*
+- `11-10 13:00` 은행 이자마진 일제히 하락, 금리 올린 효과 어디로 - 자본시장뉴스 — *자본시장뉴스*
+- `11-10 11:07` 우리금융, 소방관 지원 공로로 행안부장관 표창 수상 - 이지경제 — *이지경제*
+- `11-10 10:53` [단독] 신한금융 차기 CPO에 금융보안원 출신…귀해진 금융권 보안 인재 - MTN 머니투데이방송 — *MTN 머니투데이방송*
+- `11-10 10:32` [장중수급포착] 한국금융지주, 외국인/기관 동시 순매수… 주가 +1.53% - 뉴스핌 — *뉴스핌*
+- `11-10 10:23` [장중수급포착] JB금융지주, 기관 5일 연속 순매수행진... 주가 +1.93% - 뉴스핌 — *뉴스핌*
+- `11-10 10:21` ‘딱딱한 금융’ 벗고 MZ세대 품는다…JB금융그룹의 도전 [제3회 대한민국 AI 광고 대상] - 매일경제 — *매일경제*
+- `11-10 10:18` [장중수급포착] 우리금융지주, 기관 17일 연속 순매수행진... 주가 +1.29% - 뉴스핌 — *뉴스핌*
+- `11-10 10:00` 원화 스테이블코인 이달 정부안, 은행들 선점 경쟁 - 자본시장뉴스 — *자본시장뉴스*
 
 ## 🇰🇷 정책·거시
+- `11-10 09:47` [배상익의 시사톡톡] 부동산 세제, 금융 정책 후퇴, 시장이 불안하다 - 일간투데이 — *일간투데이*
+- `11-10 09:44` ‘3.7만 공급’ 김포아라, 교통대책 짜는 데만 2년…입주 때 길 열릴까 [부동산360] - 헤럴드경제 — *헤럴드경제*
+- `11-10 07:24` 민주당, 증시 불안 해소 위한 긴급 대책 논의... 부동산 세제 개편도 주목 - 공감신문 — *공감신문*
+- `11-10 06:00` '부동산 지라시'와의 전쟁…국토부, 백전백패한 이유는 - 땅집고 — *땅집고*
 - `11-09 17:06` 벼랑 끝 수도권 부동산 민심…與 의원들, 11일 대책 모임 결성 - 한국경제 — *한국경제*
 - `11-09 04:30` 금융당국 ‘해킹대책 강화’ 발표날, 증권 1위 미래에셋도 뚫렸다 - 동아일보 — *동아일보*
 - `11-08 23:45` 국토부 “허위 부동산 대책 유포, 추가 수사 의뢰” - 국토교통신문 — *국토교통신문*
 - `11-08 18:22` 점검해도 또 뚫리는 금융권… 금융당국 대책 실효성 도마 - 한국일보 — *한국일보*
-- `11-08 12:00` 與, 부동산 세제·공급 대책 속도전…불안한 민심 챙긴다 - 매일일보 — *매일일보*
 
 ## 🌍 AI·빅테크
+- `11-10 10:00` Nvidia Board Probes Leak Claims as Jensen Huang Admits Affair - Seoul Economic Daily — *Seoul Economic Daily*
+- `11-10 09:13` Revelation keeps market on edge over Nvidia chief Jensen Huang and artificial intelligence boom - Telegraph India — *Telegraph India*
+- `11-10 07:09` Why Retail Investors Are Watching Nvidia Alternatives In AI Infrastructure - Yahoo Finance — *Yahoo Finance*
+- `11-10 06:02` ‘Tried and True’ in AI. Nvidia, Anthropic & OpenAI. ARD #202 - AI: Reset to Zero — *AI: Reset to Zero*
 - `11-10 04:05` How Nvidia became the engine that keeps AI boom going - The Times — *The Times*
 - `11-10 04:02` Chinese spy suspect linked to Nvidia CEO Jensen Huang pitched AI chip access to investors: Report - Firstpost — *Firstpost*
 - `11-10 04:00` Is the Nvidia Affair Securities Fraud? - Bloomberg.com — *Bloomberg.com*
-- `11-10 01:48` Analysts say Nvidia CEO unlikely to be ousted over affair, but raise questions about company's future - Yahoo Finance — *Yahoo Finance*
-- `11-10 01:35` 'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang - Yahoo Finance — *Yahoo Finance*
-- `11-10 01:14` NVIDIA Releases Nine Million Synthetic Japanese Financial Personas - Unite.AI — *Unite.AI*
-- `11-10 00:18` Nvidia Releases Nemotron-Personas-Finance-Japan Dataset for Financial AI Development - The Chenab Times — *The Chenab Times*
-- `11-09 23:57` Stock Market Today (Nov. 9, 2026): Nvidia bucks tech stock comeback on controversy; Nasdaq, S&P 500 rise - Yahoo Finance — *Yahoo Finance*
+- `11-10 03:43` Nvidia $5T CEO scandal, AI legislation headaches, and Tesla returns deposits for Cybertrucks - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `11-10 03:27` Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - The Globe and Mail — *The Globe and Mail*
-- `11-10 03:12` Federal Reserve’s Mary Daly Says More Rate Hikes Are Likely - RV PRO — *RV PRO*
-- `11-10 03:00` Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - The Motley Fool — *The Motley Fool*
-- `11-10 02:48` NY Fed survey: Layoff fears highest since Covid crash, inflation expectations steady - Crypto Briefing — *Crypto Briefing*
-- `11-10 01:49` More Rate Hikes Are Coming as Job Growth Accelerated, Unemployment Fell - 24/7 Wall St. — *24/7 Wall St.*
-- `11-10 01:18` Federal Reserve bids $5.5 billion for six-month Treasury bills as US bond market watches Fed activity - Business Upturn — *Business Upturn*
-- `11-09 19:45` Gold and Silver Recover After Recent Sell-Off: 3 Factors to Watch - TradingView — *TradingView*
-- `11-09 19:23` U.S. Markets Brace for October CPI Report After Hot Jobs Data Pushes December Rate Hike Odds past 65% - TipRanks — *TipRanks*
+- `11-10 12:28` AI Investment Boom Weighs on Economic Trajectory as Fed Officials Carefully Assess Rate Hike Pace - NAI500 — *NAI500*
+- `11-10 08:35` US October Inflation Expectations Cool but Unemployment Fears Surge, Adding Uncertainty to Fed's December Rate Path - BigGo Finance — *BigGo Finance*
+- `11-10 07:33` The Fed Held Rates. Here’s What That Means for the Yield on Your T-Bill ETF - 24/7 Wall St. — *24/7 Wall St.*
+- `11-10 07:03` Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report - Kitco — *Kitco*
+- `11-10 06:39` Fed December Meeting What To Expect For Interest Rates In 2027 - Forbes — *Forbes*
+- `11-10 05:53` What to Expect from Tuesday’s Closely Watched Inflation Report - Investopedia — *Investopedia*
+- `11-10 05:13` Fed’s Daly signals more rate hikes - Mortgage Professional America — *Mortgage Professional America*
+- `11-10 04:15` Many SBA borrowers will feel the squeeze of rising rates - The Business Journals — *The Business Journals*
 
 ## 🌍 유가·지정학
-- `11-10 04:07` Oil Down, Analysts Hopeful Over Iran Peace Deal Demanding $8 Billion And Immediate U.S. Military Withdrawal - Ship & Bunker — *Ship & Bunker*
-- `11-10 04:01` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Tests New Lows On Iran Deal Hopes - FXEmpire — *FXEmpire*
-- `11-10 04:00` Central Asia Confronts Growing Threat of AI-Enabled Extremism - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-10 03:29` Oil Prices Fall on Hopes for Peace Between U.S. and Iran - GV Wire — *GV Wire*
-- `11-10 03:27` Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict - Fox News — *Fox News*
-- `11-10 03:04` Iraqi oil price for Asian markets reduced by $6 per barrel - IraqiNews — *IraqiNews*
-- `11-10 03:00` The AI Power Grab That Could Upend America's Electricity Industry - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-10 02:49` Crude Oil Price Forecast: Oil Falls 4% as US, Iran Signal Talks, Technicals Point to Brent Testing $88 - TradingKey — *TradingKey*
+- `11-10 13:00` The 75-Year Army Deal That Could Reshape America's Rare Earth Supply - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-10 12:55` Oil Price Forecast: WTI and Brent Extend Losses as Iran Strike Fears Ease - FXEmpire — *FXEmpire*
+- `11-10 12:12` Japan's Inpex stays committed to Middle East oil despite Hormuz disruption - The National — *The National*
+- `11-10 12:05` Oil prices extend decline as Trump softens stance on Iran, easing Middle East risk - BigGo Finance — *BigGo Finance*
+- `11-10 11:50` Occidental Cuts Debt to $10 Billion as Q3 Cash Flow Hits $4.1 Billion - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-10 11:29` What to know about fuel prices after a midterm elections oil price drop - ABC News & Headlines – Australian Broadcasting Corporation — *ABC News & Headlines – Australian Broadcasting Corporation*
+- `11-10 11:26` Oil prices today: Crude edges lower as Donald Trump signals pause in military action against Iran - The Times of India — *The Times of India*
+- `11-10 11:23` Oil Price Today (November 10): Crude oil falls below $92 as Trump says Iran war is effectively over. What - The Economic Times — *The Economic Times*
 
 ## 🌍 시장 전반
-- `11-10 04:24` Wall St jumps back as oil slide eases inflation worries; Nvidia slumps - Reuters — *Reuters*
-- `11-10 03:59` Tech Stocks Continue Rebound After Midterms Triggered AI-Linked Selloff - Forbes Middle East — *Forbes Middle East*
-- `11-10 02:55` Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA's Slide; CoreWeave Rallies 6% on Wayve Deal - 24/7 Wall St. — *24/7 Wall St.*
-- `11-10 02:48` Why is Starbucks stock rallying today? - Investing.com — *Investing.com*
-- `11-10 02:41` Stocks Needed a Clear Runway For a Post-Election Rally. Nvidia May Have Blocked it. - Barron's — *Barron's*
-- `11-10 02:28` US Stock Market Rallies as Nvidia Shares Plunge 6.5% - HDFC Sky — *HDFC Sky*
-- `11-10 01:44` Wall Street forecasters say the worst of the stock sell-off is over and a new rally is about to kick off - Business Insider — *Business Insider*
-- `11-10 01:24` US stocks rally and recover more of last week’s losses as oil prices swing lower - AP News — *AP News*
+- `11-10 12:52` Anthropic Pushes Ahead With IPO Next Week Despite Market Selloff: Report - Tema Photonics & Optical ETF - Benzinga — *Benzinga*
+- `11-10 12:35` US Stock Market Rally: Dow Jumps 1,104 Points, Nasdaq Up 2.7% - HDFC Sky — *HDFC Sky*
+- `11-10 12:32` The Stock Market Just Had Its Best Day Since April. Here's What History Says a 62-Year-Old Retiree With $1,300,000 in Cash Should Do Now - 24/7 Wall St. — *24/7 Wall St.*
+- `11-10 12:06` Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily — *Investor's Business Daily*
+- `11-10 11:39` Tech leads Asian stock rally as traders track Wall St rebound - Yahoo Finance — *Yahoo Finance*
+- `11-10 10:59` Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `11-10 10:05` Taiwan Stock Market Selloff Spills Into IPO Market: Nytex, Hong-Wei Competitive Auctions Draw Insufficient Bids, No Opening Price on Nov. 10 - finance.biggo.com — *finance.biggo.com*
+- `11-10 09:26` Self-Share Buybacks Fail to Stem Market Selloff as KOSPI Plummets - 조선일보 — *조선일보*
