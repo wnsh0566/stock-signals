@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-11 21:11 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-11 21:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-11 21:34` 뉴욕증시 프리뷰, 미 주가 선물 반등...코어위브 15% 급등에 AI 투자 우려 완화 - 뉴스핌 — *뉴스핌*
 - `11-11 20:51` 코스피, 美 긴축 우려에도 강세…코스닥 5% 급등 - 연합뉴스TV — *연합뉴스TV*
 - `11-11 20:22` [단독] ETF 일평균 거래대금, 코스피 사상 첫 추월 - 아시아경제 — *아시아경제*
 - `11-11 20:05` Citi “일본 증시 추가 조정 땐 엔화 강세 가능성” - Investing.com 한국어 — *Investing.com 한국어*
 - `11-11 20:02` [인도증시] 유가 하락·AI 투자 우려 속 상승...은행·자동차 섹터 ↑ - 뉴스핌 — *뉴스핌*
 - `11-11 19:56` 증시 바닥인 줄…“남은 건 반등” 지하 못 본 개미들 '빚투' 자극한 결과 - 전자신문 — *전자신문*
+- `11-11 19:24` 코스피 2.6% 오른 5375.36 마감...외국인 이틀 연속 순매수 - 조선일보 — *조선일보*
 - `11-11 19:15` [亞증시-종합] 日·中·臺 ↑…홍콩 홀로 하락 - 연합인포맥스 — *연합인포맥스*
-- `11-11 18:51` [베트남 증시] 유동성 부진 심화, 혼조...外人은 이틀 연속 '순매수' - 뉴스핌 — *뉴스핌*
-- `11-11 18:49` 코스피 '이 조건' 충족해야 내년 7000까지 반등?…증권가가 꼽은 핵심 조건은 - 한국경제 — *한국경제*
 
 ## 🇰🇷 반도체·HBM
+- `11-11 21:15` 김민석 체제 첫 전남광주 최고위 "반도체 살리고 서남권 달래기" - KBC광주방송 — *KBC광주방송*
+- `11-11 21:12` 첨단 반도체 소부장 도시 익산, 시민과 미래 그린다 - 뉴스21 통신 — *뉴스21 통신*
+- `11-11 21:11` [삼성전자·SK하이닉스] 나란히 올랐다… SK하이닉스 6.69% - CEO경제신문 — *CEO경제신문*
+- `11-11 21:09` “앨리스 황, 미국산 AI반도체 10조원어치 중국 우회 반입 의혹” - 경향신문 — *경향신문*
 - `11-11 20:39` 젠슨 황 스캔들, 대중 반도체 규제 강화로 이어지나 - YTN — *YTN*
-- `11-11 20:11` [삼성전자·SK하이닉스] 나란히 올랐다… SK하이닉스 6.69% - CEO경제신문 — *CEO경제신문*
 - `11-11 19:32` D램 매출 369% 폭증 초호황…삼성전자·SK하이닉스 '압도적 실적' - 파이낸셜포스트 — *파이낸셜포스트*
 - `11-11 19:22` 반도체·군공항·의료까지···與, 텃밭 전남광주서 ‘민심 껴안기’ - 무등일보 — *무등일보*
 - `11-11 19:21` "땡큐 앤트로픽" 반도체株 구세주 되나…삼전닉스 '급등' 마감 - 아이뉴스24 — *아이뉴스24*
-- `11-11 19:03` [종목상담 주식민원처리반] 반도체 기판주 전반 상승 따른 강세 부각 '대덕전자' - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-11 18:53` 美 기업 감세 축소 땐 韓 반도체 직격탄…대미 수출 감소 우려 - 녹색경제신문 — *녹색경제신문*
-- `11-11 18:47` 박홍근 "美 선거 결과, '반도체 의존' 우리 경제에 우려" - 조세일보 — *조세일보*
 
 ## 🇰🇷 금융주
 - `11-11 18:37` 김용범 메리츠금융지주 부회장, 계열사 성장에도 투자손익 부진…리스크 관리 강화 [금융사 2026 3분기 실적] - 금융신문 — *금융신문*
@@ -57,30 +57,30 @@
 
 ## 🌍 연준·금리
 - `11-11 20:59` The Fed Has to Raise Rates. How Fast To Go Has Officials Divided. - The New York Times — *The New York Times*
+- `11-11 20:44` Yen Slumps as Fed Rate-Hike Bets Boost Dollar - WSJ — *WSJ*
 - `11-11 20:25` Dollar rises toward two-week high on Fed rate hike bets - سانا — *سانا*
 - `11-11 20:01` Why Goldman Sachs Is Now Changing Its Federal Reserve Interest-rate Forecast - Moomoo — *Moomoo*
 - `11-11 19:37` Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast - MarketWatch — *MarketWatch*
 - `11-11 19:32` US dollar nears two-week high as inflation fuels interest rate hike expectations - Riviera Radio — *Riviera Radio*
 - `11-11 19:20` Fed officials open door to 50-basis-point rate hike, here’s why - IDNFinancials — *IDNFinancials*
 - `11-11 19:13` Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations - Yahoo Finance — *Yahoo Finance*
-- `11-11 18:54` Goldman adds another Fed rate hike to its forecast as Goolsbee calls October inflation 'borderline disturbing' - MLQ.ai — *MLQ.ai*
 
 ## 🌍 유가·지정학
+- `11-11 21:30` Current price of oil as of Nov. 11, 2026 - Fortune — *Fortune*
+- `11-11 21:30` Oil Prices Rebound as Iran Rejects Key U.S. Nuclear Demand and Strait of Hormuz Shipping Attacks Renew Supply Concerns - EnergyNow.com — *EnergyNow.com*
+- `11-11 21:30` India Eyes 50% Wind Power Capacity Boost Without Acquiring More Land - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-11 21:00` Iraq probes oil smuggling claims against Iran-backed factions in Jurf Al-Sakhr - The New Arab — *The New Arab*
 - `11-11 20:30` RWE and KKR Seal $16 Billion UK Offshore Wind Mega-Deal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-11 20:14` Two oil tankers explode in Hormuz, Iran claims mine strikes: How many ships have been hit this month? - WION — *WION*
-- `11-11 19:47` Oil prices rise as investors monitor shipping disruption in the Strait of Hormuz - Euronews.com — *Euronews.com*
+- `11-11 19:47` Oil prices rise as investors monitor Hormuz shipping disruption - Euronews.com — *Euronews.com*
 - `11-11 19:47` E.ON Reaffirms 2026 Outlook as Nine-Month Net Profit Rises 4% - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-11 19:44` Oil Prices Rise as Iran Peace Hopes Clash With Strait of Hormuz Tensions - Benzinga — *Benzinga*
-- `11-11 19:42` Crude oil rebounds as expectations for an imminent deal fade amid the lack of US-Iran progress - investingLive — *investingLive*
-- `11-11 19:35` Oil prices rise amid concerns of shipping disruptions in the Strait of Hormuz - The Jerusalem Post — *The Jerusalem Post*
 
 ## 🌍 시장 전반
-- `11-11 21:05` TSX futures rise as CoreWeave outlook provides relief after bond market selloff - Investing.com — *Investing.com*
+- `11-11 21:19` After US market shake-out, signs suggest too soon to say worst is over - Reuters — *Reuters*
+- `11-11 21:07` TSX futures rise as CoreWeave outlook provides relief after bond market selloff - Investing.com — *Investing.com*
 - `11-11 21:04` S&P 500: Is a Stock Market Crash Coming? Buffett’s Advice - JournalArta — *JournalArta*
-- `11-11 20:41` NSE shares hit record high of Rs 1,965, rally 19% from all-time low; should investors buy? Check target... - Moneycontrol.com — *Moneycontrol.com*
-- `11-11 20:39` Indian Rupee rallies as FIIs make strong comeback to Indian stock market - FXStreet — *FXStreet*
-- `11-11 20:22` After US market shake-out, signs suggest too soon to say worst is over - Reuters — *Reuters*
+- `11-11 20:32` After US market shake-out, signs suggest too soon to say worst is over - The Mighty 790 KFGO — *The Mighty 790 KFGO*
 - `11-11 20:10` Neocloud Stocks Rally as CoreWeave Earnings Ease AI Infrastructure Concerns - Yahoo Finance — *Yahoo Finance*
 - `11-11 19:36` Could the Latest Inflation Data Trigger a Stock Market Crash? - The Motley Fool — *The Motley Fool*
 - `11-11 19:30` The Stock Market Is Repeating a Pattern Not Seen in Decades, but History Says Investors Who Make This 1 Move Will Win Out - The Motley Fool — *The Motley Fool*
+- `11-11 19:25` Is the Stock Market Going to Crash? Warren Buffett's Warning Is Hard to Ignore. - The Motley Fool — *The Motley Fool*
