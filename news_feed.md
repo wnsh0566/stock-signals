@@ -1,86 +1,86 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-11 03:48 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-11 11:07 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-11 03:12` 유럽증시, 우크라 종전 협상 기대감에 대부분 상승 … 범유럽 지수는 역대 최고치 근접 - 뉴스핌 — *뉴스핌*
-- `11-11 03:02` 증시 반등이 나와도 장중 매물이 강하게 나오는 이유에 대한 고민. - Investing.com 한국어 — *Investing.com 한국어*
-- `11-11 02:50` 유가 하락에 증시 반등...'젠슨황 불륜' 엔비디아만 급락[뉴욕마감] - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-11 01:28` 뉴욕증시, 물가 상승 압력에 약세… 3대 지수 하락 출발 - Chosunbiz — *Chosunbiz*
-- `11-11 00:30` 뉴욕증시 반등 힘입어… 코스피, 4거래일만에 상승 마감 - 동아일보 — *동아일보*
-- `11-11 00:24` 미 증시 강세·유가 하락...코스피, 4.4% 반등 마감 - YTN — *YTN*
-- `11-11 00:03` [사진] 코스피 4거래일 만에 반등 - 미주중앙일보 — *미주중앙일보*
-- `11-10 23:51` 뉴욕증시, CPI·월러 발언 소화하며 하락 출발 - 연합뉴스 — *연합뉴스*
+- `11-11 10:58` 코스피,美 '빅스텝' 우려속 5,300선 공방…코스닥 3%대 상승 - 서울이코노미뉴스 — *서울이코노미뉴스*
+- `11-11 10:52` [속보] 코스피, 상승전환해 1%대 강세…코스닥 4%대 급등 - 연합뉴스 — *연합뉴스*
+- `11-11 10:41` 코스피, 장 초반 상승 전환...코스닥 4%대 급등 - 전자신문 — *전자신문*
+- `11-11 10:40` 증시 하락에 버티던 개미들 ‘빚투’ 무너졌다…하루 379억 강제 청산 - 조세일보 — *조세일보*
+- `11-11 10:39` 증시 급락에 ETF 시총 141조 증발…개미·외국인 `변동성 베팅` 확대 - 매일신문 — *매일신문*
+- `11-11 10:31` "코스피 바닥 신호 커졌다"…하나증권 3개월 분할매수 권고 - 비즈워치 — *비즈워치*
+- `11-11 10:27` 증시 경고등 10년 새 2.7배…불공정거래 혐의통보는 오히려 줄어 - 경인방송 뉴스 — *경인방송 뉴스*
+- `11-11 10:24` 코스피, 하락 출발 후 상승 전환…코스닥 3%대 강세 - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 반도체·HBM
-- `11-11 03:05` "역사적 저점" vs "목표가 하향"… K반도체 엇갈린 전망 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-11 03:00` 美 덮친 '中 산업스파이' 불안감… '반도체 빗장' 굳게 잠긴다 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-11 02:20` “삼성전자·SK하이닉스 지금 팔아야 하나”…모건스탠리 경고에 94세 투자 대가의 조언 - 데일리25 — *데일리25*
-- `11-11 01:51` 도이체방크, 시장 변동성 속 미국 반도체 톱픽 선정 - Investing.com 한국어 — *Investing.com 한국어*
-- `11-11 00:44` 젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프 - 조선일보 — *조선일보*
-- `11-11 00:17` [홍콩 특징주] 알리바바, 반도체 자회사 '핑터우거' 홍콩증시 분사 상장 추진 - 뉴스핌 — *뉴스핌*
-- `11-11 00:01` [사설] 젠슨 황 스캔들, 한국 반도체 波高 잘 넘겨야 - 아시아투데이 — *아시아투데이*
-- `11-11 00:00` [마켓인사이드] 미중 반도체 갈등으로 번지는 엔비디아 젠슨 황 불륜 스캔들 - 뉴스투데이 — *뉴스투데이*
+- `11-11 11:00` 반도체 수출 226.8% 폭증해도 지갑은 닫혔다 - 자본시장뉴스 — *자본시장뉴스*
+- `11-11 10:59` SK하이닉스, 피지컬 AI 보안 인증 라인업 강화…메모리 신뢰성 높인다 - 뉴시스 — *뉴시스*
+- `11-11 10:54` 하루 만에 SK하이닉스 다시 담은 초고수들…셀트리온, 로보티즈 팔아 - 한국경제 — *한국경제*
+- `11-11 10:54` SK하이닉스 LPDDR5X, 산업안전 최고 'SIL 3' 인증⋯피지컬 AI 공략 - 포커스온경제 — *포커스온경제*
+- `11-11 10:54` SK하이닉스 D램 'LPDDR5X', 산업 안전·차량 보안 국제인증 동시 확보 - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
+- `11-11 10:51` SK하이닉스, 기능안전·사이버보안 국제 인증 확보…피지컬 AI 메모리 경쟁력 강화 - 뉴스퀘스트 — *뉴스퀘스트*
+- `11-11 10:49` SK하이닉스 '억대 성과급' 기대감 속 하반기 생산직 채용 - YTN — *YTN*
+- `11-11 10:48` 피지컬 AI 메모리 ‘안전 방패’ 두른 SK하이닉스, ‘오작동’도 ‘해킹’도 막는다 - 에너지경제신문 — *에너지경제신문*
 
 ## 🇰🇷 금융주
-- `11-11 02:30` 동양, 청산 PEF서 우리금융지주 329만주 받을 예정 - 비건뉴스 — *비건뉴스*
-- `11-10 18:32` 유진증권, PEF 청산으로 우리금융지주 보통주 296만8152주 현물 취득 예정 - 디지털투데이 — *디지털투데이*
-- `11-10 17:47` 금융지주 계열 보험사 CEO 7명 연말 임기 만료…대형 보험사 4명도 내년 3월 '시험대' - 인더스트리뉴스 — *인더스트리뉴스*
-- `11-10 17:42` [속보] 유진증권, 우리금융지주 주식 918억원 규모 취득 예정…자기자본 대비 8.11% - CBC뉴스 — *CBC뉴스*
-- `11-10 17:27` 수협중앙회 사업 12.6% 줄여도 조합 지원은 늘린다 - 자본시장뉴스 — *자본시장뉴스*
-- `11-10 16:51` 장기집권 김기홍 JB금융 회장, 부회장 공석 언제까지…연말 인사 이목 - 1코노미뉴스 — *1코노미뉴스*
-- `11-10 16:32` [금융지주 풍향계] 우리금융미래재단, 소방관 지원 공로 행안부장관 표창 外 - 에너지경제신문 — *에너지경제신문*
-- `11-10 16:24` [주주환원 랭킹] 11월 첫째 주 주주환원 랭킹… 메리츠금융지주 배당 2,835억원 최대 - CEO경제신문 — *CEO경제신문*
+- `11-11 10:00` 기업예금 1079조 몰려도 대출 못 따라가는 이유 - 자본시장뉴스 — *자본시장뉴스*
+- `11-11 09:54` 4대 금융, 영구채 발행 줄였지만 이자 부담 25% 급증…고금리 차환에 자본관리 부담 - www.thedailyeconomy.kr — *www.thedailyeconomy.kr*
+- `11-11 09:41` "은행주, 배당 넘어 수익성 경쟁…내년 차별화 본격화" - 뉴스투데이 — *뉴스투데이*
+- `11-11 09:38` 신한증권, KB금융 리포트 안 낸 까닭은 - DFT 대한금융신문 — *DFT 대한금융신문*
+- `11-11 09:34` 한국금융지주 주가 하락 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `11-11 09:31` 메리츠금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `11-11 09:28` 우리금융지주 주가 상승 중 - 아시아뉴스통신 — *아시아뉴스통신*
+- `11-11 09:18` 농협금융, NH올원더풀 1주년 감사제 열었다 - 뉴스프리존 — *뉴스프리존*
 
 ## 🇰🇷 정책·거시
+- `11-11 10:43` 與민주연구원, 부동산 대책 TF 설치…전월세난·세제 개편안 등 논의 - 머니투데이 - 머니투데이 — *머니투데이*
+- `11-11 10:21` 종부세 기준 둘러싼 당정 이견 속…與, '부동산 대책 TF' 본격 가동 - 와이드경제 — *와이드경제*
+- `11-11 06:00` 정부 부인에도 끊이지 않는 부동산 규제설…대출 축소·규제 확대 왜? - 뉴스핌 — *뉴스핌*
 - `11-11 01:20` [윤준의 부동산수첩] 공급대책 10만 가구, 입주가 최우선 과제 - NBN미디어 — *NBN미디어*
 - `11-11 00:43` "전세 씨말라"… 與, 부동산 민심 악화에 TF 따로 만든다 - 조선일보 — *조선일보*
 - `11-10 09:47` [배상익의 시사톡톡] 부동산 세제, 금융 정책 후퇴, 시장이 불안하다 - 일간투데이 — *일간투데이*
 - `11-10 09:44` ‘3.7만 공급’ 김포아라, 교통대책 짜는 데만 2년…입주 때 길 열릴까 [부동산360] - 헤럴드경제 — *헤럴드경제*
 - `11-10 07:24` 민주당, 증시 불안 해소 위한 긴급 대책 논의... 부동산 세제 개편도 주목 - 공감신문 — *공감신문*
-- `11-10 06:00` '부동산 지라시'와의 전쟁…국토부, 백전백패한 이유는 - 땅집고 — *땅집고*
-- `11-09 17:06` 벼랑 끝 수도권 부동산 민심…與 의원들, 11일 대책 모임 결성 - 한국경제 — *한국경제*
-- `11-09 04:30` 금융당국 ‘해킹대책 강화’ 발표날, 증권 1위 미래에셋도 뚫렸다 - 동아일보 — *동아일보*
 
 ## 🌍 AI·빅테크
-- `11-11 00:38` AI training startup Mercor valued at $20 billion in latest funding round - Reuters — *Reuters*
-- `11-10 23:27` Congress Wants China Chip Limits in the Defense Bill After Nvidia’s Spy Scandal - Yahoo Finance — *Yahoo Finance*
+- `11-11 07:23` OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem - Yahoo Finance — *Yahoo Finance*
+- `11-11 07:18` Uniserve To Acquire Additional NVIDIA B300 Systems to Expand Canadian AI Compute Capacity; $4 Million Loan Secured - TMX Newsfile — *TMX Newsfile*
+- `11-11 07:03` Anthropic’s Giant IPO Will Tie It Closer to Nvidia - The New York Times — *The New York Times*
+- `11-11 06:37` Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019 - Yahoo Finance — *Yahoo Finance*
+- `11-11 02:29` AI training startup Mercor valued at $20 billion in latest funding round - Reuters — *Reuters*
+- `11-11 00:01` CoreWeave earnings put debt-fueled AI build-out under scrutiny - CNBC — *CNBC*
+- `11-10 23:54` Moonshot AI rented 32 Nvidia B300 servers housed in China, Bloomberg reports; Moonshot disputes the documents - MLQ.ai — *MLQ.ai*
 - `11-10 22:31` Moonshot AI rented restricted Nvidia AI chips inside China, documents show - Quartz — *Quartz*
-- `11-10 20:24` OpenAI Is SoftBank’s Investment, Customer and Collateral. What Could Go Wrong? - Open Magazine — *Open Magazine*
-- `11-10 20:22` OpenAI's biggest backer reveals stunning $7 billion loss - Yahoo Finance Singapore — *Yahoo Finance Singapore*
-- `11-10 20:03` A Jensen Huang Exit From Nvidia Could Slow AI Dealmaking, Financing Across The Industry, Morningstar Warns - Stocktwits — *Stocktwits*
-- `11-10 20:00` Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government - Yahoo Finance — *Yahoo Finance*
-- `11-10 19:16` Nvidia Intervened in US Probe of Megaspeed Chip Smuggling - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `11-11 03:25` U.S. October CPI Tops Forecasts, Igniting Rate-Hike Bets; Dow Falls Nearly 250 Points, Gold Plunges Over 2% - BigGo Finance — *BigGo Finance*
-- `11-11 03:14` Hot CPI boosts Fed rate hike bets - CNBC — *CNBC*
-- `11-11 03:14` Fed officials open door to a half-point hike after inflation beats expectations - Reuters — *Reuters*
-- `11-11 02:55` Hot US inflation raises odds of half-point Fed hike in December - TradingView — *TradingView*
-- `11-11 02:54` Dow Jones at 52,041.91 as Hot CPI Weighs on U.S. Stocks - ad-hoc-news.de — *ad-hoc-news.de*
-- `11-11 02:53` US CPI Inflation Report Today: October Prices Surge 0.4% As Fresh Data Puts Federal Reserve’s Next Interest Rate Decision Under Spotlight - The Sunday Guardian — *The Sunday Guardian*
-- `11-11 02:41` Dallas Fed's Logan Warns October PCE Inflation Could Rise — Sees Faster Rate Hikes As A Possibility This Winter - TradingView — *TradingView*
-- `11-11 02:32` Trump-appointed Fed member signals big interest rate hike as inflation runs hot - The Washington Post — *The Washington Post*
+- `11-11 10:50` Fed’s Paulson: Further ‘gradual’ rate hikes appropriate given high inflation | FXStreet - شبكة تواصل الإخبارية — *شبكة تواصل الإخبارية*
+- `11-11 10:45` Fed officials open door to quicker round of rate hikes - The Korea Herald — *The Korea Herald*
+- `11-11 10:27` Fed’s Paulson calls for gradual rate hikes amid ongoing high inflation - The Business Times — *The Business Times*
+- `11-11 10:02` Trump-appointed Fed member signals big interest rate hike as inflation runs hot - The Washington Post — *The Washington Post*
+- `11-11 09:59` Trump’s Fed nightmare: Rates won’t be slashed. They could surge now - SMH.com.au — *SMH.com.au*
+- `11-11 09:30` US Federal Reserve signals big step (50bp rate hike)?...KOSPI battles around the 5,200 mark - 머니투데이 — *머니투데이*
+- `11-11 09:28` Global gold prices plunge nearly 3% on 10 November 2026 after US inflation exceeds forecasts - Nation Thailand — *Nation Thailand*
+- `11-11 09:16` Federal Reserve Officials Consider 0.5% Rate Hike Amid Rising Inflation - 조선일보 — *조선일보*
 
 ## 🌍 유가·지정학
-- `11-11 03:37` Continued U.S. Blockade Of Iran, Not Further Military Strikes, Causes Oil To Dip Below $90 Per Barrel - Ship & Bunker — *Ship & Bunker*
-- `11-11 03:34` Oil Prices Just Fell to Their Lowest Since August as Trump Says the Iran War Is ‘Effectively Over’ - 24/7 Wall St. — *24/7 Wall St.*
-- `11-11 03:00` The Truth Behind Iraq's Oil Rebound And The Secret Red Sea Plan - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-11 03:00` Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-11 02:49` Oil falls below $90 amid easing US-Iran tensions - Oil & Gas Journal — *Oil & Gas Journal*
-- `11-11 02:45` Iran says 3rd oil tanker explodes after hitting naval mine in Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
-- `11-11 02:45` Oil tanker catches fire after hitting naval mine in Hormuz, Iran says - Middle East Eye — *Middle East Eye*
-- `11-11 02:38` NYMEX Overview: Oil Futures Extend Losses on Hopes for Iran De-Escalation -- OPIS - Moomoo — *Moomoo*
+- `11-11 10:00` Middle East Oil Flows Far from Normal Despite Signs of Oversupply - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-11 09:16` If the war winds down, the price of oil will plummet, says Jim Cramer - CNBC — *CNBC*
+- `11-11 09:00` South Sudan Courts Oil Investors as Sudan's Warring Forces Take Their Share - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-11 08:00` Midterm Results Could Trip Trump's Energy Independence Plans - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-11 07:27` Iran says 3 oil tankers exploded on Hormuz Strait's "unauthorized" route - 巴士的報 — *巴士的報*
+- `11-11 07:21` Oil prices slide as hopes for end to Iran war spark selloff (CL1:COM:Commodity) - Seeking Alpha — *Seeking Alpha*
+- `11-11 07:00` A 'Geologic Freak' in Arkansas Is Big Oil's New Lithium Bet - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-11 06:59` API Shows Sharp Build in US Crude Oil, Distillate Inventories - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `11-11 02:29` SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39% - Yahoo Finance — *Yahoo Finance*
-- `11-11 02:29` Anthropic cuts valuation to $1.4tn after AI sell-off - The Telegraph — *The Telegraph*
-- `11-11 01:34` Will the housing market crash due to the affordability crisis? - Yahoo Finance — *Yahoo Finance*
-- `11-11 01:21` Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off - Fortune — *Fortune*
-- `11-11 00:58` AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 - Yahoo Finance — *Yahoo Finance*
-- `11-11 00:03` Dangote Cement Pauses $1 Billion London Listing Plan After Rout - Bloomberg.com — *Bloomberg.com*
-- `11-10 23:45` Stock Market Today: S&P 500 Slips 0.49% and Nasdaq 0.61% at the Open as 10-Year Yield Climbs to 4.96% - JournalArta — *JournalArta*
-- `11-10 23:14` Nvidia’s Loss, Rest of Stock Market Rallies as S&P 500 Gains 2.35% - JournalArta — *JournalArta*
+- `11-11 10:29` Stock Market Today: Gift Nifty, US Inflation To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 11 - NDTV Profit — *NDTV Profit*
+- `11-11 10:25` Futures Rise, CoreWeave Jumps In Good News For AI - Investor's Business Daily — *Investor's Business Daily*
+- `11-11 07:35` Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report - Yahoo Finance — *Yahoo Finance*
+- `11-11 07:30` Stock Market Today, Nov. 10: Wall Street's Rally Hits a Roadblock as Hot Inflation Raises the Stakes for the Fed - The Motley Fool — *The Motley Fool*
+- `11-11 06:45` Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `11-11 06:38` Why the market implications of the midterm elections aren’t as clear as they seem - Morningstar Australia — *Morningstar Australia*
+- `11-11 06:00` US stock market close: Hot CPI leads to a selloff - investingLive — *investingLive*
+- `11-11 05:37` Worried About a Market Crash? These 3 High-Yielding Stocks Can Be Safe Long-Term Options - The Motley Fool — *The Motley Fool*
