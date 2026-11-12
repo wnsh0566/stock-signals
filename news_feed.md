@@ -1,86 +1,86 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-12 13:02 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-12 19:57 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-12 12:25` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
-- `11-12 12:24` 코스피, 반도체 강세에 5,400선 회복...기관 매도에 상승폭 제한 - M이코노미뉴스 — *M이코노미뉴스*
-- `11-12 12:09` 코스피, 외국인 매수세 힘입어 1%대 상승…5430선 등락 중 - Chosunbiz — *Chosunbiz*
-- `11-12 12:03` 10월 증시 외국인 193.1억달러 순유출... 채권은 순유입 전환 - Chosunbiz — *Chosunbiz*
-- `11-12 11:45` 코스피 사흘째 상승세 지속…장중 5,400선 회복 - 연합뉴스TV — *연합뉴스TV*
-- `11-12 11:42` 코스피, 사흘 연속 반등시도...코스닥은 '숨 고르기' - YTN — *YTN*
-- `11-12 11:37` 코스피, 반도체 강세에 5,400선 회복…기관 매도에 상승폭 제한 - 산경투데이 — *산경투데이*
-- `11-12 11:33` 日 증시, 코어위브·앤트로픽발 美 기술주 강세 힘입어 상승 - 연합인포맥스 — *연합인포맥스*
+- `11-12 19:44` [인도증시] 랠리 뒤 숨고르기, 강보합 마감...外人 선호도 높은 금융주 강세 - 뉴스핌 — *뉴스핌*
+- `11-12 19:17` 코스피 조정에 빚투 주춤…대기자금도 연중 최저 - 국제신문 — *국제신문*
+- `11-12 18:56` [베트남 증시] 거시 지표 호조도 무용지물, 혼조세 지속...外人 매도세 몰리며 FPT 3년래 최저가 - 뉴스핌 — *뉴스핌*
+- `11-12 18:38` [외환-마감] 코스피 약세 전환하자 환율도 하락…1,320원대에 저점 - 연합인포맥스 — *연합인포맥스*
+- `11-12 18:29` [중국증시-마감] 반도체주 강세에도 하락 - 연합인포맥스 — *연합인포맥스*
+- `11-12 18:21` ’엔비디아 리스크’ 코스피 약보합…코스닥 1% 하락 - 연합뉴스TV — *연합뉴스TV*
+- `11-12 18:06` 코스피 21% 빠질 때… 고배당주는 7% 하락 - 서울신문 — *서울신문*
+- `11-12 17:57` [1112마감체크] 젠슨 황 스캔들 여파에 반도체·금융 약세…코스피 5342.73 마감 By 인포스탁데일리 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
-- `11-12 12:49` 이재용 "온양을 최첨단 HBM 거점으로"…삼성, 56조 투입해 생산능력 확대 - Chosunbiz — *Chosunbiz*
-- `11-12 12:46` 올해 민간소비 누른 '고유가'...'반도체' 호황 효과는 내년 체감 전망 - 뉴스핌 — *뉴스핌*
-- `11-12 12:31` 삼성, 충청권에 144조원 투자…HBM 패키징·OLED·기판·배터리 생산시설 확충 - 디일렉 — *디일렉*
-- `11-12 12:31` “성과급 8억원까지?”…SK하이닉스 생산직 채용에 관심 폭발, 학력도 안 본다 - 데일리25 — *데일리25*
-- `11-12 12:31` 노르마, 영국 퀀텀모션과 반도체 기반 양자처리장치 공동 공급 협약 체결 - 양자신문 — *양자신문*
-- `11-12 12:15` 성남시, 반도체·AI 분야 신규 협력과제 2건 발굴 - 동방일보 — *동방일보*
-- `11-12 12:12` SK하이닉스 재무 버팀목으로…그룹 곳곳에 ’현금 낙수효과’ By EBN - Investing.com 한국어 — *Investing.com 한국어*
-- `11-12 12:06` [젠슨황 스캔들] 엔비디아 흔들려도…삼성·SK HBM 전선 ’이상 없다’ By FinancialPost - Investing.com 한국어 — *Investing.com 한국어*
+- `11-12 19:48` 젠슨 황 스캔들에 中 AI 기업들 비상…美 반도체 규제 강화 우려에 해외 칩 확보 경쟁 - 뉴스핌 — *뉴스핌*
+- `11-12 19:30` 팹리스협회, 베트남서 AI 반도체 협력 확대…딥엑스도 참여 - 아이뉴스24 — *아이뉴스24*
+- `11-12 19:25` ‘반도체 록스타’ 젠슨 황 해임 위기…33년 AI 제국도 흔들 - 한겨레 — *한겨레*
+- `11-12 19:01` '깐부' 손잡고 대박 났는데…젠슨 황 쇼크에 한국도 '초긴장' - 한국경제 — *한국경제*
+- `11-12 19:00` 오늘의 포토〉 '호남 반도체 산단 조성' 성토재 덕흥동 시유지에 야적 - 진일보 | 전남일보 — *진일보 | 전남일보*
+- `11-12 18:40` 서울대 반도체공동연구소, 제1회 ‘양자 반도체 기본공정교육’ 개최 - 서남투데이 — *서남투데이*
+- `11-12 18:34` 젠슨 황 논란 확산일로…삼성전자·SK하이닉스, 실적 변수 - 뉴스핌 — *뉴스핌*
+- `11-12 18:28` ‘4.84대 1’ 뚫었다…용인반도체고 첫 신입생 134명 뽑았다 - 아시아경제 — *아시아경제*
 
 ## 🇰🇷 금융주
-- `11-12 12:03` 금융지주회장 3연임 ‘贊 75%’로 상향… 힘 세진 사외이사 - 문화일보 — *문화일보*
-- `11-12 11:53` 7인 임추위서 2명만 반대해도 금융지주회장 3연임 못한다 - 문화일보 — *문화일보*
-- `11-12 11:48` 금융지주 회장 '셀프연임·장기연임' 막는다…3연임 시 주총 75% 찬성 얻어야 - 서울STV뉴스 — *서울STV뉴스*
-- `11-12 11:39` 퇴직한 금융지주 회장에 연 7억 '턱'…재임가능 연령 슬쩍 변경 - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `11-12 11:33` 금융지주 CEO 연임 요건 강화 추진…승계 절차 투명성 높인다 - 전국매일신문 — *전국매일신문*
-- `11-12 11:29` 메리츠금융지주, 3분기 실적 실망감에 15% 급락 - 뉴시스 — *뉴시스*
-- `11-12 11:22` CEO 입김 차단하고 연임 문턱 높이고...금융지주 지배구조 손본다 - 매일경제 — *매일경제*
-- `11-12 11:20` 당정, 금융지주 지배구조 개선 입법 속도…시행은 빨라야 내년 하반기 - 뉴스1 — *뉴스1*
+- `11-12 19:07` 금융지주 전임 회장에 억대 고문료…이사회 견제도 부실 - 국제신문 — *국제신문*
+- `11-12 18:40` 내달 금융지주 인사 앞두고 뒤숭숭…대표 교체설에 영업 손놓은 하나증권 - 아시아투데이 — *아시아투데이*
+- `11-12 18:10` [사설] 금융지주 회장 ‘셀프 연임’ 방지, 독립이사에 달려 - 한겨레 — *한겨레*
+- `11-12 18:09` [뱅크 NOW] NH농협금융지주·Sh수협은행·신협중앙회 - 위키리크스한국 — *위키리크스한국*
+- `11-12 18:03` [더나은미래 경제브리핑] 금융지주 회장 ‘셀프연임’ 제동, 임추위 독립성 강화·주총 75% 찬성 도입...해외 처방 ‘비만 치료제’, 12일부터 최대 3개월분 반입 허용 - 더나은미래 — *더나은미래*
+- `11-12 18:02` 금융지주 회장 3연임 땐 ‘주총 75% 찬성’ 필요 - 세계일보 — *세계일보*
+- `11-12 18:01` [뉴스토마토프라임] 금융지주 특별점검서 드러난 '참호 구축' 실태 - 뉴스토마토 — *뉴스토마토*
+- `11-12 17:40` 국민연금, 금융지주 독립이사 추천 길 열렸다 - 서울경제 — *서울경제*
 
 ## 🇰🇷 정책·거시
+- `11-12 16:34` ‘13일 코스닥 추가 대책’ 소문에 금융당국 “사실무근” - 메트로신문 — *메트로신문*
+- `11-12 15:59` 금융당국 "13일 코스닥 추가대책 발표설 사실무근"…허위정보 엄정 대응 - 우리경제신문 — *우리경제신문*
+- `11-12 15:42` "존재 이유가 뭔가요?"…코스닥 대책설 일축에 '금융당국 무용론' - 더팩트 — *더팩트*
+- `11-12 14:24` 금융당국, '코스닥 추가 대책' 지라시에 "사실무근…엄정 조치" - 연합인포맥스 — *연합인포맥스*
+- `11-12 13:57` 금융당국 "13일 코스닥 추가대책 사실 아냐, 풍문유포 엄정 조치" - 머니투데이 - 머니투데이 — *머니투데이*
 - `11-11 18:00` 종부세 논란에 분주해진 與… 수도권 의원·민주연구원 잇단 대책 논의 - 한국일보 — *한국일보*
 - `11-11 17:53` 여야 수도권 의원, 부동산 승부수…전·월세 대책을·정책 전환을 - 아주경제 — *아주경제*
 - `11-11 15:17` [어바웃C] 송치영 포스코이앤씨 대표, 흑자경영 속 '안전대책' 관심 - 블로터 — *블로터*
-- `11-11 13:19` 민주당, 부동산 대책 TF 가동…세제 개편 논의 - 스페셜경제 — *스페셜경제*
-- `11-11 12:07` 금융보안원 정보유출에 금융당국 강력 대응…전면적 대책 마련 주문 - 이데일리 — *이데일리*
-- `11-11 11:31` 최경환 '李정부 부동산 대책 실패 이유는' - 뉴스1 — *뉴스1*
-- `11-11 10:43` 與민주연구원, 부동산 대책 TF 설치…전월세난·세제 개편안 등 논의 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-11 10:21` 종부세 기준 둘러싼 당정 이견 속…與, '부동산 대책 TF' 본격 가동 - 와이드경제 — *와이드경제*
 
 ## 🌍 AI·빅테크
-- `11-12 12:05` NVIDIA's NT$13 Trillion AI Financing Commitments Draw Regulatory Scrutiny Over Contagion Risk - BigGo Finance — *BigGo Finance*
-- `11-12 11:44` Will NVIDIA become "too big to fail"? Hundreds of billions of dollars in AI funding commitments could trigger a chain reaction, as regulators remain vigilant about systemic risks. - 富途牛牛 — *富途牛牛*
-- `11-12 10:57` Nvidia: Watching Potential Succession Plan and Any Signs of Customer Impact - Morningstar — *Morningstar*
-- `11-12 10:31` What happens to the AI industry if Nvidia falters - Finshots — *Finshots*
-- `11-12 09:43` Nvidia Export Curbs Could Shift AI Demand Toward These Data Center Stocks - Yahoo Finance — *Yahoo Finance*
-- `11-12 07:37` Nvidia shares slip in after-hours trading on fresh allegations of CEO relationship - Yahoo Finance — *Yahoo Finance*
-- `11-12 06:19` Tech round-up: A closer look at Anthropic, Nvidia, CoreWeave, and next week - Yahoo Finance — *Yahoo Finance*
-- `11-12 04:58` OpenAI’s personal finance features for ChatGPT expands to Mac app - 9to5Mac — *9to5Mac*
+- `11-12 19:06` Hedge fund veteran warns Nvidia's AI financing risks echo dot-com bubble - Hedgeweek — *Hedgeweek*
+- `11-12 18:53` Nvidia Leadership Crisis Drags on U.S. Stock Futures, Pressures AI Trade - WSJ — *WSJ*
+- `11-12 18:39` Without Huang, Nvidia’s chips hold up. But its AI investment web may not. - Korea JoongAng Daily — *Korea JoongAng Daily*
+- `11-12 18:39` Nasdaq futures fall as Nvidia turmoil rattles AI stocks - Yahoo Finance — *Yahoo Finance*
+- `11-12 18:30` Forget Nvidia. Anthropic Is the AI Trade’s Litmus Test - Bloomberg.com — *Bloomberg.com*
+- `11-12 16:54` Who could run Nvidia after Jensen Huang? - Financial Times — *Financial Times*
+- `11-12 16:35` Nvidia’s leadership crisis: Winners, losers and what it means for the AI trade | FXStreet - شبكة تواصل الإخبارية — *شبكة تواصل الإخبارية*
+- `11-12 16:17` Michael Burry Says Nvidia Earnings Will Be 'Great' — So Why Is He Telling NVDA Bulls To 'Get Out'? - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `11-12 12:20` US inflation heats up, Goldman revises Fed rate outlook - IDNFinancials — *IDNFinancials*
-- `11-12 12:19` New Zealand Dollar faces pressure against US Dollar as traders consider bigger Fed rate hike - FXStreet — *FXStreet*
-- `11-12 12:09` Fed tightening expectations rise; Mexico output falls - www.equiti.com — *www.equiti.com*
-- `11-12 11:48` Inflation Continues To Rise, Interest Rate Increases Likely - Arizona Daily Independent — *Arizona Daily Independent*
-- `11-12 10:24` Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike - Bloomberg.com — *Bloomberg.com*
-- `11-12 09:24` Fed Rate Bets Lift Dollar, Leave Yen Near 160 - BusinessToday Malaysia — *BusinessToday Malaysia*
-- `11-12 09:22` Dow Jones Industrial Average (DJIA) and S&P 500 Slide As Rate Hike Odds Hit 100% On Hotter-Than-Expected Inflation Data - Foreign Policy Journal — *Foreign Policy Journal*
-- `11-12 09:14` Dollar near one-month high as yen edges toward 160 - Yahoo Finance — *Yahoo Finance*
+- `11-12 19:13` Fed tightening expectations rise; Mexico output falls - www.equiti.com — *www.equiti.com*
+- `11-12 19:11` Gold Declines to $3,973 as US Inflation Raises Expectations of December Fed Rate Increase - Yahoo Finance — *Yahoo Finance*
+- `11-12 19:10` ANZ Warns: U.S. Inflation Pressure Is Spreading, Fed Rate Hikes May Exceed Expectations - BigGo Finance — *BigGo Finance*
+- `11-12 19:09` Gold Falls Below $4,000 as US Inflation Fuels Expectations of Further Fed Rate Hikes - Yahoo Finance UK — *Yahoo Finance UK*
+- `11-12 19:02` Treasury Yields Rise, European Bond Yields Fall - WSJ — *WSJ*
+- `11-12 18:55` Fed December Rate Hike All but Certain as Yen Nears 160 Line, Indonesian Rupiah Hits Record Low - BigGo Finance — *BigGo Finance*
+- `11-12 18:05` Signals of Rising US Neutral Rate Fuel Case for Further Fed Tightening - BigGo Finance — *BigGo Finance*
+- `11-12 17:53` Dollar Index Hits Near 19-Month High Above 103 as Fed Rate Hike Bets Heat Up, USD/JPY Nears 160 - TradingKey — *TradingKey*
 
 ## 🌍 유가·지정학
-- `11-12 12:32` Oil prices dip 1% on report of more U.S.-Iran diplomacy plans - Investing.com — *Investing.com*
-- `11-12 12:15` CNOOC Makes Major Ultra-Deep Natural Gas Discovery in Bohai Sea - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-12 12:02` Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems - The Guardian — *The Guardian*
-- `11-12 11:39` Oil Retreats as Iran and Ukraine Peace Hopes Weigh on Crude; Brent Slips to $91.62 - BigGo Finance — *BigGo Finance*
-- `11-12 11:29` Oil prices fall over 1% as hopes of Iran, Russia-Ukraine peace talks weigh on market - The Times of India — *The Times of India*
-- `11-12 11:15` Iraqi PM orders inquiry into oil product smuggling in area controlled by Iran-backed militia - The National — *The National*
-- `11-12 10:52` Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets - Reuters — *Reuters*
-- `11-12 10:33` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Gains Ground As Iran Wants To Keep Nuclear Material Inside The Country - FXEmpire — *FXEmpire*
+- `11-12 19:00` Oil Prices Slip As Hormuz Risks Clash With Rising Output - Finimize — *Finimize*
+- `11-12 19:00` China Targets Global Gas Turbine Market as AI Power Demand Explodes - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-12 18:51` Oil Steadies After Slump as Iran War Talks Make Little Progress - Bloomberg.com — *Bloomberg.com*
+- `11-12 18:26` Oil: Hormuz mine strikes support Brent rebound – Commerzbank - FXStreet — *FXStreet*
+- `11-12 18:24` Two Oil Supertankers Explode in Strait of Hormuz, IRGC Says - MarineLink — *MarineLink*
+- `11-12 17:54` Iran’s Revolutionary Guard says 2 oil tankers exploded in Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
+- `11-12 17:47` Iran says two oil tankers carrying over four million barrels ablaze in Hormuz Strait - Al Arabiya English — *Al Arabiya English*
+- `11-12 17:37` Oil Prices Rise as Iran Threatens US Bases Across Europe and Middle East if Trump Launches Fresh Strikes - Benzinga — *Benzinga*
 
 ## 🌍 시장 전반
-- `11-12 12:22` Why India and Pakistan's stock markets are rallying after the US midterms - CNA — *CNA*
-- `11-12 12:10` Dow Futures Rise, Techs Fall As Nvidia Mulls Ousting Huang - Investor's Business Daily — *Investor's Business Daily*
-- `11-12 12:04` US Stock Market Rally: Nasdaq Jumps 1.60%, Dow Gains - HDFC Sky — *HDFC Sky*
-- `11-12 11:51` AI stocks rebound, and Wall Street nearly returns to where it was before last week's sell-off - Pittsburgh Post-Gazette — *Pittsburgh Post-Gazette*
-- `11-12 11:32` India Reclaims Spot Among World’s Five Biggest Stock Markets as Rally Extends - Bloomberg.com — *Bloomberg.com*
-- `11-12 10:41` Asian Stocks Set to Gain on Renewed US Tech Rally: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `11-12 09:57` Today’s Market Recap: CRWV Earnings Ignite AI Rally; Micron Surges Nearly 12%, AMD Jumps Over 7%, Nvidia Rebounds Nearly 3% but Drops Over 8% After Hours - TradingKey — *TradingKey*
-- `11-12 09:03` SPLV Lost $107,460 on $300,000 in the 2020 Crash, More Than VOO’s $102,030 - 24/7 Wall St. — *24/7 Wall St.*
+- `11-12 19:03` India's $5.4 trillion stock market is back among the world's top five - Startup Fortune — *Startup Fortune*
+- `11-12 18:10` Indian Rupee retreats from six-month high as US Dollar extends rally - FXStreet — *FXStreet*
+- `11-12 18:06` Stocks Slide on Nvidia Troubles, Oil Edges Lower: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `11-12 17:41` NBIS Retreats After CoreWeave Rally Ahead Of Q3 Report: Analyst Says Market Can’t ‘Squeeze Out’ Top Players Amid Record Cloud Demand - Yahoo Finance — *Yahoo Finance*
+- `11-12 17:23` European stock market open: DAX pushes to fresh record highs as Europe defies Wall Street jitters - investingLive — *investingLive*
+- `11-12 17:05` India Reclaims Spot Among World’s Five Biggest Stock Markets as Rally Extends - Bloomberg.com — *Bloomberg.com*
+- `11-12 15:43` S&P 500 Sits 2.5% From a Record High Despite the Stock Market Crash - BeInCrypto — *BeInCrypto*
+- `11-12 15:38` China chip stocks rally as U.S. weighs curbs on remote AI access - Yahoo Finance — *Yahoo Finance*
