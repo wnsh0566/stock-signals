@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-12 22:45 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-12 22:58 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -8,14 +8,15 @@
 ## 🇰🇷 증시·코스피
 - `11-12 22:00` 외인 '국장 엑소더스'…코스피 흔들리고 개미 투심 멍든다 [분석+] - 한국경제 — *한국경제*
 - `11-12 21:57` 뉴욕증시 프리뷰, 나스닥 선물 하락…젠슨 황 해임설에 엔비디아 7% 급락 - 뉴스핌 — *뉴스핌*
+- `11-12 21:48` 국민연금이 ‘힘을 못 쓴다’는 말 - 마켓인 — *마켓인*
 - `11-12 20:57` “물려있는데 뭘 할 수 있죠?”...코스피 거래대금, 6개월새 60% 증발 - 매일경제 마켓 — *매일경제 마켓*
 - `11-12 20:46` 코스피, 사흘 만에 하락 전환해 0.61% 내린 5342.73 마감…젠슨 황 해임설에 투자심리 '위축' - 인더스트리뉴스 — *인더스트리뉴스*
 - `11-12 20:44` ’젠슨 황 해임설’ 코스피 약세…코스닥 동반 하락 - 연합뉴스TV — *연합뉴스TV*
 - `11-12 19:57` 코스피, 기관・개인 매도세에 5340선 하락 마감...JYP엔터 ‘급등’도 - www.ksdaily.co.kr — *www.ksdaily.co.kr*
 - `11-12 19:44` [인도증시] 랠리 뒤 숨고르기, 강보합 마감...外人 선호도 높은 금융주 강세 - 뉴스핌 — *뉴스핌*
-- `11-12 19:22` [亞증시-종합] 엔비디아발 우려에 中·홍콩·臺 ↓…日 홀로 혼조 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
+- `11-12 22:13` ‘반도체 록스타’ 젠슨 황 해임 위기…33년 AI 제국도 흔들 - 한겨레 — *한겨레*
 - `11-12 21:59` ISC, 송도 신공장 착공…AI 반도체 연구·첨단 제조 거점 조성 - 서프라이즈뉴스 — *서프라이즈뉴스*
 - `11-12 21:59` 젠슨 황 해임 위기에 대만 반도체 공급망 '긴장'…"증설 늦어질 수도" - 한국경제 — *한국경제*
 - `11-12 21:53` '반도체 수출통제' 목소리 거세진 美의회 - 블루밍비트 — *블루밍비트*
@@ -23,7 +24,6 @@
 - `11-12 21:44` 앤트로픽 IPO에 K반도체 촉각…AI 투자 여력 시험대 : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `11-12 21:29` 호남권 반도체 산단 전력공급선로 내년 1월 착공…정부 “인프라 구축 속도” - 인사이트N파워 — *인사이트N파워*
 - `11-12 21:16` [직격인터뷰] 박병규 광산구청장 "반도체 중심 연결도시로…100만 광산 도약" - KBC광주방송 — *KBC광주방송*
-- `11-12 21:14` 美 공화당 중진 "中 창신메모리 제재해야"…삼성·SK하이닉스 경쟁사에 칼 겨누나 - 뉴스핌 — *뉴스핌*
 
 ## 🇰🇷 금융주
 - `11-12 21:36` 금융지주 회장 연임 문턱 높인다…3연임 땐 ‘주총 75% 찬성’ - 경향신문 — *경향신문*
@@ -46,16 +46,17 @@
 - `11-11 17:53` 여야 수도권 의원, 부동산 승부수…전·월세 대책을·정책 전환을 - 아주경제 — *아주경제*
 
 ## 🌍 AI·빅테크
+- `11-12 22:56` AI Firms Hire Ex-Spies Amid Nvidia Security Scandal | Finance News - Global Banking & Finance Review — *Global Banking & Finance Review*
+- `11-12 22:39` Nvidia stock tumbles amid CEO scandal, dragging down other AI names - Yahoo Finance — *Yahoo Finance*
 - `11-12 22:18` Global AI stocks sink as Nvidia crisis deepens sector sell-off - The Edge Malaysia — *The Edge Malaysia*
 - `11-12 22:15` Nvidia Rival Fractile Hits $7B Valuation With $720M AI Chip Funding - Coinpaper — *Coinpaper*
 - `11-12 22:13` Jensen Huang could be fired: what does it mean for Nvidia's role as AI's financier - Invezz — *Invezz*
-- `11-12 22:01` Nvidia Leadership Crisis Drags on U.S. Stock Futures, Pressures AI Trade - Yahoo Finance — *Yahoo Finance*
+- `11-12 22:01` Nvidia Leadership Crisis Drags on U.S. Stock Futures, Pressures AI Trade - WSJ — *WSJ*
 - `11-12 20:14` Investors worry the AI trade rests on Nvidia and Jensen Huang - Crypto Briefing — *Crypto Briefing*
 - `11-12 20:01` Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks - Yahoo Finance — *Yahoo Finance*
-- `11-12 20:00` Nvidia's future, AI's road forward, and an inflation-battered economy: Welcome to Yahoo Finance Invest 2026! - Yahoo Finance — *Yahoo Finance*
-- `11-12 19:42` NVIDIA Unpaid Customer Invoices Jump $24.6 Billion, Raising AI Financing Concerns - Coinpedia — *Coinpedia*
 
 ## 🌍 연준·금리
+- `11-12 22:37` Gold drops 2% on Fed rate hike expectations - Breakingthenews.net — *Breakingthenews.net*
 - `11-12 21:53` Larger series of interest rate hikes are more likely after hot October CPI - Baltimore Sun — *Baltimore Sun*
 - `11-12 21:25` Bitcoin faces pressure as CME FedWatch shows 10... - Pluang — *Pluang*
 - `11-12 21:24` US dollar almost unchanged after reaching 19-month high, rate divergence in focus - The Business Times — *The Business Times*
@@ -63,17 +64,16 @@
 - `11-12 19:11` Gold Declines to $3,973 as US Inflation Raises Expectations of December Fed Rate Increase - Yahoo Finance — *Yahoo Finance*
 - `11-12 19:10` ANZ Warns: U.S. Inflation Pressure Is Spreading, Fed Rate Hikes May Exceed Expectations - BigGo Finance — *BigGo Finance*
 - `11-12 19:09` Gold Falls Below $4,000 as US Inflation Fuels Expectations of Further Fed Rate Hikes - Yahoo Finance UK — *Yahoo Finance UK*
-- `11-12 19:02` Treasury Yields Rise, European Bond Yields Fall - WSJ — *WSJ*
 
 ## 🌍 유가·지정학
+- `11-12 22:48` Oil prices rise after Trump said the U.S. doesn't need an Iran deal - Quartz — *Quartz*
 - `11-12 22:33` Crude oil turns higher as Trump says no Iran deal needed (USO:NYSEARCA) - Seeking Alpha — *Seeking Alpha*
+- `11-12 22:33` Crude oil turns higher as Trump says no Iran deal needed - TradingView — *TradingView*
 - `11-12 22:30` Turkey Agrees to Record $1.6 Billion Climate Policy Funding Deal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-12 22:24` Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait' - CNBC — *CNBC*
 - `11-12 22:14` Oil Jumps After Trump Says US Doesn’t Need Deal With Iran - Bloomberg.com — *Bloomberg.com*
 - `11-12 22:08` Iran says 2 oil tankers carrying 4 million barrels caught fire in Strait of Hormuz - The Times of Israel — *The Times of Israel*
 - `11-12 21:40` Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems - The Guardian — *The Guardian*
-- `11-12 21:32` Current price of oil as of November 12, 2026 - Fortune — *Fortune*
-- `11-12 21:30` Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
 - `11-12 22:30` Global Equity Markets: Can The Stock Market Rally Continue Beyond AI? - Seeking Alpha — *Seeking Alpha*
