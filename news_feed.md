@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-13 22:25 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-13 23:30 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-13 23:03` [글로벌 특징주] 美 기술주 흔들리자 웃는 유럽 증시…'빅테크 부재'가 방패로 - 뉴스핌 — *뉴스핌*
+- `11-13 23:01` '전강후약' 코스피 5,300 붕괴...코스닥 700 하회 - YTN — *YTN*
+- `11-13 22:28` 뉴욕증시 개장 전 특징주...엔비디아·세레브라스↑ VS MS는 서비스 장애에↓ - 뉴스핌 — *뉴스핌*
 - `11-13 22:16` 뉴욕증시 프리뷰, 美 주가지수 선물 혼조…엔비디아 반등에도 AI 투자 불안 지속 - 뉴스핌 — *뉴스핌*
 - `11-13 22:12` 코스피 5500선 터치 후 0.98% 하락 마감…외국인 '팔자'에 상승분 반납 - 인더스트리뉴스 — *인더스트리뉴스*
+- `11-13 20:39` 李대통령, 증시 하락에 “골이 깊으면 산이 높지 않겠나” - 문화일보 — *문화일보*
 - `11-13 20:24` [판도] "지금은 풀베팅"…코스피 7500 간다, 반도체 다음 주도주는? [박세익 전무] - 더구루 — *더구루*
 - `11-13 19:53` [마감시황] ‘젠슨 황 쇼크’·정책 실망감에 코스피 5300선 붕괴 - 한양경제 — *한양경제*
-- `11-13 19:48` [인도증시] 유가 상승·인플레 우려에 하락...IT지수 6주 연속 랠리 마침표 - 뉴스핌 — *뉴스핌*
-- `11-13 19:33` [올댓차이나] 홍콩 증시, 미중 AI 갈등 우려에 사흘째 속락 마감… H주 1.48%↓ - 뉴시스 — *뉴시스*
-- `11-13 19:13` [베트남 증시] 자금 흐름 분산, 혼조 마감..."매도세 우위, 횡보 이어질 것" - 뉴스핌 — *뉴스핌*
-- `11-13 18:32` '조선미녀' 구다이글로벌, 코스피 상장 도전장 - 한국경제 — *한국경제*
 
 ## 🇰🇷 반도체·HBM
+- `11-13 22:28` “젠슨 황 불륜 상대 앨리스 황”...중국 국가안전부 반도체 전담 조직 활동 의혹 - 경기일보 — *경기일보*
 - `11-13 22:18` “앨리스 황은 중국 정보기관 반도체팀 일원”이라는 대만 매체···“아직 결론 못 내렸다”는 미국 - 경향신문 — *경향신문*
+- `11-13 21:46` "젠슨 황 내연녀, 中국가안전부 반도체팀 소속" - 아시아경제 — *아시아경제*
 - `11-13 21:44` 젠슨 황 불륜 상대, 中 정보기관 연루 의혹 제기…반도체 우회 반출도 관여했나 - 글로벌이코노믹 — *글로벌이코노믹*
 - `11-13 21:35` "젠슨 황 불륜녀, 中 국가안전부 반도체팀 소속 요원" - 한국경제 — *한국경제*
 - `11-13 21:35` 삼성·SK하이닉스 만난 노동장관, 반도체 근로 시간 논의 "합리적 방안 찾겠다" - 한국일보 — *한국일보*
 - `11-13 21:28` AI 반도체 강세론자, Nvidia 위기가 광범위한 실적 하향 조정 촉발할 수 있다고 경고 - Investing.com 한국어 — *Investing.com 한국어*
-- `11-13 21:21` 대만 매체 "젠슨 황 불륜 상대, 中국가안전부 반도체팀 소속" - 연합뉴스 — *연합뉴스*
-- `11-13 21:17` 아데카코리아, 완주에 900억원 투자… 반도체 소재 생산시설 증설 - 천지일보 — *천지일보*
-- `11-13 20:52` [기획/경제] ㉗ 반도체·데이터센터 산업용수 공급망, 충분한가? - 기후에너지경제 — *기후에너지경제*
+- `11-13 21:28` 대만 매체 "젠슨 황 불륜녀, 中국가안전부 반도체팀 소속" - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 금융주
 - `11-13 20:50` [금융지주 지배구조 대전환] '이미 준 성과급도 환수'…고액 보수 공개 확대 : 네이버 블로그 - Naver Blog — *Naver Blog*
@@ -46,41 +46,41 @@
 - `11-12 15:59` 금융당국 "13일 코스닥 추가대책 발표설 사실무근"…허위정보 엄정 대응 - 우리경제신문 — *우리경제신문*
 
 ## 🌍 AI·빅테크
+- `11-13 23:04` Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters — *Reuters*
+- `11-13 22:53` Nvidia has lost nearly $2tn in value. What could it be worth without Jensen Huang? - AOL.co.uk — *AOL.co.uk*
+- `11-13 22:50` Nvidia’s role in AI financing under scrutiny after Huang departure - Egyptian Gazette — *Egyptian Gazette*
+- `11-13 22:38` NVIDIA's "post-Jensen Huang era" has begun—will the "AI central bank" tighten its purse strings? - 富途牛牛 — *富途牛牛*
+- `11-13 22:13` Nvidia-Backed Nscale Says It Needs Additional Financing Ahead of Planned IPO - WSJ — *WSJ*
 - `11-13 22:03` 🚨 NVIDIA: Jensen Huang Resigns - App Economy Insights — *App Economy Insights*
+- `11-13 22:00` China's $3 billion-plus pipeline of Nvidia-powered AI data centres - Reuters — *Reuters*
 - `11-13 21:58` AI semiconductor bull warns Nvidia crisis could trigger broader earnings reset - Yahoo Finance Singapore — *Yahoo Finance Singapore*
-- `11-13 21:54` What's ahead for AI financing after Nvidia CEO Jensen Huang departs - CNBC — *CNBC*
-- `11-13 21:30` Nvidia-Backed Nscale Says It Needs Additional Financing Ahead of Planned IPO - WSJ — *WSJ*
-- `11-13 21:11` Nasdaq futures subdued as Nvidia upheaval roils AI trade - Yahoo Finance — *Yahoo Finance*
-- `11-13 21:06` COMMENTARY: Morning Bid: AI's no good, very bad week - Reuters — *Reuters*
-- `11-13 21:02` Colette Kress helped bring Israel to the heart of Nvidia's AI business. Now she's in charge. - CTech — *CTech*
-- `11-13 20:56` Fund Manager Sounds Alarm on AI Trade as Hyperscaler Capex and Debt Pile Up - BigGo Finance — *BigGo Finance*
 
 ## 🌍 연준·금리
-- `11-13 22:13` What If the Fed Doubles the Rate Hike in December? These 5 Dividend Stocks Could Prosper - 24/7 Wall St. — *24/7 Wall St.*
-- `11-13 21:27` Federal Reserve to Forgo Rate Decision at October 2027 Meeting - WSJ — *WSJ*
-- `11-13 21:15` Another interest rate hike expected in December - WJournalpr — *WJournalpr*
-- `11-13 20:15` Fed overhauls 2027 calendar, cuts one rate decision | NHK WORLD-JAPAN News - NHKニュース — *NHKニュース*
-- `11-13 19:55` Federal Reserve rate hike expectations strengthen as U.S. inflation runs above forecasts - Traders Union — *Traders Union*
-- `11-13 19:52` What a December Rate Hike Would Mean for Your Savings, Your CD and Your Credit Card - 24/7 Wall St. — *24/7 Wall St.*
-- `11-13 19:46` Bitcoin drops 6% to $68,700, eyes $67,000 suppo... - Pluang — *Pluang*
-- `11-13 19:09` Gold Rises Above $3,900 as Higher Treasury Yields and Fed Rate Expectations Weigh on Weekly Performance - Yahoo Finance UK — *Yahoo Finance UK*
+- `11-13 23:17` US producer prices rise 6.5 in October, lifting Fed rate-hike odds - The Standard (HK) — *The Standard (HK)*
+- `11-13 23:11` Bank of America forecasts Fed rate hikes in December 2026, January and March 2027 - Crypto Briefing — *Crypto Briefing*
+- `11-13 23:03` US Treasury chief says Fed should not hike rates over energy shock tied to Iran war - Reuters — *Reuters*
+- `11-13 23:02` U.S. Producer Inflation Hits Four-Year High, Bolstering Fed Hike Bets - www.tokenpost.com — *www.tokenpost.com*
+- `11-13 22:51` European stocks near record highs, US dollar gains on Fed rate hike bets - The Business Times — *The Business Times*
+- `11-13 22:50` Breaking: U.S. Producer Prices Surge 6.5%, 4-Year High - 조선일보 — *조선일보*
+- `11-13 22:44` US producer prices rise further in October - Yahoo Finance — *Yahoo Finance*
+- `11-13 22:35` US producer inflation data due; markets brace f... - Pluang — *Pluang*
 
 ## 🌍 유가·지정학
+- `11-13 23:15` Pakistan Scrambles for LNG as Winter Gas Crisis Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-13 22:58` Russia's October oil revenues jumped about 65% as Iran war pushed crude past $100 - Quartz — *Quartz*
+- `11-13 22:53` Global oil supply returns to surplus for first time since start of Iran war, says IEA - The Guardian — *The Guardian*
+- `11-13 22:38` FTSE 100 today: Stocks inch up as energy names track oil on U.S.-Iran tension - Investing.com — *Investing.com*
+- `11-13 22:37` Oil Prices Mixed as Traders Weigh Supply Outlook, Middle East Risks - WSJ — *WSJ*
+- `11-13 22:31` Oil supplies bounce back, but prices are still high - Axios — *Axios*
+- `11-13 22:29` IEA said global oil supply is topping demand for first time since Iran war - Quartz — *Quartz*
 - `11-13 21:55` Oil Prices Up Over Unresolved US-Iran War, Brent Tops $96 - MarketForces Africa — *MarketForces Africa*
-- `11-13 21:45` Oil Prices Slip as U.S. Maintains Iran Blockade and Global Supply Outlook Weakens — WTI Near $88, Brent Below $96 - EnergyNow.com — *EnergyNow.com*
-- `11-13 21:45` Iran Says Gas Tanker Hit Mine in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-13 21:30` Why Falling Oil Prices Won't Save America From Inflation - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-13 21:30` WTI Stages Sharp Comeback as Middle East Supply Risks Intensify - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-13 21:30` Nvidia Spy Scandal Threatens the Gulf's AI Ambitions - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-13 21:12` Hormuz supply risks could draw oil and gas investment to Indonesia - Indonesia Business Post — *Indonesia Business Post*
-- `11-13 21:06` Middle East war: Oil gains as Trump dismisses Iran deal - https://www.engine.online/ — *https://www.engine.online/*
 
 ## 🌍 시장 전반
+- `11-13 23:07` HSBC Names 11 AI Stocks to Buy on the Dip After Sell-Off - Oracle (NYSE:ORCL) - Benzinga — *Benzinga*
 - `11-13 22:11` 5 Dividend Aristocrats and Kings to Consider if the Stock Market Sells Off - 24/7 Wall St. — *24/7 Wall St.*
+- `11-13 22:06` Dow Futures Rise After Resilient Session; AMD, Arista Are Buys - Investor's Business Daily — *Investor's Business Daily*
+- `11-13 21:44` Analysis-How US tech pain is European stock markets' gain - Yahoo! Finance Canada — *Yahoo! Finance Canada*
 - `11-13 20:57` CoreWeave Stocks Tumble 11.56% as NVIDIA Shake-Up Erases Post-Earnings Rally - Yahoo Finance — *Yahoo Finance*
 - `11-13 20:35` ETF flows surge $54bn as stocks sell off and markets go 24/7 - InvestmentNews — *InvestmentNews*
-- `11-13 20:15` The Stock Market Tumbled After the Midterms. History Says This Sector Could Rally More Than 30% in the Next 12 Months - The Globe and Mail — *The Globe and Mail*
 - `11-13 20:11` Mapping the Market: Eli Lilly shares ready to rally again - Reuters — *Reuters*
-- `11-13 17:55` Retirement savers bet on stocks. Then the market crashed. - Korea JoongAng Daily — *Korea JoongAng Daily*
-- `11-13 17:29` European stock market open: Stocks ease slightly as the rally takes a breather - investingLive — *investingLive*
-- `11-13 16:39` Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions - Financial Times — *Financial Times*
+- `11-13 19:55` The Stock Market Tumbled After the Midterms. History Says This Sector Could Rally More Than 30% in the Next 12 Months - The Motley Fool — *The Motley Fool*
