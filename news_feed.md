@@ -1,21 +1,22 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-13 22:05 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-13 22:25 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-13 22:16` 뉴욕증시 프리뷰, 美 주가지수 선물 혼조…엔비디아 반등에도 AI 투자 불안 지속 - 뉴스핌 — *뉴스핌*
+- `11-13 22:12` 코스피 5500선 터치 후 0.98% 하락 마감…외국인 '팔자'에 상승분 반납 - 인더스트리뉴스 — *인더스트리뉴스*
 - `11-13 20:24` [판도] "지금은 풀베팅"…코스피 7500 간다, 반도체 다음 주도주는? [박세익 전무] - 더구루 — *더구루*
 - `11-13 19:53` [마감시황] ‘젠슨 황 쇼크’·정책 실망감에 코스피 5300선 붕괴 - 한양경제 — *한양경제*
 - `11-13 19:48` [인도증시] 유가 상승·인플레 우려에 하락...IT지수 6주 연속 랠리 마침표 - 뉴스핌 — *뉴스핌*
 - `11-13 19:33` [올댓차이나] 홍콩 증시, 미중 AI 갈등 우려에 사흘째 속락 마감… H주 1.48%↓ - 뉴시스 — *뉴시스*
 - `11-13 19:13` [베트남 증시] 자금 흐름 분산, 혼조 마감..."매도세 우위, 횡보 이어질 것" - 뉴스핌 — *뉴스핌*
 - `11-13 18:32` '조선미녀' 구다이글로벌, 코스피 상장 도전장 - 한국경제 — *한국경제*
-- `11-13 18:23` 코스피, 장중 5,500선 돌파 후 하락 반전 - 연합뉴스TV — *연합뉴스TV*
-- `11-13 18:22` 코스피, 외인 매도세에 5290선 하락 마감...수주 목표 돌파 금호건설 ‘상한가’도 - www.ksdaily.co.kr — *www.ksdaily.co.kr*
 
 ## 🇰🇷 반도체·HBM
+- `11-13 22:18` “앨리스 황은 중국 정보기관 반도체팀 일원”이라는 대만 매체···“아직 결론 못 내렸다”는 미국 - 경향신문 — *경향신문*
 - `11-13 21:44` 젠슨 황 불륜 상대, 中 정보기관 연루 의혹 제기…반도체 우회 반출도 관여했나 - 글로벌이코노믹 — *글로벌이코노믹*
 - `11-13 21:35` "젠슨 황 불륜녀, 中 국가안전부 반도체팀 소속 요원" - 한국경제 — *한국경제*
 - `11-13 21:35` 삼성·SK하이닉스 만난 노동장관, 반도체 근로 시간 논의 "합리적 방안 찾겠다" - 한국일보 — *한국일보*
@@ -23,7 +24,6 @@
 - `11-13 21:21` 대만 매체 "젠슨 황 불륜 상대, 中국가안전부 반도체팀 소속" - 연합뉴스 — *연합뉴스*
 - `11-13 21:17` 아데카코리아, 완주에 900억원 투자… 반도체 소재 생산시설 증설 - 천지일보 — *천지일보*
 - `11-13 20:52` [기획/경제] ㉗ 반도체·데이터센터 산업용수 공급망, 충분한가? - 기후에너지경제 — *기후에너지경제*
-- `11-13 20:50` "사람과 기술이 함께 성장하는 반도체 산업" 김영훈 고용노동부장관, 반도체 연구개발 현장의 근로시간제도 운영 실태와 애로사항 청취 - 누리일보 — *누리일보*
 
 ## 🇰🇷 금융주
 - `11-13 20:50` [금융지주 지배구조 대전환] '이미 준 성과급도 환수'…고액 보수 공개 확대 : 네이버 블로그 - Naver Blog — *Naver Blog*
@@ -46,18 +46,18 @@
 - `11-12 15:59` 금융당국 "13일 코스닥 추가대책 발표설 사실무근"…허위정보 엄정 대응 - 우리경제신문 — *우리경제신문*
 
 ## 🌍 AI·빅테크
+- `11-13 22:03` 🚨 NVIDIA: Jensen Huang Resigns - App Economy Insights — *App Economy Insights*
+- `11-13 21:58` AI semiconductor bull warns Nvidia crisis could trigger broader earnings reset - Yahoo Finance Singapore — *Yahoo Finance Singapore*
 - `11-13 21:54` What's ahead for AI financing after Nvidia CEO Jensen Huang departs - CNBC — *CNBC*
 - `11-13 21:30` Nvidia-Backed Nscale Says It Needs Additional Financing Ahead of Planned IPO - WSJ — *WSJ*
 - `11-13 21:11` Nasdaq futures subdued as Nvidia upheaval roils AI trade - Yahoo Finance — *Yahoo Finance*
 - `11-13 21:06` COMMENTARY: Morning Bid: AI's no good, very bad week - Reuters — *Reuters*
 - `11-13 21:02` Colette Kress helped bring Israel to the heart of Nvidia's AI business. Now she's in charge. - CTech — *CTech*
 - `11-13 20:56` Fund Manager Sounds Alarm on AI Trade as Hyperscaler Capex and Debt Pile Up - BigGo Finance — *BigGo Finance*
-- `11-13 20:32` Nvidia CEO Jensen Huang’s Exit Raises AI Financing Risks, Says Ed Yardeni — Sees Selloff As Buying Opportunity - TradingView — *TradingView*
-- `11-13 20:14` Nvidia results, Anthropic IPO pose tests for tumultuous AI trade - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
+- `11-13 22:13` What If the Fed Doubles the Rate Hike in December? These 5 Dividend Stocks Could Prosper - 24/7 Wall St. — *24/7 Wall St.*
 - `11-13 21:27` Federal Reserve to Forgo Rate Decision at October 2027 Meeting - WSJ — *WSJ*
-- `11-13 21:18` Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase - Bloomberg.com — *Bloomberg.com*
 - `11-13 21:15` Another interest rate hike expected in December - WJournalpr — *WJournalpr*
 - `11-13 20:15` Fed overhauls 2027 calendar, cuts one rate decision | NHK WORLD-JAPAN News - NHKニュース — *NHKニュース*
 - `11-13 19:55` Federal Reserve rate hike expectations strengthen as U.S. inflation runs above forecasts - Traders Union — *Traders Union*
@@ -76,11 +76,11 @@
 - `11-13 21:06` Middle East war: Oil gains as Trump dismisses Iran deal - https://www.engine.online/ — *https://www.engine.online/*
 
 ## 🌍 시장 전반
+- `11-13 22:11` 5 Dividend Aristocrats and Kings to Consider if the Stock Market Sells Off - 24/7 Wall St. — *24/7 Wall St.*
+- `11-13 20:57` CoreWeave Stocks Tumble 11.56% as NVIDIA Shake-Up Erases Post-Earnings Rally - Yahoo Finance — *Yahoo Finance*
 - `11-13 20:35` ETF flows surge $54bn as stocks sell off and markets go 24/7 - InvestmentNews — *InvestmentNews*
 - `11-13 20:15` The Stock Market Tumbled After the Midterms. History Says This Sector Could Rally More Than 30% in the Next 12 Months - The Globe and Mail — *The Globe and Mail*
 - `11-13 20:11` Mapping the Market: Eli Lilly shares ready to rally again - Reuters — *Reuters*
 - `11-13 17:55` Retirement savers bet on stocks. Then the market crashed. - Korea JoongAng Daily — *Korea JoongAng Daily*
 - `11-13 17:29` European stock market open: Stocks ease slightly as the rally takes a breather - investingLive — *investingLive*
 - `11-13 16:39` Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions - Financial Times — *Financial Times*
-- `11-13 16:29` If a Stock Market Crash Is Coming, Warren Buffett’s 6-Word Advice Is the Smartest Move You Can Make - Yahoo Finance — *Yahoo Finance*
-- `11-13 16:21` Why the Market Implications of the US Midterms Aren’t As Clear As They Seem - Morningstar — *Morningstar*
