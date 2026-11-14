@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-14 11:37 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-14 12:27 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-14 12:10` [해외시황] 뉴욕증시, 엔비디아發 불확실성 지속에 '혼조'…나스닥 0.91%↓ - 프라임경제 — *프라임경제*
+- `11-14 12:01` ‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감 - 한겨레 — *한겨레*
+- `11-14 11:45` 뉴욕증시 기술주 약세 속 혼조···국제유가도 ‘널뛰기’ - 에너지경제신문 — *에너지경제신문*
 - `11-14 10:48` 구다이글로벌, 코스피 상장 예비심사 신청…내년 상반기 IPO 목표 - 서울경제 — *서울경제*
-- `11-14 10:44` ‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감 - 한겨레 — *한겨레*
 - `11-14 10:39` [11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등 - 기호일보 — *기호일보*
 - `11-14 10:15` 코스피를 알려면 뉴욕의 이 ETF를 보라 — EEM 진단 - 괜찮은 뉴스 — *괜찮은 뉴스*
 - `11-14 09:57` 젠슨 황 불륜 스캔들에 출렁…삼전닉스 ‘아슬아슬한 버티기’ [주간 증시해설서] - 더스쿠프 — *더스쿠프*
 - `11-14 09:32` 뉴욕증시 혼조 마감…엔비디아 2% 하락·반도체주 약세 - KBC광주방송 — *KBC광주방송*
-- `11-14 09:21` [뉴욕증시]'젠슨 황 스캔들' 여파 지속… 다우지수만 상승, 혼조 마감 - 아시아경제 — *아시아경제*
-- `11-14 08:57` 뉴욕증시 혼조 마감…엔비디아 여파에 반도체·AI주 동반 급락 - BBS불교방송 — *BBS불교방송*
 
 ## 🇰🇷 반도체·HBM
+- `11-14 12:02` "사임 후폭풍"…미중 AI 패권 재편에 韓반도체 '촉각' [젠슨황 스캔들⑤·끝] - 뉴시스 — *뉴시스*
+- `11-14 11:51` 반도체 뒷면까지 지킨다…AMD, 물리적 해킹 차단하는 ‘버설 TR’ 공개 - 뉴스탭 — *뉴스탭*
+- `11-14 11:50` 대만 매체 “앨리스 황은 중국 정보기관 반도체팀 소속” - 한겨레 — *한겨레*
+- `11-14 11:48` 주간 월가: 젠슨 황 퇴진에 AI 반도체 투자 판도 변화···AMD·브로드컴이 빈자리 노린다 - Benzinga — *Benzinga*
+- `11-14 11:48` 엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈 - ISSUE ON (이슈온) — *ISSUE ON (이슈온)*
 - `11-14 11:18` 337호 경제일반) 반도체가 끌고 내수가 받친다 한국경제, 회복의 문턱을 넘나 - 시사매거진 — *시사매거진*
 - `11-14 11:13` 대만 자유시보 “앨리스 황, 중국 국가안전부 반도체팀 소속”…미 법무부는 미확정 - 아시아투데이 — *아시아투데이*
 - `11-14 11:10` 용인 반도체클러스터 아파트 공급 막바지… 연말 1225세대 분양 - 뉴스퀘스트 — *뉴스퀘스트*
-- `11-14 11:09` “10년 모은 4억이 1억으로…” 반도체 레버리지 투자에 무너진 30대 직장인의 눈물 - 매일경제TV — *매일경제TV*
-- `11-14 10:46` 용인반도체고 ‘좁은문’… 경쟁률 4.84대 1 - 용인신문 — *용인신문*
-- `11-14 10:37` 순천미래과학고, 2028년 반도체 특성화고 전환 - 호남교육신문 — *호남교육신문*
-- `11-14 10:36` 대만 매체 “앨리스 황은 중국 정보기관 반도체팀 소속” - 한겨레 — *한겨레*
-- `11-14 10:30` 반도체 달러에 통화량 11개월째 증가…기업 돈은 줄어 - 자본시장뉴스 — *자본시장뉴스*
 
 ## 🇰🇷 금융주
 - `11-14 10:07` NH농협금융, 기금형 퇴직연금 도입 대비 TF 가동 - 서울경제TV — *서울경제TV*
@@ -49,31 +49,31 @@
 - `11-14 11:00` Nvidia Leadership Change Puts AI Financing in Focus - Oz Arab Media — *Oz Arab Media*
 - `11-14 09:57` Broadcom stays a Buy on AI chip demand and Nvid... - Pluang — *Pluang*
 - `11-14 09:41` Nvidia's $500 Billion AI Financing Plan Falters After Huang Exit - Seoul Economic Daily — *Seoul Economic Daily*
-- `11-14 08:33` Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters — *Reuters*
 - `11-14 07:31` NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs - TechPowerUp — *TechPowerUp*
+- `11-14 06:46` Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector - WTVB — *WTVB*
 - `11-14 06:35` Nasdaq Slides as Nvidia's Leadership Crisis Rattles the AI Trade - BigGo Finance — *BigGo Finance*
 - `11-14 06:34` S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares - Yahoo Finance — *Yahoo Finance*
 - `11-14 06:33` Nvidia Stock Price Forecast: Michael Burry Says Jensen Huang’s Departure Could Weaken Supply Chain Dominance, Stock May Fall to $142 - TradingKey — *TradingKey*
 
 ## 🌍 연준·금리
+- `11-14 11:38` Fed Hawks Speak in Force: December Rate Hike All but Certain; Market Shifts Bets to January and March for Three Straight Increases - BigGo Finance — *BigGo Finance*
 - `11-14 09:10` Federal Reserve signals inflation guides policy stance as Jefferson weighs further rate hikes - Traders Union — *Traders Union*
-- `11-14 09:06` Bitcoin's recent drop driven more by inflation and Fed rate hike bets than Binance hack - Pluang — *Pluang*
-- `11-14 09:06` Bitcoin dips below $73K mainly due to Fed rate fears, not Binance hack, says Coinbase analysis. - Pluang — *Pluang*
 - `11-14 09:03` Fed's Jefferson says he is taking his policy cues from inflation - Reuters — *Reuters*
-- `11-14 09:00` Fed’s Jefferson Says Inflation Will Determine Rate Decisions - Bloomberg — *Bloomberg*
+- `11-14 09:00` Fed’s Jefferson Says Inflation Will Determine Rate Decisions - Bloomberg.com — *Bloomberg.com*
 - `11-14 08:55` Gold Plunges 4.78% in a Week, Biggest Drop Since June, as Fed Rate-Hike Bets Weigh on Precious Metals - BigGo Finance — *BigGo Finance*
 - `11-14 08:48` Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin - TradingView — *TradingView*
 - `11-14 08:24` The AI boom has handed the Fed an inflation problem that rate hikes may not fix - Marketplace.org — *Marketplace.org*
+- `11-14 07:44` Fed unveils 2027 calendar, confirming October meeting will not include rates vote - The Hill — *The Hill*
 
 ## 🌍 유가·지정학
+- `11-14 11:34` Iran's oil output plunges below pre-war domestic needs - Iran International — *Iran International*
+- `11-14 11:31` Global oil supply returns to surplus for first time since start of Iran war, says IEA - The Guardian — *The Guardian*
 - `11-14 10:42` Iraq resumed oil exports via Syria by tanker trucks after disruptions in the Strait of Hormuz – Reuters - Українські Національні Новини (УНН) — *Українські Національні Новини (УНН)*
+- `11-14 09:46` OIL PRICE WATCH: Another rollback seen next week - ABS-CBN — *ABS-CBN*
 - `11-14 09:30` ASEAN Joint Oil Stockpiling Plan: Indonesia, Thailand Storage Sites - News and Statistics - IndexBox — *IndexBox*
 - `11-14 08:00` Iran Braces for a Budget Without Oil Revenue - Yahoo Finance — *Yahoo Finance*
 - `11-14 08:00` Iran Braces for a Budget Without Oil Revenue - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-14 07:35` Energy Up as Traders Hedge on Oil-Price Views - Energy Roundup - marketscreener.com — *marketscreener.com*
-- `11-14 06:28` Shafaq News..IRGC claims two oil tankers hit naval mines in Hormuz - شفق نيوز — *شفق نيوز*
-- `11-14 06:24` Oil Price Ceiling Trapped in 'Devil Frame' - 조선일보 — *조선일보*
-- `11-14 06:21` DAILY OIL PRICE: November 13, 2026 - Odessa American — *Odessa American*
 
 ## 🌍 시장 전반
 - `11-14 09:41` How To Handle This Market; SpaceX Booster Diverts - Investor's Business Daily — *Investor's Business Daily*
@@ -81,6 +81,6 @@
 - `11-14 07:15` Cipher Digital (CIFR) Stock Looks Stretched As AI Infrastructure Rally Lifts Interest - Yahoo Finance — *Yahoo Finance*
 - `11-14 07:13` Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse - Yahoo Finance — *Yahoo Finance*
 - `11-14 06:30` What Bernstein Sees in Micron (MU) After the Memory Selloff - Yahoo Finance — *Yahoo Finance*
+- `11-14 06:22` US Equity Indexes Rose This Week as Post-Midterm Rally, AI Infrastructure Demand Offset Hot Consumer Prices, Nvidia's Turmoil - marketscreener.com — *marketscreener.com*
 - `11-14 03:51` The Stock Market's Early Rally Fades as Wholesale Inflation Hits 6.5% - TradingView — *TradingView*
 - `11-14 03:48` Swiss dental startup vVardis shares slide 8% in NYSE debut as tech selloff roils IPO market - New York Post — *New York Post*
-- `11-14 03:41` AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today - Benzinga — *Benzinga*
