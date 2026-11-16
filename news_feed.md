@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-16 20:02 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-16 20:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-16 20:12` 젠슨 황·담합 소송에 코스피 3.6% 뚝‥엔비디아 실적 반등 계기 될까? - MBC 뉴스 — *MBC 뉴스*
+- `11-16 20:06` ’젠슨 황 쇼크’ 지속…코스피 5,100선 턱걸이 - 연합뉴스TV — *연합뉴스TV*
 - `11-16 19:24` [亞증시-종합] 기술주 조정…홍콩만 상승 - 연합인포맥스 — *연합인포맥스*
 - `11-16 19:01` 코스피, 외인 매도세에 3%대 하락 5100선 마감...삼전닉스 ‘하락’도 - 한국증권신문 — *한국증권신문*
 - `11-16 18:54` [베트남 증시] 중앙銀 외환 시장 개입 효과에 실망, 혼조...유동성 감소세 지속 - 뉴스핌 — *뉴스핌*
 - `11-16 18:43` 외국인·기관 동반 매도에 코스피 3거래일 연속 하락…5100선서 마감 - 인더스트리뉴스 — *인더스트리뉴스*
 - `11-16 18:26` AI 악재에 꺾인 국내 증시…코스피 3.59% 급락해 5100선 간신히 사수 - 더나은미래 — *더나은미래*
 - `11-16 18:10` 코스피 5,100선 턱걸이…AI 불안에 ’휘청’ - 연합뉴스TV — *연합뉴스TV*
-- `11-16 17:32` SK하이닉스 목표 주가 38% 낮춘 모건스탠리, 이틀 뒤 보고서엔 "코스피 이르면 3년 내 1만선" - 조선일보 — *조선일보*
-- `11-16 17:25` 코스피, 외국인·기관 매도에 3.59% 급락…장중 5100선 붕괴 - 굿모닝경제 — *굿모닝경제*
 
 ## 🇰🇷 반도체·HBM
+- `11-16 20:32` 한국 반도체 지속 성장 ‘소부장 생태계’ 공간으로…SK하이닉스 용인 팹 가보니 - 경향신문 — *경향신문*
+- `11-16 20:27` 반도체 ‘호황 지도’…엔비디아 쏠림 줄고 중국 비중 커졌다 - 한겨레 — *한겨레*
+- `11-16 20:20` [분석] 메모리 정점론 속 HBM 5배…내년 봄은 온다 - 파이낸셜포스트 — *파이낸셜포스트*
+- `11-16 20:05` 케이씨텍, SK하이닉스에 반도체 장비 699억원 공급 - 리드경제 — *리드경제*
+- `11-16 20:01` 인천 바이오·반도체 '외형 확대' 속 로봇업계 '희비' - 인천일보 — *인천일보*
+- `11-16 20:00` 블룸버그 "반도체 생산 빠르게 늘면 韓 성장률 4% 가능" - 아시아경제 — *아시아경제*
 - `11-16 19:49` SK하이닉스, 올해 3분기 누적 '설비투자' 31조원… 역대 최고치 기록 - 아시아경제 — *아시아경제*
 - `11-16 19:31` 서울 집값 상승률 꺾였는데 경기는 보합… ‘반도체 벨트’ 효과 - 경인일보 — *경인일보*
-- `11-16 19:21` SK하이닉스, 美 매출 1년 새 102조원 증가…엔비디아 추정 매출 35조 - 한국경제 — *한국경제*
-- `11-16 19:04` SK하이닉스, 올 3분기 누적 설비투자 31조 원 역대 최대 - MBC 뉴스 — *MBC 뉴스*
-- `11-16 19:00` 엔비디아 쏠림 줄었는데 중국 비중은 커졌다…분기보고서로 본 반도체 ‘호황 지도’ - 한겨레 — *한겨레*
-- `11-16 18:40` [삼성전자·SK하이닉스] HBM4 vs HBM4 - CEO경제신문 — *CEO경제신문*
-- `11-16 18:35` "SK하이닉스 호황 타고"…SK스퀘어, 3분기 영업익 7.9조 - 디지털데일리 — *디지털데일리*
-- `11-16 18:34` SK하이닉스, 3분기 누적 매출 236조…엔비디아 추정 매출 35조 - 글로벌이코노믹 — *글로벌이코노믹*
 
 ## 🇰🇷 금융주
 - `11-16 19:46` JB금융그룹, 총상금 1억4000만원 AI 경진대회 성료… 비개발자 ‘바이브 코딩’으로 실전 도구 빚어냈다 - 비즈트리뷴 — *비즈트리뷴*
@@ -41,41 +41,41 @@
 - `11-15 17:34` [아주부동산 PICK] 3기 신도시 교통 인프라 선입주 후대책… 정부는 뒷짐 - 아주경제 — *아주경제*
 
 ## 🌍 AI·빅테크
-- `11-16 19:15` "No sane person questions whether AI works" — but an AI bubble appears ready to pop. - Axios — *Axios*
+- `11-16 20:37` Analysis-Nvidia’s AI financing machine may survive Huang, but with less risk appetite - KFGO — *KFGO*
+- `11-16 20:19` Nvidia's AI financing machine may survive Huang, but with less risk appetite - Reuters — *Reuters*
+- `11-16 20:17` Analysis-Nvidia’s AI financing machine may survive Huang, but with less risk appetite - شبكة تواصل الإخبارية — *شبكة تواصل الإخبارية*
+- `11-16 20:00` Nvidia amassed $530 billion in financial guarantees to corner the AI market — supply commitments rose by nearly a quarter of a trillion dollars in a single quarter - Tom's Hardware — *Tom's Hardware*
+- `11-16 20:00` Nvidia's AI financing machine may survive Huang, but with less risk appetite - TradingView — *TradingView*
+- `11-16 19:18` "No sane person questions whether AI works" — but an AI bubble appears ready to pop. - Axios — *Axios*
+- `11-16 18:04` US Memory Stocks Tumble Again Overnight as SanDisk, Micron Fall Over 4%, Western Digital Drops Over 3% - TradingKey — *TradingKey*
 - `11-16 15:06` Nvidia Faces A New Challenge From The Very Companies Driving The AI Boom, JPMorgan Says - NDTV Profit — *NDTV Profit*
-- `11-16 14:32` Morning Bid: AI selloff resumes as Nvidia earnings loom - Yahoo Finance — *Yahoo Finance*
-- `11-16 14:06` Huang ousting raises concerns over Nvidia financing of AI boom - World Socialist Web Site — *World Socialist Web Site*
-- `11-16 13:56` “AI Rally Hit by Midterm Election Shock and Nvidia Setback” Fed Warns of Risks From Debt-Linked Investments - https://economy.ac/ — *https://economy.ac/*
-- `11-16 13:49` Jensen Huang’s exit from NVIDIA unlikely to disrupt AI investment cycle in near term, says IBM CEO... - Moneycontrol.com — *Moneycontrol.com*
-- `11-16 13:46` Nvidia after Huang: Interim CEO takes over, spotlight on proposed AI financing deals - W.Media — *W.Media*
-- `11-16 13:44` Asia stocks slide as AI jitters deepen ahead of Nvidia results - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `11-16 20:00` Stocks’ New Headache? The Fed Could Raise Rates Well Into 2027 - Barron's — *Barron's*
-- `11-16 19:44` Fed rate pressure drags Egypt gold prices lower - Sada Elbalad English — *Sada Elbalad English*
+- `11-16 20:14` US Treasury yields fall as investors await Kevin Warsh's comments, US retail sales data and Fed minutes | Hindustan Times - Hindustan Times — *Hindustan Times*
+- `11-16 20:00` Stocks’ Next Headache? The Fed Could Raise Rates Well Into 2027 - Barron's — *Barron's*
+- `11-16 20:00` Post-election economic reports make Fed interest rate hike all but certain - Washington Examiner — *Washington Examiner*
+- `11-16 19:55` Rate-Hike Odds Surge Past 90% as Gold Falls Below $3,900 to More Than One-Year Low - BigGo Finance — *BigGo Finance*
+- `11-16 19:31` U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus - WSJ — *WSJ*
+- `11-16 19:04` Gold Prices Retreat Below $3,900 as Inflation Concerns Fuel Expectations of Further Fed Tightening - Yahoo Finance UK — *Yahoo Finance UK*
 - `11-16 19:02` Gold Falls Below $3,900 as Stronger Dollar and Fed Rate Expectations Pressure Precious Metals - Yahoo Finance — *Yahoo Finance*
 - `11-16 18:51` Dollar rises for fifth straight session amid Fed expectations — Anadolu Agency - UA.NEWS — *UA.NEWS*
-- `11-16 18:26` There's Now a 100% Chance of a Fed Rate Hike in December -- but That's Not the Worst News for Wall Street - AOL.com — *AOL.com*
-- `11-16 18:23` FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead - CoinDesk — *CoinDesk*
-- `11-16 18:14` Gold hits lowest level since September 2025 as Fed rate hike bets rise - Latest news from Azerbaijan — *Latest news from Azerbaijan*
-- `11-16 18:11` Exclusive Interview with Former Federal Reserve Vice Chairman Kohn: The Higher Hidden Cost of the Fed Holding Interest Rates Unraised - 36Kr — *36Kr*
 
 ## 🌍 유가·지정학
-- `11-16 19:52` OIL PRICE WATCH: Diesel, gasoline extend rollback in third week of November - ABS-CBN — *ABS-CBN*
-- `11-16 19:32` Iran says 3 oil tankers hit mines, catch fire in Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
-- `11-16 19:24` Middle East latest: Tanker struck by unknown projectile in Strait of Hormuz, UKMTO says - The National — *The National*
-- `11-16 19:22` Iran reports fresh mine attacks on three oil tankers in Strait of Hormuz - TRT World — *TRT World*
-- `11-16 19:00` Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-16 18:37` Oil prices edge up as reported Hormuz incidents raise concern - Offshore Technology — *Offshore Technology*
-- `11-16 18:08` ROLLBACK ULIT! 🚗⛽️ Motorists will enjoy another round of fuel price cuts starting Tuesday, November 17, as oil companies announced another rollback in pump prices. The Department of Energy said gasoline prices will go down by P1.50 per liter, while die - Facebook — *Facebook*
-- `11-16 18:00` Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets - CBS News — *CBS News*
+- `11-16 20:51` Iranian Army: Third Oil Tanker Catches Fire in Eastern Strait of Hormuz - WANA News Agency — *WANA News Agency*
+- `11-16 20:41` Oil Tanker On Fire After Being Hit By "Unknown Projectile" In Hormuz Strait - NDTV — *NDTV*
+- `11-16 20:36` Oil Price Forecast: Brent Risks $90 as OPEC+ Faces November 29 Production Decision - Coinpaper — *Coinpaper*
+- `11-16 20:26` IRGC Reports Explosions Aboard Two Oil Tankers in the Strait of Hormuz - IranWire — *IranWire*
+- `11-16 20:24` IRGC Says Two Oil Tankers Hit Mines in Strait of Hormuz, Fire Erupts and One Sinks: how 17 outlets framed it - NewsCord — *NewsCord*
+- `11-16 20:15` New North Sea Gas Supply Comes Online Amid Growing Political Backlash - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-16 20:02` Americans relying on heating oil brace for harsh winter: ‘We’re often cold in our own home’ - The Guardian — *The Guardian*
+- `11-16 19:39` Iran says 3 oil tankers hit naval mines in Hormuz - Naharnet — *Naharnet*
 
 ## 🌍 시장 전반
+- `11-16 20:51` Nvidia Earnings Preview: Can $108B Revenue Save NVDA Stock After Jensen Huang's Departure? - Coinpaper — *Coinpaper*
+- `11-16 20:35` 13% rally in 2 weeks, but 67% upside still left? InCred bullish on this small cap stock - Do you own? Check target price - Livemint — *Livemint*
+- `11-16 20:21` 42% rally in 11 sessions: This jewellery stock resumes its bull run after upbeat Q2 results, hits nearly 2-year high - Livemint — *Livemint*
+- `11-16 20:17` Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap - Bloomberg.com — *Bloomberg.com*
 - `11-16 19:35` Crypto stocks slide premarket as Bitcoin selloff continues - Investing.com — *Investing.com*
+- `11-16 19:33` Stock Market Today: Sensex Rises 418 Points, Nifty Near 25,250 as FII Buying Supports Rally - APAC Media — *APAC Media*
+- `11-16 19:32` Stocks decline on tech sell-off as concerns over the Nvidia fallout persist - LancasterOnline — *LancasterOnline*
 - `11-16 19:03` Bhagyanagar Ind Leads Market Rally with 510% Return in One Year - MarketsMojo — *MarketsMojo*
-- `11-16 18:59` Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `11-16 18:29` Safe-haven assets lose appeal as market selloffs expose risks - The Economic Times — *The Economic Times*
-- `11-16 18:17` Hospital stocks: Max Healthcare, Fortis, Aster DM lead gains after recent sell-off - CNBC TV18 — *CNBC TV18*
-- `11-16 17:36` Stocks and Bonds Falling Together: Why Traditional Safe Havens Are Failing in Unison - BigGo Finance — *BigGo Finance*
-- `11-16 17:30` MV Electrosystems shares rally 8% after bagging Rs 325 crore order from Chittaranjan Locomotive works - The Economic Times — *The Economic Times*
-- `11-16 17:23` China stocks end near 16-month low as AI hardware selloff deepens - marketscreener.com — *marketscreener.com*
