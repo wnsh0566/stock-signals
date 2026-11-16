@@ -1,80 +1,81 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-16 11:57 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-16 20:02 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-16 11:50` 코스피, 장중 낙폭 확대…한때 5,100선 위협 - 연합뉴스TV — *연합뉴스TV*
-- `11-16 11:39` 반도체 중심 증시 약세 속 연준 금리 전망까지 이시각 주요뉴스 - 연합인포맥스 — *연합인포맥스*
-- `11-16 11:34` 日 증시, 엔비디아 불확실성 여파에 장 초반 하락 전환 - 연합인포맥스 — *연합인포맥스*
-- `11-16 11:24` 유안타증권, 목동서 ‘Y투자교실’…내년 증시전략 강연 - 매일일보 — *매일일보*
-- `11-16 11:18` 앤트로픽 IPO 앞두고 현금 확보전?...아시아 증시·비트코인 전방위 약세 - 한국경제 — *한국경제*
-- `11-16 11:16` 코스피, 외인 매도 확대에 급락세…5,100선도 위태 - 연합인포맥스 — *연합인포맥스*
-- `11-16 11:16` 코스피 장중 3%대 급락…외국인 매도에 반도체주 동반 하락 - 산경투데이 — *산경투데이*
-- `11-16 11:11` [외환] 증시 급락에도 '킹원화'…네고에 1,330원대 초중반 - KB Think — *KB Think*
+- `11-16 19:24` [亞증시-종합] 기술주 조정…홍콩만 상승 - 연합인포맥스 — *연합인포맥스*
+- `11-16 19:01` 코스피, 외인 매도세에 3%대 하락 5100선 마감...삼전닉스 ‘하락’도 - 한국증권신문 — *한국증권신문*
+- `11-16 18:54` [베트남 증시] 중앙銀 외환 시장 개입 효과에 실망, 혼조...유동성 감소세 지속 - 뉴스핌 — *뉴스핌*
+- `11-16 18:43` 외국인·기관 동반 매도에 코스피 3거래일 연속 하락…5100선서 마감 - 인더스트리뉴스 — *인더스트리뉴스*
+- `11-16 18:26` AI 악재에 꺾인 국내 증시…코스피 3.59% 급락해 5100선 간신히 사수 - 더나은미래 — *더나은미래*
+- `11-16 18:10` 코스피 5,100선 턱걸이…AI 불안에 ’휘청’ - 연합뉴스TV — *연합뉴스TV*
+- `11-16 17:32` SK하이닉스 목표 주가 38% 낮춘 모건스탠리, 이틀 뒤 보고서엔 "코스피 이르면 3년 내 1만선" - 조선일보 — *조선일보*
+- `11-16 17:25` 코스피, 외국인·기관 매도에 3.59% 급락…장중 5100선 붕괴 - 굿모닝경제 — *굿모닝경제*
 
 ## 🇰🇷 반도체·HBM
-- `11-16 11:39` 반도체 중심 증시 약세 속 연준 금리 전망까지 이시각 주요뉴스 - 연합인포맥스 — *연합인포맥스*
-- `11-16 11:36` 하이퍼엑셀, HBM 뺀 추론칩 공개…"엔비디아보다 효율 3.5배" - 동행일보 — *동행일보*
-- `11-16 11:30` [르포]SK하이닉스 용인 팹 한 켠에 소부장 기업 위한 ‘공유 인프라’ - 경향신문 — *경향신문*
-- `11-16 11:27` 어드반테스트 8.73% 급락…미 반도체 한파에 200일선 붕괴 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-16 11:26` SK, 'AI 플라이휠' 확정…반도체 쏠림 벗어날 승부수 - 리드경제 — *리드경제*
-- `11-16 11:21` 오킨스전자, 반도체 훈풍 타고 3분기 누적 매출 986억 - 톱데일리 — *톱데일리*
-- `11-16 11:15` 110만원대까지 내려온 SK하이닉스…"실적으로 증명해야" - 한국경제 — *한국경제*
-- `11-16 11:15` [현장] "과감히 도전하라" 최태원 회장 주문에…SK하이닉스, 소부장 실패까지 껴안는다 By FinancialPost - Investing.com 한국어 — *Investing.com 한국어*
+- `11-16 19:49` SK하이닉스, 올해 3분기 누적 '설비투자' 31조원… 역대 최고치 기록 - 아시아경제 — *아시아경제*
+- `11-16 19:31` 서울 집값 상승률 꺾였는데 경기는 보합… ‘반도체 벨트’ 효과 - 경인일보 — *경인일보*
+- `11-16 19:21` SK하이닉스, 美 매출 1년 새 102조원 증가…엔비디아 추정 매출 35조 - 한국경제 — *한국경제*
+- `11-16 19:04` SK하이닉스, 올 3분기 누적 설비투자 31조 원 역대 최대 - MBC 뉴스 — *MBC 뉴스*
+- `11-16 19:00` 엔비디아 쏠림 줄었는데 중국 비중은 커졌다…분기보고서로 본 반도체 ‘호황 지도’ - 한겨레 — *한겨레*
+- `11-16 18:40` [삼성전자·SK하이닉스] HBM4 vs HBM4 - CEO경제신문 — *CEO경제신문*
+- `11-16 18:35` "SK하이닉스 호황 타고"…SK스퀘어, 3분기 영업익 7.9조 - 디지털데일리 — *디지털데일리*
+- `11-16 18:34` SK하이닉스, 3분기 누적 매출 236조…엔비디아 추정 매출 35조 - 글로벌이코노믹 — *글로벌이코노믹*
 
 ## 🇰🇷 금융주
-- `11-16 11:43` JB금융, 직원이 만든 업무용 AI에 상금 1억4천만원 - 스페셜경제 — *스페셜경제*
-- `11-16 11:41` [심층] 7개 금융그룹 자본 증가분 84%가 삼성 - 네이버 프리미엄콘텐츠 — *네이버 프리미엄콘텐츠*
-- `11-16 11:27` 윤종원 전 기업은행장, 은행연합회 회장 후보 고사 - 연합뉴스 — *연합뉴스*
-- `11-16 11:27` 금융지주, 포용금융 전문가 확보 나선다 - 헤럴드경제 — *헤럴드경제*
-- `11-16 11:24` JB금융그룹, 총상금 1억4000만원 두 번째 ‘임직원 AI 경진대회’ 개최 - 매일일보 — *매일일보*
-- `11-16 10:50` JB금융, AI 인재 육성 속도…사내 경진대회 상금 1억4000억원 - 포인트데일리 — *포인트데일리*
-- `11-16 10:36` 5대 금융지주 증권사 3Q 희비…NH 선방·KB 과징금에 순손실 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `11-16 10:33` [금융지주, 숫자 너머①] 최대 순익, 일회성 빼도 탄탄한가 By EBN - Investing.com 한국어 — *Investing.com 한국어*
+- `11-16 19:46` JB금융그룹, 총상금 1억4000만원 AI 경진대회 성료… 비개발자 ‘바이브 코딩’으로 실전 도구 빚어냈다 - 비즈트리뷴 — *비즈트리뷴*
+- `11-16 19:29` 농협금융지주, 10월까지 포용금융 3조3784억원 공급 - 농민신문 — *농민신문*
+- `11-16 18:18` [특징주] 코픽스 2년 8개월 만에 최고…은행株 애프터마켓 '빨간불' - 뉴스핌 — *뉴스핌*
+- `11-16 18:17` BNK금융, 자회사 CEO 후보군 추려 - 부산일보 — *부산일보*
+- `11-16 18:08` BNK금융, 경남은행장 후보 5명·투자증권 대표 후보 4명으로 압축 - 뉴시안 — *뉴시안*
+- `11-16 18:04` 연임 도전 황병우…시중은행 전환 넘어 성과 입증 과제 - 아시아투데이 — *아시아투데이*
+- `11-16 18:02` [금융 풍향계] 은행원이 AI 만든다...‘상금 1.4억’ JB금융의 실험 外 - 에너지경제신문 — *에너지경제신문*
+- `11-16 17:36` [뱅크 NOW] IBK기업은행·NH농협금융지주·JB금융지주 - 위키리크스한국 — *위키리크스한국*
 
 ## 🇰🇷 정책·거시
+- `11-16 10:43` 금융권까지 침투한 'AI 부정행위'…'꿈의 직장' 한국은행 입행 시험 대책 있나 - 뉴시스 — *뉴시스*
 - `11-16 10:04` 금융당국 "금융보안원 해킹 사고, 철저한 조사·재발방지 대책 마련" - 소비자가 만드는 신문 — *소비자가 만드는 신문*
 - `11-15 17:34` [아주부동산 PICK] 3기 신도시 교통 인프라 선입주 후대책… 정부는 뒷짐 - 아주경제 — *아주경제*
 
 ## 🌍 AI·빅테크
-- `11-16 11:21` Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered - WSJ — *WSJ*
-- `11-16 07:22` ​Nvidia Retreat From Circular AI Financing Unlikely to Lower 2027 GeForce Prices - The 420.in — *The 420.in*
-- `11-16 04:08` Nvidia Volatility Puts Nasdaq Stock And Trading Platforms In Focus - Yahoo Finance — *Yahoo Finance*
-- `11-16 03:33` US Treasury chief wants answers soon from Nvidia - Yahoo Finance — *Yahoo Finance*
-- `11-16 02:10` 3 Mega Cap Tech Stocks for AI Infrastructure After Nvidia’s Leadership Shock - Yahoo Finance — *Yahoo Finance*
-- `11-16 01:54` Nvidia Crisis and Data Centre Restrictions Could Strengthen Big Tech’s Grip on AI Market – ETF Experts - Tekedia — *Tekedia*
-- `11-16 01:47` Jim Cramer Says Nvidia’s New CEO Asked the Questions Jensen Huang Wouldn’t Answer - Yahoo Finance — *Yahoo Finance*
-- `11-16 01:26` ChatGPT Wallet vs. Google Gemini: Who Will Lead AI Shopping and Personal Finance? - Brave New Coin — *Brave New Coin*
+- `11-16 19:15` "No sane person questions whether AI works" — but an AI bubble appears ready to pop. - Axios — *Axios*
+- `11-16 15:06` Nvidia Faces A New Challenge From The Very Companies Driving The AI Boom, JPMorgan Says - NDTV Profit — *NDTV Profit*
+- `11-16 14:32` Morning Bid: AI selloff resumes as Nvidia earnings loom - Yahoo Finance — *Yahoo Finance*
+- `11-16 14:06` Huang ousting raises concerns over Nvidia financing of AI boom - World Socialist Web Site — *World Socialist Web Site*
+- `11-16 13:56` “AI Rally Hit by Midterm Election Shock and Nvidia Setback” Fed Warns of Risks From Debt-Linked Investments - https://economy.ac/ — *https://economy.ac/*
+- `11-16 13:49` Jensen Huang’s exit from NVIDIA unlikely to disrupt AI investment cycle in near term, says IBM CEO... - Moneycontrol.com — *Moneycontrol.com*
+- `11-16 13:46` Nvidia after Huang: Interim CEO takes over, spotlight on proposed AI financing deals - W.Media — *W.Media*
+- `11-16 13:44` Asia stocks slide as AI jitters deepen ahead of Nvidia results - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `11-16 11:12` Fed rate hike bets and falling oil prices weigh on Canadian Dollar against US Dollar - www.tmgm.com — *www.tmgm.com*
-- `11-16 10:59` UAE borrowers: Prepare for higher loan costs into 2028 - Khaleej Times — *Khaleej Times*
-- `11-16 10:53` Fed’s Collins: Steady gradual path for rate hikes appropriate amid risks on both sides - FXStreet — *FXStreet*
-- `11-16 10:39` Canadian Dollar weakens against US Dollar amid Fed rate hike bets, falling oil prices - FXStreet — *FXStreet*
-- `11-16 10:32` US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed - Reuters — *Reuters*
-- `11-16 10:25` Gold edges higher as investors await Warsh remarks for rate signals - Reuters — *Reuters*
-- `11-16 10:04` Euro softens below 1.1050 as traders ramp up Fed rate hike bets | FXStreet - شبكة تواصل الإخبارية — *شبكة تواصل الإخبارية*
-- `11-16 09:55` Yen Battles Near 160 Per Dollar as Fed Rate-Hike Bets, Intervention Jitters Pull in Opposite Directions - BigGo Finance — *BigGo Finance*
+- `11-16 20:00` Stocks’ New Headache? The Fed Could Raise Rates Well Into 2027 - Barron's — *Barron's*
+- `11-16 19:44` Fed rate pressure drags Egypt gold prices lower - Sada Elbalad English — *Sada Elbalad English*
+- `11-16 19:02` Gold Falls Below $3,900 as Stronger Dollar and Fed Rate Expectations Pressure Precious Metals - Yahoo Finance — *Yahoo Finance*
+- `11-16 18:51` Dollar rises for fifth straight session amid Fed expectations — Anadolu Agency - UA.NEWS — *UA.NEWS*
+- `11-16 18:26` There's Now a 100% Chance of a Fed Rate Hike in December -- but That's Not the Worst News for Wall Street - AOL.com — *AOL.com*
+- `11-16 18:23` FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead - CoinDesk — *CoinDesk*
+- `11-16 18:14` Gold hits lowest level since September 2025 as Fed rate hike bets rise - Latest news from Azerbaijan — *Latest news from Azerbaijan*
+- `11-16 18:11` Exclusive Interview with Former Federal Reserve Vice Chairman Kohn: The Higher Hidden Cost of the Fed Holding Interest Rates Unraised - 36Kr — *36Kr*
 
 ## 🌍 유가·지정학
-- `11-16 11:40` Vulcan Begins Construction at German Lithium Plant Ahead of 2028 Start - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-16 11:38` How oil prices changed after Iran's attack on Bahrain - Українські Національні Новини (УНН) — *Українські Національні Новини (УНН)*
-- `11-16 11:16` Iran says supertanker with two million barrels of oil sank in Strait of Hormuz after hitting mine - Malay Mail — *Malay Mail*
-- `11-16 10:52` Oil price analysis: Sellers are losing momentum, but $86.75 remains the danger line - investingLive — *investingLive*
-- `11-16 09:52` China’s Teapot Refiners Turn to Trading Giants as Iran Oil Ebbs - Bloomberg — *Bloomberg*
-- `11-16 09:34` Brent Steadies Near $96 After Iran Attack on US Base Eases Oil Slide - bloomingbit — *bloomingbit*
-- `11-16 08:12` IRGC Says Two Oil Tankers Hit Mines in Strait of Hormuz, Fire Erupts and One Sinks: how 17 outlets framed it - NewsCord — *NewsCord*
-- `11-16 07:58` Iran’s navy says oil tanker struck mine and caught fire east of Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
+- `11-16 19:52` OIL PRICE WATCH: Diesel, gasoline extend rollback in third week of November - ABS-CBN — *ABS-CBN*
+- `11-16 19:32` Iran says 3 oil tankers hit mines, catch fire in Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
+- `11-16 19:24` Middle East latest: Tanker struck by unknown projectile in Strait of Hormuz, UKMTO says - The National — *The National*
+- `11-16 19:22` Iran reports fresh mine attacks on three oil tankers in Strait of Hormuz - TRT World — *TRT World*
+- `11-16 19:00` Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-16 18:37` Oil prices edge up as reported Hormuz incidents raise concern - Offshore Technology — *Offshore Technology*
+- `11-16 18:08` ROLLBACK ULIT! 🚗⛽️ Motorists will enjoy another round of fuel price cuts starting Tuesday, November 17, as oil companies announced another rollback in pump prices. The Department of Energy said gasoline prices will go down by P1.50 per liter, while die - Facebook — *Facebook*
+- `11-16 18:00` Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets - CBS News — *CBS News*
 
 ## 🌍 시장 전반
-- `11-16 11:13` Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg — *Bloomberg*
-- `11-16 10:59` Futures Fall In Shaky Market; Jensen Huang Mulls Nvidia Return - Investor's Business Daily — *Investor's Business Daily*
-- `11-16 10:50` Will inflation, Iran tension spook the market bulls? Jefferies, HSBC answer - Business Standard — *Business Standard*
-- `11-16 10:00` Hitachi Energy’s growth outlook powers rally. Have valuations run ahead? - Livemint — *Livemint*
-- `11-16 09:30` Markets poised for a breather after sharp rally - Livemint — *Livemint*
-- `11-16 04:23` Bank of America Names 5 Bullish Stocks Amid Market Concerns - BeInCrypto — *BeInCrypto*
-- `11-16 04:15` US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally? - Stocks Down Under — *Stocks Down Under*
-- `11-16 04:03` Bank of America Names 5 Bullish Stocks Amid Market Concerns - Yahoo Finance — *Yahoo Finance*
+- `11-16 19:35` Crypto stocks slide premarket as Bitcoin selloff continues - Investing.com — *Investing.com*
+- `11-16 19:03` Bhagyanagar Ind Leads Market Rally with 510% Return in One Year - MarketsMojo — *MarketsMojo*
+- `11-16 18:59` Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `11-16 18:29` Safe-haven assets lose appeal as market selloffs expose risks - The Economic Times — *The Economic Times*
+- `11-16 18:17` Hospital stocks: Max Healthcare, Fortis, Aster DM lead gains after recent sell-off - CNBC TV18 — *CNBC TV18*
+- `11-16 17:36` Stocks and Bonds Falling Together: Why Traditional Safe Havens Are Failing in Unison - BigGo Finance — *BigGo Finance*
+- `11-16 17:30` MV Electrosystems shares rally 8% after bagging Rs 325 crore order from Chittaranjan Locomotive works - The Economic Times — *The Economic Times*
+- `11-16 17:23` China stocks end near 16-month low as AI hardware selloff deepens - marketscreener.com — *marketscreener.com*
