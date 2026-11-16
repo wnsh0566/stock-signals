@@ -1,12 +1,12 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-16 22:10 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-16 22:37 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-16 22:00` "8300 재탈환" vs "상단 6390 박스권"…내년 코스피 엇갈린 전망 [분석+] - 한국경제 — *한국경제*
+- `11-16 22:00` "코스피 8300 간다더니"…증권가 전망에 개미들 '부글부글' [분석+] - 한국경제 — *한국경제*
 - `11-16 20:12` 젠슨 황·담합 소송에 코스피 3.6% 뚝‥엔비디아 실적 반등 계기 될까? - MBC 뉴스 — *MBC 뉴스*
 - `11-16 20:06` ’젠슨 황 쇼크’ 지속…코스피 5,100선 턱걸이 - 연합뉴스TV — *연합뉴스TV*
 - `11-16 19:24` [亞증시-종합] 기술주 조정…홍콩만 상승 - 연합인포맥스 — *연합인포맥스*
@@ -44,7 +44,7 @@
 - `11-16 22:02` Anthropic vs OpenAI: Revenue, valuation, losses and the battle for AI dominance - The Financial Express — *The Financial Express*
 - `11-16 21:57` Nvidia's $500 Billion AI Bet Just Lost Its Chief Dealmaker Huang. Analysts Spot A Risk - NDTV Profit — *NDTV Profit*
 - `11-16 21:48` A $4.8bn chip trail and a spy probe: What Huang’s fall means for AI infrastructure - Capacity Media — *Capacity Media*
-- `11-16 21:46` IMF chief warned AI circular financing tops $1 trillion as Nvidia fallout rattles markets - Quartz — *Quartz*
+- `11-16 21:46` IMF's Kristalina Georgieva warned on $1 trillion AI circular financing - Quartz — *Quartz*
 - `11-16 21:43` Stock Futures Turn Lower as Nvidia and Anthropic Test AI Trade - The Eastern Herald — *The Eastern Herald*
 - `11-16 21:06` Nvidia's AI financing machine may survive Huang, but with less risk appetite - Reuters — *Reuters*
 - `11-16 21:00` Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week - Yahoo Finance — *Yahoo Finance*
@@ -54,28 +54,28 @@
 - `11-16 22:00` Aikenomics: Inflation strikes again ... mortgage rates rise - Appen Media — *Appen Media*
 - `11-16 21:53` TradFi News | Crypto Week Ahead: FOMC Minutes, Nvidia Earnings and Russia’s Retail Crypto Rules - Binance — *Binance*
 - `11-16 20:14` US Treasury yields fall as investors await Kevin Warsh's comments, US retail sales data and Fed minutes | Hindustan Times - Hindustan Times — *Hindustan Times*
-- `11-16 20:00` Stocks’ Next Headache? The Fed Could Raise Rates Well Into 2027 - Barron's — *Barron's*
+- `11-16 20:00` Stocks’ New Headache? The Fed Could Raise Rates Well Into 2027 - Barron's — *Barron's*
 - `11-16 20:00` Post-election economic reports make Fed interest rate hike all but certain - Washington Examiner — *Washington Examiner*
 - `11-16 19:55` Rate-Hike Odds Surge Past 90% as Gold Falls Below $3,900 to More Than One-Year Low - BigGo Finance — *BigGo Finance*
 - `11-16 19:04` Gold Prices Retreat Below $3,900 as Inflation Concerns Fuel Expectations of Further Fed Tightening - Yahoo Finance UK — *Yahoo Finance UK*
 - `11-16 19:03` U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus - WSJ — *WSJ*
 
 ## 🌍 유가·지정학
-- `11-16 21:59` Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggling - Reuters — *Reuters*
-- `11-16 21:45` Current price of oil as of Nov. 16, 2026 - Fortune — *Fortune*
+- `11-16 22:30` COP31 Electrification Pledge Stalls as Developing Nations Push Back - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-16 22:24` Oil prices slip as IEA sees first supply surplus since Iran war began - Quartz — *Quartz*
+- `11-16 22:21` Murphy Oil downgraded by Seaport Research Partners with a new price target - Quantisnow — *Quantisnow*
+- `11-16 22:15` Hormuz block hit Africa in 4 places: what the continent must do to prevent future shocks - The Conversation — *The Conversation*
+- `11-16 21:56` Oil Prices Reverse Initial Gains as Supply Concerns Weigh - WSJ — *WSJ*
+- `11-16 21:52` U.S. is Venezuela’s biggest oil buyer, as Hormuz crisis and Maduro’s ouster accelerate change - Washington Times — *Washington Times*
+- `11-16 21:45` Current price of oil as of November 16, 2026 - Fortune — *Fortune*
 - `11-16 21:30` U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-16 21:01` Goldman Sachs' 2027 Oil Outlook: The Hormuz Shock Fades, but the Oil Market Has Learned to Live With War - The Dark Side Of The Boom — *The Dark Side Of The Boom*
-- `11-16 20:55` Oil Prices Reverse Initial Gains as Supply Concerns Weigh - WSJ — *WSJ*
-- `11-16 20:51` Iranian Army: Third Oil Tanker Catches Fire in Eastern Strait of Hormuz - WANA News Agency — *WANA News Agency*
-- `11-16 20:41` Oil Tanker On Fire After Being Hit By "Unknown Projectile" In Hormuz Strait - NDTV — *NDTV*
-- `11-16 20:36` Oil Price Forecast: Brent Risks $90 as OPEC+ Faces November 29 Production Decision - Coinpaper — *Coinpaper*
 
 ## 🌍 시장 전반
+- `11-16 22:26` Baazar Style Retail shares rally 6% despite Q2 loss - Business Upturn — *Business Upturn*
 - `11-16 22:03` BTAL Buys the Market's Calmest Stocks and Shorts Its Wildest. It Is Built to Rise When Stocks Fall - 24/7 Wall St. — *24/7 Wall St.*
-- `11-16 21:46` Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain. - Barron's — *Barron's*
+- `11-16 21:52` Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap - Bloomberg.com — *Bloomberg.com*
 - `11-16 21:32` Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil - MarketWatch — *MarketWatch*
 - `11-16 21:07` PNB among 4 stocks hitting 52-week highs; stock rallies up to 24% in a month - The Economic Times — *The Economic Times*
 - `11-16 21:03` London midday: Stocks higher as investors shrug off Asian tech selloff - Sharecast.com — *Sharecast.com*
 - `11-16 20:51` Nvidia Earnings Preview: Can $108B Revenue Save NVDA Stock After Jensen Huang's Departure? - Coinpaper — *Coinpaper*
 - `11-16 20:35` 13% rally in 2 weeks, but 67% upside still left? InCred bullish on this small cap stock - Do you own? Check target price - Livemint — *Livemint*
-- `11-16 20:21` 42% rally in 11 sessions: This jewellery stock resumes its bull run after upbeat Q2 results, hits nearly 2-year high - Livemint — *Livemint*
