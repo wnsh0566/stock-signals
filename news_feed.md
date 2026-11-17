@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-17 22:52 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-17 23:21 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -11,11 +11,12 @@
 - `11-17 20:39` 코스피 9개월 만에 5천 깨졌다…이젠 악재가 된 AI - 한겨레 — *한겨레*
 - `11-17 20:28` 골드만삭스, 변동성에 코스피지수 목표치 하향…상승 여력은 유지 - Investing.com 한국어 — *Investing.com 한국어*
 - `11-17 20:18` 5개월 만에 9천→5천 붕괴…AI 악재·외국인 탈출에 ‘실탄’도 동났다 - 한겨레 — *한겨레*
+- `11-17 20:06` 유럽 증시 낙관론, 2월 이후 최고치 기록 - 설문조사 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-17 20:00` [올댓차이나] 홍콩 증시, 美 반도체주 급락 여파로 반락 마감… H주 0.97%↓ - 뉴시스 — *뉴시스*
 - `11-17 19:39` 코스피 결국 5천선도 밀렸다…지수 2월 초 수준으로 회귀 - 프레시안 — *프레시안*
-- `11-17 19:34` 코스피, AI 불안에 ’5천피’ 붕괴…9개월만 최저 - 연합뉴스TV — *연합뉴스TV*
-- `11-17 19:20` 5000선 아래로 '털썩' 2월로 돌아간 코스피 - 매일경제 — *매일경제*
 
 ## 🇰🇷 반도체·HBM
+- `11-17 23:09` [오늘의시선] 젠슨 황 쇼크, 시험대 오른 K반도체 - 세계일보 — *세계일보*
 - `11-17 22:39` 경기도 8개 시 ‘반도체 광역 연대’ 선언… 3대 전략·14개 과제 제시 - 경기일보 — *경기일보*
 - `11-17 22:11` [삼성전자·SK하이닉스] 나란히 내렸다… SK하이닉스 7.89% - CEO경제신문 — *CEO경제신문*
 - `11-17 21:50` 미국, 중국의 AI 반도체 우회 접근 차단…미·중 기술패권 경쟁 격화 - 뉴스비전e — *뉴스비전e*
@@ -23,7 +24,6 @@
 - `11-17 21:36` 조용호 오산시장, K-반도체 초격차 비전 선포식서 산업 육성 협력 - 매일일보 — *매일일보*
 - `11-17 21:32` 추미애 경기도지사, "경기도 반도체 핵심 거점 만들 것" - 성남일보 — *성남일보*
 - `11-17 21:00` 인공위성 ‘전력 심장’ 국산화 성큼…ETRI 핵심 반도체 개발 - 충청투데이 — *충청투데이*
-- `11-17 20:45` ‘젠슨 황 쇼크’…미, 중국 AI 반도체 ‘클라우드 우회로’ 봉쇄 - 경향신문 — *경향신문*
 
 ## 🇰🇷 금융주
 - `11-17 20:44` [EBN 오늘(17일) 이슈 종합] AI 안경 커닝에 수능 비상, 금융지주 '밸류업 2.0' 험로 등 - www.ebn.co.kr — *www.ebn.co.kr*
@@ -40,34 +40,34 @@
 - `11-17 09:22` 한국도로공사, 고속도로 제설대책 본격 시행 - 일간투데이 — *일간투데이*
 
 ## 🌍 AI·빅테크
-- `11-17 22:41` Nvidia trades at 11.3x forward earnings, lowest since 2011: Discount or value trap? Binance Research answe - The Economic Times — *The Economic Times*
+- `11-17 22:45` Nvidia’s scandal caused a Wall Street wobble. Here’s how to protect your personal finances if the AI bubble bursts - Newswav — *Newswav*
+- `11-17 22:21` Nokia's AI Ambitions Face Two Tests: A Consortium Bid Without a Budget and Nvidia's Shrinking Stake - ad-hoc-news.de — *ad-hoc-news.de*
 - `11-17 22:13` Quant fund RenTech sold almost all of its Nvidia stock before it crashed - Business Insider — *Business Insider*
 - `11-17 22:11` Nvidia Turmoil Marks the End of Easy AI Money - Newsmax — *Newsmax*
 - `11-17 21:58` Jensen Huang started closing the Bank of Nvidia months before he left — here’s what’s still open: Chart of the Day - Yahoo Finance — *Yahoo Finance*
 - `11-17 21:38` Nvidia earnings: Three things investors are watching - CNBC — *CNBC*
 - `11-17 21:00` Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump - CoinDesk — *CoinDesk*
 - `11-17 21:00` Rockwell Automation Expands Edge Computing Options for Industrial AI with NVIDIA GPUs - Yahoo Finance — *Yahoo Finance*
-- `11-17 20:52` Is Nvidia’s Leadership Crisis Ending the Era of Easy Money for AI Companies? - Modern Diplomacy — *Modern Diplomacy*
 
 ## 🌍 연준·금리
 - `11-17 22:35` Fed Rate Hike Odds Hit 90%: What Could Happen to Bitcoin and Crypto in December? - CryptoPotato — *CryptoPotato*
+- `11-17 22:34` St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC — *CNBC*
 - `11-17 22:16` Why Gold Loses Appeal When Fed Rate Hikes Lift Treasury Yields - StoneX — *StoneX*
 - `11-17 22:07` US dollar rally erases ‘liberation day’ losses as rate expectations rise - Financial Times — *Financial Times*
+- `11-17 21:55` Gold Steadies Near 14-Month Low as Inflation Pressure Persists - Bloomberg.com — *Bloomberg.com*
 - `11-17 21:33` Fed's Musalem: US likely needs several rate hikes by spring to control inflation - Reuters — *Reuters*
 - `11-17 21:30` Fed’s Musalem Says ‘Several’ Rate Hikes Likely Needed by Spring - Bloomberg.com — *Bloomberg.com*
-- `11-17 20:17` EUR/USD signal: forecast as the US Dollar Index rallies ahead of FOMC minutes - Invezz — *Invezz*
-- `11-17 20:04` Bitcoin hovers near four-month lows as Fed rate hike bets weigh on prices. - Pluang — *Pluang*
-- `11-17 19:38` Dollar steady after five-day rally, NZ dollar at lowest since 2020 - Yahoo Finance — *Yahoo Finance*
+- `11-17 21:10` Gold gains slightly to recover from one-year low: what's next? - TradingView — *TradingView*
 
 ## 🌍 유가·지정학
+- `11-17 22:59` Transport group brands Trump ‘king of wars,’ ‘king of oil price hikes’ - Inquirer.net — *Inquirer.net*
+- `11-17 22:57` Oil Extends Fall on Signs of Revived Supplies and Vance Outlook - Bloomberg.com — *Bloomberg.com*
 - `11-17 22:30` Malaysia Signs First Critical Minerals Pact With France - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-17 22:18` Oil Tanker Attacked Near Strait of Hormuz, Engine Room Fire Reported - Yemen Online — *Yemen Online*
 - `11-17 22:10` Oil prices swing as vessel attacks reported around Hormuz - Transport Topics — *Transport Topics*
 - `11-17 21:34` Second Violating Oil Tanker Catches Fire East of Strait of Hormuz - WANA News Agency — *WANA News Agency*
 - `11-17 21:30` UK Pushes for Global Levies on Polluting Industries - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-17 21:11` Iraq Accuses Iran-Backed Kata’ib Hezbollah of Oil Smuggling and Orders Army Into Jurf al-Sakhar - IranWire — *IranWire*
-- `11-17 20:41` Tara Gas LPG tanker hit by missile in Strait of Hormuz, all 25 crew safe, India says - Oil & Gas Middle East — *Oil & Gas Middle East*
-- `11-17 20:36` Crude oil erases recent gains despite no change in the US-Iran situation. What's next? - investingLive — *investingLive*
 
 ## 🌍 시장 전반
 - `11-17 22:10` Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally - CNBC — *CNBC*
