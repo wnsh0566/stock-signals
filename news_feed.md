@@ -1,34 +1,34 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-18 23:32 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-19 04:10 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
+- `11-19 00:37` 뉴욕증시, 앤트로픽 공모가 발표 앞두고 혼조 출발… 엔비디아 호실적에 기술주 강세 - Chosunbiz — *Chosunbiz*
+- `11-19 00:05` 뉴욕증시, 엔비디아 호실적 속 혼조 출발 - 연합뉴스 — *연합뉴스*
+- `11-19 00:00` "흔들리는 코스피…주식 농부처럼 버티면 수확할 때가 옵니다" - 뉴시스 — *뉴시스*
+- `11-18 23:10` 뉴욕증시 개장 전 특징주...엔비디아·블룸에너지·테이크투↑ VS 돌비래버러토리스·뉴몬트·타겟↓ - 뉴스핌 — *뉴스핌*
 - `11-18 22:34` 뉴욕증시 프리뷰, 주가 선물 혼조세...엔비디아 호실적에 AI주 반등, 나스닥 0.6%↑ - 뉴스핌 — *뉴스핌*
-- `11-18 22:00` 한쪽은 7500피, 한쪽은 1만피…개미들 "누구 말을 믿나" 혼란 [분석+] - 한국경제 — *한국경제*
+- `11-18 22:00` 반도체 끝물이라는데 1만피 간다?…개미들 혼란 빠뜨린 전망 [분석+] - 한국경제 — *한국경제*
+- `11-18 21:48` 대신증권, 2027년 상반기 글로벌 증시 전망 세미나 개최 - 비즈월드 — *비즈월드*
 - `11-18 21:08` 코스피, 하루 만에 '5천피' 탈환…기관 매수에 5거래일 만에 반등 - 산경투데이 — *산경투데이*
-- `11-18 21:03` 성공투자 오후증시 - 한국경제TV — *한국경제TV*
-- `11-18 19:50` [인도증시] 9개월래 최고치 찍고 '숨 고르기'…차익실현 매물에 하락 - 뉴스핌 — *뉴스핌*
-- `11-18 19:16` [亞증시-종합] 엔비디아 호실적에 日·臺↑…中 혼조·홍콩↓ - 연합인포맥스 — *연합인포맥스*
-- `11-18 18:40` 엔비디아 호실적 훈풍에...코스피, 5천 선 탈환 - YTN — *YTN*
-- `11-18 18:25` 기관 매수에…코스피 하루만에 5,000선 회복 - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 반도체·HBM
-- `11-18 23:12` "10년 모은 4억원이 1억원대로"…SK하이닉스에 투자한 은행원의 사연 - 파이낸셜뉴스 — *파이낸셜뉴스*
-- `11-18 22:18` 딥엑스 "광주 임대주택 1만호, 국산 AI반도체 실증 거점으로" - 아이뉴스24 — *아이뉴스24*
-- `11-18 21:42` 앨리스 황, 일본에도 법인 설립...반도체 밀반출 의혹 확산 - 라디오코리아 — *라디오코리아*
-- `11-18 21:10` 호남 반도체 팹 공장 배치 윤곽...HBM 공장 추가 협의 - KBC광주방송 — *KBC광주방송*
-- `11-18 21:06` “반도체, 내년 더 좋아”…경제성장률 대폭 상향 - 경향신문 — *경향신문*
-- `11-18 21:02` 전남광주통합특별시의회, SK하이닉스 이천캠퍼스 방문…호남 반도체 클러스터 조성 ‘속도’ - 더파워 — *더파워*
-- `11-18 21:02` [단독] 삼성-하이닉스 호남 반도체, 용수 수요 하루 14만톤 차이 - 한겨레 — *한겨레*
-- `11-18 20:50` "반도체 칩 탐지기 사용하자"…쏟아지는 커닝 방지 아이디어 - 연합뉴스TV — *연합뉴스TV*
+- `11-19 03:57` 8월 예상보다 커진 '초호황 반도체' 가중치… 이례적 파격상향 - 머니투데이 - 머니투데이 — *머니투데이*
+- `11-19 03:16` 中 장비 수출 막은 美, SK하이닉스 60조 뉴욕 투자도 꼬였다 - 한국신용신문 — *한국신용신문*
+- `11-19 02:06` 이엔에프테크놀로지 3분기 영업이익 15.9%↑…반도체 소재 호조 - 리드경제 — *리드경제*
+- `11-19 01:15` “삼성전자 19만원인데 목표가는 46만원?”…SK하이닉스는 173% 차이, 개미들 혼란 - 데일리25 — *데일리25*
+- `11-19 00:40` [신문은 선생님] [한입 테크 사전] 美 반도체 수출 통제하자… 中 기업, GPU 아껴 핵심 정보만 고르는 AI 만들었어요 - 조선일보 — *조선일보*
+- `11-19 00:33` 아틀라스 내년 美 반도체 공장 투입… 車 생산 이어 두 번째 현장 테스트 - 조선일보 — *조선일보*
+- `11-19 00:30` “반도체 심장에 푸른 허파 심는다” 이상일 시장이 그리는 ‘명품 녹색 용인’ - 아시아경제 — *아시아경제*
+- `11-19 00:16` 60조 원 뉴욕 공장 발목 잡은 다롄∙∙∙SK하이닉스 투자 딜레마 - 한국신용신문 — *한국신용신문*
 
 ## 🇰🇷 금융주
 - `11-18 21:47` 한국투자증권, 6500억원 규모 주주배정 유상증자 결정 - 뉴시안 — *뉴시안*
 - `11-18 19:33` 한국투자증권 6500억 유상증자 결정, 한국금융지주 출자로 자기자본 확충 - 비즈니스포스트 — *비즈니스포스트*
-- `11-18 18:47` 한국산업은행-한국투자금융지주 'KDB생명' 매각협상 종료 - 마일드경제 — *마일드경제*
+- `11-18 19:27` 한국투자증권, 6500억 유상증자…모회사 전량 인수 - 코리아리포트 — *코리아리포트*
 - `11-18 18:10` 한국금융지주, 한국투자증권(주) 주식 6,500억원어치 취득… 지분 100% - CEO경제신문 — *CEO경제신문*
 - `11-18 18:00` JB금융그룹·앤트 DT, AI 기반 외국인 신용평가·포용금융 협약 체결 - FETV — *FETV*
 - `11-18 17:59` [뱅크 NOW] IBK기업은행·Sh수협은행·JB금융지주·카카오뱅크 - 위키리크스한국 — *위키리크스한국*
@@ -39,41 +39,41 @@
 - `11-17 09:22` 한국도로공사, 고속도로 제설대책 본격 시행 - 일간투데이 — *일간투데이*
 
 ## 🌍 AI·빅테크
-- `11-18 23:02` 'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters — *Reuters*
-- `11-18 22:49` BlackLine and OpenAI Bring Governed Agentic AI to the Office of the CFO - - Enterprise Times — *Enterprise Times*
-- `11-18 22:35` Nvidia's Colette Kress faces a slew of challenges as employees push for Jensen Huang's return - Firstpost — *Firstpost*
-- `11-18 22:22` Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic - WSJ — *WSJ*
-- `11-18 22:00` Nvidia clarifies when it will — and won’t —keep financing neoclouds - TechCrunch — *TechCrunch*
-- `11-18 21:51` Nvidia China Dealings are about to Explode - Blain's Morning Porridge — *Blain's Morning Porridge*
-- `11-18 21:43` CoreWeave Stock Forecast: Can Nvidia’s AI Boom Drive More Gains? - TipRanks — *TipRanks*
-- `11-18 21:24` Why Is IREN Stock Surging Today? - Yahoo Finance — *Yahoo Finance*
+- `11-19 03:52` Nvidia said its AI data center loan guarantees won't kick in until facilities are built - Quartz — *Quartz*
+- `11-19 03:37` Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market - CNBC — *CNBC*
+- `11-19 03:34` What is Nvidia without AI’s sugar daddy in charge? - The Verge — *The Verge*
+- `11-19 03:15` Nvidia’s $105 Billion OpenAI Bet Has a 20-Year Catch - Benzinga — *Benzinga*
+- `11-19 03:07` 'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters — *Reuters*
+- `11-19 02:50` Why Nvidia is still the central bank of AI without Jensen Huang - Yahoo Finance — *Yahoo Finance*
+- `11-19 02:08` Nvidia Is AI, And AI Is The Market (NASDAQ:NVDA) - Seeking Alpha — *Seeking Alpha*
+- `11-19 01:43` CoreWeave and IREN Fall as Nvidia Signals Caution on Financing - Barron's — *Barron's*
 
 ## 🌍 연준·금리
-- `11-18 23:23` Mortgage applications fall as 30-year rate hits three-week high - www.mpamag.com — *www.mpamag.com*
-- `11-18 23:06` Gold plunges to 14-month low, silver tumbles as Fed rate hike bets intensify - Kitco AM Report - Kitco — *Kitco*
-- `11-18 23:03` Gold Falls Below $3,800 as Dollar Index Hits 52-Week High; Nvidia Earnings Rescue AI Stocks but Hawkish Rate-Hike Shadow Lingers - BigGo Finance — *BigGo Finance*
-- `11-18 22:57` Fed may need to hike rates four times, says central bank official - Mortgage Professional America — *Mortgage Professional America*
-- `11-18 22:33` Gold Falls to $3,790 as Rate-Hike Bets Weigh on Prices - JournalArta — *JournalArta*
-- `11-18 22:18` Waller Says Fed Should Consider Half-Point Rate Hike - Bloomberg.com — *Bloomberg.com*
-- `11-18 22:17` Global FX Market Summary - Hawkish Fed, Strong Dollar, and Nvidia Earnings Drive Markets - 18 November 2026 - FinanceFeeds — *FinanceFeeds*
-- `11-18 22:15` Fed’s Waller says Fed should consider half-point rate hike - The Edge Malaysia — *The Edge Malaysia*
+- `11-19 04:05` Minutes show ‘almost all’ on FOMC anticipated further rate hikes - TipRanks — *TipRanks*
+- `11-19 04:05` Fed minutes: nearly all participants see further rate hikes as likely appropriate - Crypto Briefing — *Crypto Briefing*
+- `11-19 04:04` Fed Minutes Show More Rate Hikes Are Coming - TipRanks — *TipRanks*
+- `11-19 04:00` Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show - CNBC — *CNBC*
+- `11-19 03:54` Federal Reserve signals further rate rises as inflation pressures persist - Traders Union — *Traders Union*
+- `11-19 03:43` Waller Urges Half Point Fed Rate Hike to Fight Inflation - Limapagi — *Limapagi*
+- `11-19 03:39` Fed's Barr says rate rises likely lie ahead for economy - Reuters — *Reuters*
+- `11-19 03:16` Fed’s Daly Urges Rate Hikes With a Thoughtful, Measured Approach - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 유가·지정학
-- `11-18 23:20` Crude Oil Price Forecast: WTI Faces $80 Test Ahead of EIA Report - FXEmpire — *FXEmpire*
-- `11-18 23:15` Can the US and Iran sustain a ‘frozen war’? - Al Jazeera — *Al Jazeera*
-- `11-18 22:53` Iraq reopens Turkey oil pipeline to bypass Hormuz disruption - Euronews.com — *Euronews.com*
-- `11-18 22:30` Fracking Giants Tapped to Drill Gas Project in Western Australia - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-18 21:45` Imperial Oil Price Target Raised to CA$138 at RBC - marketscreener.com — *marketscreener.com*
-- `11-18 21:30` EnQuest Exits UK North Sea in $960 Million Deal - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-18 20:45` Current price of oil as of November 18, 2026 - Fortune — *Fortune*
-- `11-18 20:31` Oil Prices Fall Sharply as U.S. Crude Inventories Rise, Overshadowing Middle East Supply Risks - EnergyNow — *EnergyNow*
+- `11-19 04:10` If Iran’s Oil Exports Are Halted, No Other Country Should Be Allowed to Export Oil - WANA News Agency — *WANA News Agency*
+- `11-19 04:00` China Secures Major Gas Deal as Its Influence Grows Across Central Asia - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-19 03:38` U.S. expands Iran oil blockade to target offshore cargo transfers - Oil & Gas 360 — *Oil & Gas 360*
+- `11-19 03:15` Iran Attacks On Kuwait Come Second To Global Glut Concerns, Oil Continues Downward Slide - Ship & Bunker — *Ship & Bunker*
+- `11-19 03:00` Copper Heads for Longest Weekly Losing Streak in Two Years - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-19 02:30` Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an "Acquisition" - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-19 02:30` Mozambique Approves Exxon's Redesigned $30 Billion Rovuma LNG Plan - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-19 02:08` US Military Tightens Iran Blockade; Warns Ships Against Oil Transfers With Iranian Vessels - marketscreener.com — *marketscreener.com*
 
 ## 🌍 시장 전반
-- `11-18 23:00` TSX Today: Why Canadian Stock Market Sell-off Could Intensify on Wednesday, November 18 - The Motley Fool Canada — *The Motley Fool Canada*
-- `11-18 22:15` History Says AGNC's Dividend Can Survive a Stock Market Crash -- but Not Always at Full Size - The Motley Fool — *The Motley Fool*
-- `11-18 21:46` Milan stock market steady, industrials and utilities offset tech rally - marketscreener.com — *marketscreener.com*
-- `11-18 21:34` US Stock Futures Rally as Nvidia Results Ease AI Trade Worries - Bloomberg.com — *Bloomberg.com*
-- `11-18 21:10` Stock markets snap 2-day rally; Sensex drops 500 points amid profit booking, U.S. Fed rate hike fears - The Hindu — *The Hindu*
-- `11-18 21:09` Stock Markets Drop: Sensex Falls 500 Pts Amid Rate Hike Fears - Rediff MoneyWiz — *Rediff MoneyWiz*
-- `11-18 20:47` Markets snap 2-day rally; Sensex drops 500 pts amid profit booking, US Fed rate hike speculations - Deccan Herald — *Deccan Herald*
-- `11-18 20:46` Stock markets snap 2-day rally; Sensex drops 500 pts amid profit booking, US Fed rate hike fears - ThePrint — *ThePrint*
+- `11-19 03:16` Equity Markets Mostly Fall Intraday Amid Nvidia Sell-Off - marketscreener.com — *marketscreener.com*
+- `11-19 02:51` Stock markets snap 2-day rally - MillenniumPost — *MillenniumPost*
+- `11-19 02:42` Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `11-19 02:30` Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues - Yahoo Finance — *Yahoo Finance*
+- `11-19 02:03` US Stock Futures Rally as Nvidia Results Ease AI Trade Worries - Bloomberg.com — *Bloomberg.com*
+- `11-19 01:42` 170 Years of Market History Just Flashed a 97% Bubble Warning - the Last Time It Was This High Was 2007 - 24/7 Wall St. — *24/7 Wall St.*
+- `11-19 01:04` Has a Stock Market Crash Started? Here's What Sobering Lessons From the Dot-Com Bust Say Comes Next - The Globe and Mail — *The Globe and Mail*
+- `11-19 01:02` Plug Power Rallies 6% After Fuel Cell Selloff; FuelCell Dips, Bloom Energy Holds Steady - 24/7 Wall St. — *24/7 Wall St.*
