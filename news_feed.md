@@ -1,73 +1,80 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-18 04:31 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-18 12:48 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-18 04:16` 엔비디아가 누른 코스피, 실적이 만회할까 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-18 03:37` [뉴욕 금가격] 증시 하락에 긴축 우려 완화…0.5% 상승 - 연합인포맥스 — *연합인포맥스*
-- `11-18 03:12` 유럽증시, 기술주가 하락 주도하면서 1.75% 하락… 엔비디아 실적 발표에도 촉각 - 뉴스핌 — *뉴스핌*
-- `11-18 00:02` 코스피 5000도 무너졌다…막 내린 ‘묻지마 AI 투자’ 시대 - 중앙일보 — *중앙일보*
-- `11-18 00:02` 코스피 5000도 무너졌다…막 내린 ‘묻지마 AI 투자’ 시대 - 미주중앙일보 — *미주중앙일보*
-- `11-18 00:01` [사설] 코스피 5000 붕괴, ‘역(逆)자산효과’ 대책 있나 - 아시아투데이 — *아시아투데이*
-- `11-17 23:55` 뉴욕증시 혼조세 출발… 엔비디아 실적 발표 주목 - Chosunbiz — *Chosunbiz*
-- `11-17 23:40` 뉴욕증시, 엔비디아 실적 발표 대기하며 하락 출발 - 매일경제 마켓 — *매일경제 마켓*
+- `11-18 12:37` 코스피 순이익 3.7배 급증했지만…코스닥은 3분기 1.3조 적자 By EBN - Investing.com 한국어 — *Investing.com 한국어*
+- `11-18 12:30` 코스피, 장 초반 3%대 급등 후 상승세 둔화…5천선 아래서 등락 - 산경투데이 — *산경투데이*
+- `11-18 12:14` 코스피, 다시 장중 4천 선...반도체주 상승 폭 둔화 - YTN — *YTN*
+- `11-18 12:09` 코스피 상장사, 3분기 매출 ‘1000조’·영업익 ‘250조’ 첫 돌파..‘삼전닉스 이끌어’[코스피 결산] - 이데일리 — *이데일리*
+- `11-18 12:05` 수출 1조 달러 달성과 코스피 5000 붕괴, 한국 경제 두 얼굴[사설] - 문화일보 — *문화일보*
+- `11-18 12:02` 엔비디아 '어닝 서프라이즈'에도 코스피 5,100선 반납…외국인 매수 속 개인 매도 확대 - 시사프리즘 — *시사프리즘*
+- `11-18 12:02` 3분기 가계빚 2,030조…“주택거래 감소·증시 조정으로 증가세 둔화” - KBS 뉴스 — *KBS 뉴스*
+- `11-18 12:02` “실적은 날았다”...코스피 상장사, 올해 3분기 누적 순이익 전년 대비 273% 폭증 - Chosunbiz — *Chosunbiz*
 
 ## 🇰🇷 반도체·HBM
-- ⚠️ 수집 실패: HTTPError
+- `11-18 12:40` ‘2026년 청소년 AI‧반도체 진로체험 캠프’ 참가자 모집 - 경인경제 — *경인경제*
+- `11-18 12:33` 추미애 지사 “반도체 경쟁…시간과의 싸움” - 동방일보 — *동방일보*
+- `11-18 12:21` SK하이닉스, 협력업체에 1조 4천억 원 지원 추진… AI 반도체 경쟁력과 중소기업 동반성장 강화 - 한국공공정책신문 — *한국공공정책신문*
+- `11-18 12:11` KDI, 올해 성장률 3.8%·내년 3.9%로 상향…“반도체 호황 지속” - 동아일보 — *동아일보*
+- `11-18 12:10` 엔비디아 3분기 매출 두 배 뛰었다...삼성·SK하이닉스에 쏠리는 기대 - 딜사이트 — *딜사이트*
+- `11-18 12:10` [CEONEWS 랭킹뉴스 43] 하반기 반도체 하락률 TOP 5 - CEONEWS — *CEONEWS*
+- `11-18 12:09` 호남 반도체 ‘삼성 남측·SK 북측’ 배치 협의…이달 발표 목표 - 진일보 | 전남일보 — *진일보 | 전남일보*
+- `11-18 12:06` 與·반도체 업계 상생협약…"공사 하도급대금 10일내 현금지급" - 연합뉴스 — *연합뉴스*
 
 ## 🇰🇷 금융주
-- `11-18 00:35` 주주가치 종합대상에 신한금융지주 - 조선일보 — *조선일보*
-- `11-17 20:44` [EBN 오늘(17일) 이슈 종합] AI 안경 커닝에 수능 비상, 금융지주 '밸류업 2.0' 험로 등 - www.ebn.co.kr — *www.ebn.co.kr*
-- `11-17 18:36` BNK금융 자추위, 경남은행장·투자증권 대표 숏리스트 확정 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `11-17 18:10` 국민연금, 이재근 KB금융 신임 회장 선임안 ‘찬성’ [시그널] - 서울경제 — *서울경제*
-- `11-17 17:43` 법인세 늘고 과징금까지 … 금융지주 비상 - 매일경제 — *매일경제*
-- `11-17 17:41` 국민연금 이재근 KB금융 차기 회장 선임 찬성 : ISS·글래스루이스 이어 최대주주 지지도 확보했다 - 허프포스트코리아 — *허프포스트코리아*
-- `11-17 17:32` 국민연금, KB금융 이재근 신임 회장 선임안 찬성키로 - 연합뉴스 — *연합뉴스*
-- `11-17 17:26` 우리금융저축은행, 적자늪서 지주 계열 '수익성 1위'로 - 한국경제 — *한국경제*
+- `11-18 12:44` [특징주] 한국금융지주, KDB생명 인수 무산에 주가 약세 - 비즈트리뷴 — *비즈트리뷴*
+- `11-18 12:07` “승패 뛰어넘은 땀방울에 박수를”… NH농협금융지주, 스포츠단 납회식 열고 2026년 대장정 ‘성황’ - 스마트경제 — *스마트경제*
+- `11-18 11:56` KDB생명 매각 또 불발…한투, 카디프생명 인수로 눈 돌리나(종합) - 뉴시스 — *뉴시스*
+- `11-18 11:41` 기업금융 영업부터 이상거래 탐지까지…우리금융, 그룹 AX 확산 - 이투데이 — *이투데이*
+- `11-18 11:38` 산업은행, KDB생명 매각 또 불발…한국투자금융지주와 협상 종료 - ER 이코노믹리뷰 — *ER 이코노믹리뷰*
+- `11-18 11:35` 우리금융그룹, ‘2026 AI Day’ 개최…그룹 전반 AI 전환 가속 - 이코노뉴스 — *이코노뉴스*
+- `11-18 11:23` 우리금융, 그룹 AI 우수사례 공유 ‘AI Day’ 개최 - 뉴데일리 경제 — *뉴데일리 경제*
+- `11-18 11:20` 우리금융, 전 계열사 AI 전환 속도…영업·내부통제까지 영역 확대 - 마켓인 — *마켓인*
 
 ## 🇰🇷 정책·거시
 - `11-17 13:10` 차규근 “수도권 전월세 수급 불안 우려…세입자 보호 대책 서둘러야” - 포인트데일리 — *포인트데일리*
 - `11-17 09:22` 한국도로공사, 고속도로 제설대책 본격 시행 - 일간투데이 — *일간투데이*
 
 ## 🌍 AI·빅테크
-- `11-18 03:57` SpaceX Rises 3% on Report of $4 Billion Bond Sale to Fund NVIDIA Chips; Rocket Lab Falls 3%, AST SpaceMobile Slides 2% - 24/7 Wall St. — *24/7 Wall St.*
-- `11-18 03:33` Franklin Crypto’s Investment Chief Sees AI Chip Financing Tightening Without Huang - unchainedcrypto.com — *unchainedcrypto.com*
-- `11-18 02:03` Banks pause $480M loan for Nvidia chips bound for ByteDance data center - Crypto Briefing — *Crypto Briefing*
-- `11-18 01:59` Former OpenAI Researcher’s AI Stock Bets Crash 92% - BeInCrypto — *BeInCrypto*
-- `11-18 01:55` Nvidia's Big Spenders Pour $207 Billion Into AI as Power and Debt Emerge as the Real Constraints - BigGo Finance — *BigGo Finance*
-- `11-18 01:52` Apollo CEO Says Neocloud Funding Could Tighten Without Nvidia’s Financial Backing - bloomingbit — *bloomingbit*
-- `11-18 01:36` Nvidia (NVDA) Shifts AI Infrastructure Financing Strategy, Impac - GuruFocus — *GuruFocus*
-- `11-18 01:33` Wall Street Is Watching Nvidia. This AI Stock Deserves Attention Too - Yahoo Finance — *Yahoo Finance*
+- `11-18 12:37` Nvidia Just Reported $115.8 Billion. Now Comes A Bigger Test - Forbes — *Forbes*
+- `11-18 11:54` Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO - WSJ — *WSJ*
+- `11-18 11:47` Nvidia Signals AI Financing Flywheel Will Continue, But ‘Disciplined’: Analyst Calls Neoclouds Its ‘Biggest Sustained Bet’ As NBIS, IREN, MRVL Rally - TradingView — *TradingView*
+- `11-18 10:59` CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing - MarketWatch — *MarketWatch*
+- `11-18 10:47` ‘He’s not coming back’: Three big messages from Nvidia’s call - The Australian — *The Australian*
+- `11-18 09:49` Banks Pause $480 Million Chip Loan Tied to China’s ByteDance - Bloomberg.com — *Bloomberg.com*
+- `11-18 08:54` Nvidia tightens customer financing under Kress, ranking suppliers and buybacks first - digitimes — *digitimes*
+- `11-18 08:39` Nvidia turmoil marks the end of easy money for the AI trade - The Edge Malaysia — *The Edge Malaysia*
 
 ## 🌍 연준·금리
-- `11-18 02:24` Markets Price a 95.4% Chance of a Quarter-Point Fed Hike in December - www.tokenpost.com — *www.tokenpost.com*
-- `11-18 02:06` Gold to hit $5,600/oz by 2028 as Fed rate cuts and central bank buying boost demand, says Goldman Sachs. - Pluang — *Pluang*
-- `11-18 02:04` Former New York Federal Reserve President Dud... - 链捕手ChainCatcher — *链捕手ChainCatcher*
-- `11-18 01:43` Gold Steadies Near 14-Month Low as Inflation Pressure Persists - Bloomberg.com — *Bloomberg.com*
-- `11-18 00:39` U.S. October Retail Sales Growth Set to Cool to 0.1% as Fed Rate Hike Bets Mount - TipRanks — *TipRanks*
-- `11-18 00:21` Federal Reserve's Cook refuses to participate in White House hearing - Yahoo! Finance Canada — *Yahoo! Finance Canada*
-- `11-18 00:15` US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle - Bloomberg.com — *Bloomberg.com*
-- `11-17 23:14` Why Gold Is Trending Today: The Dollar, Federal Reserve Expectations and Safe-Haven Demand Collide - kalkine.ca — *kalkine.ca*
+- `11-18 12:22` Nvidia Surges 4% Post-Earnings as Dim Hopes for Jensen Huang Return Cap Valuation, Fed Hikes Risk Drop to $100 - TradingKey — *TradingKey*
+- `11-18 11:16` Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts - Bloomberg.com — *Bloomberg.com*
+- `11-18 10:59` Dollar holds near 19-month high as data supports case for US rate hikes - WTVB — *WTVB*
+- `11-18 10:16` John Williams, president of the Federal Reserve Bank of New York, a key figure in the U.S. Federal R.. - 매일경제 — *매일경제*
+- `11-18 08:55` Fed’s Hammack prefers gradual, steady rate hikes - KLSE Screener — *KLSE Screener*
+- `11-18 07:57` New York Fed’s John Williams Hints Towards More Rate Hikes Amid AI Boom - Stocktwits — *Stocktwits*
+- `11-18 06:20` Harmer reiterates the Fed's preference for gradual rate hikes, but says acceleration will be necessary if inflation exp… - 深潮TechFlow — *深潮TechFlow*
+- `11-18 06:12` NY Fed's Williams: More Rate Hikes Likely Needed, But No Aggressive Shift - News and Statistics - IndexBox — *IndexBox*
 
 ## 🌍 유가·지정학
-- `11-18 04:07` Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Rebounds As Iran Attacks Bahrain - FXEmpire — *FXEmpire*
-- `11-18 04:00` Are Resource Limits Fueling the World's Growing Conflicts - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-18 03:33` Crude Oil Price Rise: Tanker Attacks Lift Brent Above $93 Slug: crude-oil price rise - Construction Review — *Construction Review*
-- `11-18 03:00` Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz - Al Jazeera — *Al Jazeera*
-- `11-18 03:00` Gulf Trade With Central Asia Surges as Energy Ties Deepen - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-18 02:30` Russian Crude Exports Hit Four-Month High - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-18 02:28` Oil Extends Fall on Signs of Revived Supplies and Vance Outlook - Bloomberg.com — *Bloomberg.com*
-- `11-18 02:23` Iranian navy says 3rd oil tanker catches fire after hitting mine in Strait of Hormuz - A News — *A News*
+- `11-18 12:18` Another oil tanker hits mine in Strait of Hormuz, fire erupts - 巴士的報 — *巴士的報*
+- `11-18 12:05` U.S.-Iran Exchange of Fire Keeps Oil Prices Afloat; Strait of Hormuz Risk Unresolved as API Inventory Surge of 5.3 Million Barrels Weighs on New York Crude - BigGo Finance — *BigGo Finance*
+- `11-18 12:04` Oil prices today: Crude falls as US inventories rise; Iran tensions limit losses - The Times of India — *The Times of India*
+- `11-18 11:25` US-Iran tensions persist as Houthis claim Saudi oil attacks - CGTN — *CGTN*
+- `11-18 11:16` Oil prices fall as higher US crude stocks temper supply risks - Reuters — *Reuters*
+- `11-18 11:07` Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Rebounds As Iran Attacks Bahrain - FXEmpire — *FXEmpire*
+- `11-18 11:00` In 45 Days Defense Giants Must Prove Their Magnets Are China-Free - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-18 10:36` Equinor Hit by Cyberattack but Oil and Gas Production Remains Unaffected - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 
 ## 🌍 시장 전반
-- `11-18 03:00` Battered retailers and tech stocks tipped for 2027 rate cut rally - AFR — *AFR*
-- `11-18 02:50` Markets rally for 2nd day on buying in Reliance Industries, bank stocks - MillenniumPost — *MillenniumPost*
-- `11-18 02:28` Disney (DIS) Stock Rally After Earnings Beat as Investors Weigh 2027 Outlook - Coinpedia — *Coinpedia*
-- `11-18 02:09` European Stocks Close Sharply Lower in Tuesday Trading Amid Tech Selloff - marketscreener.com — *marketscreener.com*
-- `11-18 01:59` KLA Corporation (KLAC) Shares Pull Back Amid Semiconductor Sell-Off - Yahoo Finance — *Yahoo Finance*
-- `11-18 01:45` Stocks Fall in Countdown to Nvidia’s Earnings Test: Markets Wrap - Bloomberg.com — *Bloomberg.com*
-- `11-18 01:41` European luxury stocks slide as AI market selloff threatens U.S. wealth effect - Traders Union — *Traders Union*
-- `11-18 01:35` If a Stock Market Crash Is Coming, Here’s the Most Important Move Warren Buffett Would Make Right Now - Yahoo Finance — *Yahoo Finance*
+- `11-18 12:23` Nvidia Earnings Report Unlikely to Resume Stock Rally -- Market Talk - Moomoo — *Moomoo*
+- `11-18 11:44` Stocks to watch: IIFL Finance, Grasim, Axis Bank, HCL Tech, RITES, Airtel - Business Standard — *Business Standard*
+- `11-18 10:08` Stock markets rally for 2nd day - The Shillong Times — *The Shillong Times*
+- `11-18 08:09` Nasdaq, S&P 500 Undercut Rally Lows; Nvidia Stock Climbs On Earnings Beat Late - Investor's Business Daily — *Investor's Business Daily*
+- `11-18 07:47` Stock Market Today, Nov. 17: Grab Holdings Shares Slip Amid Broader Stock Market Sell-Off - The Motley Fool — *The Motley Fool*
+- `11-18 07:47` National Security Outage Is Just One Reason for Today’s Software Stock Selloff - Barron's — *Barron's*
+- `11-18 07:04` US Equity Indexes Retreat Amid a Broad-Based Sectoral Sell-Off - marketscreener.com — *marketscreener.com*
+- `11-18 06:26` Treasuries Rise as Risk-Averse Investors Dump Stocks, Buy Bonds - Bloomberg.com — *Bloomberg.com*
