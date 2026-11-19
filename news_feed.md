@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-19 22:55 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-19 23:24 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -16,6 +16,7 @@
 - `11-19 18:08` [1119마감체크] 코스피, 앤트로픽 IPO 흥행 기대에 반도체 투자심리 회복… 5100선 탈환 - 인포스탁데일리 — *인포스탁데일리*
 
 ## 🇰🇷 반도체·HBM
+- `11-19 23:04` FT"삼성전자·TSMC, 중국 고객사에 반도체 출하 중단 통보" - 머니투데이 - 머니투데이 — *머니투데이*
 - `11-19 22:28` 엔비디아 3분기 매출 두 배 뛰었다...삼성·SK하이닉스에 쏠리는 기대 : 네이버 블로그 - Naver Blog — *Naver Blog*
 - `11-19 22:20` 이천시, K-반도체 초격차 비전 동참… 소부장 클러스터 조성 속도 - 서희신문 — *서희신문*
 - `11-19 21:30` 호남 지자체, '반도체 소부장 기업' 유치 경쟁 후끈 - 전자신문 — *전자신문*
@@ -23,7 +24,6 @@
 - `11-19 21:11` 국힘, 반도체·행정통합 5조 원 전액 삭감 요구…'지역 반발' - KBC광주방송 — *KBC광주방송*
 - `11-19 21:02` 이천시, 반도체 소부장 산단-15만 평 연구단지 추진 - CNB뉴스 — *CNB뉴스*
 - `11-19 20:58` SK하이닉스 美 입지 예정지 용도 변경 소송, 시의회 특별회의 소집…내달 1일 판사 재판 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-19 20:36` 반도체 훈풍에 수출 '1조 달러' 달성‥이 시각 SK하이닉스 - MBC 뉴스 — *MBC 뉴스*
 
 ## 🇰🇷 금융주
 - `11-19 21:44` 농협금융지주, 지속가능금융 전략 수립…새 성장기회 발굴 박차 - 농민신문 — *농민신문*
@@ -39,6 +39,7 @@
 - (48h 내 항목 없음)
 
 ## 🌍 AI·빅테크
+- `11-19 22:57` Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO - WSJ — *WSJ*
 - `11-19 21:45` Huang’s Nvidia exit puts financing of Canada’s AI boom under scrutiny - The Logic — *The Logic*
 - `11-19 21:32` BlackLine brings OpenAI models to finance operations - The Paypers — *The Paypers*
 - `11-19 20:10` Michael Burry Sounds Alarm on Nvidia's $500 Billion Wall Street Financing Plan - TradingView — *TradingView*
@@ -46,34 +47,33 @@
 - `11-19 19:35` UBS 2027 Outlook: S&P 500 Base Case at 8,200; AI Capex Stall Could Drag It to 5,500 - BigGo Finance — *BigGo Finance*
 - `11-19 19:26` $500 billion Nvidia funding deal turned out to be Scotch mist: ‘Capital ... is going to disappear - Fortune — *Fortune*
 - `11-19 18:46` Nvidia's financing review raises concerns for neocloud providers - Chosunbiz — *Chosunbiz*
-- `11-19 17:19` A tech fund manager sold Nvidia before the drama. Here’s why it won’t buy the dip. - Business Insider — *Business Insider*
 
 ## 🌍 연준·금리
+- `11-19 23:11` Gold Plunges 30% From Record High to 14-Month Low on Fed Hawkishness, Strong Dollar - BigGo Finance — *BigGo Finance*
+- `11-19 23:01` Fed's Rate Pause Masks A Double AI Risk - Benzinga — *Benzinga*
 - `11-19 22:41` J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters — *Reuters*
+- `11-19 22:06` Reserve Bank keeps interest rates unchanged amid South Africa’s rand crashing to its worst level in months - Daily Investor — *Daily Investor*
+- `11-19 21:38` Bank Indonesia raises rate to 6% in pre-emptive move against potential Fed tightening - Indonesia Business Post — *Indonesia Business Post*
 - `11-19 21:24` 'Almost all' Fed policymakers saw further interest rate hikes as likely - RTE.ie — *RTE.ie*
-- `11-19 20:52` JPMorgan Sees Fed Raising Rates Three Times by Next Year - bloomingbit — *bloomingbit*
-- `11-19 19:00` Fed minutes: Higher interest rates needed in December as inflation worries mount - Bedford Gazette — *Bedford Gazette*
-- `11-19 18:52` Treasury yields inch higher as investors weigh the state of the U.S. economy - CNBC — *CNBC*
-- `11-19 18:48` Gold Recovers from One-Year Low as Markets Assess Federal Reserve’s Stance on Interest Rates - صحيفة مال — *صحيفة مال*
-- `11-19 18:37` Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes - Bloomberg.com — *Bloomberg.com*
-- `11-19 18:36` BMI Chief Economist: Fed Rate Hikes May Stop at 4.5%, AI Capex to Hit $1.4 Trillion Next Year - BigGo Finance — *BigGo Finance*
+- `11-19 21:08` Gold Prices Fall As US Fed Rate Hike Fears Grow, Silver Futures Rise On MCX - Free Press Journal — *Free Press Journal*
+- `11-19 21:04` Bitcoin ETFs see $2.89B outflows as Fed's Walle... - Pluang — *Pluang*
 
 ## 🌍 유가·지정학
+- `11-19 23:03` Iran has reported explosions on two supertankers carrying over 4 million barrels of oil in the Strait of Hormuz - UkrMedia News — *UkrMedia News*
+- `11-19 22:59` Oil prices head higher on fears of more strikes on Iran - Transport Topics — *Transport Topics*
+- `11-19 22:55` IEA: Strait of Hormuz Crisis Could Cut Global Oil Demand by More Than 4% by 2035 - BigGo Finance — *BigGo Finance*
 - `11-19 22:30` Traders Seek Long-Term Crude Supply Deals with Qatar - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-19 22:28` Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide - Bloomberg.com — *Bloomberg.com*
 - `11-19 22:17` Oil futures: Crude lifts of lows, US-Iran conflict eyed - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
 - `11-19 22:02` Oil prices rise as Middle East shipping attacks counter supply surplus outlook - Yahoo Finance — *Yahoo Finance*
-- `11-19 21:32` Current price of oil as of November 19, 2026 - Fortune — *Fortune*
-- `11-19 21:30` China Coking Coal Hits Three-Month Low as Supply Recovers - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-19 21:24` IRGC Claims Two Oil Supertankers Hit Sea Mines in Strait of Hormuz - Caspian Post — *Caspian Post*
-- `11-19 21:03` Three oil tankers hit naval mines in Strait of Hormuz, Iran says - AzerNews — *AzerNews*
+- `11-19 21:46` Oil price today: Brent holds on Hormuz mine strikes as Goldman sees 2027 decline - TradingView — *TradingView*
 
 ## 🌍 시장 전반
+- `11-19 22:43` US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap - Bloomberg.com — *Bloomberg.com*
+- `11-19 22:34` Cybersecurity Stocks Rally After Palo Alto Lifts Outlook, Inks AI Startup Deal - marketscreener.com — *marketscreener.com*
 - `11-19 22:07` Dow Jones Futures Rise, Nasdaq Jumps: Anthropic To Debut After Record IPO; Palo Alto, Everpure Rally, Walmart Falls - Investor's Business Daily — *Investor's Business Daily*
 - `11-19 21:55` Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - Yahoo Finance — *Yahoo Finance*
 - `11-19 21:39` Green Energy Stocks Rise As Battery And Power Shares Gain Amid Strong Market Rally (19 November 2026) - SolarQuarter — *SolarQuarter*
 - `11-19 21:30` Walmart Earnings Today: Can WMT Stock Rally Ahead of Black Friday? - Coinpedia — *Coinpedia*
 - `11-19 21:16` Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Warren Buffett's Proven Advice. - The Motley Fool — *The Motley Fool*
 - `11-19 21:15` Why is Lam Research stock rallying today? - Investing.com — *Investing.com*
-- `11-19 21:14` Why is Applied Materials stock rallying today? - Investing.com — *Investing.com*
-- `11-19 21:11` Palo Alto’s raised sales forecast powers cybersecurity stock rally By Reuters - Investing.com — *Investing.com*
