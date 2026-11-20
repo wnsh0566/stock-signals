@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-20 21:52 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-20 22:38 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -11,19 +11,19 @@
 - `11-20 20:30` 앤트로픽 축포 터졌는데, 증시 ‘뚝’ AI 투자 ‘물음표’ - JTBC — *JTBC*
 - `11-20 20:23` 앤트로픽 143조 돈잔치 열렸는데 세계증시 폭락‥AI거품 공포 확산? - MBC 뉴스 — *MBC 뉴스*
 - `11-20 19:49` 코스피 5.21% 급락…4800선으로 후퇴 - 경북신문 — *경북신문*
+- `11-20 19:09` 다시 5천선 내준 코스피…앤트로픽도 못 막은 AI 불안 - KBS 뉴스 — *KBS 뉴스*
 - `11-20 18:46` IRS 금리 강세 플래트닝…가파른 증시 조정 영향 지속 - 연합인포맥스 — *연합인포맥스*
 - `11-20 18:39` 미국발 삭풍에 약세 마감...코스피, 4,900선도 붕괴 - YTN — *YTN*
-- `11-20 18:25` [중국증시-마감] 검은 금요일…기술주 중심 하락 - 연합인포맥스 — *연합인포맥스*
 
 ## 🇰🇷 반도체·HBM
+- `11-20 22:23` Nvidia의 자금 조달 리스크, AI 반도체 주식에 압박 지속될 수 있어 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-20 21:25` 면접 앞두고 '삼성·SK 추천?' 반도체실장 내정 논란 - KBC광주방송 — *KBC광주방송*
+- `11-20 21:20` 오징어에서 반도체까지…‘메이드 인 코리아’ 80년사 - KBS 뉴스 — *KBS 뉴스*
 - `11-20 20:49` SK하이닉스, 日 키옥시아 간접 최대주주 된다 - 경북매일 — *경북매일*
 - `11-20 20:24` “어제 118만원이었는데 하루 새 7만원 ‘뚝’”…SK하이닉스, 美 소송 조사까지 - 데일리25 — *데일리25*
 - `11-20 19:38` 삼전·하닉도 ‘엄지척’…저스템, 반도체 습도제어 ‘JFS’ 세계일류상품 선정 - 문화일보 — *문화일보*
 - `11-20 19:37` 호남 반도체 용수 안정적 공급 속도전… 양승조 수자윈공사 사장 동복댐·주암댐 방문 - 진일보 | 전남일보 — *진일보 | 전남일보*
-- `11-20 19:22` 외국인 대형 반도체 대량 매도, 연기금은 SK하이닉스·삼성전자 매수 (11.20) - 네이버 프리미엄콘텐츠 — *네이버 프리미엄콘텐츠*
 - `11-20 19:08` 반도체가 이끈 수출 1조 달러...미래 생산기지 투자 속도 - YTN — *YTN*
-- `11-20 18:19` “삼성전자-TSMC, 중국에 일부 반도체 출하 중단 통보” - 동아일보 — *동아일보*
-- `11-20 18:13` SK하이닉스, 일본 키옥시아 지분 14.1% 확보…“경영 참여 확대는 아냐” - 경향신문 — *경향신문*
 
 ## 🇰🇷 금융주
 - `11-20 21:28` KB금융 양종희 회장 3년 임기 마쳐…이재근 신임 회장 체제로 - 비욘드포스트 — *비욘드포스트*
@@ -40,17 +40,9 @@
 - `11-20 12:00` 8·13 대책 이후 주담대 증가 전환…30·40대, 수도권서 늘어 - 이데일리 — *이데일리*
 
 ## 🌍 AI·빅테크
-- `11-20 19:59` SpaceX Lenders Seek Restrictions on Moving Nvidia AI Chips Into Orbit, FT Reports - Yahoo Finance — *Yahoo Finance*
-- `11-20 19:40` AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more (SPX:) - Seeking Alpha — *Seeking Alpha*
-- `11-20 17:36` SpaceX raises $32 billion in debt to fund Nvidia AI chip purchases - Traders Union — *Traders Union*
-- `11-20 17:01` SpaceX seeks at least $32 billion in debt sale to finance Nvidia’s latest AI chips | Business News - Hindustan Times — *Hindustan Times*
-- `11-20 15:24` Elon Musk’s Dream Meets Wall Street Reality: SpaceX Lenders Don’t Want Nvidia Chips Leaving Earth - Yahoo Finance — *Yahoo Finance*
-- `11-20 14:41` Nvidia succession risks draw AIG comparisons as AI financing leverage grows - Traders Union — *Traders Union*
-- `11-20 12:42` Are AI Chip Orders Propped Up by Financing? AMD Follows NVIDIA to Be Shorted, Share Price Plunges Nearly 8% - eu.36kr.com — *eu.36kr.com*
-- `11-20 12:31` Nvidia trims neocloud commitments to $32bn, impacting data centre finance - ET Datacenters — *ET Datacenters*
+- ⚠️ 수집 실패: HTTPError
 
 ## 🌍 연준·금리
-- `11-20 21:49` What is the yield curve, and what does a 5% 10-year Treasury mean for borrowers? - CEO경제신문 — *CEO경제신문*
 - `11-20 21:21` Federal Reserve: Market prices in December and January hikes – Rabobank - FXStreet — *FXStreet*
 - `11-20 20:30` Reuters: Gold Poised for Biggest Weekly Drop in Eight Months - bloomingbit — *bloomingbit*
 - `11-20 20:20` Anna Paulson: Fed still needs to raise interest rates further - IDNFinancials — *IDNFinancials*
@@ -58,23 +50,24 @@
 - `11-20 19:39` Gold slide deepens as market anxiety overtakes real-rate pressures - TradingView — *TradingView*
 - `11-20 19:00` A ‘Shock’ Rate Hike by the Fed? In This Economy? - Bloomberg.com — *Bloomberg.com*
 - `11-20 18:58` Gold price crashes 36% from record high as Fed rate hike fears intensify - Beinsure — *Beinsure*
+- `11-20 18:35` Wall Street Splits on 2027 Rate Path as Fed's December Call Nears - BigGo Finance — *BigGo Finance*
 
 ## 🌍 유가·지정학
+- `11-20 22:30` India's LPG Consumption Hits 8-Month High as Supply Rebounds - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-20 22:27` Oil Price Forecast: US Crude Stocks Rise as Global Supply Rebounds - FXEmpire — *FXEmpire*
+- `11-20 22:23` Oil Price Forecast: Could Brent Fall Below $80 as IEA Warns of a 2027 Supply Glut? - Coinpaper — *Coinpaper*
+- `11-20 22:06` Sanctioned Tanker Transfers 200,000 Barrels of Iranian Oil Amid U.S. Naval Blockade - IranWire — *IranWire*
+- `11-20 21:40` Current price of oil as of November 20, 2026 - Fortune — *Fortune*
+- `11-20 21:37` Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks - WSJ — *WSJ*
 - `11-20 21:30` Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-20 21:30` WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-20 21:30` Iraq's Oil Crackdown Sparks New Showdown With Kurdistan - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-20 20:30` Iran Refuses Nuclear Inspections as U.S. Military Threats Mount - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-20 20:24` OIL PRICE WATCH: Big fuel price rollbacks likely next week - ABS-CBN — *ABS-CBN*
-- `11-20 19:50` Oil futures: Crude pares earlier gains, Trump says no rush on Iran - Quantum Commodity Intelligence — *Quantum Commodity Intelligence*
-- `11-20 19:15` China's Solar Exports Surge 21% as U.S. Tariff Deadline Looms - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-20 19:06` Iran readies tanker convoy at Kharg Island to test US oil blockade - Euronews.com — *Euronews.com*
 
 ## 🌍 시장 전반
+- `11-20 22:14` Global stock markets slump as Anthropic IPO fails to stem AI sell-off - The Guardian — *The Guardian*
+- `11-20 21:58` Stocks slide as AI selloff deepens, Asia has worst week since 2020 - marketscreener.com — *marketscreener.com*
+- `11-20 21:49` The Stock Market Has Problems Even Anthropic Can’t Solve - Barron's — *Barron's*
+- `11-20 21:45` Morning Call Sheet: Anthropic IPO, AI stock selloff and market rotation - CNBC — *CNBC*
 - `11-20 21:34` Lumentum CEO Says Marvell Deal Is ‘Even More Powerful’ Despite Stock Selloff - Benzinga — *Benzinga*
-- `11-20 21:01` ICTSI sell-off drags PSEi to 6-year low - Inquirer.net — *Inquirer.net*
-- `11-20 20:21` Are we staring a stock market crash in the face? If so, I’m doing this… - Yahoo Finance UK — *Yahoo Finance UK*
-- `11-20 20:20` Bitcoin missed AI stocks’ 85% rally but could still face the fallout if the boom unravels - CryptoSlate — *CryptoSlate*
-- `11-20 20:15` #765: First Friday: Stocks Crashed. Jobs Boomed. Now What? - Afford Anything — *Afford Anything*
-- `11-20 20:09` Can UnitedHealth Group Stock Rally 50% After This Dip? - Yahoo Finance — *Yahoo Finance*
-- `11-20 20:08` Global stock markets slump as Anthropic IPO fails to stem AI sell-off - The Guardian — *The Guardian*
-- `11-20 20:06` Is Coca-Cola (KO) the Best Stock to Own During a Market Sell-Off? - Yahoo Finance — *Yahoo Finance*
+- `11-20 21:31` investingLive European news wrap: Stock markets remain under pressure, bonds rally on slowdown expectations - investingLive — *investingLive*
+- `11-20 21:13` AMD Stock Drops Another 7% Before the Bell and Taiwan Semiconductor Slides 4.2% as Nasdaq Futures Fall 1.6% After Asia's Chip Selloff - 24/7 Wall St. — *24/7 Wall St.*
+- `11-20 20:39` Skepticism About AI Is Crushing Stock Prices Around the World - Bloomberg.com — *Bloomberg.com*
