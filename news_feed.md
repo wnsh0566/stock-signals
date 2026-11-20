@@ -1,79 +1,79 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-20 04:17 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-20 12:40 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-20 04:15` 유럽증시, 앤스로픽 '역대 최대 IPO' 오전 반짝 효과 그치며 하락 마감… 나흘 연속 내림세 - 뉴스핌 — *뉴스핌*
-- `11-20 03:12` 코스피 5천 선 지지선이 될 것인가? 또 다른 저항이 될 것인가? - Investing.com 한국어 — *Investing.com 한국어*
-- `11-20 01:18` 뉴욕 증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - YTN — *YTN*
-- `11-20 01:07` 앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 - 조선일보 — *조선일보*
-- `11-20 00:30` 앤트로픽 상장 기대감에…뉴욕증시 일제히 상승 출발 - Chosunbiz — *Chosunbiz*
-- `11-20 00:30` MMF 잔액 291조 역대최대… 증시 불확실성에 눈치 보기 - 동아일보 — *동아일보*
-- `11-20 00:20` [속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ - 문화일보 — *문화일보*
-- `11-20 00:10` 뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - 중앙일보 — *중앙일보*
+- `11-20 12:29` 아시아 증시 '검은 금요일'…한국·일본·대만 4~6%대 동반 급락 - 진일보 | 전남일보 — *진일보 | 전남일보*
+- `11-20 12:23` 코스피 4%대 급락에 매도 사이드카 발동…10거래일 만 - 강원도민일보 — *강원도민일보*
+- `11-20 12:18` [속보]코스피 4%대 급락에 매도 사이드카 발동 - 동아일보 — *동아일보*
+- `11-20 12:17` 엔비디아 호실적·앤트로픽 상장 성공…그래도 증시 급락, 5가지 이유 - 머니투데이 - 머니투데이 — *머니투데이*
+- `11-20 12:16` 코스피 매도 사이드카…장중 4900선 반납 - 머니투데이 - 머니투데이 — *머니투데이*
+- `11-20 12:13` 코스피 4%대 급락…매도 사이드카 발동 - 경북신문 — *경북신문*
+- `11-20 12:08` 검은 금요일 맞은 亞증시…韓·日·대만, 일제히 4∼6%대 급락 - 연합뉴스 — *연합뉴스*
+- `11-20 12:06` 아시아 증시, 7개월 최저치…AI 매도세에 한국·대만 최대 낙폭 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
-- `11-20 03:00` 한국 반도체 호황... ‘네덜란드병’ 초래할 위험 없다 - 조선일보 — *조선일보*
-- `11-20 02:23` ‘반도체 축복’ 이후가 걱정⋯ 높아지는 보호무역 장벽 넘어야 - 국민일보 — *국민일보*
-- `11-20 02:16` 앤트로픽 나스닥 데뷔… 반도체·인프라→AI 기업 투자 이동할까 [팩플] - 중앙일보 — *중앙일보*
-- `11-20 01:23` “삼성전자·SK하이닉스 반등했는데 ‘진짜 폭락은 아직’”…반도체 전문가의 경고 - 데일리25 — *데일리25*
-- `11-20 01:19` 앤스로픽 상장에 데이터 저장장치·반도체주도 '들썩' - 마켓인 — *마켓인*
-- `11-20 00:07` FT "삼성전자·TSMC, 중국에 반도체 일부 출하 중단" - 한국일보 — *한국일보*
-- `11-20 00:00` "삼성전자·SK하이닉스, 아직 본격 폭락 시작 안 됐다" …이주완 박사의 경고 - 뉴시스 — *뉴시스*
-- `11-19 23:12` [오늘과 내일/주애진]반도체가 앞당긴 수출 1조 달러, 축제가 끝나면 - 동아일보 — *동아일보*
+- `11-20 12:23` 수출 1조불 축포 이튿날… 산업장관 "반도체 쏠림·양극화 돌아볼 때" - 조선일보 — *조선일보*
+- `11-20 12:12` SK하이닉스, 日 키옥시아 전환사채 주식 전환 검토 - 글로벌이코노믹 — *글로벌이코노믹*
+- `11-20 12:00` [수출 1조달러 달성]반도체 호황 타고 내년도 1조달러 간다 - 아시아경제 — *아시아경제*
+- `11-20 12:00` 청주 반도체 ‘국가거점’ 지정 요구…정부 지원 촉구 - 공뉴스 — *공뉴스*
+- `11-20 11:48` [프로필] 이종명 삼성전자 DS부문 CTO 사장 겸 반도체연구소장 - 뉴스1 — *뉴스1*
+- `11-20 11:48` SK하이닉스 6% 밀리자…상위 1% 고수들 이틀째 순매수[주식 초고수는 지금] - 서울경제 — *서울경제*
+- `11-20 11:47` 비관론 HBM, 13년만에 ‘대반전’…자동차도 수출 1조달러 떠받쳤다 - 헤럴드경제 — *헤럴드경제*
+- `11-20 11:45` SK하이닉스, 키옥시아 전환사채 주식 전환 검토…간접 최대주주 부상 가능성 - 아시아경제 — *아시아경제*
 
 ## 🇰🇷 금융주
-- `11-20 03:23` [DCM 레이더] 1.6조 빚낸 농협금융…강호동 수사에 어깨 무거운 이찬우 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `11-19 21:44` 농협금융지주, 지속가능금융 전략 수립…새 성장기회 발굴 박차 - 농민신문 — *농민신문*
-- `11-19 19:54` [인도증시] 대만발 AI 조정 반사이익에 상승...자동차·은행주 상승 주도, IT주는 부진 - 뉴스핌 — *뉴스핌*
-- `11-19 19:32` 금융지주들 “증시 연말까지 본격 반등 기대 어려워” - 국제신문 — *국제신문*
-- `11-19 18:57` [은행연합회 새 리더십] '정통 농협맨' 손병환, 3년 만에 재도전…'농협 밖'에서도 통할까 : 네이버 블로그 - Naver Blog — *Naver Blog*
-- `11-19 18:39` NH투자증권 각자 대표 이어 임원까지?…중앙회 입김 또 세지나 - 아시아투데이 — *아시아투데이*
-- `11-19 18:09` [사진]iM금융지주 '대한민국 금융혁신대상' 경영혁신대상 수상 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-19 17:52` [뱅크 NOW] IBK기업은행·NH농협금융지주·NH농협은행·MG새마을금고 - 위키리크스한국 — *위키리크스한국*
+- `11-20 12:14` iM금융그룹, 제18회 전국 초·중·고 환경일기대회 시상식 개최 - 매일일보 — *매일일보*
+- `11-20 11:46` KB금융, 주총서 이재근 차기 회장 선임 의결... 23일 취임식 열린다 - 소비자가 만드는 신문 — *소비자가 만드는 신문*
+- `11-20 11:31` 닻 올린 '이재근號'…계열사 CEO 10명 인사·조직개편 첫 시험대 - 뉴시안 — *뉴시안*
+- `11-20 11:09` [리포트 브리핑]우리금융지주, '기저효과와 은행 중심 이익구조가 부각될 전망' 목표가 42,000원 - iM증권 - 뉴스핌 — *뉴스핌*
+- `11-20 11:01` ▒종합 경제정보 미디어 - 이데일리IR▒ - ir.edaily.co.kr — *ir.edaily.co.kr*
+- `11-20 11:01` KB '이재근 시대' 열렸다…주총서 선임안 통과 - 이데일리 — *이데일리*
+- `11-20 10:58` 은행장 거쳐 지주 회장으로…이재근, KB금융 새 수장 - 뉴스웍스 — *뉴스웍스*
+- `11-20 10:57` 이재근 KB금융 신임 회장 선임…21일부터 3년 임기 - 뉴스저널리즘 — *뉴스저널리즘*
 
 ## 🇰🇷 정책·거시
 - (48h 내 항목 없음)
 
 ## 🌍 AI·빅테크
-- `11-20 03:05` Nvidia’s Empire Has a “Last $20,000” Problem - InvestorPlace — *InvestorPlace*
-- `11-20 02:08` Nvidia, Broadcom, Micron stocks erase gains as Anthropic goes public - Yahoo Finance — *Yahoo Finance*
-- `11-20 01:29` Nvidia can run without Jensen Huang. Can the AI boom? - Fortune — *Fortune*
-- `11-20 01:16` RiverPark Advisors: NVIDIA Corp. (NVDA) Remains Central to AI Infrastructure Build-Out - Yahoo Finance — *Yahoo Finance*
-- `11-20 01:11` Wall Street has not put up any of the $500 billion it pledged for Nvidia customers, the WSJ reports - MLQ.ai — *MLQ.ai*
-- `11-20 01:09` Nvidia, Broadcom, Micron stocks rise leading up to Anthropic's first trade - Yahoo Finance — *Yahoo Finance*
-- `11-20 00:30` Problems at AMD (AMD) - Hunterbrook — *Hunterbrook*
-- `11-19 23:25` SpaceX's $40 Billion Nvidia Chip Deal Comes With a Surprising Twist - TradingView — *TradingView*
+- `11-20 12:31` Nvidia trims neocloud commitments to $32bn, impacting data centre finance - ET Datacenters — *ET Datacenters*
+- `11-20 11:14` Nvidia Backed AI Data Center Demand Puts Schneider Electric Stock In Focus - Yahoo Finance — *Yahoo Finance*
+- `11-20 11:13` SpaceX issues US$32 billion in bonds to finance Nvidia AI chip purchases - 联合早报 — *联合早报*
+- `11-20 07:25` Nvidia Shares Slide 3.3% as Investor Warns of Drop to $100 Within 18 Months - BigGo Finance — *BigGo Finance*
+- `11-20 07:20` Nvidia vs. Intel: One AI Stock Is Worth the Drama, the Other Isn’t Worth the Wait, Says Investor - Yahoo Finance — *Yahoo Finance*
+- `11-20 06:21` Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public - Yahoo Finance — *Yahoo Finance*
+- `11-20 03:24` 'Systemic risk': Warner leads bipartisan bill to scrutinize AI financing - Politico — *Politico*
+- `11-20 03:01` Nvidia’s Empire Has a “Last $20,000” Problem - InvestorPlace — *InvestorPlace*
 
 ## 🌍 연준·금리
-- `11-20 02:43` The average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide - ABC News - Breaking News, Latest News and Videos — *ABC News - Breaking News, Latest News and Videos*
-- `11-20 02:41` Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets - Bloomberg.com — *Bloomberg.com*
-- `11-20 02:33` Ethereum weakens as Federal Reserve rate expectations raise non-yielding asset risks - Traders Union — *Traders Union*
-- `11-20 02:21` The dollar has hit a 19-month high: what’s going on? - UkrMedia News — *UkrMedia News*
-- `11-20 02:17` Policymakers want rate hike but disagree on pace - Axios — *Axios*
-- `11-20 02:13` Fed rate-cut hopes for 2027 take a stunning turn - TheStreet — *TheStreet*
-- `11-20 01:15` Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes - Bloomberg.com — *Bloomberg.com*
-- `11-20 01:07` Bitunix Cites AI Financing and Treasury Shifts as Fed Rate Risks - www.tokenpost.com — *www.tokenpost.com*
+- `11-20 11:22` Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff - Bloomberg.com — *Bloomberg.com*
+- `11-20 11:06` Australian Dollar remains subdued due to steady China rates, stable US Dollar - FXStreet — *FXStreet*
+- `11-20 10:51` Gold, Silver Plunge Further Amid Fed Rate Hike Concerns: Buy The Dip Or Brace For More Pain? - TradingView — *TradingView*
+- `11-20 10:36` JPMorgan Sees Three Straight Fed Hikes Lifting Rates to 4.75% by March - BigGo Finance — *BigGo Finance*
+- `11-20 10:15` News by CNBC TV18 on TradingView, 2026-11-20 — cnbctv:22615229f094b:0 - TradingView — *TradingView*
+- `11-20 10:14` Euro faces pressure as Fed rate hike bets strengthen US Dollar - FXStreet — *FXStreet*
+- `11-20 10:06` Fed Governor Waller Hints at 'Shock Therapy'… Odds of a Big December Rate Hike Triple - BigGo Finance — *BigGo Finance*
+- `11-20 09:38` Bitcoin Retreats to $61,000 Range as Fed Tightening Fears Spark 'Extreme Risk-Off' - BigGo Finance — *BigGo Finance*
 
 ## 🌍 유가·지정학
-- `11-20 04:07` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Rebounds As Iran Intensifies Attacks In Hormuz - FXEmpire — *FXEmpire*
-- `11-20 04:07` Oil Continues Downward Plummet As Iran War Reshapes World Energy Market For The Better - Ship & Bunker — *Ship & Bunker*
-- `11-20 04:00` Central Asia Faces a Looming Water Crisis as Glaciers Retreat - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-20 03:52` Iran grows more aggressive in Strait of Hormuz despite surge in oil traffic - The Jerusalem Post — *The Jerusalem Post*
-- `11-20 03:30` Trafigura Not Rushing to Alternative Marine Fuels - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-20 03:20` Unknown Projectile Hits Oil Tanker in Strait of Hormuz - WANA News Agency — *WANA News Agency*
-- `11-20 03:09` Iran War Wipes Out 2.8 Billion Barrels Of Oil Supply. Why Are Crude Prices Falling? - International Business Times — *International Business Times*
-- `11-20 03:00` 7,000 Egyptian Factories Will Soon Be Solar-powered - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-20 11:26` Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Rebounds As Iran Intensifies Attacks In Hormuz - FXEmpire — *FXEmpire*
+- `11-20 11:23` No way back for oil after Hormuz, says IEA’s Birol, but Goldman still sees Brent at $78 - investingLive — *investingLive*
+- `11-20 10:12` Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk - Bloomberg.com — *Bloomberg.com*
+- `11-20 10:00` US Oil and Gas Deal Boom Lures BMO Back Into the Market - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-20 10:00` Canada Builds an Energy Exit From the U.S. - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-20 09:40` Baker Hughes and McDermott Win Contract for Major Australian LNG Project - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-20 09:29` Iran intensifies Hormuz tanker attacks just as oil prices slide - The Japan Times — *The Japan Times*
+- `11-20 09:04` Iran war could cut global oil demand by over 4% by 2035 - IEA - Iran International — *Iran International*
 
 ## 🌍 시장 전반
-- `11-20 03:42` Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally - Bloomberg.com — *Bloomberg.com*
-- `11-20 03:17` A strong debut for Anthropic’s stock is not enough to carry Wall Street, and indexes drop - Boston Herald — *Boston Herald*
-- `11-20 02:27` A soaring debut for Anthropic’s stock is not enough to carry Wall Street, and indexes drop - BNN Bloomberg — *BNN Bloomberg*
-- `11-20 02:16` US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com — *Bloomberg.com*
-- `11-20 02:10` Nifty tops 25,500 for first time since February; Sensex reclaims 83K - Business Standard — *Business Standard*
-- `11-20 01:58` Stocks fall as Nasdaq gives up gains ahead of Anthropic trading debut - upi — *upi*
-- `11-20 01:55` Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally - Yahoo Finance — *Yahoo Finance*
-- `11-20 01:50` Amundi CIO: AI stock market sell-off is far from over - Business Post — *Business Post*
+- `11-20 12:07` South Korea's Stock Market Sinks 4.6% as KOSPI Heavyweights SK Hynix and Samsung Fall 6% After Wall Street's AI Selloff - 24/7 Wall St. — *24/7 Wall St.*
+- `11-20 10:49` ASX Midday Sector Update: Information Technology Stocks Lead Decliners in Broad Market Sell-Off - Yahoo Finance Australia — *Yahoo Finance Australia*
+- `11-20 10:25` Why Nvidia's sell-off could be a buying opportunity (with a catch) - Yahoo Finance — *Yahoo Finance*
+- `11-20 10:07` SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut - CNBC — *CNBC*
+- `11-20 09:49` Market hit by major stock selloff after Anthropic's record-breaking IPO - Yahoo — *Yahoo*
+- `11-20 09:23` Won weakens to 1,335.5 per dollar amid stock market sell-off - Chosunbiz — *Chosunbiz*
+- `11-20 09:05` Market hit by major stock selloff after Anthropic's record-breaking IPO - CBS News — *CBS News*
+- `11-20 08:27` Why is the stock market down today? The Dow fell 1,101 points on November 19 as AI stocks slid - Nacionale — *Nacionale*
