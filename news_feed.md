@@ -1,80 +1,79 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-25 03:55 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-25 13:59 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-25 03:46` "딴 나라는 폭등인데"...'탈출' 노리는 개미들, 5000선 복귀에도 실망 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-25 02:37` "5000피가 바닥"이라던 증권사, 전망치 낮췄다..."최악 땐 4000피" - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-25 02:13` 코스피 야간선물 7% 점프…美 '젠슨황 복귀랠리' 동반급등 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-25 02:11` 뉴욕증시, 혼조세로 전환…나스닥 1.91%↓ - 블루밍비트 — *블루밍비트*
-- `11-25 01:48` 美 국채가, 전반적 강세…증시 하락에 안전 선호↑ - 연합인포맥스 — *연합인포맥스*
-- `11-25 00:50` 엔비디아 7%대 하락… 뉴욕 증시도 하락 - Chosunbiz — *Chosunbiz*
-- `11-25 00:39` 6% 급등한 코스피 5000선 턱걸이…“젠슨 황 복귀는 단기 호재” - 한겨레 — *한겨레*
-- `11-25 00:35` 빗장 풀린 자사주 매입, 증시 ‘구원 투수’ 될까 - Chosunbiz — *Chosunbiz*
+- `11-25 13:30` "겁먹고 주식 팔았는데 어쩌나"…코스피 '바닥 신호' 나왔다 [한경우의 돈 되는 데이터] - 한국경제 — *한국경제*
+- `11-25 13:22` 日 증시도 '젠슨 황 랠리' 하루 만에 증발‥닛케이 3.3% 급락 - MBC 뉴스 — *MBC 뉴스*
+- `11-25 13:10` 금통위 경계 속 국고채 '불 플래트닝'…코스피 급락·外人 매수 - 연합인포맥스 — *연합인포맥스*
+- `11-25 12:56` 대만증시, 기술주 약세에 6%대 급락…하루만에 4만선 깨져 - 연합인포맥스 — *연합인포맥스*
+- `11-25 12:52` 외인 추가 매도 코스피, 장중 6% 급락에 4700도 붕괴...반도체 9~10% ↓ - 오피니언뉴스 — *오피니언뉴스*
+- `11-25 12:48` 日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락 - 매일경제 마켓 — *매일경제 마켓*
+- `11-25 12:35` AI 매도세 심화·미국 관세 위협에 아시아 증시 하락 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-25 12:24` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
 
 ## 🇰🇷 반도체·HBM
-- `11-25 03:35` “폭락할 때가 기회” 모건스탠리의 파격 진단…AI·반도체 다시 담으라는 이유 - 데일리25 — *데일리25*
-- `11-25 03:00` 'AI 황제' 단 한명에 흔들린 K반도체株 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-25 02:48` '해킹 위협 고도화' 반도체 첨단기술 기업 보안전담 인력 0명... 공급망 뚫리면 다 털린다 - 공정뉴스 — *공정뉴스*
-- `11-25 02:00` 美 연준 “AI 반도체 공급 부족에 가격 급등”…금리 인상 변수로 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-25 00:56` 전남광주통합시, 호남권 반도체 클러스터 정보 플랫폼 '칩온' 운영 - 스트레이트뉴스 — *스트레이트뉴스*
-- `11-25 00:38` 전북, 반도체 핵심 소재·부품·장비 공급망 중심에 선다 - 조선일보 — *조선일보*
-- `11-25 00:32` [사설] 젠슨 황 돌아왔지만 취약성 드러난 ‘반도체 호황’ - 한겨레 — *한겨레*
-- `11-25 00:31` “호남에 반도체 온다는데”…찬성도 반대도 못하는 동복댐 수몰 주민들 [현장] - 한겨레 — *한겨레*
+- `11-25 13:55` 삼성, HBM값 하락 대비 고심...'커스텀 설계'로 수익성 방어키로 - 뉴스핌 — *뉴스핌*
+- `11-25 13:54` 500대 기업 이익잉여금 1862조원…삼성전자·SK하이닉스가 37% 차지 - 뉴시안 — *뉴시안*
+- `11-25 13:52` 외국인 1년간 221조 던졌다…91%가 반도체 - 뉴스토마토 — *뉴스토마토*
+- `11-25 13:50` 전남광주, '반도체 16만 인구 유입' 대비 주거벨트 구축 속도전 - 녹색경제신문 — *녹색경제신문*
+- `11-25 13:49` SK하이닉스 주가, 오늘 왜 급락했나? - Investing.com 한국어 — *Investing.com 한국어*
+- `11-25 13:46` “특별한 희생엔 특별한 보상”… 반도체 용수 놓고 성토장 된 여주시의회 - 경인일보 — *경인일보*
+- `11-25 13:46` 민형배 "반도체·통합지원금 활용계획 이번주까지 수립" - 매일경제 마켓 — *매일경제 마켓*
+- `11-25 13:46` “의사보다 ’삼전닉스’ 입사“…최상위권 반도체학과 지원율 두 배로 - 연합뉴스TV — *연합뉴스TV*
 
 ## 🇰🇷 금융주
-- `11-25 03:50` 발행부터 정산까지 '드림팀' 구상… 은행권, 생태계 구축 속도 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-25 02:28` PC Financial 인수로 성장 전망 밝아진 은행주, 23% 상승 여력 - Investing.com 한국어 — *Investing.com 한국어*
-- `11-24 18:05` iM금융그룹, '2026 지속가능성 보고서상' 누적 15회 수상 영예 - 아시아뉴스통신 — *아시아뉴스통신*
-- `11-24 17:47` [뱅크 NOW] Sh수협은행·MG새마을금고·JB금융지주 - 위키리크스한국 — *위키리크스한국*
-- `11-24 17:47` JB금융그룹, 전사적 AI 전환 본격화 - 전라매일 — *전라매일*
-- `11-24 17:13` JB금융, 전사 AI 전환 가속화…임직원·부서장 대상 실무 AI 교육 실시 - FETV — *FETV*
-- `11-24 17:01` 5년간 자회사에 3조 투자한 하나금융…비은행 수익기반 다변화 과제 - 브릿지경제 — *브릿지경제*
-- `11-24 16:49` [더밸류 브리핑] 오늘의 신한금융 소식...신한금융지주·신한은행· 신한카드 - 더밸류뉴스 — *더밸류뉴스*
+- `11-25 13:42` JB금융, KCGS ESG 평가 '통합 A+등급'…상장사 상위 2.1% - 뉴스핌 — *뉴스핌*
+- `11-25 13:16` JB금융, ESG 통합 A+…지배구조·지역상생 역량 인정 - 글로벌이코노믹 — *글로벌이코노믹*
+- `11-25 12:30` NH농협금융지주, '리스크관리 우수사례 시상식' 개최 - 파이낸셜포스트 — *파이낸셜포스트*
+- `11-25 12:19` KB금융지주, 수수료이익 4분기 연속 1조 돌파…이재근號 11개 계열사 역량 결집해 종합금융플랫폼 도약 - 업코리아 — *업코리아*
+- `11-25 11:20` [더밸류 브리핑] 오늘의 금융계 소식...NH농협금융지주· 케이뱅크 - 더밸류뉴스 — *더밸류뉴스*
+- `11-25 11:11` iM금융지주 천병규 부사장, 소유 주식 수량 1000주 증가 - 디지털투데이 — *디지털투데이*
+- `11-25 11:07` 한 달에 1억 넘게 벌었는데…이경애 "아빠가 은행주 투자, 쫄딱 망했다" - 뉴스1 — *뉴스1*
+- `11-25 11:07` 카카오뱅크, 프랑스 미스트랄AI와 맞손…금융 특화 LLM 개발 - 이지경제 — *이지경제*
 
 ## 🇰🇷 정책·거시
 - `11-24 15:15` 李 대통령 "폭등·폭락 모두 대비해야"…주택 공급 대책 점검 - 서울파이낸스 — *서울파이낸스*
-- `11-23 11:35` 부동산 누르고 증시 살린다더니 '둘 다 위축'… '속 빈 강정' F4 대책에 늑장·보신주의 성토 [증시는 왜] - 파이낸셜뉴스 — *파이낸셜뉴스*
 
 ## 🌍 AI·빅테크
-- `11-25 02:34` Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump - WSJ — *WSJ*
-- `11-25 02:25` Tech stocks back in the red after euphoria of Huang's Nvidia return - Yahoo Finance — *Yahoo Finance*
-- `11-25 02:19` Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure - Yahoo Finance — *Yahoo Finance*
-- `11-25 01:56` Nvidia Is Financing AI Boom — Oracle Bets Beyond One Supplier - NVIDIA (NASDAQ:NVDA), Oracle (NYSE:ORCL) - Benzinga — *Benzinga*
-- `11-25 01:53` Sam Altman's OpenAI Took a $30 Billion Investment From Nvidia Earlier in 2026. Here's Why That Deal Matters for Both Companies' Investors. - AOL.com — *AOL.com*
-- `11-25 01:33` Sam Altman's OpenAI Took a $30 Billion Investment From Nvidia Earlier in 2026. Here's Why That Deal Matters for Both Companies' Investors. - The Motley Fool — *The Motley Fool*
-- `11-25 01:12` Jensen Huang Is Back at Nvidia, but Wall Street Is Already Getting Nervous Again - 24/7 Wall St. — *24/7 Wall St.*
-- `11-25 00:56` Micron Stock Price Forecast: Citi Says Market Overestimates Impact of AI Investment Slowdown, Shares Still Poised to Return to $784 - TradingKey — *TradingKey*
+- `11-25 12:51` Nvidia's AI financing commitments may face tighter US scrutiny amid stability concerns: Report - BusinessLine — *BusinessLine*
+- `11-25 12:50` Super boss throws his chips down over Nvidia corporate responsibility - The Australian — *The Australian*
+- `11-25 12:25` US Congress advances three AI chip export bills as CEO returns to Nvidia - digitimes — *digitimes*
+- `11-25 11:22` Jensen Huang’s Stunning Comeback: AI Credit Alerts Blare Nonstop Amid NVIDIA’s AI Revolution - 36Kr — *36Kr*
+- `11-25 10:30` Washington Post. . New York City Mayor Zohran Mamdani criticized the volatility of the AI economy and wealth concentration. “I do not think that working people across the country signed up for their pensions being tied to the question of Jensen Huang’s fidelity - Facebook — *Facebook*
+- `11-25 10:09` Nvidia Stock Faces A Historical Warning After Jensen Huang Returns - Forbes — *Forbes*
+- `11-25 09:16` Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans - Yahoo Finance — *Yahoo Finance*
+- `11-25 08:19` Nvidia Crisis Raises Stakes For AI Boom, Anti-Asian Backlash - American Community Media — *American Community Media*
 
 ## 🌍 연준·금리
-- `11-25 02:51` Pound-to-Dollar Forecast: GBP/USD Near 1.31 as US Yields Surge - CurrencyNews.co.uk — *CurrencyNews.co.uk*
-- `11-25 02:31` How Yield Curve Flattening Reflects Fed Rate Expectations - StoneX — *StoneX*
-- `11-25 02:18` Will XAG rebound if Federal Reserve signals change and dollar momentum slows after inflation release? - Traders Union — *Traders Union*
-- `11-25 00:37` Fed, Broadcom and Micron Make Dec. 9 a Big Day for Stocks - JournalArta — *JournalArta*
-- `11-25 00:30` Gold and Silver Lower on Firm Dollar, Fed Rate Bets; PCE Inflation Data in Focus - News and Statistics - IndexBox — *IndexBox*
-- `11-25 00:30` Why Is Silver Down Today? Futures Fall 4.3% to $41.29 as Rate-Hike Worries Build - Around Prague — *Around Prague*
-- `11-24 23:59` Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed - Fortune — *Fortune*
-- `11-24 23:52` The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes - 24/7 Wall St. — *24/7 Wall St.*
+- `11-25 13:35` Dollar Falls as AI Rally Fades and Traders Reassess Fed Policy - cwibc.co.id — *cwibc.co.id*
+- `11-25 12:26` Gold falls to US$3,545 an ounce as potential US tariffs reinforce rate hike expectations - 联合早报 — *联合早报*
+- `11-25 11:35` Gold Slides Toward $3,500 as Tariff Threat and Fed Rate-Hike Bets Pile On Pressure - BigGo Finance — *BigGo Finance*
+- `11-25 11:16` Fed Rate Hike Fears Pressure Stocks and Gold Markets - cwibc.co.id — *cwibc.co.id*
+- `11-25 11:08` Eight Regional Fed Banks Recommend Raising Discount Rate, Wall Street Institutions Expect the Fed to Continue Raising Rates - NAI500 — *NAI500*
+- `11-25 10:09` Gold, silver prices today: What is weighing on bullion ahead of US inflation data - TradingView — *TradingView*
+- `11-25 09:35` Ringgit opens slightly higher on expectations of longer-term US rate cuts - Free Malaysia Today — *Free Malaysia Today*
+- `11-25 09:33` Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets - Bloomberg.com — *Bloomberg.com*
 
 ## 🌍 유가·지정학
-- `11-25 03:30` Iraq Refuses to Accept OPEC Assessment of its Production Capacity - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-25 03:00` Canada's Oilfield Services Sector Is Gearing Up for a Stronger 2027 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-25 02:50` Oil Prices Rose After Strait Of Hormuz Attacks, But Supply Fears Limited The Move - Finimize — *Finimize*
-- `11-25 02:37` IRGC says explosions occurred on 3 oil tankers in the Strait of Hormuz. - Anadolu Ajansı — *Anadolu Ajansı*
-- `11-25 02:21` IRGC Navy Says Fourth Oil Tanker Exploded After Striking Mine in Strait of Hormuz: 7 outlets compared - NewsCord — *NewsCord*
-- `11-25 02:15` Energy briefs–oil traffic in the Strait of Hormuz - Oklahoma Energy Today — *Oklahoma Energy Today*
-- `11-25 02:00` Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-25 02:00` Europe's Gas Prices Jumped 163% in a Year - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-25 13:55` Iran’s IRGC Navy says 2 oil tankers hit mines, caught fire in Strait of Hormuz - The Times of Israel — *The Times of Israel*
+- `11-25 13:55` IRGC Navy says two oil tankers hit mines, caught fire in Strait of Hormuz, state media - Arab News — *Arab News*
+- `11-25 11:16` Envision Eyes 400 MW Green Hydrogen Project for Australian Steelmaking - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-25 11:01` Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks - Bloomberg.com — *Bloomberg.com*
+- `11-25 10:58` Oil slips over 1% as supply glut prospect offsets Middle East disruption fears - Reuters — *Reuters*
+- `11-25 10:28` Oil mixed as Hormuz attacks mount, supply surplus and weak fuel margins weigh - Investing.com — *Investing.com*
+- `11-25 10:25` Oil Prices Fall Despite Hormuz Tensions as Supply Glut Fears Overwhelm Geopolitical Risk - BigGo Finance — *BigGo Finance*
+- `11-25 10:11` 3 Oil And Gas Stocks Screening For Price Upside As Hormuz Risks Rise - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 시장 전반
-- `11-25 03:39` Opinion | Nvidia proves nobody knows anything about the stock market - The Washington Post — *The Washington Post*
-- `11-25 03:37` Cipher Digital Stock Plunges Over 11% as Nvidia Sell-Off Hits AI Infrastructure Plays - Benzinga — *Benzinga*
-- `11-25 03:27` Bloom Energy Stock Slides Amid Broader AI Sell-Off - Benzinga — *Benzinga*
-- `11-25 03:22` U.S. futures, European markets fade following Nvidia rally - The Washington Post — *The Washington Post*
-- `11-25 02:55` Anthropic Drops Below IPO Prices, Nvidia Sinks 7% After Record Rally: Stock Market Today - Benzinga — *Benzinga*
-- `11-25 02:45` Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum - Yahoo Finance — *Yahoo Finance*
-- `11-25 02:37` The AI Trade Has Lost Its Mania, But Allocators Say Fundamentals Haven’t Changed - Institutional Investor — *Institutional Investor*
-- `11-25 02:34` Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump - WSJ — *WSJ*
+- `11-25 12:33` Asia’s stock markets dive as doubts to swirl over AI boom - Al Jazeera — *Al Jazeera*
+- `11-25 11:26` Bull trap? Nvidia sell-off resumes day after historic rally - The National — *The National*
+- `11-25 11:16` China stocks slip on tech sell-off, renewed US trade worries - marketscreener.com — *marketscreener.com*
+- `11-25 11:05` UBS: AI sell-off reflects a shift from spending to returns, not the end of the AI story - investingLive — *investingLive*
+- `11-25 11:00` Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy - WSJ — *WSJ*
+- `11-25 09:52` SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names - CNBC — *CNBC*
+- `11-25 09:16` Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans - Yahoo Finance — *Yahoo Finance*
+- `11-25 08:23` Jim Cramer says Tuesday's market pullback is an encouraging sign. Here's why - CNBC — *CNBC*
