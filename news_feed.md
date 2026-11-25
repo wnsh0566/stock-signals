@@ -1,6 +1,6 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-25 21:42 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-25 22:26 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
@@ -17,7 +17,7 @@
 
 ## 🇰🇷 반도체·HBM
 - `11-25 21:11` '반도체 용수' 정수량 증가·송수관로 신설 추진 - KBC광주방송 — *KBC광주방송*
-- `11-25 20:56` 김창혁 의원, 경상북도 반도체산업 육성 및 지원에 관한 조례 전부개정조례안 상임위 통과 - 다경뉴스 — *다경뉴스*
+- `11-25 21:08` [네트] "전남광주반도체 포럼 창립"...범시민 환영대회도 열려 - YTN — *YTN*
 - `11-25 20:42` 화웨이, 하이브리드 본딩 '맞춤형 HBM' 개발…삼성·SK와 속도전 - 지디넷코리아 — *지디넷코리아*
 - `11-25 20:14` 반도체 호황의 여파…삼전닉스 예치금, 주담대 금리까지 밀어올려 - 한겨레 — *한겨레*
 - `11-25 20:06` “하이닉스 2028년 이익 급감”…반도체 저승사자의 섬뜩한 예측[머니닥터 시장진단] - 매일경제 마켓 — *매일경제 마켓*
@@ -32,8 +32,8 @@
 - `11-25 18:23` iM금융그룹, '녹색경영 우수기업' 환경정보공개 기후부 장관상 수상 - 아시아뉴스통신 — *아시아뉴스통신*
 - `11-25 17:44` JB금융그룹, ESG 평가 최상위 A+ 획득 - 전라매일 — *전라매일*
 - `11-25 17:35` 한국투자금융그룹-한국발명진흥원, 혁신기업 성장 지원 MOU - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-25 17:31` 금융당국·5대 금융지주, 대형 금융사 부실 대비 첫 통합 모의훈련 실시 - 잡포스트 — *잡포스트*
 - `11-25 17:27` [르포] “새로운 기술 미리 경험할 수 있어 유익해요”…미래금융의 장 열린 핀테크 위크 - 아시아투데이 — *아시아투데이*
+- `11-25 17:16` [포토] '코리아 핀테크 위크 2026'에 등장한 KB금융지주 AI 시니어 케어 로봇 '케비' - 신아일보 — *신아일보*
 
 ## 🇰🇷 정책·거시
 - `11-24 15:15` 李 대통령 "폭등·폭락 모두 대비해야"…주택 공급 대책 점검 - 서울파이낸스 — *서울파이낸스*
@@ -49,31 +49,31 @@
 - `11-25 19:32` Nvidia Chip Buyer's Associates Helped Finance Chinese AI Infrastructure - marketscreener.com — *marketscreener.com*
 
 ## 🌍 연준·금리
-- `11-25 21:40` Why Is Gold Falling Today? Gold Drops Below $3,500 as Dollar Strengthens - Coinpaper — *Coinpaper*
-- `11-25 20:38` Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets - Bloomberg — *Bloomberg*
-- `11-25 20:02` Fed policymakers at odds over causes of high inflation - Reuters — *Reuters*
-- `11-25 19:00` ‘Haven’t we had enough?’ Florida Gov. DeSantis reveals simple plan to lower inflation - WKMG — *WKMG*
-- `11-25 18:58` Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices - Yahoo Finance — *Yahoo Finance*
-- `11-25 18:30` US core PCE inflation set to rise in October as markets weigh further Fed rate hikes - FXStreet — *FXStreet*
-- `11-25 17:57` Two-Thirds of Regional Fed Banks Backed December Rate Increase - bloomingbit — *bloomingbit*
-- `11-25 17:12` Gold, silver prices decline on MCX: Key support levels investors should watch - TradingView — *TradingView*
+- `11-25 22:15` The Fed is likely to raise rates in December. What it means for your holiday spending - CNBC — *CNBC*
+- `11-25 22:11` US Dollar Rebounds Near 20-Month High as Markets Anticipate December Fed Rate Hike - Curaçao Chronicle — *Curaçao Chronicle*
+- `11-25 21:45` Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets - Bloomberg — *Bloomberg*
+- `11-25 21:39` Why Is Gold Falling Today? Gold Drops Below $3,500 as Dollar Strengthens - Coinpaper — *Coinpaper*
+- `11-25 21:37` Fed Divides Over Inflation as November PCE Report Looms - Demokratis.co.id — *Demokratis.co.id*
+- `11-25 21:26` Goldman Sachs: The market has already priced in four Federal Reserve rate hikes, but Warsh will continue to raise rates in December. - 富途牛牛 — *富途牛牛*
+- `11-25 21:08` Gold loses risk-adjusted edge to Bitcoin amid s... - Pluang — *Pluang*
+- `11-25 21:01` Rabobank Forecasts Peso Gains as Fed Rate Hike Bets Fade - cwibc.co.id — *cwibc.co.id*
 
 ## 🌍 유가·지정학
-- `11-25 21:30` Current price of oil as of Nov. 25, 2026 - Fortune — *Fortune*
+- `11-25 22:00` Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-25 21:42` Current price of oil as of Nov. 25, 2026 - Fortune — *Fortune*
+- `11-25 21:36` Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks - Bloomberg — *Bloomberg*
 - `11-25 21:00` UK Energy Price Cap Jumps 26% in January, Highest Since 2023 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
 - `11-25 20:44` IEA Says Hormuz Shock Could Reshape Oil Trade for Years - The Astana Times — *The Astana Times*
 - `11-25 20:39` Why Are Oil Prices Falling Despite Renewed Strait of Hormuz Attacks? - Coinpaper — *Coinpaper*
 - `11-25 20:26` Iran’s IRGC Navy Says Two Oil Tankers Hit Naval Mines, Caught Fire in Strait of Hormuz: how 10 outlets framed it - NewsCord — *NewsCord*
-- `11-25 20:25` IRGC Navy Reports Two Oil Tankers Exploded After Hitting Naval Mines in Strait of Hormuz: how 7 outlets framed it - NewsCord — *NewsCord*
 - `11-25 20:00` Dangote Refinery Set to Become Africa's Most Valuable Listed Company - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-25 19:59` Oil extends losses amid supply surplus expectations, ongoing Mideast tensions - Investing.com — *Investing.com*
 
 ## 🌍 시장 전반
+- `11-25 21:52` Nasdaq Futures Fall, Watch Anthropic Market Value Barron's Daily 25 November - Barron's — *Barron's*
+- `11-25 21:48` Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg — *Bloomberg*
+- `11-25 21:36` Stock Sell-Off Set to Continue as A.I. Players Fall Again - The New York Times — *The New York Times*
 - `11-25 21:33` Why are stock market futures down today, November 25? The AI selloff is back, and new tariffs are reported - Nacionale — *Nacionale*
-- `11-25 21:10` Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg — *Bloomberg*
 - `11-25 20:58` AMD and Broadcom Give Back Their Monday Rally Before the Open - Stock Titan — *Stock Titan*
 - `11-25 20:57` Bitcoin holds up better than ether as stocks slide, ETF outflows hit sixth day - CoinDesk — *CoinDesk*
 - `11-25 20:47` Jim Cramer’s Sell-Off Rule: Money You Need in the Next 5 Years Doesn’t Belong in Stocks - 24/7 Wall St. — *24/7 Wall St.*
-- `11-25 20:32` Sensex Jumps 1,502 Points; Nifty Surges 470 on FII Buying - HDFC Sky — *HDFC Sky*
-- `11-25 19:34` Indian Stocks Extend World-Beating Run as AI Selloff Resumes - Bloomberg — *Bloomberg*
-- `11-25 19:30` Jensen Huang's Return Sparked a Market Rally - but Retirees Shouldn't Celebrate Just Yet - FinanceBuzz — *FinanceBuzz*
+- `11-25 20:34` US Semiconductor Stocks Extend Losses as AI Investment Concerns, Tariff Risks and Rate Expectations Weigh on Markets - Yahoo Finance — *Yahoo Finance*
