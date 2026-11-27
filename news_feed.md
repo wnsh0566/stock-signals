@@ -1,29 +1,29 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-27 23:23 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-28 03:39 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-27 21:31` 오를 때는 '코스피 5000', 내릴 때는 '미국 탓'? - 한국NGO신문 — *한국NGO신문*
-- `11-27 20:52` 기준금리 3.25% 인상·출렁이는 코스피! 다이소·롯데리아·더벤티 혜택까지 챙기는 '고향사랑기부제 위기브' 확정 세테크 - 고향사랑기부제 위기브 — *고향사랑기부제 위기브*
-- `11-27 20:34` 뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전 - 뉴스핌 — *뉴스핌*
-- `11-27 19:17` 증안펀드 기대에 증시 급등…코스닥 ’사이드카’ - 연합뉴스TV — *연합뉴스TV*
-- `11-27 19:13` [亞증시-종합] 기술주 반등에 일제히 상승 - 연합인포맥스 — *연합인포맥스*
-- `11-27 18:54` 한국, 증시안정펀드 최대 40조원으로 확대 검토: 보도 - Investing.com 한국어 — *Investing.com 한국어*
-- `11-27 18:45` 코스피 4%·코스닥 8% 급등…증안펀드 기대감 - 연합뉴스TV — *연합뉴스TV*
-- `11-27 18:17` "눈물 쏟고 고개 숙이고"…코스피 반토막에 전문가들도 '충격' - 한국경제 — *한국경제*
+- `11-28 03:23` [뉴욕증시] AI株 '블랙 프라이데이 쇼핑'…필리 반도체 지수 4.7%↑ - KB Think — *KB Think*
+- `11-28 03:12` 뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ - 매일경제 마켓 — *매일경제 마켓*
+- `11-28 03:07` [뉴욕증시-1보] AI株 저가 매수에 훈풍…3대 지수 강세 마감 - 연합인포맥스 — *연합인포맥스*
+- `11-28 02:52` 유럽증시, 기술주 중심으로 저가 매수세 유입되며 일제히 상승… 광산·방산도 강세 - 뉴스핌 — *뉴스핌*
+- `11-28 02:06` "코스닥 8%, 코스피 4% 쭉쭉" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 - 머니투데이 — *머니투데이*
+- `11-28 00:34` 증안펀드 투입 기대감에, 코스피 4% 코스닥 8% 올라 - 조선일보 — *조선일보*
+- `11-28 00:30` [에디터 프리즘] 증시에 필요한 건 ‘신뢰’ - 중앙일보 — *중앙일보*
+- `11-28 00:30` 뉴욕 증시, AI 관련 주 반등에 동반 상승 출발...엔비디아는 1% 넘게 하락 - YTN — *YTN*
 
 ## 🇰🇷 반도체·HBM
-- `11-27 23:07` SK하이닉스, 자사주 일일 매수 주문량 두 배로…"주주가치 제고 차원" - Chosunbiz — *Chosunbiz*
-- `11-27 22:53` 7만 아닌 4만전자?…전문가의 메모리 업황 경고 - 마켓인 — *마켓인*
-- `11-27 22:41` 주가 하락에 SK하이닉스, 자사주 매수 주문량 2배로…"주주 가치 제고" - KBC광주방송 — *KBC광주방송*
-- `11-27 22:22` 고점 대비 63% 떨어진 SK하이닉스…자사주 매입 속도 두 배로 - 베타뉴스 — *베타뉴스*
-- `11-27 22:11` 주가 급락에 칼 빼든 SK하이닉스…하루 70만주 자사주 매입 주문 - 이데일리 — *이데일리*
-- `11-27 22:09` "난 마이너스인데…" SK하이닉스, 인당 7억여원 성과급 전망 - 매일신문 — *매일신문*
-- `11-27 22:04` SK하이닉스, 자사주 매수 주문량 2배 확대…하루 70만 주 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-27 21:49` SK하이닉스, 자사주 매입 속도 2배로…하루 매수 주문 35만주→70만주 - 조세일보 — *조세일보*
+- `11-28 03:23` [뉴욕증시] AI株 '블랙 프라이데이 쇼핑'…필리 반도체 지수 4.7%↑ - KB Think — *KB Think*
+- `11-28 01:16` 젠슨 황만이 아니었다…엔비디아 임원, ‘대중국 반도체 밀수’ 혐의 기업 임원과 혼인 - 한겨레 — *한겨레*
+- `11-28 00:38` [바로잡습니다] 11월 16일 자 A8면 '후임에 반도체 인사들 총망라… 경쟁사 CEO 리사 수까지 거론' 기사 중 외 - 조선일보 — *조선일보*
+- `11-28 00:37` 화웨이 “美제재 덕에 기술 자립”… 中 ‘AI 반도체 3종 세트’ 가속도 - 조선일보 — *조선일보*
+- `11-28 00:20` "반도체·AI 진짜 바닥은 내년 2월 실적 시즌 이후"…진단 배경은 - 뉴시스 — *뉴시스*
+- `11-28 00:17` “반도체 초미세공정, 특허로 경쟁력 높인다”... 지식재산처, ALD 장비기업 현장 지원 - 특허뉴스 — *특허뉴스*
+- `11-28 00:10` 日, 반도체에 84조원 쏟고도 엔지니어 부족…결국 '이동식 공장' 꺼냈다 - 디지털투데이 — *디지털투데이*
+- `11-28 00:00` [김대호 진단] 호남 반도체와 트럼프 관세폭탄 - 글로벌이코노믹 — *글로벌이코노믹*
 
 ## 🇰🇷 금융주
 - `11-27 21:02` iM금융지주 회추위 최종 후보 3명 선정...황병우 회장 포함 - Tbc.co.kr — *Tbc.co.kr*
@@ -46,34 +46,41 @@
 - `11-27 14:30` “10·15 부동산 대책 취소해 달라”…국힘, 소송 제기했지만 패소 - 동아일보 — *동아일보*
 
 ## 🌍 AI·빅테크
+- `11-28 01:05` Ives Sees Nvidia's China Exposure Capped at 20% of Revenue as Munster Says AI Trade Stuck in 'Penalty Box' - BigGo Finance — *BigGo Finance*
+- `11-28 01:00` Bankers in Asia Face an AI Financing Hangover - Bloomberg.com — *Bloomberg.com*
+- `11-27 23:57` Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck - Yahoo Finance — *Yahoo Finance*
+- `11-27 21:25` Trump's Push to Bring Back Jensen Huang Won't Save the Day—The Key to Halting the US Stock Selloff May Lie in AI Capex Pullback - BigGo Finance — *BigGo Finance*
 - `11-27 21:05` America’s biggest investor Michael Burry warns of AI bubble as Nvidia, Oracle and Meta face rising debt r - The Times of India — *The Times of India*
 - `11-27 20:48` How Much Of Big Tech's AI Spending Reaches Nvidia? - Yahoo Finance — *Yahoo Finance*
-- `11-27 20:17` Fed Warns Big Tech’s AI Exposure “May Be Substantially Larger” Than Its Balance Sheets Show. That’s a Risk for Nvidia - TIKR.com — *TIKR.com*
+- `11-27 20:46` Nvidia’s Blackwell AI hardware turns up in Shanghai loan filings - Digg — *Digg*
 - `11-27 18:44` Nvidia Turmoil Tests AI’s Circular Funding Loop - Morningstar — *Morningstar*
-- `11-27 17:31` Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs - AOL.com — *AOL.com*
-- `11-27 15:34` Why Nvidia’s Southeast Asia Server Shipments Are on Hold - Kingy AI — *Kingy AI*
-- `11-27 14:02` Nvidia, Micron, Meta and AI: India's global investing obsession decoded - Business Standard — *Business Standard*
-- `11-27 11:10` SpaceX turns to Apollo and Goldman Sachs for record Nvidia GPU financing - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- ⚠️ 수집 실패: HTTPError
+- `11-28 01:11` Gold Rebounds Above $3,660: What Fed Rate Hike Bets Mean Next - Around Prague — *Around Prague*
+- `11-28 01:10` Two December Events Could Determine Whether the US Stock Market Ends 2026 in Recovery - Coinpaper — *Coinpaper*
+- `11-28 00:32` ETFs That Are Poised to Benefit From New Tariff Proposals - TradingView — *TradingView*
+- `11-27 21:53` Fed likely to raise rates by 25 bps in December amid inflation concerns - KuCoin — *KuCoin*
+- `11-27 20:25` Sliding stock market confronts jobs data, rate view as next tests - WTVB — *WTVB*
+- `11-27 20:07` Crypto on notice as hawkish Fed risks December ‘meltdown’ - Cryptonews.net — *Cryptonews.net*
+- `11-27 20:00` High Inflation Puts Fed’s Credibility On the Line - Bloomberg.com — *Bloomberg.com*
+- `11-27 18:35` Is the U.S. stock market crash the Federal Reserve’s fault? Former Goldman Sachs strategist urges prompt dovish signals - 富途牛牛 — *富途牛牛*
 
 ## 🌍 유가·지정학
-- `11-27 23:14` Crude Oil Price Forecast: WTI and Brent Stall Ahead of OPEC+ Meeting - FXEmpire — *FXEmpire*
-- `11-27 22:56` Iran Claims Oil Tanker Explodes After Hitting Mine in Hormuz - https://houseofsaud.com/ — *https://houseofsaud.com/*
-- `11-27 22:52` Iran says it has recovered two oil tankers from the US - TodayPress.tv — *TodayPress.tv*
-- `11-27 22:45` Oil tanker strikes mine in south of Strait of Hormuz - Mehr News Agency — *Mehr News Agency*
-- `11-27 22:42` Crude Oil Price Forecast: WTI and Brent Rise as Supply Risks Mount - FXEmpire — *FXEmpire*
-- `11-27 22:30` Oil tanker hits naval mine while attempting to transit Strait of Hormuz, IRGC says - report - The Jerusalem Post — *The Jerusalem Post*
-- `11-27 22:30` South Sudan Readies Licensing Round to Boost Oil Production - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 22:03` Iran reports explosion on oil tanker - Yahoo — *Yahoo*
+- `11-28 03:12` 'Serves US interests better': Iraq's oil smuggling clampdown threatens ties with Kurds, Iran - The New Indian Express — *The New Indian Express*
+- `11-28 02:30` OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-28 02:04` The Oil Glut Everyone Expected Is Looking Increasingly Elusive - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-28 02:00` Soaring Fuel Prices Threaten to Push More Airlines Into Bankruptcy - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-28 01:30` Oil Surge Pushes Indonesia to Mull First Subsidized Fuel Price Hike in Years - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-28 00:00` Trump Urges Putin to End Aggression as Europe Braces for U.S. Military Cuts - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 23:30` U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 23:16` Oil prices are again rising – here’s why - CNN — *CNN*
 
 ## 🌍 시장 전반
-- `11-27 23:06` China’s stock rally turns policy into market fuel - NAI500 — *NAI500*
-- `11-27 22:47` US Stocks Set to Bounce as Risk Appetite Returns After Holiday - Bloomberg.com — *Bloomberg.com*
-- `11-27 22:28` The Anatomy of an AI Rally: Anthropic Stock Quickly Finds Its Place - Barron's — *Barron's*
-- `11-27 21:59` Brazilian markets rally after Lula taps Bradesco chairman for finance chief - marketscreener.com — *marketscreener.com*
-- `11-27 21:25` Stocks Set to Rally at End of a Week of Wild Swings - The New York Times — *The New York Times*
-- `11-27 20:55` Tech rally lifts stock futures to wrap up a volatile week of trading - CNBC — *CNBC*
-- `11-27 20:55` Trump's Nvidia Fix Fades Fast as Stock Gives Back Rally Gains - BigGo Finance — *BigGo Finance*
-- `11-27 20:53` Green Friday: US futures and global stocks jump in a post-Thanksgiving rally - markets.businessinsider.com — *markets.businessinsider.com*
+- `11-28 03:08` US Equity Markets Higher Amid Broad Rally Led by Technology, Consumer Discretionary Stocks - marketscreener.com — *marketscreener.com*
+- `11-28 03:04` Trump can’t rescue the stock market. Here’s what can - The Australian — *The Australian*
+- `11-28 02:34` Stock Market Sustains Rally as NGX ASI Rises 0.34%, NSI Gains 1.16%; Naira Appreciates to N1,455/US$1 at BDC - Proshare — *Proshare*
+- `11-28 02:33` Can South Korea's Stock Market Rescue Fund Stop the AI Stock Selloff? - CryptoRank — *CryptoRank*
+- `11-28 02:25` Brazilian markets rally after Lula taps Bradesco chairman for finance chief - Reuters — *Reuters*
+- `11-28 02:20` Can South Korea's Stock Market Rescue Fund Stop the AI Stock Selloff? - Coinpaper — *Coinpaper*
+- `11-28 02:07` Trump Says Market Selloff Briefly Worried Him as He Defends Nvidia CEO Jensen Huang - TradingView — *TradingView*
+- `11-28 02:06` Coherent Jumps 12% as Optical Stocks Rebound From Wednesday's AI Selloff; Applied Optoelectronics and Lumentum Rise 7% - 24/7 Wall St. — *24/7 Wall St.*
