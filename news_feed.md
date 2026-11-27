@@ -1,82 +1,86 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-27 03:47 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-27 13:27 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-27 03:14` 유럽증시, 美 관세 당초 우려보다 낮을 것이라는 기대감에 강하게 반등… ECB 차기 총재 낙점도 호재 - 뉴스핌 — *뉴스핌*
-- `11-27 02:18` 곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀 - 한겨레 — *한겨레*
-- `11-27 01:00` [중국 특징주] 골드만삭스 "CSI300지수 내년 10%↑ 전망, 홍콩증시 비중확대로 상향" - 뉴스핌 — *뉴스핌*
-- `11-27 00:00` "외국인 투기 세력 겁먹게 해야"…증시 급락에 전문가의 조언 - 뉴시스 — *뉴시스*
-- `11-27 00:00` "올해보다 편해진다"…전문가가 짚은 내년 증시 반등 타이밍 - 뉴시스 — *뉴시스*
-- `11-27 00:00` 코스피 주저앉았는데 환율은 잠잠…금융위기 때와 다른 이유 - 뉴시스 — *뉴시스*
-- `11-26 20:44` 코스피, 금리인상에 뒷심 부족…4,700선은 회복 - 연합뉴스TV — *연합뉴스TV*
-- `11-26 20:28` [亞증시-종합] 기술주 반등 속 日·臺·홍콩↑…중국 혼조 - 연합인포맥스 — *연합인포맥스*
+- `11-27 13:02` 코스피, 3% 이상 상승세…코스닥은 6% 급등에 '매수 사이드카' - 글로벌이코노믹 — *글로벌이코노믹*
+- `11-27 12:56` 코스피 4,800선 회복…코스닥 6% 급등 - 연합뉴스TV — *연합뉴스TV*
+- `11-27 12:50` 코스피 2%대·코스닥 5%대 급등…외국인 매수세에 증시 반등 - 산경투데이 — *산경투데이*
+- `11-27 12:47` 아시아 증시 상승…기술주 반등·미국 무역 갈등 우려 완화 - Investing.com 한국어 — *Investing.com 한국어*
+- `11-27 12:39` 엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등 - 연합뉴스 — *연합뉴스*
+- `11-27 12:32` 오늘의 증시 - MBC 뉴스 — *MBC 뉴스*
+- `11-27 12:22` 코스피 장중 4800선 회복… 코스닥 6%대 급등 - 경북신문 — *경북신문*
+- `11-27 12:19` “공매도 이상 징후 없지만 경계 유지”…당국, 증시 변동성 대응태세 점검 - 시사저널 — *시사저널*
 
 ## 🇰🇷 반도체·HBM
-- `11-27 03:00` 美 반도체 규제에 아시아 AI 대출 차질…엔비디아 협력사도 영향 - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-27 02:59` 머스크도 애타는 삼성전자 반도체…이재용 "뭘 더 해줄 수 있나?" - 주간조선 — *주간조선*
-- `11-27 01:45` 반도체에 가려진 조방원 추락…조선 반토막, 방산·원전 휘청 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-27 01:00` 미, 한국관세 15% 유지했지만…‘K반도체 전략’ 콕 찍어 시비 - 한겨레 — *한겨레*
-- `11-27 00:45` 반도체가 끌어올린 금리, 서민이 운다 - 중앙일보 — *중앙일보*
-- `11-27 00:34` 취약계층 식탁을 풍성하게… SK하이닉스와 ‘행복도시락’ 지원 - 조선일보 — *조선일보*
-- `11-27 00:24` “약속 어기면 관세 25%”…미국, 호남 반도체 꼬투리 잡았다 - 중앙일보 — *중앙일보*
-- `11-27 00:19` 韓 반도체 기술자, 中서 3년째 구금… 국정원에 기술 유출 정보 전달 - 천지일보 — *천지일보*
+- `11-27 13:18` [산업연구원] 패널토론 “반도체 재원, 주력산업 확산에 활용해야” - 철강금속신문 — *철강금속신문*
+- `11-27 12:25` 당국 “반도체 경기·금융시장 연계성 확대…대응태세 유지” - BBS불교방송 — *BBS불교방송*
+- `11-27 12:21` 퀄컴, 스마트폰 넘어 자율주행 시장 정조준…차량용 AI 반도체에 승부수 - 제민일보 — *제민일보*
+- `11-27 12:18` [中 메모리 추격] R&D 앞세운 대륙의 반도체…'기술·특허' 공세 본격화 - 녹색경제신문 — *녹색경제신문*
+- `11-27 12:16` K수출 “반도체 쏠림에 독일처럼 성장 둔화 경고” - 중앙일보 — *중앙일보*
+- `11-27 12:05` [AI로 읽는 경제] 세계 4번째 '수출 1조달러 시대' 열렸지만…반도체 의존 숙제 - 뉴스핌 — *뉴스핌*
+- `11-27 11:55` F4 회의 "반도체경기·금융 연계 확대, 실물경제 파급 점검" - 부산일보 — *부산일보*
+- `11-27 11:54` 삼성전자·화웨이, '반도체 올림픽' ISSCC 2027서 차세대 HBM 정면승부 - 뉴시스 — *뉴시스*
 
 ## 🇰🇷 금융주
-- `11-26 22:06` 금리 올렸는데 은행주 왜 파래요…한발 먼저 가는 주식 ‘선반영’ 해석 - 매일경제 마켓 — *매일경제 마켓*
-- `11-26 19:37` 증안펀드 가동 수순…금융지주 회장 긴급 소집 - 파이낸셜포스트 — *파이낸셜포스트*
-- `11-26 19:03` 증안펀드 가동 초읽기…금융위, 다음주 5대 금융지주와 논의 - MTN 머니투데이방송 — *MTN 머니투데이방송*
-- `11-26 17:54` [금융지주 임원 인사 전망] [농협금융] 인사권은 농협금융에, 입김은 중앙회에…사장단 인사 촉각 - Naver Blog — *Naver Blog*
-- `11-26 17:53` JB금융지주 10%이상주주 얼라인파트너스자산운용, 소유 주식 수량 300만주 감소…소유 지분율 0.82%p 하락 - 디지털투데이 — *디지털투데이*
-- `11-26 17:42` 금융위 다음 주 5대 금융지주 긴급회의…증안펀드 준비 - KBS 뉴스 — *KBS 뉴스*
-- `11-26 17:40` iM금융그룹, 대구·경북 대학생 25명에 '푸른등대 기부장학금' 전달 - 뉴스핌 — *뉴스핌*
-- `11-26 17:22` iM금융그룹, 녹색경영 우수기업 선정… 기후부 장관상 수상 - 이코리아 — *이코리아*
+- `11-27 11:50` [금융-라운지] KB금융그룹 / 교보생명 / 우리은행 / NH농협은행 / 한화생명 - 비즈니스리포트 — *비즈니스리포트*
+- `11-27 11:42` KB금융그룹, '2026 올해의 상생기업대상' 대통령표창 수상… 민간 금융사 유일 국민투표 톱5 선정 - S저널 — *S저널*
+- `11-27 11:13` 베트남주식 은행주, 2012년 금융위기보다 저평가 - 씬짜오베트남 — *씬짜오베트남*
+- `11-27 11:04` 국고채 담합 645억 불복 메리츠증권…지주 김용범 부회장은 자본시장 개혁기구 수장 내정 - 뉴스필드 — *뉴스필드*
+- `11-27 10:59` “축산농가 방역활동에 써주오”…NH아문디, 가축질병 방역 기부금 1억원 전달 - 농민신문 — *농민신문*
+- `11-27 10:49` 은행장 연임으로 '안정' 택한 임종룡…우리금융 비은행 11곳 인사에 쏠린 눈 - 테크M — *테크M*
+- `11-27 09:52` 금융위·5대 금융지주, 증안펀드 확대 및 투입 본격 논의... 30일 긴급 회동 - nbn 시사경제 — *nbn 시사경제*
+- `11-27 09:34` KB금융그룹, ‘올해의 상생기업대상’ 대통령표창 수상 - 뉴스드림 — *뉴스드림*
 
 ## 🇰🇷 정책·거시
+- `11-27 13:00` 부산시, 미분양·거래절벽 대응…지역 맞춤형 부동산 대책 건의 - 중앙이코노미뉴스 — *중앙이코노미뉴스*
+- `11-27 11:15` 국가안보실, 금융당국 긴급 소집…해킹 2차 피해 방지 대책 논의 - BBS불교방송 — *BBS불교방송*
+- `11-27 10:00` 정부, 지역격차 완화 대책 구체화…5극3특 거점·지역 금융 논의 [부동산360] - 헤럴드경제 — *헤럴드경제*
+- `11-27 09:56` 국가안보실, 금융당국 긴급 소집…“해킹 2차 피해 대책 점검” - 한겨레 — *한겨레*
+- `11-27 09:47` 국가안보실, 금융당국 긴급 소집‥해킹 2차 피해 대책 점검 - MBC 뉴스 — *MBC 뉴스*
 - `11-26 19:39` 오세훈·김은혜, 내달 1일 부동산 정책 세미나 공동 개최…공급 대책 등 논의 - 뉴시스 — *뉴시스*
 - `11-26 09:54` “증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’ - 디지털데일리 — *디지털데일리*
 - `11-26 05:10` [사설] 아파트에 상가까지… 지역 부동산시장 회생 대책 없나 - 부산일보 — *부산일보*
-- `11-25 08:17` [전문가 칼럼] 정부의 잇따른 주택공급 대책, 과연 실현 가능한가? - 조세금융신문 — *조세금융신문*
 
 ## 🌍 AI·빅테크
-- `11-27 02:49` SoftBank Credit Risk Hits Four-Year High Amid $64.6 Billion OpenAI Bet - TradingView — *TradingView*
-- `11-27 02:40` Apple Stock vs. Nvidia Stock: Which Is More Exposed to an AI Bubble? - Coinpaper — *Coinpaper*
+- `11-27 11:05` Nvidia Halts AI Server Shipments to Four Southeast Asian Countries as U.S. Tightens Rules to Close Loophole on Transshipment - BigGo Finance — *BigGo Finance*
+- `11-26 23:10` Former OpenAI Researcher's AI Fund Suffers Brutal Loss - Yahoo Finance — *Yahoo Finance*
+- `11-26 23:00` Opinion: Nvidia and the whole AI trade aren’t out of the woods — not by a long shot - MarketWatch — *MarketWatch*
 - `11-26 22:46` Nvidia's credit rating, the AI trade's collateral, is at risk - Yahoo Finance — *Yahoo Finance*
 - `11-26 22:28` New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips - Yahoo Finance — *Yahoo Finance*
 - `11-26 22:27` Nvidia Halts AI Server Shipments to 4 Countries: What It Means for AI Stocks - CryptoRank — *CryptoRank*
 - `11-26 21:08` After 11 days as Nvidia CEO, Colette Kress returns to an increasingly complicated CFO job - CTech — *CTech*
-- `11-26 19:56` Nvidia shipment halt threatens to stall the AI rally - CoinDesk — *CoinDesk*
-- `11-26 19:07` Nvidia Halts AI Server Shipments to Singapore, Malaysia, Thailand and Indonesia as Washington's New Rules Close China's Compute Backdoor - BigGo Finance — *BigGo Finance*
+- `11-26 19:59` Nvidia Reportedly Halts AI Server Shipments to Four Southeast Asian Countries Amid Tighter US Export Controls - Yahoo Finance — *Yahoo Finance*
 
 ## 🌍 연준·금리
-- `11-27 03:09` Fed December Rate Hike Odds Climb After Hot Inflation and GDP Data - Around Prague — *Around Prague*
-- `11-27 02:49` Robin Brooks Warns Hawkish Fed Could Trigger Risk-Asset Meltdown - www.tokenpost.com — *www.tokenpost.com*
-- `11-27 02:02` Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes - Bloomberg.com — *Bloomberg.com*
-- `11-27 01:54` Markets Price 99.5% Chance of 25-Basis-Point Fed Hike in December - www.tokenpost.com — *www.tokenpost.com*
-- `11-27 01:34` Will gold prices crash or surge after US Fed’s FOMC decision? - Inshorts — *Inshorts*
-- `11-27 00:10` U.S. GDP Growth Revised to 4.3% as Core Inflation Tops Forecasts - www.tokenpost.com — *www.tokenpost.com*
-- `11-27 00:07` US GDP Forecast Federal: Growth Revised Higher Before Fed - The Cryptonomist — *The Cryptonomist*
-- `11-27 00:00` What will happen to gold rates? Crash or surge after the US Fed FOMC meeting outcome - Scenarios explained - Livemint — *Livemint*
+- `11-27 12:54` The Federal Reserve May Be Forced to Abandon Rate Hikes in December! Former Goldman Sachs Strategist Issues Major Warning: Risk Assets Could Face a Comprehensive Collapse - Moomoo — *Moomoo*
+- `11-27 11:35` Gregory Daco: Federal Reserve expected to raise interest rates next month - Traders Union — *Traders Union*
+- `11-27 10:06` Bitcoin Recovery at Risk as Strong GDP Fuels Fed Rate Hike Bets - Cryptonews.net — *Cryptonews.net*
+- `11-27 08:53` Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg.com — *Bloomberg.com*
+- `11-27 08:25` US Stock Futures Rebound After AI Rout; Traders Brace for a Fed Rate-Hike Replay - BigGo Finance — *BigGo Finance*
+- `11-27 07:07` Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report - Kitco — *Kitco*
+- `11-27 07:00` FirstFT: Fed to press ahead with rate rises - Financial Times — *Financial Times*
+- `11-27 03:12` Fed rate hike odds rise to almost 100%: can AI selloff force a rethink? - TradingView — *TradingView*
 
 ## 🌍 유가·지정학
-- `11-27 03:03` Malcy’s Blog – Oil price, Sintana, Arrow, Star, Afentra & finally - Share Talk — *Share Talk*
-- `11-27 03:00` When the Grid Fails, Solar Does Not Wait for the State - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 02:23` Siemens Energy Signs Major Deal to Revive Venezuela's Power Grid - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 02:10` Oil Price Today: Brent Edges Up After Fresh Tanker Attacks Near Strait Of Hormuz - TalkMarkets - Howl.Link — *Howl.Link*
-- `11-27 02:00` Why Gasoline Prices Are Falling While Diesel Remains Expensive - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 01:48` New Iran-Linked Group Threatens Oil Facilities In Gulf States: If Iran Can't Sell Oil, No One Sells Oil - MEMRI | Middle East Media Research Institute — *MEMRI | Middle East Media Research Institute*
-- `11-27 01:31` Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 01:00` Why Copper's Thanksgiving Bounce May Not Be the Start of Anything - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 13:13` WTI Price Forecast: Bullish Breakout Opens Path Toward $93 - FXEmpire — *FXEmpire*
+- `11-27 11:33` SBO Orders Jump 54% as Oilfield Equipment Recovery Gains Momentum - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 11:20` Trump Says US Doesn't Need Oil, Sees Iran Victory - United States Brent Oil Fund, LP ETV (ARCA:BNO) - Benzinga — *Benzinga*
+- `11-27 10:00` Standard Chartered Oil Needs a New Shock to Fall Further - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 09:00` NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 09:00` Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 07:32` Oil’s Iran war recovery masks a stubborn diesel shortage - The Daily Star — *The Daily Star*
+- `11-27 07:17` Oil price surge expected to flip Alberta's projected $9.4B deficit into $8.5B surplus - CBC — *CBC*
 
 ## 🌍 시장 전반
-- `11-27 02:29` Imperial Brands and miners light the way forward as stocks rally - Yahoo Finance UK — *Yahoo Finance UK*
-- `11-27 02:17` Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal - Investor's Business Daily — *Investor's Business Daily*
-- `11-27 02:00` Imperial Brands lights up FTSE as stocks rally - marketscreener.com — *marketscreener.com*
-- `11-27 01:05` S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead - Yahoo Finance — *Yahoo Finance*
-- `11-27 00:30` Worried About a Market Crash? 2 Gold Mining Stocks to Buy Before 2026 Ends. - The Motley Fool — *The Motley Fool*
-- `11-27 00:26` Market Open: HP Jumps 11% as Stocks Recover From AI Selloff | Nov 26th | 2026-11-26 | Investing News - Stockhouse — *Stockhouse*
-- `11-27 00:16` Brazil stock rally gathers steam despite US tariff risk - marketscreener.com — *marketscreener.com*
-- `11-27 00:15` Stock Market Today: Dow Jones Reclaims 50,000 as S&P 500 and Nasdaq Struggle - Coinpaper — *Coinpaper*
+- `11-27 12:07` S&P 500 Forecast: Tech Selloff May Near End, Index Poised to Rise 25% to Hit 9,000 by 2027 - TradingKey — *TradingKey*
+- `11-27 11:46` Asian Stocks Advance as AI Selloff Eases and Tariff Concerns Recede - kaohoon international — *kaohoon international*
+- `11-27 10:57` China semiconductor materials and equipment stocks rally over 4% on Huawei memory news - Crypto Briefing — *Crypto Briefing*
+- `11-27 10:34` Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday - Investor's Business Daily — *Investor's Business Daily*
+- `11-27 09:58` Australian shares set for best week since August as financials, WiseTech rally - marketscreener.com — *marketscreener.com*
+- `11-27 09:45` Black Friday Meets a Market Selloff—Will Consumers Keep Spending? - Moomoo — *Moomoo*
+- `11-27 09:02` Stock Markets Today, November 26, 2026: European and Asian Stocks Rally as Tariff Fears Ease - Eurasia Business News — *Eurasia Business News*
+- `11-27 05:58` Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue? - TradingKey — *TradingKey*
