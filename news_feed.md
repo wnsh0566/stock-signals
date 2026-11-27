@@ -1,86 +1,86 @@
 # 📰 뉴스 헤드라인 피드 (자동 수집 — 판단 아님, 그물임)
 
-> 생성: 2026-11-27 14:15 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
+> 생성: 2026-11-27 21:04 KST · 소스: Google News RSS · 범위: 최근 48시간 · 키워드별 최신 8건
 > ⚠️ 헤드라인은 배경 정보(관점≠신호). 판정·매매 근거로 직접 사용 금지 — 점검 시 광범위 스윕의 보조 그물.
 
 ## 📅 이벤트 캘린더 (D-day 자동 계산 · 정사 = signals.md §0-C)
 
 ## 🇰🇷 증시·코스피
-- `11-27 14:09` 코스피, '외인·기관' 매수에 3%대 ↑....코스닥도 7%대 급등 - 뉴스핌 — *뉴스핌*
-- `11-27 13:56` 코스피, 장중 상승폭 커져 4900 시도…삼전닉스 4%대 급등 - 한국경제 — *한국경제*
-- `11-27 13:46` 외국인 '사자'에 코스피·코스닥 일제히 급등‥증시 안정 대책 기대감 등 영향 - MBC 뉴스 — *MBC 뉴스*
-- `11-27 13:45` 코스피 장중 상승폭 커져 4,900선 탈환 시도…코스닥 6%대 급등 - 연합뉴스 — *연합뉴스*
-- `11-27 13:40` 뉴스후] “분당 아파트 매각 자금, 코스피에 넣었더라면 7억 손실” 주장 - 데일리연합 — *데일리연합*
-- `11-27 13:37` "증안펀드 증액 하려나"…코스피 3%대·코스닥 6%대 상승 - 머니투데이 - 머니투데이 — *머니투데이*
-- `11-27 13:22` "오를 땐 박수, 내릴 땐 누구 탓?"…‘5천피’ 붕괴에 커진 ‘이 대통령 책임론’ - JTBC — *JTBC*
-- `11-27 13:02` 코스피, 3% 이상 상승세…코스닥은 6% 급등에 '매수 사이드카' - 글로벌이코노믹 — *글로벌이코노믹*
+- `11-27 20:52` 기준금리 3.25% 인상·출렁이는 코스피! 다이소·롯데리아·더벤티 혜택까지 챙기는 '고향사랑기부제 위기브' 확정 세테크 - 고향사랑기부제 위기브 — *고향사랑기부제 위기브*
+- `11-27 20:34` 뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전 - 뉴스핌 — *뉴스핌*
+- `11-27 20:00` 코스피 4%나 뛰었는데…나 홀로 급락한 '이 종목' [종목+] - 한국경제 — *한국경제*
+- `11-27 19:47` "눈물 쏟고 고개 숙이고"…코스피 반토막에 전문가들도 '충격' - 한국경제 — *한국경제*
+- `11-27 19:17` 증안펀드 기대에 증시 급등…코스닥 ’사이드카’ - 연합뉴스TV — *연합뉴스TV*
+- `11-27 19:13` [亞증시-종합] 기술주 반등에 일제히 상승 - 연합인포맥스 — *연합인포맥스*
+- `11-27 19:06` 코스피·코스닥 동반 급등…외국인 순매수 - KBS 뉴스 — *KBS 뉴스*
+- `11-27 18:54` 한국, 증시안정펀드 최대 40조원으로 확대 검토: 보도 - Investing.com 한국어 — *Investing.com 한국어*
 
 ## 🇰🇷 반도체·HBM
-- `11-27 14:04` 이상일 용인시장 “반도체 성장 재정, 도시 기반과 시민 생활에 함께 투자” - 글로벌이코노믹 — *글로벌이코노믹*
-- `11-27 14:02` 삼성전자, 사상 최대 30조원 배당…SK하이닉스까지 연말 44조원 풀린다 - 스트레이트뉴스 — *스트레이트뉴스*
-- `11-27 13:58` AI·반도체가 떠받친 中경제…1~10월 공업이익 16% 증가 - 아시아경제 — *아시아경제*
-- `11-27 13:40` AI 열풍에 반도체만 봤는데…K기업, 470억 쏟는 사업 뭐길래 - 한국경제 — *한국경제*
-- `11-27 13:37` [미국 특징주] 마이크론, HBM 시장서 화웨이·창신메모리 도전 직면 - 뉴스핌 — *뉴스핌*
-- `11-27 13:28` 산업연 “반도체 호황으로 더 걷힌 법인세, 비반도체 산업에 투자해야” - 매일경제 마켓 — *매일경제 마켓*
-- `11-27 13:25` 민형배 "반도체가 과잉? 정말 줄여야 할 건 수도권 집중" - KBC광주방송 — *KBC광주방송*
-- `11-27 13:18` [산업연구원] 패널토론 “반도체 재원, 주력산업 확산에 활용해야” - 철강금속신문 — *철강금속신문*
+- `11-27 20:43` "싸도 너무 싸"…SK하이닉스, 자사주 매입 속도 2배로 높인다 - 아이뉴스24 — *아이뉴스24*
+- `11-27 20:41` SK하이닉스, 자사주 일일 매수량 2배…주주가치 제고 - 아시아경제 — *아시아경제*
+- `11-27 20:26` SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고 - 연합뉴스 — *연합뉴스*
+- `11-27 19:59` 美 수출 통제에 맞춤형 HBM 설계 꺼낸 화웨이…삼성·SK 양산 벽 넘을까 - 글로벌이코노믹 — *글로벌이코노믹*
+- `11-27 19:19` 마이크론 위협하는 중국 메모리 반도체 굴기…화웨이·CXMT 기술 추격 본격화 - 제민일보 — *제민일보*
+- `11-27 19:07` (보도설명) 미래대응기금은 반도체 호황 등에 따른 대규모 세수를 미래세대를 위한 투자에 활용하기 위한 것입니다. - 대한민국 정책브리핑 — *대한민국 정책브리핑*
+- `11-27 18:58` SK하이닉스 배당금 53배 폭증…역대급 주주환원에도 주가는 왜 떨어졌나? - 코인리더스 — *코인리더스*
+- `11-27 18:56` SK하이닉스 '성과급 잭팟' 1인당 7억 8,500만 원 전망…삼성전자 메모리도 3분기만 2억 원 - 코인리더스 — *코인리더스*
 
 ## 🇰🇷 금융주
-- `11-27 13:39` 이재근 체제 첫 KB국민은행장 누가 되나… 치열한 5파전 혼전 - 비즈체크 — *비즈체크*
-- `11-27 11:50` [금융-라운지] KB금융그룹 / 교보생명 / 우리은행 / NH농협은행 / 한화생명 - 비즈니스리포트 — *비즈니스리포트*
-- `11-27 11:42` KB금융그룹, '2026 올해의 상생기업대상' 대통령표창 수상… 민간 금융사 유일 국민투표 톱5 선정 - S저널 — *S저널*
-- `11-27 11:13` 베트남주식 은행주, 2012년 금융위기보다 저평가 - 씬짜오베트남 — *씬짜오베트남*
-- `11-27 11:04` 국고채 담합 645억 불복 메리츠증권…지주 김용범 부회장은 자본시장 개혁기구 수장 내정 - 뉴스필드 — *뉴스필드*
-- `11-27 10:59` “축산농가 방역활동에 써주오”…NH아문디, 가축질병 방역 기부금 1억원 전달 - 농민신문 — *농민신문*
-- `11-27 10:49` 은행장 연임으로 '안정' 택한 임종룡…우리금융 비은행 11곳 인사에 쏠린 눈 - 테크M — *테크M*
-- `11-27 09:52` 금융위·5대 금융지주, 증안펀드 확대 및 투입 본격 논의... 30일 긴급 회동 - nbn 시사경제 — *nbn 시사경제*
+- `11-27 20:33` 스페인 총선 결과, 은행주에 어떤 영향 미칠까? - Investing.com 한국어 — *Investing.com 한국어*
+- `11-27 20:06` [현장+] "몇 초만 맡겨도 예금 이자"…5대 금융지주, AI·블록체인 혁신 경쟁 - 블루밍비트 — *블루밍비트*
+- `11-27 18:59` 진성원 우리카드 사장 연임…저축銀 새 대표 박종인 - 주간한국 — *주간한국*
+- `11-27 18:35` 우리금융, 자회사 CEO 4명 교체… 카드·증권 등 7곳 유임 - IT조선 — *IT조선*
+- `11-27 18:23` iM금융그룹 차기 회장 후보 3명 압축…황병우 회장 연임 도전 속 외부인사와 경쟁 - Queen 이코노미퀸 — *Queen 이코노미퀸*
+- `11-27 17:56` [금융지주 계열 CEO 인사] [우리금융] 세대교체 바람에도…임종룡의 선택은 '60년대생' - 딜사이트 — *딜사이트*
+- `11-27 17:50` iM금융지주, 차기 회장 후보군 황병우 등 3명 압축 - Chosunbiz — *Chosunbiz*
+- `11-27 17:36` [금융지주 계열 CEO 인사] [우리금융] 임종룡 2기 첫 연말 인사…비은행 '위기 돌파' 해결사 특파 - 딜사이트 — *딜사이트*
 
 ## 🇰🇷 정책·거시
-- `11-27 13:00` 부산시, 미분양·거래절벽 대응…지역 맞춤형 부동산 대책 건의 - 중앙이코노미뉴스 — *중앙이코노미뉴스*
-- `11-27 11:15` 국가안보실, 금융당국 긴급 소집…해킹 2차 피해 방지 대책 논의 - BBS불교방송 — *BBS불교방송*
-- `11-27 10:00` 정부, 지역격차 완화 대책 구체화…5극3특 거점·지역 금융 논의 [부동산360] - 헤럴드경제 — *헤럴드경제*
-- `11-27 09:56` 국가안보실, 금융당국 긴급 소집…“해킹 2차 피해 대책 점검” - 한겨레 — *한겨레*
-- `11-27 09:47` 국가안보실, 금융당국 긴급 소집‥해킹 2차 피해 대책 점검 - MBC 뉴스 — *MBC 뉴스*
-- `11-26 19:39` 오세훈·김은혜, 내달 1일 부동산 정책 세미나 공동 개최…공급 대책 등 논의 - 뉴시스 — *뉴시스*
-- `11-26 09:54` “증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’ - 디지털데일리 — *디지털데일리*
-- `11-26 05:10` [사설] 아파트에 상가까지… 지역 부동산시장 회생 대책 없나 - 부산일보 — *부산일보*
+- `11-27 19:14` 법원, '10·15 부동산 대책' 취소소송서 정부 손… 국민의힘 패소 - 한국일보 — *한국일보*
+- `11-27 17:31` 국힘 '10·15 대책' 취소소송 패소…法 "시장 안정 더 중요" - 스페셜타임스 — *스페셜타임스*
+- `11-27 17:24` 국힘 '10·15 대책' 취소소송 패소…法 "시장 안정 더 중요"(종합) - 연합뉴스 — *연합뉴스*
+- `11-27 17:15` 국힘 '10·15 부동산 대책 취소' 소송 패소…法 "정책적 판단"(종합) - 뉴시스 — *뉴시스*
+- `11-27 16:15` 10·15 부동산 대책 취소소송, 국민의힘 패소… 청구 기각 - 아주경제 — *아주경제*
+- `11-27 15:10` '토허제' 담은 10·15 부동산 대책 취소 소송서 국민의힘 패소 - 시사포커스 — *시사포커스*
+- `11-27 14:30` “10·15 부동산 대책 취소해 달라”…국힘, 소송 제기했지만 패소 - 동아일보 — *동아일보*
+- `11-27 14:27` 국민의힘, 국토부 '10·15 부동산 대책' 취소 행정소송 패소 - 매일경제 마켓 — *매일경제 마켓*
 
 ## 🌍 AI·빅테크
+- `11-27 20:17` Fed Warns Big Tech’s AI Exposure “May Be Substantially Larger” Than Its Balance Sheets Show. That’s a Risk for Nvidia - TIKR.com — *TIKR.com*
+- `11-27 18:44` Nvidia Turmoil Tests AI’s Circular Funding Loop - Morningstar — *Morningstar*
+- `11-27 17:31` Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs - AOL.com — *AOL.com*
 - `11-27 14:02` Nvidia, Micron, Meta and AI: India's global investing obsession decoded - Business Standard — *Business Standard*
 - `11-27 11:10` SpaceX turns to Apollo and Goldman Sachs for record Nvidia GPU financing - Yahoo Finance — *Yahoo Finance*
 - `11-27 11:05` Nvidia Halts AI Server Shipments to Four Southeast Asian Countries as U.S. Tightens Rules to Close Loophole on Transshipment - BigGo Finance — *BigGo Finance*
-- `11-26 23:10` Former OpenAI Researcher's AI Fund Suffers Brutal Loss - Yahoo Finance — *Yahoo Finance*
 - `11-26 23:00` Opinion: Nvidia and the whole AI trade aren’t out of the woods — not by a long shot - MarketWatch — *MarketWatch*
 - `11-26 22:46` Nvidia's credit rating, the AI trade's collateral, is at risk - Yahoo Finance — *Yahoo Finance*
-- `11-26 22:28` New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips - Yahoo Finance — *Yahoo Finance*
-- `11-26 22:27` Nvidia Halts AI Server Shipments to 4 Countries: What It Means for AI Stocks - CryptoRank — *CryptoRank*
 
 ## 🌍 연준·금리
-- `11-27 13:30` Fed faces fresh rate hike as inflation and US growth defy expectations - AzerNews — *AzerNews*
-- `11-27 12:54` The Federal Reserve May Be Forced to Abandon Rate Hikes in December! Former Goldman Sachs Strategist Issues Major Warning: Risk Assets Could Face a Comprehensive Collapse - Moomoo — *Moomoo*
-- `11-27 12:51` Bill Ackman Warns Fed Rate Hike Could Trigger Global Recession as Inflation Reaches 3.8% - Hokanews — *Hokanews*
-- `11-27 11:54` Bitcoin trades near $58,400 as inflation data k... - Pluang — *Pluang*
-- `11-27 11:35` Gregory Daco: Federal Reserve expected to raise interest rates next month - Traders Union — *Traders Union*
-- `11-27 11:32` Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg.com — *Bloomberg.com*
-- `11-27 11:18` Inflation Holds Flat in November as Gas Prices Fall - Wisevoter — *Wisevoter*
-- `11-27 10:53` Fed officials have differing views on inflation; what will the interest rate trajectory be? - Vietnam.vn — *Vietnam.vn*
+- `11-27 20:07` Crypto on notice as hawkish Fed risks December ‘meltdown’ - Cryptonews.net — *Cryptonews.net*
+- `11-27 19:05` First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year - BigGo Finance — *BigGo Finance*
+- `11-27 19:04` US Fed rate hike: Why is the central bank turning hawkish as markets brace for more hikes? - The Financial Express — *The Financial Express*
+- `11-27 18:35` Is the U.S. stock market crash the Federal Reserve’s fault? Former Goldman Sachs strategist urges prompt dovish signals - 富途牛牛 — *富途牛牛*
+- `11-27 18:06` The Latest Interest Rate Forecast Is In, and It Spells Trouble for a Historically Expensive AI-Driven Bull Market - The Motley Fool — *The Motley Fool*
+- `11-27 17:13` Gold price forecast: Fed rate hike in December may limit recovery to ₹1.30 lakh per 10 grams by 2026-end, says expert - Livemint — *Livemint*
+- `11-27 16:36` Gold Price Reclaims $3,600 Level; Hong Kong Gold Stocks Rally for Second Day, Lingbao Gold Surges Nearly 11% - BigGo Finance — *BigGo Finance*
+- `11-27 16:31` Pound-to-Dollar Forecast: GBP Steady as Fed Rate Hike Bets Support USD - CurrencyNews.co.uk — *CurrencyNews.co.uk*
 
 ## 🌍 유가·지정학
-- `11-27 14:01` Oil Prices Edge Up As Strait Of Hormuz Risks Linger - Finimize — *Finimize*
-- `11-27 13:13` WTI Price Forecast: Bullish Breakout Opens Path Toward $93 - FXEmpire — *FXEmpire*
-- `11-27 11:33` SBO Orders Jump 54% as Oilfield Equipment Recovery Gains Momentum - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 11:20` Trump Says US Doesn't Need Oil, Sees Iran Victory - United States Brent Oil Fund, LP ETV (ARCA:BNO) - Benzinga — *Benzinga*
-- `11-27 10:00` Standard Chartered Oil Needs a New Shock to Fall Further - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 09:00` NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20 - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 09:00` Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
-- `11-27 07:32` Oil’s Iran war recovery masks a stubborn diesel shortage - The Daily Star — *The Daily Star*
+- `11-27 20:53` WTI Crude Oil: Elliott Wave Analysis and Forecast for 27.11.26–04.12.26 - LiteFinance — *LiteFinance*
+- `11-27 20:43` Oil Tanker Explodes After Striking Naval Mine North of Ghannam Island - WANA News Agency — *WANA News Agency*
+- `11-27 20:39` Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz - Anadolu Ajansı — *Anadolu Ajansı*
+- `11-27 20:30` Iraq Boosts Oil Exports to 3.6 Million Barrels per Day - Crude Oil Prices Today | OilPrice.com — *Crude Oil Prices Today | OilPrice.com*
+- `11-27 20:28` OIL PRICE ROLLBACK ⛽ Motorists should expect a sigh of relief next week as pump prices are expected to go down, according to an oil industry source. Read more: https://www.gmanetwork.com/news/money/economy/1010926/gasoline-diesel-rollback-of-up- - Facebook — *Facebook*
+- `11-27 20:26` Oil Prices Climb as Middle East Supply Threats Put Brent Near $97 and WTI Above $85 Ahead of OPEC+ Meeting - EnergyNow — *EnergyNow*
+- `11-27 19:44` Strait of Hormuz Will Remain Closed; Two Iranian Oil Tankers Recovered from US Forces - WANA News Agency — *WANA News Agency*
+- `11-27 19:36` Iran claims it recovered 2 oil tankers seized by US military - A News — *A News*
 
 ## 🌍 시장 전반
-- `11-27 13:41` Deutsche Bank: Tech Stock Sell-Off Nears Bottom – S&P 500 Projected to Surge 25% to 9000 in 2025, Fed May Hike Interest Rates 3 More Times - 36Kr — *36Kr*
-- `11-27 12:07` S&P 500 Forecast: Tech Selloff May Near End, Index Poised to Rise 25% to Hit 9,000 by 2027 - TradingKey — *TradingKey*
-- `11-27 10:34` Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday - Investor's Business Daily — *Investor's Business Daily*
-- `11-27 09:45` Black Friday Meets a Market Selloff—Will Consumers Keep Spending? - Moomoo — *Moomoo*
-- `11-27 09:02` Stock Markets Today, November 26, 2026: European and Asian Stocks Rally as Tariff Fears Ease - Eurasia Business News — *Eurasia Business News*
-- `11-27 07:49` How Apple Avoided the Stock Market Crash With 31% Gains - BeInCrypto — *BeInCrypto*
-- `11-27 07:20` Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now? - Yahoo Finance — *Yahoo Finance*
-- `11-27 07:00` Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now? - The Motley Fool — *The Motley Fool*
+- `11-27 20:13` Stocks Set to Rally at End of a Week of Wild Swings - The New York Times — *The New York Times*
+- `11-27 20:01` The Anatomy of an AI Rally: Anthropic Stock Quickly Finds Its Place - Barron's — *Barron's*
+- `11-27 19:55` Chinese stocks rally strongly after Beijing signals fresh market support - Plataforma Media — *Plataforma Media*
+- `11-27 19:39` Green Friday: US futures and global stocks jump in a post-Thanksgiving rally - markets.businessinsider.com — *markets.businessinsider.com*
+- `11-27 19:22` Taking Stock: Market snaps 4-week rally; Nifty below 25,650, Sensex sheds 989 pts - TradingView — *TradingView*
+- `11-27 19:19` European Midday Briefing : Sentiment Calms, Stocks Rally as Volatile Week Winds Down - marketscreener.com — *marketscreener.com*
+- `11-27 19:07` Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support - CNBC — *CNBC*
+- `11-27 18:57` Morning in New York: The Focus Is on the U.S. Stock Market's Recovery - Oninvest — *Oninvest*
